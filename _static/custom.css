@@ -1,0 +1,8 @@
+div.body {
+    max-width: 100%;
+    min-width: 10%;
+}
+
+div.body p, div.body dd, div.body li {
+    line-height: 1.5;
+}

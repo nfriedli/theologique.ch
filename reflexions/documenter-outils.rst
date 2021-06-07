@@ -15,7 +15,7 @@ Le débat sur les définitions de la théologie est millénaire. Je n'ai pas voc
 
 La définition d'usage, sur ce site, est:
 
-    La théologie est un outil – ou une boîte à outils – qui permet de comprendre et d’élaborer son rapport au monde, à la transcendance, à son époque, à la société, à autrui et à soi-même.
+    La théologie est un outil – ou une boîte à outils – qui permet de comprendre et d'élaborer son rapport au monde, à la transcendance, à son époque, à la société, à autrui et à soi-même.
 
 
 La documentation technique

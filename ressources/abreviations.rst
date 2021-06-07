@@ -4,6 +4,7 @@ Abréviations utiles
 
 Les abréviations présentées ici sont utiles dans le contexte de la théologie protestante en francophonie.
 Vous les trouverez peut-être dans votre recherche et votre navigation sur le web.
+Voir aussi: :doc:`glossaire`.
 
 .. glossary::
     :sorted:
@@ -19,7 +20,10 @@ Vous les trouverez peut-être dans votre recherche et votre navigation sur le we
     .. Suisse romande
 
     AOT
-        Atelier œcuménique de théologie    
+        Atelier œcuménique de théologie
+    
+    SCT
+        Séminaire de culture théologique (proposé par Cèdres Formation)
 
     CER
         Conférence des Églises romandes
@@ -72,8 +76,18 @@ Vous les trouverez peut-être dans votre recherche et votre navigation sur le we
 
     .. Revues
 
+    ETR
+        Études théologiques et religieuses (revue)
+
+    RHPR
+        Revue d'Histoire et de Philosophie Religieuses
+
     RThPh
         Revue de théologie et de philosophie
 
-    ETR
-        Études théologiques et religieuses (revue)
+    .. Divers
+
+    MOOC
+        *Massive Open Online Course* ou cours ouvert, massif et en ligne.
+        Une formation généralement accessible sans prérequis.
+        Une certification est possible dans certaines cas.
