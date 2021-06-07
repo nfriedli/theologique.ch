@@ -43,7 +43,7 @@ templates_path = ['_templates']
 #
 # This is also used if you do content translation via gettext catalogs.
 # Usually you set "language" from the command line for these cases.
-language = 'fr'
+language = html_search_language = 'fr'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
@@ -60,11 +60,11 @@ html_theme = 'alabaster'
 
 html_theme_options = {
     'logo': 'logo.svg',
-    'description': 'Une documentation théologique par Nicolas Friedli.',
+    'description': 'Une documentation théologique en pleine croissance par Nicolas Friedli.',
     #'show_related': True,
     #'show_relbar_bottom': True,
-    #'font_family': '"Nunito Sans", Nunito, Inter, Roboto, Lato, "Open Sans", sans-serif',
-    #'head_font_family': '"Nunito Sans", Nunito, Inter, Roboto, Lato, "Open Sans", sans-serif',
+    #'font_family': 'Nunito, "Nunito Sans", Roboto, Lato, "Open Sans", sans-serif',
+    #'head_font_family': 'Nunito, "Nunito Sans", Inter, Roboto, Lato, "Open Sans", sans-serif',
     'font_size': '106.25%',
     'analytics_id': 'UA-59198139-3',
     'logo_name': False,
@@ -73,8 +73,8 @@ html_theme_options = {
 html_sidebars = {
     "**": [        
         "about.html",
-        "navigation.html",
         "searchbox.html",
+        "navigation.html",
         # "localtoc.html",
         # "relations.html"
     ]
@@ -84,6 +84,7 @@ html_sidebars = {
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+html_extra_path = ['_dotfiles']
 
 # html_logo = '_images/logo.svg'
 html_title = 'theologique.ch'
