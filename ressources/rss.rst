@@ -11,15 +11,15 @@ Blogs et sites personnels
 
 Par ordre alphabétique du nom:
 
-- `Olivier Bauer <http://olivierbauer.org/feed/>`_ (Une théologie au quotidien)
-- `Gilles Bourquin <http://gillesbourquin.ch/feed/>`_
+- `Olivier Bauer <https://olivierbauer.org/feed/>`_ (Une théologie au quotidien)
+- `Gilles Bourquin <https://gillesbourquin.ch/feed/>`_
 - `Carolina Costa <https://carolina-costa.com/feed>`_
 - `Laure Devaux Allisson <https://lauredevaux.ch/feed/>`_
 - `Noémie Émery <http://pelerine-au-chocolat.blogspot.com/feeds/posts/default>`_ (Pèlerine au chocolat)
 - `Diane Friedli <https://dianefriedli.ch/feed/>`_
 - `Jean-Luc Gadreau <https://artspiin.com/feed/>`_ (ArtSpi'in)
 - `Maurice Gardiol <https://resistanceetouverture.blog.tdg.ch/index.rss>`_ (Résistance et ouverture)
-- `Éric George <http://miettesdetheo.over-blog.com/rss-articles.xml>`_ (Miettes de théologie)
+- `Éric George <https://miettesdetheo.over-blog.com/rss-articles.xml>`_ (Miettes de théologie)
 - `Philippe Golaz <https://philippegolaz.ch/feed/>`_ (Théologiquement vôtre)
 - `Éric Imseng <https://lesdiachroniques.blogspot.com/feeds/posts/default>`_ (Les Diachroniques)
 - `Elio Jaillet <https://eliojaillet.ch/feed/>`_ (Journal d'un théologien vaudois éclectique)
@@ -59,7 +59,7 @@ Théologie et actualité
 - `Église protestante de Genève <https://epg.ch/feed/>`_
 - `Église réformée évangélique du canton de Neuchâtel <https://www.eren.ch/feed/>`_
 - `Église réformée évangélique du Valais <https://erev.ch/feed/>`_
-- `Église évangélique réformée du canton de Vaud <http://eerv.ch/feed/>`_
+- `Église évangélique réformée du canton de Vaud <https://eerv.ch/feed/>`_
 
 
 J'ai quelques autres flux professionnels (sans intérêt pour cette page). Toutefois, je suis disposé à donner la liste des mes abonnements sous forme de fichier OPML.
