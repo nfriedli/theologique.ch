@@ -4,7 +4,7 @@
 
 theologique.ch est un projet personnel, indépendant de toute institution et de tout financement.
 Je ne suis ni payé, ni mandaté pour mon travail.
-J'assume les coûts du site qui vit sans soutien ni publicité.
+J'assume les coûts du site qui vit sans soutien ni publicité; c'est très bien ainsi.
 
 .. _contact:
 
@@ -20,7 +20,7 @@ Le propriétaire du nom de domaine et responsable du site est:
     Rue du Château 3<br>
     2013 Colombier (NE)<br>
     Suisse<br><br>
-    <a href="mailto:nicolas.friedli+clmbr@gmail.com">nicolas.friedli+clmbr@gmail.com</a><br>
+    <a href="mailto:nicolas.friedli+theologique@gmail.com">nicolas.friedli+theologique@gmail.com</a><br>
     <a href="tel:+41328414874">+41 32 841 48 74</a> (urgences uniquement)<br>
     <a href="tel:+41793443382">+41 79 344 33 82</a>  (Threema, Signal, SMS, Telegram, <del>WhatsApp</del>)<br>
     </address>
@@ -32,23 +32,19 @@ Site personnel: `nicolasfriedli.ch <https://nicolasfriedli.ch>`_.
 Licence
 =======
 
-Sauf mention contraire, tous les contenus de ce site sont publiés sous licence `Creative Commons BY`__.
+.. image:: /images/logo.png 
+    :width: 128px
+    :height: 128px
+    :alt: Logo theologique.ch
+    :align: right
 
-__ https://creativecommons.org/licenses/by/3.0/ch/deed.fr
+Le logo de theologique.ch n'est pas libre de droits. Mais vous avez évidemment le droit de l'utiliser pour faire un lien vers ce site.
 
-Vous avez le **droit**:
+Sauf mention contraire, tous les autres contenus de ce site sont publiés sous licence `Creative Commons BY <https://creativecommons.org/licenses/by/3.0/ch/deed.fr>`_.
 
-- de réutiliser ces contenus
-- de les diffuser
-- de les modifier
-- d'en faire usage commercial
+Vous avez le **droit**: de réutiliser ces contenus, de les diffuser , de les modifier ou d'en faire usage commercial.
 
-Vous avez le **devoir**:
-
-- de citer l'auteur initial
-- de proposer un **lien cliquable** vers ce site dans tous vos documents électroniques
-
-Le logo de thelogique.ch n'est pas libre de droits. 
+Vous avez le **devoir**: de citer l'auteur initial et de proposer un lien cliquable vers ce site dans tous vos documents électroniques.
 
 Merci!
 ======
@@ -74,6 +70,8 @@ Pour leurs suggestions, leurs conseils et leur soutien, merci à:
 - Christine Phébade Yana Bekima
 - Marc Pernot <https://jecherchedieu.ch/>
 - Camille Zimmermann-Guerdat
+
+.. _technique:
 
 Technique
 =========
