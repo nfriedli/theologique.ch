@@ -43,28 +43,6 @@ Ces 4 modes se recoupent:
 
 La consultation du site de référence sur le *framework* permet de visionner le tableau croisé qui montre comment elles s'articulent.
 
-Exemple culinaire
------------------
-
-Sur le site de référence, un exemple culinaire est donné. Le voici traduit:
-
-tutoriels
-    Apprendre à un enfant comment cuisiner et
-    lui donner confiance dans ses capacités à réaliser un plat en suivant une démarche précise.
-
-guides *how-to*
-    Donner une recette dans un livre de cuisine et
-    répondre à une question précise (*Comment je cuisine ceci?*).
-
-ressources
-    Proposer une page de connaissance encyclopédique et
-    en apprendre plus sur un ingrédient utilisé.
-
-explications
-    Parler de cuisine dans un contexte sociologique et
-    changer de point de vue sur ses pratiques.
-
-
 Publics cibles ou moments clés
 ------------------------------
 
@@ -74,10 +52,8 @@ Je pense qu'il a vu juste.
 
 La tentation consiste à penser que *certaines personnes* recherchent des tutoriels, d'autres des guides, d'autres de ressources, d'autres des explications.
 
-Alors qu'il faut plutôt imaginer qu'une *même personne* recherche un des 4 types à un moment précis de sa recherche ou de son travail.
+Alors qu'il faut plutôt imaginer qu'une *même personne* consulte un des 4 types à un moment précis de sa recherche ou de son travail.
 Quand elle en a besoin et parce qu'elle en a besoin.
-
-.. _diataxis-site:
 
 Diátaxis pour ce site
 =====================
