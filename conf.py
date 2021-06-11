@@ -60,7 +60,7 @@ html_theme = 'alabaster'
 
 html_theme_options = {
     'logo': 'logo.svg',
-    'description': 'Une documentation théologique en pleine croissance par Nicolas Friedli.',
+    'description': 'Le testament théologique de Nicolas Friedli sous forme de documentation.',
     #'show_related': True,
     #'show_relbar_bottom': True,
     #'font_family': 'Nunito, "Nunito Sans", Roboto, Lato, "Open Sans", sans-serif',
