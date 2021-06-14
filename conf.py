@@ -24,6 +24,7 @@ author = 'Nicolas Friedli'
 # The full version, including alpha/beta/rc tags
 release = '0.0.1'
 
+today_fmt = '%-d %B %Y'
 
 # -- General configuration ---------------------------------------------------
 

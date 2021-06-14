@@ -8,4 +8,6 @@ Ce plan liste toutes les pages du site en conservant leur hiérarchie. Elle perm
     :titlesonly:
 
     Accueil <index>
+    projets/index
+    glossaire
     Plan <self>
