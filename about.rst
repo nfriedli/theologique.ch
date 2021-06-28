@@ -12,8 +12,8 @@ Contact
 Le propriétaire du nom de domaine et responsable du site est:
 
 .. image:: images/nicolas-friedli.jpg
-  :width: 128
-  :height: 128
+  :width: 128px
+  :height: 128px
   :align: right
   :alt: Nicolas Friedli (autoportrait)
 
