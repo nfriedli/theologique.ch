@@ -63,6 +63,12 @@ Mettre à disposition du grand public ma veille protestante sur le web.
 Permettre de trouver des sources non institutionnelles.
 A permis de tester shaarli.
 
+git.theologique.ch
+------------------
+
+Proposer de travailler avec un système de gestion de version dans le domaine des science humaines et de la théologie.
+Rédiger une documentation en utilisant les outils qu'elle documente (*dogfooding*).
+
 Devenir protestant·e?
 ---------------------
 
@@ -120,6 +126,8 @@ Inciter les propriétaires de sites protestants romands à proposer plus de lien
 Ma participation s'est limitée à l'élaboration de la liste initiale. 
 
 https://reseau-protestant.ch/
+
+theologique.ch ne fait pas partie de la liste du *Réseau protestant* car il ne répond pas aux conditions de sa charte.
 
 egxit.ch
 --------
