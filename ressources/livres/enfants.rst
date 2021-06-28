@@ -5,6 +5,9 @@ Livres protestants pour enfants
 Au fil de la vie. Pierrot découvre les fêtes chrétiennes
 ========================================================
 
+:auteur: Armin Kressmann & Amélie Buri
+:éditeur: :term:`OPEC`
+
 Présentation de l'éditeur:
 
     Pierrot est un petit garçon comme il y en a beaucoup, dans une famille comme il y en a beaucoup. Chez ses grands-parents, il parcourt un album photos qui va lui faire découvrir des trésors insoupçonnés: les fêtes qui rythment le temps et l'existence humaine, «au fil de la vie».
@@ -13,6 +16,9 @@ https://www.protestant-edition.ch/collections/catechese/products/au-fil-de-la-vi
 
 Au revoir blaireau
 ==================
+
+:auteur: Susan Vaerly
+:éditeur: Gallimard Jeunesse
 
 Présentation de l'éditeur:
 
@@ -27,6 +33,9 @@ Voir aussi: https://dianefriedli.ch/enfants-ados-mort/
 L'incroyable voyage du lutin-parapluie
 ======================================
 
+:auteur: Laurence Fouchier-Tartar
+:éditeur: :term:`OPEC`
+
 Présentation de l'éditeur:
 
     Le lutin-parapluie part donc à la recherche de son bien le plus précieux et découvre des gens qui connaissent Dieu par des moyens très divers. Peut-on posséder Dieu? Et y a-t-il des chemins meilleurs que d'autres pour le rencontrer?
@@ -35,6 +44,9 @@ https://www.protestant-edition.ch/collections/livres-illustres-enfants/products/
 
 Partir. Le voyage de Rayan et son doudou
 ========================================
+
+:auteur: Amélie Buri
+:éditeur: :term:`OPEC`
 
 Présentation de l'éditeur:
 

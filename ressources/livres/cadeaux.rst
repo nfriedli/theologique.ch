@@ -5,16 +5,21 @@ Livres protestants pour un cadeau
 Anthologie protestante de la poésie française
 =============================================
 
+:auteur: Philippe François
+:éditeur: Labor et Fides
+
 Présentation de l'éditeur:
 
     Cette anthologie est constituée de textes poétiques d'auteurs protestants ou assimilés (Marot, Bèze, Aubigné, Du Bartas, Drelincourt, Peyrat, Siefert, Dadelsen, Eigeldinger, Chessex, etc.) mais aussi de textes sur le protestantisme d'auteurs non protestants (Voltaire, Hugo, Vigny, Pierre Emmanuel, etc.) ainsi que de textes résolument antiprotestants (Ronsard, Baudelaire, Verlaine, Claudel, etc.).
 
 https://www.laboretfides.com/fr_fr/index.php/shop/anthologie-protestante-de-la-poesie-francaise.html
 
-.. index:: Nouis Antoine
 
 Le Nouveau Testament. Commentaire intégral verset par verset
 ============================================================
+
+:auteur: Antoine Nouis
+:éditeur: Olivétan / Salvator
 
 Présentation de l'éditeur:
     
@@ -27,6 +32,9 @@ https://editions-salvator.com/bible/1170-nouveau-testament-commentaire-integral-
 Le Nouveau Testament commenté
 ==================================================================
 
+:auteur: Daniel Marguerat & Camille Focant (direction)
+:éditeur: Labor et Fides
+
 Présentation de l'éditeur:
 
     Que sait-on du Nouveau Testament? Comment aborder chacun des vingt-sept livres qui le composent? Voici le texte intégral du Nouveau Testament, dans la Traduction œcuménique de la Bible (TOB, 11e édition, 2010), accompagné d'un exceptionnel commentaire historique, littéraire et théologique. Pour la première fois en français, les écrits fondateurs du christianisme sont expliqués en un seul volume.
@@ -36,7 +44,9 @@ https://www.laboretfides.com/fr_fr/index.php/le-nouveau-testament-commente-poche
 .. index:: Muller-Colard Marion
 
 L'Autre Dieu. La Plainte, la Menace et la Grâce
-==================================================================
+===============================================
+:auteur: Marion Muller-Colard
+:éditeur: Labor et Fides
 
 Présentation de l'éditeur:
 
@@ -45,11 +55,14 @@ Présentation de l'éditeur:
 https://www.laboretfides.com/fr_fr/index.php/l-autre-dieu.html
 
 une bible «comme un roman»
-==================================================================
+==========================
+
+:auteur: Philippe Lechermeier
+:éditeur: Gautier-Languereau
 
 Présentation de l'éditeur:
 
-    La Bible comme un roman ! La Bible est constituée de centaines d'histoires qui ont façonné nos civilisations. Pour chacun d'entre nous, croyant ou non, connaître ces histoires dans leur richesse est un formidable voyage. Philippe Lechermeier nous y convie ici. En habile conteur et véritable magicien de la langue, il réinvente une forme pour chacune d'elles et recrée ainsi «Une bible» afin que la transmission culturelle s'accomplisse.
+    La Bible comme un roman! La Bible est constituée de centaines d'histoires qui ont façonné nos civilisations. Pour chacun d'entre nous, croyant ou non, connaître ces histoires dans leur richesse est un formidable voyage. Philippe Lechermeier nous y convie ici. En habile conteur et véritable magicien de la langue, il réinvente une forme pour chacune d'elles et recrée ainsi «Une bible» afin que la transmission culturelle s'accomplisse.
 
 https://www.gautier-languereau.fr/livre/une-bible-9782013939119
 
@@ -58,6 +71,9 @@ https://www.gautier-languereau.fr/livre/une-bible-9782013939119
 
 *Œuvres* de Luther
 ==================
+
+:auteur: Martin Luther
+:éditeur: La Pléiade (Gallimard)
 
 Présentation de l'éditeur:
 
@@ -69,6 +85,9 @@ http://www.la-pleiade.fr/Auteur/Martin-Luther
 
 *Œuvres* de Calvin
 ==================
+
+:auteur: Jean Calvin
+:éditeur: La Pléiade (Gallimard)
 
 Présentation de l'éditeur:
 
