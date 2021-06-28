@@ -19,7 +19,7 @@ Par ordre alphabétique du nom:
 - `Diane Friedli <https://dianefriedli.ch/feed/>`_
 - `Jean-Luc Gadreau <https://artspiin.com/feed/>`_ (ArtSpi'in)
 - `Maurice Gardiol <https://resistanceetouverture.blog.tdg.ch/index.rss>`_ (Résistance et ouverture)
-- `Éric George <https://miettesdetheo.over-blog.com/rss-articles.xml>`_ (Miettes de théologie)
+- `Éric George <https://miettesdetheo.over-blog.com/rss>`_ (Miettes de théologie)
 - `Philippe Golaz <https://philippegolaz.ch/feed/>`_ (Théologiquement vôtre)
 - `Éric Imseng <https://lesdiachroniques.blogspot.com/feeds/posts/default>`_ (Les Diachroniques)
 - `Elio Jaillet <https://eliojaillet.ch/feed/>`_ (Journal d'un théologien vaudois éclectique)
