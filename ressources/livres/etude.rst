@@ -50,9 +50,6 @@ Présentation de l'éditeur:
 
 https://www.laboretfides.com/fr_fr/index.php/une-bible-des-femmes.html
 
-
-.. index:: Tillich Paul    
-
 Le Courage d'être
 =================
 
@@ -64,8 +61,6 @@ Présentation de l'éditeur:
     L'enjeu principal du Courage d'être, sauver l'être humain du désespoir, explique la portée considérable de cet ouvrage, l'un des dix livres les plus marquants du XXe siècle en ce qui concerne la reformulation contemporaine du christianisme. L'expérience de guérison et de libération qui en constitue la ligne directrice ne se laisse enfermer dans aucune description exhaustive.
 
 https://www.laboretfides.com/fr_fr/index.php/le-courage-d-etre.html
-
-.. index:: Nouis Antoine
 
 Un catéchisme protestant
 ========================

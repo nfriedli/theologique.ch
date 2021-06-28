@@ -41,8 +41,6 @@ Présentation de l'éditeur:
 
 https://www.laboretfides.com/fr_fr/index.php/le-nouveau-testament-commente-poche.html
 
-.. index:: Muller-Colard Marion
-
 L'Autre Dieu. La Plainte, la Menace et la Grâce
 ===============================================
 :auteur: Marion Muller-Colard
@@ -66,9 +64,6 @@ Présentation de l'éditeur:
 
 https://www.gautier-languereau.fr/livre/une-bible-9782013939119
 
-
-.. index:: Luther Martin
-
 *Œuvres* de Luther
 ==================
 
@@ -81,7 +76,6 @@ Présentation de l'éditeur:
 
 http://www.la-pleiade.fr/Auteur/Martin-Luther
 
-.. index:: Calvin Jean
 
 *Œuvres* de Calvin
 ==================
