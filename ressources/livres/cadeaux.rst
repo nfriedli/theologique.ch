@@ -25,7 +25,7 @@ Présentation de l'éditeur:
     
     Un instrument pédagogique de lecture de la Bible indispensable, au plan pastoral et spirituel.
 
-    L'événement est à marquer d'une pierre blanche : un éditeur protestant, Olivétan, et un éditeur catholique, Salvator, unissent leurs forces pour proposer au public cette édition du Nouveau Testament commentée par Antoine Nouis. À partir du texte intégral du Nouveau Testament dans la traduction de la Nouvelle Bible Segond, de la Société biblique française, le bibliste, pasteur et chroniqueur Antoine Nouis se livre à un commentaire verset par verset du texte biblique.
+    L'événement est à marquer d'une pierre blanche: un éditeur protestant, Olivétan, et un éditeur catholique, Salvator, unissent leurs forces pour proposer au public cette édition du Nouveau Testament commentée par Antoine Nouis. À partir du texte intégral du Nouveau Testament dans la traduction de la Nouvelle Bible Segond, de la Société biblique française, le bibliste, pasteur et chroniqueur Antoine Nouis se livre à un commentaire verset par verset du texte biblique.
 
 https://editions-salvator.com/bible/1170-nouveau-testament-commentaire-integral-verset-par-verset.html
 
@@ -91,6 +91,6 @@ http://www.la-pleiade.fr/Auteur/Martin-Luther
 
 Présentation de l'éditeur:
 
-    Il voyait la vraie sagesse dans une double connaissance : celle de Dieu, celle de soi. Réformateur, théologien, prédicateur, pédagogue, Jean Calvin (1509-1564) participe à la mise en place de structures religieuses, sociales, politiques ou économiques appelées à se développer pendant des siècles. Depuis Genève, son rayonnement s'étend sur l'Europe tout entière. Inventeur d'un art d'écrire qui est une sorte de « rhétorique de la simplicité », il est considéré comme l'un des créateurs de la langue française classique. Derrière la légende – souvent noire –, se cache un individu complexe et un immense écrivain.
+    Il voyait la vraie sagesse dans une double connaissance: celle de Dieu, celle de soi. Réformateur, théologien, prédicateur, pédagogue, Jean Calvin (1509-1564) participe à la mise en place de structures religieuses, sociales, politiques ou économiques appelées à se développer pendant des siècles. Depuis Genève, son rayonnement s'étend sur l'Europe tout entière. Inventeur d'un art d'écrire qui est une sorte de « rhétorique de la simplicité », il est considéré comme l'un des créateurs de la langue française classique. Derrière la légende – souvent noire –, se cache un individu complexe et un immense écrivain.
 
 http://www.la-pleiade.fr/Auteur/Jean-Calvin
