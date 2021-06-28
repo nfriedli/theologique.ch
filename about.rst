@@ -6,8 +6,6 @@ theologique.ch est un projet personnel, indépendant de toute institution et de 
 Je ne suis ni payé, ni mandaté pour mon travail.
 J'assume les coûts du site qui vit sans soutien ni publicité; c'est très bien ainsi.
 
-.. _contact:
-
 Contact
 =======
 
@@ -76,8 +74,6 @@ Pour leurs suggestions, leurs conseils et leur soutien, merci à:
 - Christine Phébade Yana Bekima
 - Marc Pernot <https://jecherchedieu.ch/>
 - Camille Zimmermann-Guerdat
-
-.. _technique:
 
 Technique
 =========
