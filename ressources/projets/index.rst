@@ -1,3 +1,6 @@
+.. meta::
+    :description: Liste des projets développés à titre bénévole dans le domaine de la théologie, du protestantisme, etc.
+
 =======
 Projets
 =======
