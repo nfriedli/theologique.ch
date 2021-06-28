@@ -19,7 +19,7 @@ Poésie
 
 - Christian Bobin, *Noireclaire*, Gallimard, 2015
 - Gabriel Mützenberg, *Poèmes du seuil*, Samizdat, 2003
-- Jean-Pierre Siméon, L*ettre à la femme aimée au sujet de la mort*, Gallimard, 2017
+- Jean-Pierre Siméon, *Lettre à la femme aimée au sujet de la mort*, Gallimard, 2017
 
 Pour enfants / avec ses enfants / sur les enfants
 =================================================
