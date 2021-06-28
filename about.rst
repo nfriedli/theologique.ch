@@ -13,6 +13,12 @@ Contact
 
 Le propriétaire du nom de domaine et responsable du site est:
 
+.. image:: images/nicolas-friedli.jpg
+  :width: 128
+  :height: 128
+  :align: right
+  :alt: Nicolas Friedli (autoportrait)
+
 .. raw:: html
     
     <address>
@@ -32,11 +38,11 @@ Site personnel: `nicolasfriedli.ch <https://nicolasfriedli.ch>`_.
 Licence
 =======
 
-.. image:: /images/logo.png 
+.. image:: /images/logo-512.png 
     :width: 128px
     :height: 128px
-    :alt: Logo theologique.ch
     :align: right
+    :alt: Logo theologique.ch
 
 Le logo de theologique.ch n'est pas libre de droits. Mais vous avez évidemment le droit de l'utiliser pour faire un lien vers ce site.
 
