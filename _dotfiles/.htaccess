@@ -14,4 +14,4 @@ ExpiresByType image/jpeg "access 1 month"
 ExpiresByType image/gif "access 1 month"
 ExpiresByType image/png "access 1 month"
 
-ErrorDocument404 /search/
+ErrorDocument 404 /search/

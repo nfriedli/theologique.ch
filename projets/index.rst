@@ -53,10 +53,6 @@ Proposer une seconde vie à un site de promotion des études en théologie qui a
 Esquisser d'autres manières de créer le contact et de promouvoir les études universitaires en faculté théologie.
 A permis de tester Sphinx et DokuWiki semi-ouvert. 
 
-J'ai arrêté le site quand, après avoir demandé des informations à une faculté, une conseillère aux études m'a répondu:
-
-    La discipline ne se porte pas si mal et beaucoup d'efforts sont fait pour les collégiens et les jeunes dans le cadre universitaire.
-
 parpaillot.ch
 -------------
 
@@ -119,7 +115,6 @@ Réseau protestant
 
 Inciter les propriétaires de sites protestants romands à proposer plus de liens vers d'autres sites du même réseau.
 Ma participation s'est limitée à l'élaboration de la liste initiale. 
-Je regrette l'instrumentalisation actuelle du site.
 
 https://reseau-protestant.ch/
 
