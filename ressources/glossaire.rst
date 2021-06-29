@@ -22,10 +22,6 @@ Voir aussi: :doc:`abreviations`.
         Passage de texte ayant son unité de sens.
         La péricope ne recoupe pas forcément le système de chapitres et versets traditionnel.
 
-    RSS
-        Acronyme de Really Simple Syndication (ou syndication vraiment simple), le meilleur moyen de suivre l'actualité d'un site de manière systématique et automatisée.
-
-
     théologie
         Étymologie. Un discours construit (*logos*) sur Dieu (*theos*).
 

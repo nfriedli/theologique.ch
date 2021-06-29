@@ -87,7 +87,15 @@ Voir aussi: :doc:`glossaire`.
 
     .. Divers
 
+    CMS
+        *Content Management System* ou système de gestion de contenu.
+        Un logiciel qui permet de créer et gérer un site web.
+        Exemples: WordPress, SPIP, Joomla, Drupal, etc.
+
     MOOC
         *Massive Open Online Course* ou cours ouvert, massif et en ligne.
         Une formation généralement accessible sans prérequis.
         Une certification est possible dans certaines cas.
+
+    RSS
+        Acronyme de Really Simple Syndication (ou syndication vraiment simple), le meilleur moyen de suivre l'actualité d'un site de manière systématique et automatisée.
