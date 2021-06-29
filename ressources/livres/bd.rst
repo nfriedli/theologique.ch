@@ -7,6 +7,9 @@ La BD n'est pas un art mineur et n'est pas réservé aux enfants. La preuve!
 Luther
 ======
 
+:auteurs: Olivier Jouvray, Filippo Cenni & Matthieu Arnold
+:éditeur: Glénat
+
 Présentation de l'éditeur:
 
     Envoyé en mission à Rome, il découvre avec stupeur à quel point la ville sainte a été dévoyée et les clercs corrompus par les richesses. Surtout, il réalise que les hommes doivent revenir aux textes originels s'ils veulent trouver le salut et changer leur vision de Dieu.
@@ -16,6 +19,9 @@ Présentation de l'éditeur:
 
 Dieu en personne
 ================
+
+:auteur: Marc-Antoine Mathieu
+:éditeur: Delcourt
 
 Présentation de l'éditeur:
 
@@ -27,12 +33,18 @@ Présentation de l'éditeur:
 Le Décalogue
 ============
 
+:auteur: Frank Giroud
+:éditeur: Glénat
+
 `Le Décalogue dans Wikipédia <https://fr.wikipedia.org/wiki/Le_D%C3%A9calogue_(bande_dessin%C3%A9e)>`_:
 
     Un livre étrange appelé Nahik semble attirer le mauvais sort pour celui qui le détient. Ce livre décrit l'existence d'un nouveau Décalogue religieux qui aurait été dicté par le prophète Mahomet et qui remettrait en cause les fondements mêmes de l'islam, et mettrait un terme aux interprétations les plus violentes du Coran.
 
 Le Troisième Testament
 ======================
+
+:auteurs: Xavier Dorison & Alex Alice
+:éditeur: Glénat
 
 `Le Troisième Testament dans Wikipédia <https://fr.wikipedia.org/wiki/Le_Troisi%C3%A8me_Testament>`_:
 
@@ -41,6 +53,9 @@ Le Troisième Testament
 
 Qumran
 ======
+
+:auteurs: Makyo & Stéphane Gemine
+:éditeur: Glénat
 
 Présentation de l'éditeur:
 
@@ -51,6 +66,9 @@ Présentation de l'éditeur:
 
 La Bible selon le Chat
 ======================
+
+:auteur: Philippe Geluck
+:éditeur: Casterman
 
 [De mémoire, c'est mauvais… À vérifier.]
 

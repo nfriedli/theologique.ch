@@ -4,7 +4,9 @@ Flux RSS protestants
 
 Une sélection de flux RSS protestants auxquels je suis abonné. C'est un point de départ pour se tenir au courant de l'actualité réformée. L'idéal est toujours de créer votre propre liste, sur mesure.
 
-Je suis prêt à découvrir les sites que vous me proposerez. **Je vous invite à partager votre liste de flux RSS sur votre site personnel**, puis à me faire connaître vos propositions que je partagerai ici.
+.. note::
+
+    Je vous invite à partager **votre liste** de flux RSS sur **votre site** personnel, puis à me faire connaître vos propositions que je partagerai volontiers ici.
 
 Blogs et sites personnels
 =========================
@@ -61,12 +63,9 @@ Théologie et actualité
 - `Église réformée évangélique du Valais <https://erev.ch/feed/>`_
 - `Église évangélique réformée du canton de Vaud <https://eerv.ch/feed/>`_
 
-
-J'ai quelques autres flux professionnels (sans intérêt pour cette page). Toutefois, je suis disposé à donner la liste des mes abonnements sous forme de fichier OPML.
-
 -----
 
-Cette page est inspirée, notamment, par `The Return of the 90s Web`__ et `Blogroll`__ de Max Böck. Je vous conseille aussi la lecture de `Why RSS?`__ par Andi Gohr.
+Cette page est inspirée, notamment, par `The Return of the 90s Web`__ et `Blogroll`__ de Max Böck. Voir aussi: `Why RSS?`__ par Andi Gohr.
 
 __ https://mxb.dev/blog/the-return-of-the-90s-web/
 __ https://mxb.dev/blogroll/

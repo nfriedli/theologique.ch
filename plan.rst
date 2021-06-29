@@ -1,3 +1,6 @@
+.. meta::
+    :description: Toutes les pages de theologique.ch présentées de manière hiérarchique.
+
 ============
 Plan du site
 ============
@@ -12,3 +15,4 @@ Elle permet de se faire une idée rapide de  l'organisation des contenus.
     ressources/index
     about
     Plan <self>
+
