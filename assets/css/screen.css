@@ -1,0 +1,59 @@
+:root {
+    color-scheme: dark light;
+    text-wrap: pretty;
+}
+
+html {
+    font-family: ui-sans-serif, system-ui, sans-serif;
+    line-height: 1.5;
+    padding: 1rem;
+}
+
+body {
+    margin: auto;
+    max-width: 100ch;
+}
+
+header, footer, .small {
+    font-size: .875rem;
+}
+
+header {
+    margin-bottom: 2rem;
+}
+
+main {
+    min-height: 50vh;
+}
+
+footer {
+    margin-top: 3rem;
+}
+
+h1 {
+    line-height: 1.2;
+    text-wrap: balance;
+}
+
+li {
+    margin-top: .5rem;
+}
+
+/* Accueil provisoire */
+
+ul.sites {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin: 2rem 0;
+    padding: 0;
+}
+
+.sites li {
+    font-weight: 500;
+    border-radius: .5rem;
+    border: 1px solid;
+    margin:0;
+    padding: .5rem 1rem;
+    list-style-type: none;
+}

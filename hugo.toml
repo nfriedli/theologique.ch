@@ -1,0 +1,46 @@
+baseURL = "https://theologique.ch/"
+title = "theologique.ch"
+
+defaultContentLanguage = "fr"
+languageCode = "fr"
+
+cleanDestinationDir = true
+disableFastRender = true
+enableGitInfo = true
+noBuildLock = true
+removePathAccents = true
+
+copyright = "Creative Commons BY-SA"
+
+disableKinds = [ "404", "robotsTXT", "RSS", "taxonomy", "term" ]
+
+[frontmatter]
+date = ["date", ":git"]
+lastmod = ["lastmod", ":git"]
+
+[markup.goldmark.parser]
+autoHeadingIDType = "github-ascii"
+
+[minify]
+minifyOutput = true
+
+[minify.tdewolff.html]
+keepDefaultAttrVals = false
+keepEndTags = true
+keepQuotes = true
+keepWhitespace = true
+
+[params]
+footer = """Le responsable bénévole de l’annuaire est [Nicolas Friedli](https://nicolasfriedli.ch/). Les sources sont disponibles sur [GitHub](https://github.com/nfriedli/theologique.ch). theologique.ch respecte votre vie privée. Il est servi par un hébergeur écoresponsable. 
+
+Seuls les sites qui disposent de leur propre nom de domaine (ou d'un sous-domaine) sont ajoutés. Les sites des paroisses et des régions ne sont pas référencés. Le nom des responsables de blogs est mis en avant, même quand le blog a un autre titre.
+
+Faites des liens contextuels dans vos publications. Proposez un *blogroll* sur votre blog. Créez une page de sites conseillés.
+"""
+
+[params.author]
+name = "Nicolas Friedli"
+email = "contact+rss@theologique.ch"
+
+[taxonomies]
+tag = "tags"

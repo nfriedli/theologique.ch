@@ -1,0 +1,12 @@
+@page {
+    margin: 2cm;
+}
+
+body > header,
+footer {
+    display: none;
+}
+
+a::after {
+    content: " [" attr(href) "]";
+}

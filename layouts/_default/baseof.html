@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="{{ site.LanguageCode }}">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>{{ .Title }} - {{ site.Title }}</title>
+
+    {{ $screen := resources.Get "css/screen.css" }}
+    <style media="screen">{{ $screen.Content | safeCSS }}</style>
+
+    {{ $print := resources.Get "css/print.css" }}
+    <style media="print">{{ $print.Content | safeCSS }}</style>
+
+    {{/* À réactiver plus tard
+        <link rel="alternate" type="application/rss+xml" href="/index.xml" title="{{ site.Title }}"> 
+    */}}
+
+    <link rel="icon" href="/favicon.ico" sizes="48x48">
+    <link rel="icon" href="/favicon.svg" sizes="any" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    
+    <link rel="canonical" href="{{ .Permalink }}">
+    
+    {{ if .IsHome }}{{ hugo.Generator }}{{ end }}
+
+    <script defer data-domain="theologique.ch" src="https://plausible.io/js/script.js"></script>
+</head>
+
+<body>
+
+    <header>
+        {{ if .IsHome }}{{ site.Title }}
+        {{ else }}<a href="/">{{ site.Title }}</a>
+        {{ end }}
+    </header>
+
+    <main>
+        {{ block "main" . }}{{ end }}
+    </main>
+
+    {{ block "related" . }}{{ end }}
+
+    <footer>
+        {{ site.Params.footer | .RenderString }}
+    </footer>
+
+</body>
+
+</html>

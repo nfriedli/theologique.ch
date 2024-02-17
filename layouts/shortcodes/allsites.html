@@ -1,0 +1,5 @@
+<ul class="sites">
+    {{ range sort site.RegularPages "LinkTitle" }}
+            <li><a href="{{ .Params.site }}" target="_blank" rel="external"{{ if ne .Title .LinkTitle }}title ="{{ .Title }}"{{ end}}>{{ .LinkTitle }}</a> <a href="{{ .RelPermalink }}" title="Permalien vers {{ .Title }}" class="small">#</a></li>
+    {{ end }}
+</ul>
