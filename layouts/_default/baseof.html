@@ -23,7 +23,7 @@
     
     <link rel="canonical" href="{{ .Permalink }}">
     
-    {{ if .IsHome }}{{ hugo.Generator }}{{ end }}
+    {{ if .IsHome }}{{ partial "home" . }}{{ end }}
 
     <script defer data-domain="theologique.ch" src="https://plausible.io/js/script.js"></script>
 </head>

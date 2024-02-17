@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "WebSite",
+    "name": "Annuaire protestant",
+    "alternateName": "theologique.ch",
+    "description": "L'annuaire qui roxe du poney (voire de la licorne). Il propose des sites protestants ou réformés, de Suisse romande ou francophones, personnels ou institutionnels.",
+    "url": "https://theologique.ch/",
+    "image": "/images/index-8302502_1920.jpg",
+    "author": {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Nicolas Friedli",
+        "url": "https://nicolasfriedli.ch/"
+    }
+}
