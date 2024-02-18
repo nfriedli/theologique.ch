@@ -23,8 +23,12 @@
     
     {{ if .IsHome }}{{ partial "home" . }}{{ end }}
 
-    {{ if .Content }}
-        <meta name="description" content="{{ .Summary }}">
+    {{ if .Description }}
+        <meta name="description" content="{{ .Description }}">
+    {{ else }}
+        {{ if  .Content }}
+            <meta name="description" content="{{ .Summary }}">
+        {{ end }}
     {{ end }}
 
     <script defer data-domain="theologique.ch" src="https://plausible.io/js/script.js"></script>
