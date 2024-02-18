@@ -10,7 +10,7 @@ enableGitInfo = true
 noBuildLock = true
 removePathAccents = true
 
-copyright = "Creative Commons BY-SA"
+copyright = "Creative Commons Zero"
 
 disableKinds = [ "404", "robotsTXT", "RSS", "taxonomy", "term" ]
 
@@ -31,9 +31,9 @@ keepQuotes = true
 keepWhitespace = true
 
 [params]
-footer = """Le responsable bénévole de l’annuaire est [Nicolas Friedli](https://nicolasfriedli.ch/). Les sources sont disponibles sur [GitHub](https://github.com/nfriedli/theologique.ch). theologique.ch respecte votre vie privée. Il est servi par un hébergeur écoresponsable. 
+footer = """Le responsable bénévole de l’annuaire est [Nicolas Friedli](https://nicolasfriedli.ch/). Les sources sont disponibles sur [GitHub](https://github.com/nfriedli/theologique.ch). theologique.ch respecte votre vie privée. Il est servi par un hébergeur écoresponsable.
 
-Seuls les sites qui disposent de leur propre nom de domaine (ou d'un sous-domaine) sont ajoutés. Les sites des paroisses et des régions ne sont pas référencés. Le nom des responsables de blogs est mis en avant, même quand le blog a un autre titre.
+Seuls les sites qui disposent de leur propre nom de domaine (ou d'un sous-domaine) sont ajoutés. Les sites des paroisses et des régions ne sont pas référencés. Les propriétaires des sites peuvent demander le retrait de leur site. La description est produite par theologique.ch.
 """
 
 [params.author]
