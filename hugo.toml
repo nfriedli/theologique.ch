@@ -14,6 +14,8 @@ copyright = "Creative Commons Zero"
 
 disableKinds = [ "404", "robotsTXT", "taxonomy", "term" ]
 
+summaryLength = 30
+
 [frontmatter]
 date = ["date", ":git"]
 lastmod = ["lastmod", ":git"]
