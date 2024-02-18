@@ -1,11 +1,11 @@
 <ul class="sites">
     {{ range sort site.RegularPages "RelPermalink" }}
             <li>
-                {{ if .Content }}
+                {{- if .Content -}}
                 <a href="{{ .RelPermalink }}" {{ if ne .Title .LinkTitle }}title ="{{ .Title }}"{{ end}}>{{ .LinkTitle }}</a> 
-                {{ else }}
+                {{- else -}}
                 <a href="{{ .Params.site }}" target="_blank" {{ if ne .Title .LinkTitle }}title ="{{ .Title }}"{{ end}}>{{ .LinkTitle }}</a> 
-                {{ end }}
+                {{- end -}}
             </li>
     {{ end }}
 </ul>
