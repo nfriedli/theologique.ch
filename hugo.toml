@@ -35,9 +35,9 @@ keepWhitespace = true
 [params]
 footer = """Le responsable bénévole de l’annuaire est [Nicolas Friedli](https://nicolasfriedli.ch/). Les sources sont disponibles sur [GitHub](https://github.com/nfriedli/theologique.ch). theologique.ch respecte votre vie privée. Il est servi par un hébergeur écoresponsable.
 
-Il est possible d'avoir des nouvelles du projet de temps en temps par une [newsletter](https://buttondown.email/theologique). Chaque nouveau site publié est visible dans le [flux RSS](/index.xml).
+Il est possible d’avoir des nouvelles du projet de temps en temps par une [newsletter](https://buttondown.email/theologique). Chaque nouveau site publié est visible dans le [flux RSS](/index.xml).
 
-Seuls les sites qui disposent de leur propre nom de domaine (ou d'un sous-domaine) sont ajoutés. Ceux des paroisses et des régions ne sont pas référencés. Les propriétaires peuvent demander le retrait de leur propre site. La description est produite par theologique.ch.
+Seuls les sites qui disposent de leur propre nom de domaine (ou d’un sous-domaine) sont ajoutés. Ceux des paroisses et des régions ne sont pas référencés. Les propriétaires peuvent demander le retrait de leur propre site. La description est produite par theologique.ch.
 """
 
 [params.author]
