@@ -2,11 +2,11 @@
     color-scheme: dark light;
     text-wrap: pretty;
 
-    /* @link https://utopia.fyi/type/calculator?c=320,16,1.125,1240,19,1.333,2,1,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
-    --step--1: clamp(0.8889rem, 0.8882rem + 0.0034vi, 0.8908rem);
-    --step-0: clamp(1rem, 0.9348rem + 0.3261vi, 1.1875rem);
-    --step-1: clamp(1.125rem, 0.9657rem + 0.7964vi, 1.5829rem);
-    --step-2: clamp(1.2656rem, 0.9719rem + 1.4686vi, 2.1101rem);
+    /* @link https://utopia.fyi/type/calculator?c=320,16,1.2,1600,18,1.333,2,1,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
+    --step--1: clamp(0.8333rem, 0.8307rem + 0.0133vi, 0.844rem);
+    --step-0: clamp(1rem, 0.9688rem + 0.1563vi, 1.125rem);
+    --step-1: clamp(1.2rem, 1.1251rem + 0.3745vi, 1.4996rem);
+    --step-2: clamp(1.44rem, 1.3002rem + 0.6988vi, 1.999rem);
 }
 
 html {
