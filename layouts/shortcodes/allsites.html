@@ -4,7 +4,7 @@
                 {{- if .Content -}}
                 <a href="{{ .RelPermalink }}" {{ if ne .Title .LinkTitle }}title ="{{ .Title }}"{{ end}}>{{ .LinkTitle }}</a>
                 {{- else -}}
-                <a href="{{ .Params.site }}" target="_blank" {{ if ne .Title .LinkTitle }}title ="{{ .Title }}"{{ end}}>{{ .LinkTitle }}</a> 
+                <a href="{{ .Params.site }}" target="_blank" {{ if ne .Title .LinkTitle }}title ="{{ .Title }}"{{ end}}>{{ .LinkTitle }}</a>
                 {{- end -}}
             </li>
     {{ end }}
