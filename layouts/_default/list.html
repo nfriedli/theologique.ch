@@ -4,7 +4,7 @@
 
 <ul>
     {{ range sort .Pages ".RelPermalink" }}
-    <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}{{ if ne .LinkTitle .Title }} ({{ .Title }}){{ end }}</a></li>
+    <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
     {{ end }}
 </ul>
 

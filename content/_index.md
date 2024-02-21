@@ -5,13 +5,10 @@ description = "L’annuaire 📇 qui roxe du poney 🐴 (voire de la licorne 
 
 L’annuaire 📇 qui roxe du poney 🐴 (voire de la licorne 🦄). Il propose des sites 💻 protestants ou réformés, de Suisse romande ou francophones, personnels 🧑 ou institutionnels 🏛️. À ce jour, theologique.ch référence {{< nombre >}} 🎉 sites.
 
-Actuellement, les mots-clés sont ajoutés. Il est aussi possible de découvrir la liste de [tous les sites référencés](/sites/).
+{{< allsites >}}
 
-## Catégories
 
-{{< alltags >}}
-
-## Plan de construction du site
+🏗️ **Plan de construction du site:**
 
 - ~~🗺️ ajouter des sites (titre et URL) pour avoir un état des lieux rapide~~
 - ~~⌨️ rédaction d’une description pour chaque site~~

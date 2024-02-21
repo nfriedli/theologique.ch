@@ -6,13 +6,14 @@
 
 <p><a href="{{ .Params.site }}">{{ .Params.site }}</a></p>
 
-
+{{/* 
 <p>Ce site est classé dans:</p>
 <ul>
     {{ range sort (.GetTerms "tags") "Title" "asc" }}
     <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
     {{ end }}
 </ul>
+    */}}
 
 {{ end }}
 

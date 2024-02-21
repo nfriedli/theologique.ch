@@ -12,7 +12,7 @@ removePathAccents = true
 
 copyright = "Creative Commons Zero"
 
-disableKinds = [ "404", "robotsTXT"]
+disableKinds = [ "404", "robotsTXT", "taxonomy", "term" ]
 
 summaryLength = 30
 
