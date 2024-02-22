@@ -6,30 +6,27 @@
 
 <p><a href="{{ .Params.site }}">{{ .Params.site }}</a></p>
 
-{{/* 
+<hr>
 <p>Ce site est classé dans:</p>
 <ul>
     {{ range sort (.GetTerms "tags") "Title" "asc" }}
-    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
     {{ end }}
 </ul>
-    */}}
 
-{{ end }}
-
-{{/* 
-{{ define "related" }}
-{{ $related := .Site.RegularPages.Related . | first 5 }}
+{{/*
+{{ $related := .Site.RegularPages.Related .  }}
 {{ with $related }}
 <aside>
     <p>Ces sites pourraient aussi vous intéresser:</p>
     <ul>
 	{{ range . }}
-        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
 	{{ end }}
     </ul>
 </div>
 </aside>
 {{ end }} 
-{{ end }}
 */}}
+
+{{ end }}
