@@ -54,10 +54,6 @@ toLower = true
 [[related.indices]]
 name = "tags"
 weight = 50
-[[related.indices]]
-name = "keywords"
-weight = 25
 
 [taxonomies]
 tag = "tags"
-keyword = "keywords"
