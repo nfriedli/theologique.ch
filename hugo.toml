@@ -10,6 +10,9 @@ enableGitInfo = true
 noBuildLock = true
 removePathAccents = true
 
+# ne pas ajouter de majuscule aux tags (pour le titre)
+titleCaseStyle = "none" 
+
 copyright = "Creative Commons Zero"
 
 disableKinds = [ "404", "robotsTXT" ]
