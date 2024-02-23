@@ -54,7 +54,7 @@ li {
 
 /* Accueil provisoire */
 
-ul.sites {
+ul.buttons {
     display: flex;
     flex-wrap: wrap;
     gap: 1rem;
@@ -62,12 +62,15 @@ ul.sites {
     padding: 0;
 }
 
-.sites li {
+.buttons li {
     border-radius: 0.5rem;
-    border: 1px solid;
-    font-weight: 500;
-    font-size: var(--step--1);
+    border: 2px solid;
+    font-weight: 600;
     margin: 0;
     padding: 0.5rem 1rem;
     list-style-type: none;
+}
+
+a.site {
+    font-weight: 700;
 }

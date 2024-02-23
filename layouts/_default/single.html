@@ -4,7 +4,9 @@
 {{ .Content }}
 
 
-<p><a href="{{ .Params.site }}">{{ .Params.site }}</a></p>
+<p>
+    <a class="site" href="{{ .Params.site }}" rel="noopener noreferrer" target="_blank">{{ .Params.Site | replaceRE "http[s]?://" "" | replaceRE "/$" "" }}</a>
+</p>
 
 <hr>
 <p>Ce site est classé dans:</p>
