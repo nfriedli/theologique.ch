@@ -38,9 +38,7 @@ keepWhitespace = true
 [params]
 footer = """Proposer un ajout ou une modification: [contact+site@theologique.ch](mailto:contact+site@theologique.ch?subject=Proposition%20de%20site%20pour%20theologique.ch&body=Je%20propose%20d’ajouter%20le%20site%20suivant%3A%0D%0A%0D%0A-%20titre%3A%0D%0A-%20URL%3A%0D%0A-%20description%20(facultative)%3A%0D%0A%0D%0A) 💗
 
-Le responsable bénévole de l’annuaire est [Nicolas Friedli](https://nicolasfriedli.ch/). Les sources sont disponibles sur [GitHub](https://github.com/nfriedli/theologique.ch). theologique.ch respecte votre vie privée. Il est servi par un hébergeur écoresponsable.
-
-Il est possible d’avoir des nouvelles du projet de temps en temps par une [newsletter](https://buttondown.email/theologique). Chaque nouveau site publié est visible dans le [flux RSS](/index.xml).
+Le responsable bénévole de l’annuaire est [Nicolas Friedli](https://nicolasfriedli.ch/). Les sources sont disponibles sur [GitHub](https://github.com/nfriedli/theologique.ch). theologique.ch respecte votre vie privée. Il est servi par un hébergeur écoresponsable. Il est possible d’avoir des nouvelles du projet de temps en temps par une [newsletter](https://buttondown.email/theologique). Chaque nouveau site publié est visible dans le [flux RSS](/index.xml).
 """
 
 [params.author]

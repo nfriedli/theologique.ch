@@ -14,6 +14,7 @@ L’annuaire 📇 qui roxe du poney 🐴 (voire de la licorne 🦄). Il propo
 
 - ~~🗺️ ajouter des sites (titre et URL) pour avoir un état des lieux rapide~~
 - ~~⌨️ rédaction d’une description pour chaque site~~
-- 📇 ajout d’un système de classement (taxonomies) et création de réseaux de pages
+- 📇 ajout d’un système de classement (taxonomies)
+- 🕸️ création de réseaux de pages
 - 🖋️ rédaction d’un commentaire pour certains sites
 - 🔗 faire connaître le site et susciter des liens vers theologique.ch
