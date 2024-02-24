@@ -1,6 +1,5 @@
 +++
-title = "Fondation et éditions Ouverture"
-linkTitle = "Ouverture"
+title = "Éditions Ouverture"
 site = "https://editionsouverture.ch/"
 aliases = ["ouverture"]
 tags = ["livre"]

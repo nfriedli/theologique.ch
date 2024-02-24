@@ -6,14 +6,12 @@ Responsable: https://nicolasfriedli.ch
 
 Compilation: https://gohugo.io/
 
-## TODO
+## 🏗️ **Plan de construction du site:**
 
-- nettoyage des URL avec alias
-- évaluer la pertinence du tri par URL
-- revoir la logique Title vs LinkTitle
-- ~~ajouter des tags (au moins 1 par page)~~
-- rédiger les descriptions des tags
-- ~~afficher les tags sur les pages~~
-- basculer la page d’accueil en tags (plutôt que liste complète)
-- ajouter un lien vers l’ensemble des sites (quand supprimé de l’accueil)
-- ajouter des related dans les pages
+- ~~🗺️ ajouter des sites (titre et URL) pour avoir un état des lieux rapide~~
+- ~~⌨️ rédaction d’une description pour chaque site~~
+- ~~📇 ajout d’un système de classement (taxonomies)~~
+- 🕸️ création de réseaux de pages (*related contents*)
+- 🖋️ rédaction d’un commentaire pour certains sites (ou pas)
+- 🔊 faire connaître le site  
+- 🔗 susciter des liens vers theologique.ch 🙏

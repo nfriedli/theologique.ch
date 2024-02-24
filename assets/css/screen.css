@@ -39,18 +39,23 @@ li {
     margin-top: 0.5rem;
 }
 
-/* Liens vers les sites en gras */
+/* Liens vers les sites externes en gras */
 
-a.site {
+a[rel~="external"] {
     font-weight: 900;
 }
 
 /* Liens accueil */
 
-p.tags {
+.flex {
+    font-size: 1.1rem;
+    font-weight: 500;
+    list-style-type: none;
+    padding: 0;
+}
+
+ul.flex {
     display: flex;
     flex-wrap: wrap;
-    gap: 1rem;
-
-    font-size: 1.2rem;
+    gap: .5rem 1rem;
 }

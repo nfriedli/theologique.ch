@@ -1,6 +1,5 @@
 +++
 title = "Théologeek"
-linkTitle = "Olivier Keshavjee"
 site = "https://www.theologeek.ch/"
 aliases = ["olivier-keshavjee"]
 tags = ["culture", "théologie"]

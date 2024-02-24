@@ -1,6 +1,5 @@
 +++
 title = "Office protestant de la formation"
-linkTitle = "OPF"
 site = "https://www.protestant-formation.ch/"
 tags = ["formation"]
 editor = ["cer"]

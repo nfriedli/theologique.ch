@@ -1,5 +1,5 @@
-<p class="tags">
+<ul class="flex">
 {{ range site.Taxonomies.tags }}
-<a href="{{ .Page.Permalink }}">{{ .Page.LinkTitle }}</a>
+    <li><a href="{{ .Page.Permalink }}">{{ .Page.LinkTitle }}</a></li>
 {{ end }}
-</p>
+</ul>
