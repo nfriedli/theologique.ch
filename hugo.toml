@@ -51,7 +51,13 @@ threshold = 50
 toLower = true
 [[related.indices]]
 name = "tags"
-weight = 50
+weight = 2
+[[related.indices]]
+name = "keywords"
+weight = 1
+[[related.indices]]
+name = "editor"
+weight = 3
 
 [taxonomies]
 tag = "tags"

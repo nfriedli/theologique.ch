@@ -4,7 +4,7 @@
 
 <ul class="buttons">
     {{ range sort .Pages ".RelPermalink" }}
-    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
     {{ end }}
 </ul>
 
