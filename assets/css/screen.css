@@ -1,6 +1,5 @@
 :root {
     color-scheme: dark light;
-    text-wrap: pretty;
 }
 
 html {
@@ -12,7 +11,7 @@ html {
 
 body {
     margin: auto;
-    max-width: 100ch;
+    max-width: 66ch;
 }
 
 header,
@@ -34,7 +33,6 @@ footer {
 
 h1 {
     line-height: 1.1;
-    text-wrap: balance;
 }
 
 li {
@@ -45,4 +43,14 @@ li {
 
 a.site {
     font-weight: 900;
+}
+
+/* Liens accueil */
+
+p.tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+
+    font-size: 1.2rem;
 }

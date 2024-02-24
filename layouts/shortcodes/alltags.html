@@ -1,5 +1,5 @@
-<ul>
-    {{ range site.Taxonomies.tags }}
-            <li><a href="{{ .Page.Permalink }}">{{ .Page.LinkTitle }}</a></li>
-    {{ end }}
-</ul>
+<p class="tags">
+{{ range site.Taxonomies.tags }}
+<a href="{{ .Page.Permalink }}">{{ .Page.LinkTitle }}</a>
+{{ end }}
+</p>
