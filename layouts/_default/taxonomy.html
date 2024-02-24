@@ -2,8 +2,8 @@
 <h1>{{ .Title }}</h1>
 {{ .Content }}
 
-<ul class="buttons">
-    {{ range sort .Pages ".RelPermalink" }}
+<ul>
+    {{ range sort .Pages "Title" }}
     <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
     {{ end }}
 </ul>

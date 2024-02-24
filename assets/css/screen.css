@@ -41,26 +41,6 @@ li {
     margin-top: 0.5rem;
 }
 
-
-/* Accueil provisoire */
-
-ul.buttons {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1rem;
-    margin: 2rem 0;
-    padding: 0;
-}
-
-.buttons li {
-    border-radius: 0.5rem;
-    border: 2px solid;
-    font-weight: 600;
-    margin: 0;
-    padding: 0.5rem 1rem;
-    list-style-type: none;
-}
-
 /* Liens vers les sites en gras */
 
 a.site {
