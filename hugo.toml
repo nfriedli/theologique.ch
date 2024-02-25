@@ -15,7 +15,7 @@ titleCaseStyle = "none"
 
 copyright = "Creative Commons Zero"
 
-disableKinds = [ "404", "robotsTXT" ]
+disableKinds = [ "robotsTXT" ]
 
 summaryLength = 30
 

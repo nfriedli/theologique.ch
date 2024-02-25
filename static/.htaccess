@@ -13,7 +13,7 @@ RewriteCond %{HTTP_HOST} ^www.theologique.ch$ [NC]
 RewriteRule ^(.*)$ https://theologique.ch/$1 [R=301,L]
 
 # 404
-ErrorDocument 404 /
+ErrorDocument 404 /404.html
 
 # https://securityheaders.com/
 Header always set Strict-Transport-Security "max-age=63072000; includeSubDomains; preload"
