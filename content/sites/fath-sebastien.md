@@ -1,5 +1,6 @@
 +++
 title = "Sébastien Fath"
+linkTitle = "Fath, Sébastien"
 site = "http://blogdesebastienfath.hautetfort.com/"
 aliases = ["sebastien-fath"]
 tags = ["histoire", "société"]

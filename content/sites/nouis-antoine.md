@@ -1,5 +1,6 @@
 +++
 title = "Antoine Nouis"
+linkTitle = "Nouis, Antoine"
 site = "https://leblogdantoinenouis.fr/"
 aliases = ["antoine-nouis"]
 tags = ["société"]

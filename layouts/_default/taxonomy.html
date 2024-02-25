@@ -3,7 +3,7 @@
 {{ .Content }}
 
 <ul>
-    {{ range sort .Pages "Title" }}
+    {{ range sort .Pages "LinkTitle" }}
     <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
     {{ end }}
 </ul>

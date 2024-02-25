@@ -1,5 +1,6 @@
 +++
 title = "Les Terreaux"
+linkTitle = "Terreaux (Les)"
 site = "https://terreaux.org/"
 tags = ["culture"]
 keywords = ["vaud"]

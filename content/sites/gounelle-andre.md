@@ -1,5 +1,6 @@
 +++
 title = "André Gounelle"
+linkTitle = "Gounelle, André"
 site = "https://andregounelle.fr/"
 aliases = ["andre-gounelle"]
 tags = ["théologie"]

@@ -1,5 +1,6 @@
 +++
 title = "Diane Friedli"
+linkTitle = "Friedli, Diane"
 site = "https://dianefriedli.ch"
 aliases = ["diane-friedli"]
 tags = ["catéchèse", "prédication"]

@@ -1,5 +1,6 @@
 +++
 title = "L’esprit sainf"
+linkTitle = "Esprit sainf"
 site = "https://www.sainf.ch/"
 aliases = ["sainf"]
 tags = ["culture"]

@@ -1,5 +1,6 @@
 +++
 title = "La Revue réformée"
+linkTitle = "Revue réformée"
 site = "https://larevuereformee.net/"
 tags = ["revue"]
 +++
