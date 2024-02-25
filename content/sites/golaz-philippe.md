@@ -1,7 +1,7 @@
 +++
 title = "Théologiquement Vôtre"
 site = "https://philippegolaz.ch/"
-aliases = ["philippe-golaz"]
+
 tags = ["prédication", "théologie"]
 keywords = ["blog"]
 +++

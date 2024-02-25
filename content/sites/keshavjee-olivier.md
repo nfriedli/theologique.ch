@@ -1,7 +1,7 @@
 +++
 title = "Théologeek"
 site = "https://www.theologeek.ch/"
-aliases = ["olivier-keshavjee"]
+
 tags = ["culture", "théologie"]
 keywords = ["blog", "vaud"]
 editor = ["olivierkeshavjee"]

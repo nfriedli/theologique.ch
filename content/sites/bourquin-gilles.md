@@ -1,7 +1,7 @@
 +++
 title = "Théologie et spiritualité"
 site = "https://gillesbourquin.ch/"
-aliases = ["gilles-bourquin"]
+
 tags = ["prédication", "spiritualité"]
 keywords = ["berne", "blog"]
 +++

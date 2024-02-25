@@ -1,7 +1,7 @@
 +++
 title = "Esprit de liberté"
 site = "https://espritdeliberte.leswoody.net/"
-aliases = ["james-woody"]
+
 tags = ["actualité", "prédication"]
 keywords = ["blog", "france"]
 +++

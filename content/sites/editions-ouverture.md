@@ -1,7 +1,7 @@
 +++
 title = "Éditions Ouverture"
 site = "https://editionsouverture.ch/"
-aliases = ["ouverture"]
+
 tags = ["livre"]
 +++
 

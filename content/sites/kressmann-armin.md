@@ -1,7 +1,7 @@
 +++
 title = "ethikos.ch"
 site = "https://www.ethikos.ch/"
-aliases = ["armin-kressmann"]
+
 tags = ["éthique", "société"]
 keywords = ["blog", "vaud"]
 +++

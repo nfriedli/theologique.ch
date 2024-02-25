@@ -1,7 +1,7 @@
 +++
 title = "Études théologiques et religieuses"
 site = "https://www.revue-etr.org/"
-aliases = ["etr"]
+
 tags = ["revue"]
 +++
 

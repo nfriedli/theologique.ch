@@ -1,7 +1,7 @@
 +++
 title = "Résistance et Ouverture"
 site = "https://gardiol.net/"
-aliases = ["maurice-gardiol"]
+
 tags = ["societe"]
 keywords = ["blog", "geneve"]
 +++

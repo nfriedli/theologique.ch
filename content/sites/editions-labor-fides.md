@@ -1,7 +1,7 @@
 +++
 title = "Labor et Fides"
 site = "https://www.laboretfides.com/"
-aliases = ["labor-fides"]
+
 tags = ["livre"]
 +++
 

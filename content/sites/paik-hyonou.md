@@ -1,7 +1,7 @@
 +++
 title = "Potins divins"
 site = "https://potinsdivins.wordpress.com/"
-aliases = ["hyonou-paik"]
+
 tags = ["prédication"]
 keywords = ["blog", "neuchatel"]
 +++

@@ -2,7 +2,7 @@
 title = "Nicole Rochat"
 linkTitle = "Rochat, Nicole"
 site = "https://nicolerochat.ch/"
-aliases = ["nicole-rochat"]
+
 tags = ["société"]
 +++
 

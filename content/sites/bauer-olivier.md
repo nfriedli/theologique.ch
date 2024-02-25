@@ -1,7 +1,7 @@
 +++
 title = "Une théologie au quotidien"
 site = "https://olivierbauer.org/"
-aliases = ["olivier-bauer"]
+
 tags = ["culture", "formation", "prédication"]
 keywords = ["blog", "vaud"]
 +++

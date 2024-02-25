@@ -2,7 +2,7 @@
 title = "Laure Devaux Allisson"
 linkTitle = "Devaux Allisson, Laure"
 site = "https://lauredevaux.ch/"
-aliases = ["laure-devaux-allisson"]
+
 tags = ["catéchèse", "prédication"]
 keywords = ["berne", "blog"]
 +++
