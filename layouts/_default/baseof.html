@@ -55,8 +55,7 @@
     {{ block "related" . }}{{ end }}
 
     <footer>
-        {{ site.Params.footer | .RenderString }}
-        {{ if eq .Page.Kind "404" }}<p>Désolé du dérangement 🙏</p>{{ end }}
+       {{ partialCached "footer" .}}
     </footer>
 
 </body>
