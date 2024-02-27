@@ -1,7 +1,7 @@
 +++
 title = "Cèdres Formation"
 site = "https://cedresformation.ch/"
-tags = ["formation"]
+tags = ["formation", "spiritualité"]
 editor = ["cedres"]
 keywords = ["vaud"]
 +++
