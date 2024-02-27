@@ -1,5 +1,6 @@
 +++
-title = "Farel, Guillaume"
+title = "Guillaume Farel"
+linkTitle = "Farel, Guillaume"
 site = "https://farel.ch/"
 tags = ["histoire"]
 editor = ["nicolasfriedli"]
