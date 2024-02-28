@@ -3,7 +3,7 @@
 }
 
 html {
-    font-family: ui-sans-serif, Roboto, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji";
+    font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji";
     font-size: clamp(1rem, 0.875rem + 0.25vi, 1.125rem);
     line-height: 1.5;
     padding: 1rem;
