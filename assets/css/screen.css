@@ -1,53 +1,55 @@
+:root {
+    color-scheme: dark light;
+}
+
 html {
-    background: #f5f5f5;
-    color: #333;
-    font-family: ui-sans-serif, Roboto, Arial sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji";
+    font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji";
     font-size: clamp(1rem, 0.875rem + 0.25vi, 1.125rem);
     line-height: 1.5;
     padding: 1rem;
-    text-wrap: pretty;
 }
 
 body {
-    background: #FFF;
-    border: 2px solid;
     margin: auto;
     max-width: 75ch;
 }
 
-body > * {
-    padding: .5rem 1rem;
-}
-
 header,
 footer {
-    background: #fafafa;
     font-size: .875rem;
 }
 
+header {
+    margin-bottom: 2rem;
+}
+
 main {
-    border-bottom: 2px solid;
-    border-top: 2px solid;
     min-height: 50vh;
 }
 
+footer {
+    margin-top: 3rem;
+}
+
 h1 {
-    font-weight: 500;
     line-height: 1.1;
-    text-wrap: balance
 }
 
 li {
     margin-top: 0.5rem;
 }
 
-a {
-    color: inherit;
+/* Liens vers les sites externes en gras */
+
+a[rel~="external"] {
+    font-weight: 900;
 }
 
 /* Liens accueil */
 
 .flex {
+    font-size: 1.1rem;
+    font-weight: 500;
     list-style-type: none;
     padding: 0;
 }
