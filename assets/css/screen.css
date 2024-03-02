@@ -1,9 +1,11 @@
 :root {
+    --fonts: ui-sans-serif, Roboto, Inter, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji";
+
     color-scheme: dark light;
 }
 
 html {
-    font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji";
+    font-family: var(--fonts);
     font-size: clamp(1rem, 0.875rem + 0.25vi, 1.125rem);
     line-height: 1.5;
     padding: 1rem;
