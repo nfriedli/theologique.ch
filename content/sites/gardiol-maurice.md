@@ -1,5 +1,6 @@
 +++
-title = "Résistance et Ouverture"
+title = "Résistance et Ouverture (Maurice Gardiol)"
+linkTitle = "Résistance et Ouverture"
 site = "https://gardiol.net/"
 
 tags = ["societe"]

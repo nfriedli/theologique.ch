@@ -1,5 +1,6 @@
 +++
-title = "Une théologie au quotidien"
+title = "Une théologie au quotidien (Olivier Bauer)"
+linkTitle = "Une théologie au quotidien"
 site = "https://olivierbauer.org/"
 
 tags = ["culture", "formation", "prédication"]

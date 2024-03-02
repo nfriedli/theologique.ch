@@ -1,5 +1,6 @@
 +++
-title = "Journal d’un théologien vaudois éclectique"
+title = "Journal d’un théologien vaudois éclectique (Elio Jaillet)"
+linkTitle = "Journal d’un théologien vaudois éclectique"
 site = "https://eliojaillet.ch/"
 
 tags = ["prédication", "spiritualité", "théologie"]

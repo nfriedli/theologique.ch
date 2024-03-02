@@ -1,5 +1,6 @@
 +++
-title = "Théologeek"
+title = "Théologeek (Olivier Keshavjee)"
+linkTitle = "Théologeek"
 site = "https://www.theologeek.ch/"
 
 tags = ["culture", "théologie"]

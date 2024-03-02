@@ -1,5 +1,6 @@
 +++
-title = "Esprit de liberté"
+title = "Esprit de liberté (James Woody)"
+linkTitle = "Esprit de liberté"
 site = "https://espritdeliberte.leswoody.net/"
 
 tags = ["actualité", "prédication"]

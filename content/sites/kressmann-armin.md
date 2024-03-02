@@ -1,5 +1,6 @@
 +++
-title = "ethikos.ch"
+title = "ethikos.ch (Armin Kressmann)"
+linkTitle = "ethikos.ch"
 site = "https://www.ethikos.ch/"
 
 tags = ["éthique", "société"]

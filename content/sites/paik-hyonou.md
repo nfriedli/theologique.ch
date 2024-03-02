@@ -1,5 +1,6 @@
 +++
-title = "Potins divins"
+title = "Potins divins (Hyonou Paik)"
+linkTitle = "Potins divins"
 site = "https://potinsdivins.wordpress.com/"
 
 tags = ["prédication"]
