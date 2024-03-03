@@ -10,5 +10,3 @@ L’annuaire 📇 qui roxe du poney 🐴 (voire de la licorne 🦄). Il propo
 ----
 
 💡 Une [liste complète des sites](/sites/) est aussi disponible.
-
-----

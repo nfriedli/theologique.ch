@@ -42,9 +42,10 @@ li {
 }
 
 hr {
+
     border: 0;
-    border-top: 2px solid;
-    max-width: 4rem;
+    border-bottom: 2px solid;
+    max-width: 10%;
     margin-left: 0;
 }
 
