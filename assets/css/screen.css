@@ -41,6 +41,13 @@ li {
     margin-top: 0.5rem;
 }
 
+hr {
+    border: 0;
+    border-top: 2px solid;
+    max-width: 4rem;
+    margin-left: 0;
+}
+
 /* Liens vers les sites externes en gras */
 
 a[rel~="external"] {
@@ -50,8 +57,6 @@ a[rel~="external"] {
 /* Liens accueil */
 
 .flex {
-    font-size: 1.1rem;
-    font-weight: 500;
     list-style-type: none;
     padding: 0;
 }
