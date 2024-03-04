@@ -1,5 +1,5 @@
 <ul>
-{{ range site.Taxonomies.tags }}
+{{ range sort site.Taxonomies.tags ".Page.LinkTitle" }}
     <li><a href="{{ .Page.Permalink }}">{{ .Page.LinkTitle }}</a> <small>({{ .Count }})</small></li>
 {{ end }}
 </ul>

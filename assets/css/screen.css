@@ -27,6 +27,7 @@ html {
     font-size: clamp(1rem, 0.875rem + 0.25vi, 1.125rem);
     line-height: 1.5;
     padding: .5rem;
+    text-wrap: pretty;
 }
 
 body {
@@ -56,6 +57,7 @@ main {
 h1 {
     font-size: 1.6rem;
     line-height: 1.1;
+    text-wrap: balance;
 }
 
 li {

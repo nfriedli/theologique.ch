@@ -3,7 +3,7 @@ title = "Résistance et Ouverture (Maurice Gardiol)"
 linkTitle = "Résistance et Ouverture"
 site = "https://gardiol.net/"
 
-tags = ["societe"]
+tags = ["société"]
 keywords = ["blog", "geneve"]
 +++
 
