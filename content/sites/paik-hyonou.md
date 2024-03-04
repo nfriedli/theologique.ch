@@ -3,7 +3,7 @@ title = "Potins divins (Hyonou Paik)"
 linkTitle = "Potins divins"
 site = "https://potinsdivins.wordpress.com/"
 
-tags = ["prédication"]
+tags = ["predication"]
 keywords = ["blog", "neuchatel"]
 +++
 

@@ -3,7 +3,7 @@ title = "Diane Friedli"
 linkTitle = "Friedli, Diane"
 site = "https://dianefriedli.ch"
 
-tags = ["catéchèse", "prédication"]
+tags = ["catéchèse", "predication"]
 keywords = ["blog", "neuchatel"]
 +++
 

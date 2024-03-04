@@ -3,7 +3,7 @@ title = "Théologie et spiritualité (Gilles Bourquin)"
 linkTitle = "Théologie et spiritualité"
 site = "https://gillesbourquin.ch/"
 
-tags = ["prédication", "spiritualité"]
+tags = ["predication", "spiritualité"]
 keywords = ["berne", "blog"]
 +++
 

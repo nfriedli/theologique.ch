@@ -3,7 +3,7 @@ title = "Marc Pernot"
 linkTitle = "Pernot, Marc"
 site = "https://marcpernot.net/"
 
-tags = ["prédication"]
+tags = ["predication"]
 keywords = ["geneve"]
 editors = ["marcpernot"]
 +++

@@ -1,7 +1,7 @@
 +++
 title = "CulteBox"
 site = "https://cultebox.ch/"
-tags = ["outil", "prédication"]
+tags = ["outil", "predication"]
 keywords = ["vaud"]
 +++
 
