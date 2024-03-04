@@ -2,7 +2,7 @@
 title = "Cèdres Formation"
 site = "https://cedresformation.ch/"
 tags = ["formation", "spiritualité"]
-editor = ["cedres"]
+editors = ["cedres"]
 keywords = ["vaud"]
 +++
 
