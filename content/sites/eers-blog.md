@@ -2,7 +2,7 @@
 title = "Blog de l’Église évangélique réformée de Suisse"
 linkTitle = "Église évangélique réformée de Suisse (blog)"
 site = "https://www.evrefblog.ch/fr/"
-tags = ["éthique"]
+tags = ["théologie"]
 editor = ["eers"]
 +++
 

@@ -5,15 +5,17 @@
 
 
 <p>
-    <a href="{{ .Params.site }}" rel="noopener noreferrer external" target="_blank">{{ .Params.Site | replaceRE "http[s]?://" "" | replaceRE "/$" "" }}</a>
+    <strong><a href="{{ .Params.site }}" rel="noopener noreferrer external" target="_blank">{{ .Params.Site | replaceRE "http[s]?://" "" | replaceRE "/$" "" }}</a></strong>
 </p>
 
 <hr>
-<p>Classé dans:
-    {{ range sort (.GetTerms "tags") "Title" "asc" }}
-    <a href="{{ .RelPermalink }}" rel="tag">{{ .LinkTitle }}</a>
-    {{ end }}
-<p>
+<p>Classé dans:</p>
+<ul>
+{{ range sort (.GetTerms "tags") "Title" "asc" }}
+<li><a href="{{ .RelPermalink }}" rel="tag">{{ .LinkTitle }}</a></li>
+{{ end }}
+</ul>
+
 {{ $related := .Site.RegularPages.Related . | first 5 }}
 {{ with $related }}
 <hr>

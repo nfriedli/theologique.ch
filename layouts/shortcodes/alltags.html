@@ -1,4 +1,4 @@
-<ul class="flex">
+<ul>
 {{ range site.Taxonomies.tags }}
     <li><a href="{{ .Page.Permalink }}">{{ .Page.LinkTitle }}</a> <small>({{ .Count }})</small></li>
 {{ end }}
