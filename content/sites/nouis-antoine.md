@@ -3,7 +3,7 @@ title = "Antoine Nouis"
 linkTitle = "Nouis, Antoine"
 site = "https://leblogdantoinenouis.fr/"
 
-tags = ["société"]
+tags = ["societe"]
 keywords = ["blog", "france"]
 +++
 

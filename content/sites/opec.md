@@ -1,7 +1,7 @@
 +++
 title = "Office protestant d’éditions chrétiennes"
 site = "https://www.protestant-edition.ch/"
-tags = ["livre"]
+tags = ["catechese", "livre"]
 editors = ["cer"]
 +++
 

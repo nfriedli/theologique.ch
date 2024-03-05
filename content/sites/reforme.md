@@ -1,7 +1,7 @@
 +++
 title = "Réforme"
 site = "https://www.reforme.net/"
-tags = ["actualité"]
+tags = ["actualite"]
 keywords = ["france", "journal"]
 +++
 

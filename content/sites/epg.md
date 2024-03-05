@@ -1,7 +1,7 @@
 +++
 title = "Église protestante de Genève"
 site = "https://epg.ch/"
-tags = ["Église"]
+tags = ["eglise"]
 keywords = ["geneve"]
 +++
 

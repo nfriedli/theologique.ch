@@ -3,7 +3,7 @@ title = "Sébastien Fath"
 linkTitle = "Fath, Sébastien"
 site = "http://blogdesebastienfath.hautetfort.com/"
 
-tags = ["histoire", "société"]
+tags = ["histoire", "societe"]
 keywords = ["blog", "france"]
 +++
 

@@ -2,7 +2,7 @@
 title = "ethikos.ch (Armin Kressmann)"
 linkTitle = "ethikos.ch"
 site = "https://www.ethikos.ch/"
-tags = ["société", "spiritualité"]
+tags = ["societe", "spiritualite"]
 keywords = ["blog", "vaud"]
 +++
 

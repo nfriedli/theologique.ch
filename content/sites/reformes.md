@@ -1,7 +1,7 @@
 +++
 title = "Réformés.ch"
 site = "https://www.reformes.ch/"
-tags = ["actualité"]
+tags = ["actualite"]
 keywords = ["journal"]
 +++
 

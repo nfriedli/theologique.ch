@@ -1,7 +1,7 @@
 +++
 title = "Société vaudoise de théologie"
 site = "https://svth.ch/"
-tags = ["théologie"]
+tags = ["theologie"]
 keywords = ["vaud"]
 +++
 

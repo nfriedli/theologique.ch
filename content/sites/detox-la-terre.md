@@ -1,7 +1,7 @@
 +++
 title = "Détox’ la Terre"
 site = "https://detoxlaterre.ch/"
-tags = ["société"]
+tags = ["societe"]
 keywords = ["ecologie"]
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = "Église évangélique réformée de Suisse"
 site = "https://www.evref.ch/fr/"
-tags = ["Église"]
+tags = ["eglise"]
 editors = ["eers"]
 +++
 

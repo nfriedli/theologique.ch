@@ -1,7 +1,7 @@
 +++
 title = "Centre œcuménique de catéchèse"
 site = "https://coec.ch/"
-tags = ["catéchèse", "livre"]
+tags = ["catechese", "livre"]
 keywords = ["geneve"]
 +++
 

@@ -3,7 +3,7 @@ title = "Théologiquement Vôtre (Philippe Golaz)"
 linkTitle = "Théologiquement Vôtre"
 site = "https://philippegolaz.ch/"
 
-tags = ["predication", "théologie"]
+tags = ["predication", "theologie"]
 keywords = ["blog"]
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = "Maison bleu ciel"
 site = "https://maisonbleuciel.ch/"
-tags = ["spiritualité"]
+tags = ["spiritualite"]
 keywords = ["geneve"]
 +++
 

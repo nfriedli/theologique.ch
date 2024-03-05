@@ -1,7 +1,7 @@
 +++
 title = "Église évangélique réformée du canton de Vaud"
 site = "https://www.eerv.ch/"
-tags = ["Église"]
+tags = ["eglise"]
 keywords = ["vaud"]
 +++
 

@@ -3,7 +3,7 @@ title = "Aurélie Netz"
 linkTitle = "Netz, Aurélie"
 site = "https://aurelienetz.ch/"
 
-tags = ["culture", "spiritualité"]
+tags = ["culture", "spiritualite"]
 keywords = ["blog", "vaud"]
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = "Open Source Church"
 site = "https://www.open-source.church/"
-tags = ["culture", "société"]
+tags = ["culture", "societe"]
 keywords = ["vaud"]
 editors = ["olivierkeshavjee"]
 +++

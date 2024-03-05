@@ -1,7 +1,7 @@
 +++
 title = "Églises réformées Berne-Jura-Soleure"
 site = "https://www.refbejuso.ch/fr/"
-tags = ["Église"]
+tags = ["eglise"]
 keywords = ["berne", "jura"]
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = "Cèdres Réflexion"
 site = "https://cedresreflexion.ch/"
-tags = ["société", "théologie"]
+tags = ["societe", "theologie"]
 editors = ["cedres"]
 keywords = ["vaud"]
 +++

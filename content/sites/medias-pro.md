@@ -1,7 +1,7 @@
 +++
 title = "Médias-pro"
 site = "https://www.mediaspro.ch/"
-tags = ["actualité"]
+tags = ["actualite"]
 editors = ["cer"]
 +++
 

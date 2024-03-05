@@ -1,7 +1,7 @@
 +++
 title = "Miettes de Carême"
 site = "https://miettesdecareme.blogspot.com/"
-tags = ["predication"]
+tags = ["predication", "spiritualite"]
 keywords = ["poesie"]
 +++
 

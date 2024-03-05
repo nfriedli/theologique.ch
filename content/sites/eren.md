@@ -1,7 +1,7 @@
 +++
 title = "Église réformée évangélique du canton de Neuchâtel"
 site = "https://www.eren.ch/"
-tags = ["Église"]
+tags = ["eglise"]
 keywords = ["neuchatel"]
 +++
 

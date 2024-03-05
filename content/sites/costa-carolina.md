@@ -3,7 +3,7 @@ title = "Carolina Costa"
 linkTitle = "Costa, Carolina"
 site = "https://carolina-costa.com/"
 
-tags = ["spiritualité"]
+tags = ["spiritualite"]
 keywords = ["blog", "geneve"]
 +++
 

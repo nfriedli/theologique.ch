@@ -1,7 +1,7 @@
 +++
 title = "Église réformée du canton du Jura"
 site = "https://www.egliserefju.ch/"
-tags = ["Église"]
+tags = ["eglise"]
 keywords = ["jura"]
 +++
 

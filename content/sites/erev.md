@@ -1,7 +1,7 @@
 +++
 title = "Église réformée évangélique du Valais"
 site = "https://erev.ch/"
-tags = ["Église"]
+tags = ["eglise"]
 keywords = ["valais"]
 +++
 

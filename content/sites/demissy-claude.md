@@ -2,7 +2,7 @@
 title = "Claude ÉcritureS (Claude Demissy)"
 linkTitle = "Claude ÉcritureS"
 site = "https://claude-ecritures.ch/"
-tags = ["spiritualité"]
+tags = ["spiritualite"]
 keywords = ["blog", "vaud"]
 +++
 

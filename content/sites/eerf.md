@@ -1,7 +1,7 @@
 +++
 title = "Église évangélique réformée du canton de Fribourg"
 site = "https://www.ref-fr.ch/"
-tags = ["Église"]
+tags = ["eglise"]
 keywords = ["fribourg"]
 +++
 

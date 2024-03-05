@@ -3,7 +3,7 @@ title = "Théologeek (Olivier Keshavjee)"
 linkTitle = "Théologeek"
 site = "https://www.theologeek.ch/"
 
-tags = ["culture", "théologie"]
+tags = ["culture", "theologie"]
 keywords = ["blog", "vaud"]
 editors = ["olivierkeshavjee"]
 +++

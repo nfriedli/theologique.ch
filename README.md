@@ -4,14 +4,16 @@ Site: https://theologique.ch
 
 Responsable: https://nicolasfriedli.ch
 
-Compilation: https://gohugo.io/
+Compilation: https://gohugo.io/ (version 0.123+)
 
+En savoir plus sur le projet: https://nicolasfriedli.ch/blog/annuaire-protestant/
+ 
 ## 🏗️ **Plan de construction du site:**
 
 - ~~🗺️ ajouter des sites (titre et URL) pour avoir un état des lieux rapide~~
 - ~~⌨️ rédaction d’une description pour chaque site~~
 - ~~📇 ajout d’un système de classement (taxonomies)~~
-- 🕸️ création de réseaux de pages (*related contents*)
+- ~~🕸️ création de réseaux de pages (*related contents*)~~
 - 🖋️ rédaction d’un commentaire pour certains sites (ou pas)
 - 🔊 faire connaître le site  
 - 🔗 susciter des liens vers theologique.ch 🙏

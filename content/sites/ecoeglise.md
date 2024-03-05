@@ -1,7 +1,7 @@
 +++
 title = "ÉcoÉglise"
 site = "https://ecoeglise.ch/"
-tags = ["société"]
+tags = ["societe"]
 keywords = ["ecologie"]
 +++
 
