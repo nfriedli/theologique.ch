@@ -1,5 +1,5 @@
 :root {
-    --fonts: ui-sans-serif, Roboto, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji";
+    --fonts: ui-sans-serif, Roboto, Aptos, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji";
 
     color-scheme: dark light;
 
