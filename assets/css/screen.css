@@ -1,5 +1,5 @@
 :root {
-    --fonts: Rubik, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji";
+    --fonts: ui-sans-serif, Roboto, Aptos, system-ui, sans-serif;
 
     color-scheme: dark light;
 
@@ -56,7 +56,7 @@ main {
 
 h1 {
     font-size: 2rem;
-    line-height: 1.1;
+    line-height: 1.2;
     text-wrap: balance;
 }
 
@@ -71,37 +71,5 @@ hr {
 
 a {
     color: inherit;
-    text-decoration-thickness: .1em;
-}
-
-@font-face {
-    font-display: swap;
-    font-family: "Rubik";
-    font-style: normal;
-    font-weight: 400;
-    src: url("/fonts/rubik-v28-latin-regular.woff2") format("woff2");
-}
-
-@font-face {
-    font-display: swap;
-    font-family: "Rubik";
-    font-style: italic;
-    font-weight: 400;
-    src: url("/fonts/rubik-v28-latin-italic.woff2") format("woff2");
-}
-
-@font-face {
-    font-display: swap;
-    font-family: "Rubik";
-    font-style: normal;
-    font-weight: 700;
-    src: url("/fonts/rubik-v28-latin-700.woff2") format("woff2");
-}
-
-@font-face {
-    font-display: swap;
-    font-family: "Rubik";
-    font-style: italic;
-    font-weight: 700;
-    src: url("/fonts/rubik-v28-latin-700italic.woff2") format("woff2");
+    text-decoration-thickness: .2ch;
 }

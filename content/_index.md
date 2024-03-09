@@ -1,12 +1,12 @@
 +++
 title = "Annuaire protestant"
-description = "L’annuaire 📇 qui roxe du poney 🐴 (voire de la licorne 🦄) et propose des personnels 🧑 ou institutionnels 🏛️ francophones. "
+description = "theologique est un annuaire protestant francophone. Il propose des sites personnels et institutionnels, majoritairement de tendance réformée."
 +++
 
-L’annuaire 📇 qui roxe du poney 🐴 (voire de la licorne 🦄). Il propose des sites 💻 protestants ou réformés, de Suisse romande ou francophones, personnels 🧑 ou institutionnels 🏛️. Toujours en construction 🏗️, theologique.ch référence {{< nombre >}} 🎉 sites classés par catégories:
+theologique est un annuaire protestant francophone. Il propose des sites personnels et institutionnels, majoritairement de tendance réformée. Il référence à ce jour {{< nombre >}} sites classés par catégories:
 
 {{< alltags >}}  
 
 ----
 
-💡 Une [liste complète des sites](/sites/) est aussi disponible.
+Une [liste complète des sites](/sites/) est aussi disponible.
