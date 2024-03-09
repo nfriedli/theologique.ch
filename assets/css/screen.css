@@ -1,5 +1,5 @@
 :root {
-    --fonts: ui-sans-serif, Roboto, Aptos, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji";
+    --fonts: Rubik, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji";
 
     color-scheme: dark light;
 
@@ -11,13 +11,13 @@
 }
 
 @media (prefers-color-scheme: dark) {
-   :root {
+    :root {
         --background: #111;
         --light: #222;
         --page: #333;
         --text: #EEE;
         --border: #666;
-   } 
+    }
 }
 
 html {
@@ -38,7 +38,7 @@ body {
 }
 
 
-body > * {
+body>* {
     padding: .5rem 1rem;
 }
 
@@ -55,7 +55,7 @@ main {
 }
 
 h1 {
-    font-size: 1.6rem;
+    font-size: 2rem;
     line-height: 1.1;
     text-wrap: balance;
 }
@@ -71,4 +71,37 @@ hr {
 
 a {
     color: inherit;
+    text-decoration-thickness: .1em;
+}
+
+@font-face {
+    font-display: swap;
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 400;
+    src: url("/fonts/rubik-v28-latin-regular.woff2") format("woff2");
+}
+
+@font-face {
+    font-display: swap;
+    font-family: "Rubik";
+    font-style: italic;
+    font-weight: 400;
+    src: url("/fonts/rubik-v28-latin-italic.woff2") format("woff2");
+}
+
+@font-face {
+    font-display: swap;
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 700;
+    src: url("/fonts/rubik-v28-latin-700.woff2") format("woff2");
+}
+
+@font-face {
+    font-display: swap;
+    font-family: "Rubik";
+    font-style: italic;
+    font-weight: 700;
+    src: url("/fonts/rubik-v28-latin-700italic.woff2") format("woff2");
 }
