@@ -1,5 +1,5 @@
 :root {
-    --fonts: Inter, system-ui, sans-serif;
+    --fonts: ui-sans-serif, Roboto, Aptos, system-ui, sans-serif;
     
     --background: #EEE;
     --text: #222;
@@ -18,9 +18,7 @@ html {
     background: var(--background);
     color: var(--text);
     font-family: var(--fonts);
-    font-feature-settings: "calt" 1, "dlig" 1, "liga" 1;
     font-size: clamp(1rem, 0.9375rem + 0.3125vi, 1.25rem);
-    font-weight: 450;
     line-height: 1.5;
     padding: 1rem;
     text-wrap: pretty;
@@ -42,13 +40,11 @@ main p {
 header,
 footer {
     font-size: .875rem;
-    font-weight: 400;
     max-width: 50rem;
 }
 
 h1 {
     font-size: clamp(2rem, 1.5rem + 2.5vi, 4rem);
-    font-weight: 650;
     line-height: 1.1;
     text-wrap: balance;
 }
@@ -60,24 +56,4 @@ li {
 a {
     color: inherit;
     text-decoration-thickness: .2ch;
-}
-
-strong {
-    font-weight: 800;
-}
-
-@font-face {
-    font-family: Inter;
-    font-style: normal;
-    font-weight: 100 900;
-    font-display: swap;
-    src: url("/fonts/inter.woff2") format("woff2");
-}
-
-@font-face {
-    font-family: Inter;
-    font-style: italic;
-    font-weight: 100 900;
-    font-display: swap;
-    src: url("/fonts/inter-italic.woff2") format("woff2");
 }
