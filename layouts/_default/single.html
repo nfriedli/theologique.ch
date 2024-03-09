@@ -3,12 +3,10 @@
 
 {{ .Content }}
 
-
 <p>
     <strong><a href="{{ .Params.site }}" rel="noopener noreferrer external" target="_blank">{{ .Params.Site | replaceRE "http[s]?://" "" | replaceRE "/$" "" }}</a></strong>
 </p>
-
-<hr>
+    
 <p>Classé dans:</p>
 <ul>
 {{ range sort (.GetTerms "tags") "Title" "asc" }}
@@ -18,7 +16,6 @@
 
 {{ $related := .Site.RegularPages.Related . | first 5 }}
 {{ with $related }}
-<hr>
 <aside>
     <p>Ceci pourrait aussi vous intéresser:</p>
     <ul>

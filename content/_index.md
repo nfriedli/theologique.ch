@@ -7,6 +7,4 @@ theologique est un annuaire protestant francophone. Il propose des sites personn
 
 {{< alltags >}}  
 
-----
-
 Une [liste complète des sites](/sites/) est aussi disponible.

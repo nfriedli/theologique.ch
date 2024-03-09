@@ -1,22 +1,16 @@
 :root {
-    --fonts: ui-sans-serif, Roboto, Aptos, system-ui, sans-serif;
-
-    color-scheme: dark light;
-
+    --fonts: Inter, sans-serif;
+    
     --background: #EEE;
-    --light: #F8F8F8;
-    --page: #FFF;
     --text: #222;
-    --border: #444;
+    
+    color-scheme: dark light;
 }
 
 @media (prefers-color-scheme: dark) {
     :root {
-        --background: #111;
-        --light: #222;
-        --page: #333;
-        --text: #EEE;
-        --border: #666;
+        --background: #000;
+        --text: #DDD;
     }
 }
 
@@ -24,39 +18,38 @@ html {
     background: var(--background);
     color: var(--text);
     font-family: var(--fonts);
-    font-size: clamp(1rem, 0.875rem + 0.25vi, 1.125rem);
+    font-feature-settings: "calt" 1, "dlig" 1, "liga" 1;
+    font-size: clamp(1rem, 0.9375rem + 0.3125vi, 1.25rem);
+    font-weight: 450;
     line-height: 1.5;
-    padding: .5rem;
+    padding: 1rem;
     text-wrap: pretty;
 }
 
 body {
-    background: var(--page);
-    border: 2px solid var(--border);
-    margin: auto;
     max-width: 75ch;
+    margin: auto;
 }
 
+body> *+* {
+    margin-top: clamp(2rem, 1.2rem + 4vi, 6rem);
+}
 
-body>* {
-    padding: .5rem 1rem;
+main p {
+    margin-top: clamp(1.5rem, 1.2rem + 1.5vi, 3rem);
 }
 
 header,
 footer {
-    background-color: var(--light);
     font-size: .875rem;
-}
-
-main {
-    border-bottom: 2px solid var(--border);
-    border-top: 2px solid var(--border);
-    min-height: 50vh;
+    font-weight: 400;
+    max-width: 50rem;
 }
 
 h1 {
-    font-size: 2rem;
-    line-height: 1.2;
+    font-size: clamp(2rem, 1.5rem + 2.5vi, 4rem);
+    font-weight: 650;
+    line-height: 1.1;
     text-wrap: balance;
 }
 
@@ -64,12 +57,27 @@ li {
     margin-top: 0.5rem;
 }
 
-hr {
-    border: 0;
-    border-bottom: 2px solid var(--border);
-}
-
 a {
     color: inherit;
     text-decoration-thickness: .2ch;
+}
+
+strong {
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 100 900;
+    font-display: swap;
+    src: url("/fonts/inter.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: Inter;
+    font-style: italic;
+    font-weight: 100 900;
+    font-display: swap;
+    src: url("/fonts/inter-italic.woff2") format("woff2");
 }
