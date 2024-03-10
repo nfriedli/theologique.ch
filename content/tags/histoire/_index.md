@@ -1,5 +1,5 @@
 +++
-title = "Histoire du protesatantisme"
+title = "Histoire du protestantisme"
 linkTitle = "histoire"
 +++
 

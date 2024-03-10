@@ -20,13 +20,13 @@ html {
     font-family: var(--fonts);
     font-size: clamp(1rem, 0.9375rem + 0.3125vi, 1.25rem);
     line-height: 1.5;
-    padding: 1rem;
     text-wrap: pretty;
 }
 
 body {
     max-width: 75ch;
     margin: auto;
+    padding: 1rem;
 }
 
 body> *+* {
@@ -40,7 +40,6 @@ main p {
 header,
 footer {
     font-size: .875rem;
-    max-width: 50rem;
 }
 
 h1 {
