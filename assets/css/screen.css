@@ -1,6 +1,4 @@
 :root {
-    --fonts: ui-sans-serif, Roboto, Aptos, system-ui, sans-serif;
-    
     --background: #EEE;
     --text: #222;
     
@@ -17,7 +15,7 @@
 html {
     background: var(--background);
     color: var(--text);
-    font-family: var(--fonts);
+    font-family: system-ui, sans-serif;
     font-size: clamp(1rem, 0.9375rem + 0.3125vi, 1.25rem);
     line-height: 1.5;
     text-wrap: pretty;
