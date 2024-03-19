@@ -3,9 +3,9 @@
     "@type": "WebSite",
     "name": "Annuaire protestant",
     "alternateName": "theologique.ch",
-    "description": "theologique est un annuaire protestant francophone. Il propose des sites personnels et institutionnels, majoritairement de tendance réformée.",
+    "description": "theologique.ch est un annuaire protestant francophone. Il propose des sites personnels et institutionnels, majoritairement de tendance réformée.",
     "url": "https://theologique.ch/",
-    "image": "/images/index-8302502_1920.jpg",
+    "image": "/images/opengraph.jpg",
     "author": {
         "@context": "https://schema.org",
         "@type": "Person",
