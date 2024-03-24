@@ -1,7 +1,7 @@
 :root {
     --background: #EEE;
     --text: #222;
-    
+
     color-scheme: dark light;
 }
 
@@ -27,7 +27,7 @@ body {
     padding: 1rem;
 }
 
-body> *+* {
+body>*+* {
     margin-top: clamp(2rem, 1.2rem + 4vi, 6rem);
 }
 
@@ -41,6 +41,7 @@ footer {
 }
 
 h1 {
+    font-family: BarlowCondensed, system-ui, sans-serif;;
     font-size: clamp(2rem, 1.5rem + 2.5vi, 4rem);
     line-height: 1.1;
     text-wrap: balance;
@@ -53,4 +54,12 @@ li {
 a {
     color: inherit;
     text-decoration-thickness: .2ch;
+}
+
+@font-face {
+    font-display: swap;
+    font-family: BarlowCondensed;
+    font-style: normal;
+    font-weight: 700;
+    src: url("/fonts/barlow-condensed-v12-latin-700.woff2") format("woff2");
 }
