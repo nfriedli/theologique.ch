@@ -4,7 +4,7 @@
 {{ .Content }}
 
 <p>
-    <strong><a href="{{ .Params.site }}" rel="noopener noreferrer external" target="_blank">{{ .Params.Site | replaceRE "http[s]?://" "" | replaceRE "/$" "" }}</a></strong>
+    <strong><a href="{{ .Params.site }}" rel="noopener noreferrer external" target="_blank">{{ .Params.Site | replaceRE "http[s]?://" "" | replaceRE "www." "" | replaceRE "/$" "" }}</a></strong>
 </p>
     
 <p>Classé dans:</p>
