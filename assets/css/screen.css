@@ -3,7 +3,7 @@
 }
 
 html {
-    font-family: ui-monospace, "Roboto Mono", "IBM Plex Mono", "JetBrains Mono", "Geist Mono", Hack, Consolas, Menlo, monospace;
+    font-family: system-ui, sans-serif;
     font-size: clamp(1rem, 0.9688rem + 0.1563vi, 1.125rem);
     line-height: 1.5;
 }
@@ -15,20 +15,16 @@ body {
 }
 
 main {
-    margin: 4rem 0 8rem 0;
+    margin-block: 4rem 8rem;
 }
 
 main p {
     margin-top: 2rem;
 }
 
-strong a {
-    font-weight: 900;
-}
 
 h1 {
     font-size: 1.6rem;
-    font-weight: 900;
     line-height: 1.1;
     text-wrap: balance;
 }
