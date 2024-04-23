@@ -3,7 +3,13 @@
 }
 
 html {
-    font-family: system-ui, sans-serif;
+    font-family: 
+        JetBrains Mono, Hack,           /* geeks */
+        ui-monospace,                   /* Apple */
+        Roboto Mono,                    /* Android (et Linux) */
+        Cascadia Code, Consolas,        /* Windows */
+        system-ui, sans-serif;          /* sinon: sans serif classique */
+    
     font-size: clamp(1rem, 0.9688rem + 0.1563vi, 1.125rem);
     line-height: 1.5;
 }
