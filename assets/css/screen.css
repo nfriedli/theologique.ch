@@ -1,17 +1,13 @@
 :root {
-    color-scheme: dark light;
+    color-scheme: light dark;
 }
 
 html {
-    font-family: 
-        JetBrains Mono, Hack,  Geist Mono,  /* geeks */
-        ui-monospace,                       /* Apple */
-        Roboto Mono,                        /* Linux */
-        Cascadia Code, Consolas,            /* Windows */
-        monospace;                          /* fallback */
-    
+    color: #222;
+    font-family: Inter, system-ui, sans-serif;
     font-size: clamp(1rem, 0.9688rem + 0.1563vi, 1.125rem);
     line-height: 1.5;
+    font-feature-settings: "liga", "calt", "dlig", "ss01", "ss03";
 }
 
 body {
@@ -25,14 +21,22 @@ main {
 }
 
 main p {
-    margin-top: 2rem;
+    margin-block: 1rem;
 }
 
-
-h1 {
-    font-size: 1.6rem;
+h1,
+h2,
+h3 {
     line-height: 1.1;
     text-wrap: balance;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+h2 {
+    font-size: 2rem;
 }
 
 header,
@@ -42,4 +46,20 @@ footer {
 
 li {
     margin-top: .5rem;
+}
+
+@font-face {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 100 900;
+    font-display: optional;
+    src: url("/fonts/inter.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: Inter;
+    font-style: italic;
+    font-weight: 100 900;
+    font-display: optional;
+    src: url("/fonts/inter-italic.woff2") format("woff2");
 }

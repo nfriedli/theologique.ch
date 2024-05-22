@@ -1,10 +1,11 @@
 +++
-title = "Annuaire protestant"
-description = "theologique est un annuaire protestant francophone. Il propose des sites personnels et institutionnels, majoritairement de tendance réformée."
+title = "Un jardin numérique"
 +++
 
-theologique.ch est un annuaire protestant francophone. Il propose des sites personnels et institutionnels, majoritairement de tendance réformée. Il référence à ce jour {{< nombre >}} sites classés par catégories:
+Il est possible qu'un nouveau site pousse ici. 
 
-{{< alltags >}}  
+Il est possible que cette terre reste indéfiniment en jachère.
 
-Une [liste complète des sites](/sites/) est aussi disponible.
+Pour savoir ce que peut être un jardin numérique, je vous conseille l'article [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history).
+
+Pour trouver des sites qui parlent de théologie, je vous conseille de passer par le [Réseau protestant réformé de Suisse romande](https://reseau-protestant.ch/).

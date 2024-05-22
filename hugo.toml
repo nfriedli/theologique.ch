@@ -10,9 +10,6 @@ enableGitInfo = true
 noBuildLock = true
 removePathAccents = true
 
-# ne pas ajouter de majuscule aux tags (pour le titre)
-titleCaseStyle = "none" 
-
 copyright = "Creative Commons Zero"
 
 disableKinds = [ "robotsTXT" ]
@@ -39,20 +36,3 @@ keepWhitespace = true
 [params.author]
 name = "Nicolas Friedli"
 email = "contact+rss@theologique.ch"
-
-[related]
-includeNewer = true
-threshold = 50
-toLower = true
-[[related.indices]]
-name = "tags"
-weight = 80
-[[related.indices]]
-name = "keywords"
-weight = 40
-[[related.indices]]
-name = "editors"
-weight = 100
-
-[taxonomies]
-tag = "tags"
