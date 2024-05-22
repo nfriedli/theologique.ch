@@ -1,5 +1,6 @@
 +++
 title = "Un jardin numérique"
+description = "theologique.ch est actuellement en jachère, mais pourrait devenir un merveilleux jardin numérique."
 +++
 
 Il est possible qu’un nouveau site pousse ici.
