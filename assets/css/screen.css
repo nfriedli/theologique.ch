@@ -3,16 +3,15 @@
 }
 
 html {
-    font-family: Fira Sans, Asap, Rubik, Poppins, ui-sans-serif, Inter, Roboto, system-ui, sans-serif;
-    font-size: clamp(1rem, 0.95rem + 0.25vi, 1.25rem);
+    font-family: system-ui, sans-serif;
+    font-size: clamp(1rem, 0.75rem + 0.625vi, 1.25rem);
     line-height: 1.5;
     text-rendering: optimizeLegibility;
-    text-wrap: pretty
 }
 
 body {
     margin: auto;
-    max-width: 60ch;
+    max-width: 35em;
     padding: 1rem;
 }
 
@@ -26,23 +25,25 @@ main p {
 
 h1,
 h2 {
+    font-size: 1.69rem;
     line-height: 1.1;
     margin-block: 2rem;
+    text-wrap: balance;
 }
 
-h1 {
-    font-size: 2.2rem;
-}
-
+/*
 h2 {
-    font-size: 1.7rem
+    font-size: 1.3rem
 }
+*/
 
 header,
 footer {
     font-size: .875rem;
 }
 
+/*
 li {
     margin-top: .5rem;
 }
+*/
