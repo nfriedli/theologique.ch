@@ -1,16 +1,16 @@
 :root {
-    color-scheme: light dark;
+    color-scheme: dark light;
 }
 
 html {
     font-family: ui-sans-serif, system-ui, sans-serif;
-    font-size: clamp(1rem, 0.9688rem + 0.1563vi, 1.125rem);
+    font-size: clamp(1rem, 0.95rem + 0.25vi, 1.25rem);
     line-height: 1.5;
 }
 
 body {
     margin: auto;
-    max-width: 75ch;
+    max-width: 60ch;
     padding: 1rem;
 }
 
@@ -19,21 +19,21 @@ main {
 }
 
 main p {
-    margin-block: 2rem;
+    margin-block: 1rem;
 }
 
 h1,
 h2 {
     line-height: 1.1;
-    text-wrap: balance;
+    margin-block: 2rem;
 }
 
 h1 {
-    font-size: 2em;
+    font-size: 1.69em;
 }
 
 h2 {
-    font-size: 1.41rem;
+    font-size: 1.3rem
 }
 
 header,
