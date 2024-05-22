@@ -3,7 +3,7 @@
 }
 
 html {
-    font-family: ui-sans-serif, system-ui, sans-serif;
+    font-family: Fira Sans, Asap, Rubik, Poppins, ui-sans-serif, Inter, Roboto, system-ui, sans-serif;
     font-size: clamp(1rem, 0.95rem + 0.25vi, 1.25rem);
     line-height: 1.5;
 }
