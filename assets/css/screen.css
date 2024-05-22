@@ -3,11 +3,9 @@
 }
 
 html {
-    color: #222;
-    font-family: Inter, system-ui, sans-serif;
+    font-family: sans-serif;
     font-size: clamp(1rem, 0.9688rem + 0.1563vi, 1.125rem);
     line-height: 1.5;
-    font-feature-settings: "liga", "calt", "dlig", "ss01", "ss03";
 }
 
 body {
@@ -21,22 +19,21 @@ main {
 }
 
 main p {
-    margin-block: 1rem;
+    margin-block: 2rem;
 }
 
 h1,
-h2,
-h3 {
+h2 {
     line-height: 1.1;
     text-wrap: balance;
 }
 
 h1 {
-    font-size: 3em;
+    font-size: 2em;
 }
 
 h2 {
-    font-size: 2rem;
+    font-size: 1.41rem;
 }
 
 header,
@@ -46,20 +43,4 @@ footer {
 
 li {
     margin-top: .5rem;
-}
-
-@font-face {
-    font-family: Inter;
-    font-style: normal;
-    font-weight: 100 900;
-    font-display: optional;
-    src: url("/fonts/inter.woff2") format("woff2");
-}
-
-@font-face {
-    font-family: Inter;
-    font-style: italic;
-    font-weight: 100 900;
-    font-display: optional;
-    src: url("/fonts/inter-italic.woff2") format("woff2");
 }
