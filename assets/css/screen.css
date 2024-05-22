@@ -3,7 +3,7 @@
 }
 
 html {
-    font-family: sans-serif;
+    font-family: ui-sans-serif, system-ui, sans-serif;
     font-size: clamp(1rem, 0.9688rem + 0.1563vi, 1.125rem);
     line-height: 1.5;
 }
