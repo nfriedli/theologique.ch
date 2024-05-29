@@ -2,8 +2,7 @@
 title = "Guillaume Farel"
 +++
 
-Guillaume Farel est né à Gap en 1489. Il est un des principaux artisans
-de la Réforme en Suisse romande. Il est mort à Neuchâtel en 1565.
+Guillaume Farel est né à Gap en 1489. Il est un des principaux artisans de la Réforme en Suisse romande. Il est mort à Neuchâtel en 1565.
 
 J’avais pris ces quelques notes à l’occasion des 450 ans de sa mort
 

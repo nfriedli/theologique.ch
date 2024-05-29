@@ -2,29 +2,17 @@
 title = "Principes protestants"
 +++
 
-Toutes les dénominations issues de la Réformation se retrouvent sur un
-certain nombre de lignes directrices. Avec des nuances, ces 7 principes
-sont communs à tous les courants de la tradition protestante.
+Toutes les dénominations issues de la Réformation se retrouvent sur un certain nombre de lignes directrices. Avec des nuances, ces 7 principes sont communs à tous les courants de la tradition protestante.
 
-FIXME Cette page reprend des anciennes notes, non reformulées. Je sais
-que j’aurai besoin de pouvoir faire référence à ces principes et poste
-ce brouillon ici.
+Cette page reprend des anciennes notes, non reformulées. Je sais que j’aurai besoin de pouvoir faire référence à ces principes et poste ce brouillon ici.
 
-## Les 5 principes exprimés en «seul»
+## Les 5 principes exprimés en «seul»
 
-Élaborés à l’époque de la Réforme protestante du XVIe siècle initiée par
-Martin Luther, ces 5 principes marquent un contraste avec la religion du
-temps. L’affirmation répétée de «seul·e» exprime toujours une opposition
-à un principe ou un dogme catholique. Voir aussi: [*Cinq
-solas* sur Wikipédia](https://fr.wikipedia.org/wiki/Sola_gratia).
+Élaborés à l’époque de la Réforme protestante du XVIe siècle initiée par Martin Luther, ces 5 principes marquent un contraste avec la religion du temps. L’affirmation répétée de «seul·e» exprime toujours une opposition à un principe ou un dogme catholique. Voir aussi: [*Cinq solas* sur Wikipédia](https://fr.wikipedia.org/wiki/Sola_gratia).
 
 ### La grâce seule
 
-C’est la réponse à la question: *comment être sauvé·e?* Seul Dieu est
-capable de «sauver les âmes», par son seul choix et sa seule grâce.
-*Sola gratia* porte sur les conditions du salut. C’est à mes yeux le
-principe le plus important du protestantisme. Voir aussi: [*Sola
-gratia* sur Wikipédia](https://fr.wikipedia.org/wiki/Sola_gratia).
+C’est la réponse à la question: *comment être sauvé·e?* Seul Dieu est capable de «sauver les âmes», par son seul choix et sa seule grâce. *Sola gratia* porte sur les conditions du salut. C’est à mes yeux le principe le plus important du protestantisme. Voir aussi: [*Sola gratia* sur Wikipédia](https://fr.wikipedia.org/wiki/Sola_gratia).
 
 ### La foi seule
 
@@ -42,9 +30,9 @@ C’est la réponse à la question: *vers qui se tourner?* Les croyantes et croy
 
 C’est la réponse à la question: *quelle est la source?* L’Écriture est l’autorité théologique ultime dans le protestantisme. Dans les témoignages humains relatés par la Bible se trouve la Parole de Dieu, qui doit être toujours interprétée. *Sola scriptura* porte sur la référence théologique à laquelle se fier. Voir aussi: [*Sola scriptura* sur Wikipédia](https://fr.wikipedia.org/wiki/Sola_scriptura).
 
-## Les 2 autres principes
+## Les 2 autres principes
 
-Si ces 2 principes ne suivent pas la formulation en «seul», ils sont des marqueurs du protestantisme dès sa naissance au XVIe siècle.
+Si ces 2 principes ne suivent pas la formulation en «seul», ils sont des marqueurs du protestantisme dès sa naissance au XVIe siècle.
 
 ### Le sacerdoce universel
 

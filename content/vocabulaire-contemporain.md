@@ -32,7 +32,7 @@ Tous ces temps où l’on choisit de prendre du temps pour soi, pour réfléchir
 
 ## Rites de passage
 
-Le protestantisme administre 2 **sacrements**: le baptême et la sainte cène. Pourtant, d’autres moments clés de l’existence sont aussi proposés sans être des sacrements: la confirmation, le mariage ou le service funèbre.
+Le protestantisme administre **2 sacrements**: le baptême et la sainte cène. Pourtant, d’autres moments clés de l’existence sont aussi proposés sans être des sacrements: la confirmation, le mariage ou le service funèbre.
 
 Ne pourrait-on pas appeler l’ensemble de ces étapes importantes des **rites de passage**?
 
@@ -40,5 +40,18 @@ Sans compter que les cultes de **bénédiction** se multiplient, à se demander 
 
 ----
 
-Je suis preneur de toutes vos propositions de formulations, soit
-pour d’autres actions, soit avec un autre vocabulaire.
+Je suis preneur de toutes vos propositions de formulations, soit pour d’autres actions, soit avec un autre vocabulaire.
+
+----
+
+## Commentaires reçus
+
+Jean-Christophe Emery:
+
+> Tout élément de vocabulaire est porteur de représentations. Dans le cas présent, le langage est symptomatique d'un clivage entre les initiés qui se reconnaissent par l'usage de certaines expressions et les béotiens à qui ces mêmes expressions semblent étranges. La crainte d'une sécularisation du langage est parfois présente à l'interne. De l'extérieur, elles constituent des codes, pas toujours compris, qui délimitent un périmètre «intouchable». Une désappropriation. Changer les mots est une opération lourde de sens.
+
+Elio Jaillet:
+
+> Formation continue me plaît pas mal, à lier au terme «initiation» je pense. Pour rejoindre Jean-Christophe, en changeant les mots, tu changes aussi l'autorité qui régule la thématique. Les thématiques sortent du giron de la théologie pour se lier à d'autres disciplines. On peut le voir comme un gain (pas de théologie hors de la dynamique interdisciplinaire) ou comme un danger (seule la théologie dispose des compétences pour réguler l'activité ecclésiale). La deuxième option me semble une fumisterie — mais elle reste encore très présente. À moins qu'on l'interprète dans un sens radical, qui coupe l'herbe sous les pieds de ceux qui font de la théologie une chasse gardée: seule la Parole vivante de Dieu oriente légitimement l'Eglise (Cf. Barth).
+
+
