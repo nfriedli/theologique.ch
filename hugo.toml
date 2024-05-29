@@ -10,7 +10,7 @@ enableGitInfo = true
 noBuildLock = true
 removePathAccents = true
 
-copyright = "Creative Commons Zero"
+copyright = "Creative Commons BY-SA"
 
 disableKinds = [ "robotsTXT", "taxonomy", "term" ]
 
