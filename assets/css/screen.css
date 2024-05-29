@@ -3,15 +3,15 @@
 }
 
 html {
-    font-family: system-ui, sans-serif;
-    font-size: clamp(1rem, 0.75rem + 0.625vi, 1.25rem);
+    font-family: Inter, system-ui, sans-serif;
+    font-size: clamp(1rem, 0.9565rem + 0.2174vi, 1.125rem);
     line-height: 1.5;
     text-rendering: optimizeLegibility;
 }
 
 body {
     margin: auto;
-    max-width: 35em;
+    max-width: 66ch;
     padding: 1rem;
 }
 
@@ -24,26 +24,30 @@ main p {
 }
 
 h1,
-h2 {
-    font-size: 1.69rem;
-    line-height: 1.1;
+h2, 
+h3 {
+    line-height: 1.2;
     margin-block: 2rem;
     text-wrap: balance;
 }
 
-/*
+h1 {
+    font-size: 2.2rem
+}
+
 h2 {
+    font-size: 1.7rem
+}
+
+h3 {
     font-size: 1.3rem
 }
-*/
 
 header,
 footer {
     font-size: .875rem;
 }
 
-/*
 li {
     margin-top: .5rem;
 }
-*/
