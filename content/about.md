@@ -13,7 +13,7 @@ Toutes les autres ressources du site proviennent du nom de domaine *theologique.
 
 ## Technique
 
-Le site est généré par [Hugo](https://gohugo.io/). Ses sources du site sont disponibles dans [GitHub](https://github.com/nfriedli/theologique.ch).
+Le site est généré par [Hugo](https://gohugo.io/). Ses sources sont disponibles dans [GitHub](https://github.com/nfriedli/theologique.ch).
 
 Pour theologique.ch, j’utilise Hugo comme un wiki. Autrement dit, je crée tous les liens à la main, en reformulant parfois leur titre.
 

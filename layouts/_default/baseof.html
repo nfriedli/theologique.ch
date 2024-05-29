@@ -32,7 +32,7 @@
 
     <script defer data-domain="theologique.ch" src="https://plausible.io/js/script.outbound-links.js"></script>
 
-    <meta property="og:image" content="{{ absURL "/images/opengraph.jpg" }}" >
+    {{ partial "opengraph.html" . }}
 
     {{ block "head" . }}{{ end }}
 </head>
