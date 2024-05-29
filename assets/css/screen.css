@@ -3,9 +3,10 @@
 }
 
 html {
-    font-family: Inter, system-ui, sans-serif;
+    font-family: ui-sans-serif, Inter, Roboto, system-ui, sans-serif;
     font-size: clamp(1rem, 0.9565rem + 0.2174vi, 1.125rem);
     line-height: 1.5;
+    text-rendering: optimizeLegibility;
 }
 
 body {
@@ -23,16 +24,13 @@ main p {
 }
 
 h1,
-h2, 
+h2,
 h3 {
-    line-height: 1.2;
-    margin-block: 2rem;
-    text-wrap: balance;
-}
-
-h1 {
     font-size: 2rem;
-
+    letter-spacing: -.01em;
+    line-height: 1.2;
+    margin-block: 2rem 1rem;
+    text-wrap: balance;
 }
 
 h2 {
@@ -49,5 +47,10 @@ footer {
 }
 
 li {
-    margin-top: .5rem;
+    margin-block: .5rem;
+}
+
+hr {
+    border: 0;
+    border-top: 2px solid;
 }
