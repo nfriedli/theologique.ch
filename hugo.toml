@@ -33,6 +33,7 @@ keepQuotes = true
 keepWhitespace = true
 
 [params]
+images = ["/images/opengraph.jpg"]
 [params.author]
 name = "Nicolas Friedli"
 email = "contact+rss@theologique.ch"
