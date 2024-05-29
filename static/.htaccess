@@ -15,6 +15,12 @@ RewriteRule ^(.*)$ https://theologique.ch/$1 [R=301,L]
 # 404
 ErrorDocument 404 /404.html
 
+# Scories de DokuWiki / WordPress
+
+RedirectPermanent   /start          /
+RedirectPermanent   /feed.php       /index.xml
+RedirectPermanent   /feed/          /index.xml
+
 # https://securityheaders.com/
 Header always set Strict-Transport-Security "max-age=63072000; includeSubDomains; preload"
 Header always set X-Content-Type-Options "nosniff"
