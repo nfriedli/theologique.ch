@@ -4,14 +4,14 @@
 
 
 html {
-    font-family: system-ui, sans-serif;
+    font-family: Fira Sans, ui-sans-serif, Inter, Roboto, system-ui, sans-serif;
     font-size: clamp(1rem, 0.9565rem + 0.2174vi, 1.125rem);
     line-height: 1.5;
 }
 
 body {
     margin: auto;
-    max-width: 35rem;
+    max-width: 70ch;
     padding: 1rem;
 }
 
