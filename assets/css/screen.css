@@ -2,16 +2,16 @@
     color-scheme: dark light;
 }
 
+
 html {
-    font-family: ui-sans-serif, Inter, Roboto, system-ui, sans-serif;
+    font-family: system-ui, sans-serif;
     font-size: clamp(1rem, 0.9565rem + 0.2174vi, 1.125rem);
     line-height: 1.5;
-    text-rendering: optimizeLegibility;
 }
 
 body {
     margin: auto;
-    max-width: 66ch;
+    max-width: 35rem;
     padding: 1rem;
 }
 
@@ -27,7 +27,6 @@ h1,
 h2,
 h3 {
     font-size: 2rem;
-    letter-spacing: -.01em;
     line-height: 1.2;
     margin-block: 2rem 1rem;
     text-wrap: balance;

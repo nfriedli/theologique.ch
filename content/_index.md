@@ -6,8 +6,10 @@ Il est possible qu’un nouveau site pousse ici. Il est aussi possible que cette
 
 ## Références
 
-- [Sites protestants réformés](/liens/) (sélection de sites publiés dans l’ancien annuaire 📇)
-- [La mort en chansons](/mort-chansons/) (avec playlist Spotify 🎉)
+- [Sites protestants réformés](/liens/)  
+  (sélection de sites publiés dans l’ancien annuaire 📇)
+- [La mort en chansons](/mort-chansons/)  
+  (avec playlist Spotify 🎉)
 - [Livres pour aborder la mort et le deuil](/mort-livres/)
 - [Églises ouvertes de Suisse romande](/eglises-ouvertes/)
 - [Trouver une prédication protestante en ligne](/predication/)
