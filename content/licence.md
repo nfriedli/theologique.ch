@@ -1,5 +1,5 @@
 +++
-title = "Choix d’une licence pour ses contenus"
+title = "Licence d'utilisation des contenus"
 +++
 
 Les conditions de réutilisation des contenus de ce domaine sont claires. Mais tout n’est pas aussi évident dans la production théologique mise en ligne au quotidien.
