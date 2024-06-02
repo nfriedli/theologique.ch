@@ -18,6 +18,7 @@ Il est possible qu’un nouveau site pousse ici. Il est aussi possible que cette
 
 ## Réflexions
 
+- [La théologie comme outil: documentation et méthode](/theologie-outil/)
 - [Protestantisme et vocabulaire contemporain](/vocabulaire-contemporain/)
 - ~~[Le choix d’un outil conditionne notre manière de penser](https://web.archive.org/web/20240527194101/https://theologique.ch/choix-outil)~~
 - ~~[Notes de bas de page, web & théologie](https://web.archive.org/web/20240527194115/https://theologique.ch/footnote)~~
