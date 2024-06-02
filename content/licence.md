@@ -47,4 +47,4 @@ Quand des équipes écrivent en groupe des séquences de catéchisme, qui en est
 
 Lorsqu’une prière écrite par un·e ministre est régulièrement utilisée en Église, dans différents groupes, peut-on considérer qu’elle devient un [bien commun](https://fr.wikipedia.org/wiki/Bien_commun)?
 
-N’étant pas juriste, je n’ai pas de réponses toutes faites. Mais j’ai la conviction qu’**il est urgent de discuter sérieusement de tous ces enjeux**. Nous parlerons peut-être alors de l’absence de traduction libre de droits datant de moins d’un siècle en français!
+N’étant pas juriste, je n’ai pas de réponses toutes faites. Mais j’ai la conviction qu’**il est urgent de discuter sérieusement de tous ces enjeux**. Nous parlerons peut-être alors de l’absence de traduction libre de droits de la Bible, en français, datant de moins d’un siècle!
