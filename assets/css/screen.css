@@ -4,7 +4,7 @@
 
 
 html {
-    font-family: system-ui, sans-serif;
+    font-family: Fira Sans, Archivo, Roboto, Inter, system-ui, sans-serif;
     font-optical-sizing: auto;
     font-size: clamp(1rem, 0.9565rem + 0.2174vi, 1.125rem);
     line-height: 1.5;
@@ -53,4 +53,9 @@ li {
 hr {
     border: 0;
     border-top: 2px solid;
+}
+
+a {
+    text-decoration-thickness: .2ch;
+    text-underline-offset: .2ch;
 }

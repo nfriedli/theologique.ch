@@ -1,10 +1,10 @@
 +++
-title = "Un jardin numérique"
+title = "Un jardin numérique 💐"
 +++
 
 Il est possible qu’un nouveau site pousse ici. Il est aussi possible que cette terre reste indéfiniment en jachère.
 
-## Références
+## Références 🗃️
 
 - [Sites protestants réformés](/liens/)  
   (sélection de sites publiés dans l’ancien annuaire 📇)
@@ -16,11 +16,11 @@ Il est possible qu’un nouveau site pousse ici. Il est aussi possible que cette
 - [Principes protestants](/principes-protestants/)
 - [Notes sur Guillaume Farel](/guillaume-farel/)
 
-## Réflexions
+## Réflexions 🧠
 
 - [La théologie comme outil: documentation et méthode](/theologie-outil/)
 - [Protestantisme et vocabulaire contemporain](/vocabulaire-contemporain/)
 - ~~[Le choix d’un outil conditionne notre manière de penser](https://web.archive.org/web/20240527194101/https://theologique.ch/choix-outil)~~
 - ~~[Notes de bas de page, web & théologie](https://web.archive.org/web/20240527194115/https://theologique.ch/footnote)~~
 
-Pour imaginer ce que pourrait être un jardin numérique 💐, je vous conseille l’article [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history) par Maggie Appleton.
+Pour imaginer ce que pourrait être un jardin numérique, je vous conseille l’article [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history) par Maggie Appleton.
