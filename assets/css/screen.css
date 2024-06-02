@@ -4,7 +4,8 @@
 
 
 html {
-    font-family: Fira Sans, ui-sans-serif, Inter, Roboto, system-ui, sans-serif;
+    font-family: Rubik, ui-sans-serif, Inter, system-ui, sans-serif;
+    font-optical-sizing: auto;
     font-size: clamp(1rem, 0.9565rem + 0.2174vi, 1.125rem);
     line-height: 1.5;
 }
@@ -22,7 +23,7 @@ main {
 main p {
     margin-block: 1rem;
 }
-
+h
 h1,
 h2,
 h3 {
@@ -52,4 +53,36 @@ li {
 hr {
     border: 0;
     border-top: 2px solid;
+}
+
+@font-face {
+    font-display: swap;
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 400;
+    src: url("/fonts/rubik-v28-latin-regular.woff2") format("woff2");
+}
+
+@font-face {
+    font-display: swap;
+    font-family: "Rubik";
+    font-style: italic;
+    font-weight: 400;
+    src: url("/fonts/rubik-v28-latin-italic.woff2") format("woff2");
+}
+
+@font-face {
+    font-display: swap;
+    font-family: "Rubik";
+    font-style: normal;
+    font-weight: 700;
+    src: url("/fonts/rubik-v28-latin-700.woff2") format("woff2");
+}
+
+@font-face {
+    font-display: swap;
+    font-family: "Rubik";
+    font-style: italic;
+    font-weight: 700;
+    src: url("/fonts/rubik-v28-latin-700italic.woff2") format("woff2");
 }
