@@ -53,11 +53,11 @@ Ou se cache le [Babbel](https://fr.wikipedia.org/wiki/Babbel) de la théologie p
 
 ## Publics cibles
 
-Mon impression est que toutes **ces théologienne et théologiens ne sont jamais considérés comme un public cible en capacité d'apprendre et d'élaborer par ses propres moyens**. C'est paradoxal en contexte réformé, mais une médiation est toujours nécessaire. Celle d'un organisme de formation, celle d'un·e pasteur·e, celle de la catéchèse, etc.
+Mon impression est que **ces théologiennes et théologiens ne sont jamais considérés comme un public cible en capacité d'apprendre et d'élaborer par ses propres moyens**. C'est paradoxal en contexte réformé, mais une médiation semble nécessaire. Celle d'un organisme de formation, celle d'un·e pasteur·e, celle de la catéchèse, etc.
 
-Que l'on soit clair, je n'ai rien contre tous les dispositifs mis à disposition. Je mesure simplement tout ce que je n'aurais pas pu apprendre dans le domaine du web si toutes ces documentations techniques n'avaient pas existé. Et tout ce que j'apprends aujourd'hui encore.
+Que l'on soit clair, je n'ai rien contre tous les dispositifs mis à disposition. Je mesure simplement tout ce que je n'aurais pas pu apprendre dans le domaine du web si des documentations techniques n'avaient pas existé. Et tout ce que j'apprends aujourd'hui encore.
 
-Il m'est inconcevable que la même attente, probablement non explicite, n'existe pas en théologie. Le succès de [Je cherche Dieu](https://jecherchedieu.ch/) le confirme tous les jours. Cet excellent site n'est pas une méthode; il vise d'autres publics, déjà en recherche, déjà sur la première marche.
+Il m'est inconcevable que la même attente — peut-être pas explicite —, n'existe pas en théologie. Le succès de [Je cherche Dieu](https://jecherchedieu.ch/) le confirme un besoin, tous les jours. Mais cet excellent site n'est pas une méthode; il vise d'autres publics, déjà en recherche, déjà sur la première marche.
 
 ----
 
