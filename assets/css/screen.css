@@ -1,12 +1,18 @@
 :root {
     color-scheme: dark light;
+
+    /* @link https://utopia.fyi/type/calculator?c=480,16,1.125,1280,18,1.25,3,1,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
+    --step--1: clamp(0.8889rem, 0.8822rem + 0.0222vi, 0.9rem);
+    --step-0: clamp(1rem, 0.925rem + 0.25vi, 1.125rem);
+    --step-1: clamp(1.125rem, 0.9563rem + 0.5625vi, 1.4063rem);
+    --step-2: clamp(1.2656rem, 0.9703rem + 0.9844vi, 1.7578rem);
+    --step-3: clamp(1.4238rem, 0.9598rem + 1.5469vi, 2.1973rem);
 }
 
 
 html {
-    font-family: Fira Sans, Archivo, Roboto, Inter, system-ui, sans-serif;
-    font-optical-sizing: auto;
-    font-size: clamp(1rem, 0.9565rem + 0.2174vi, 1.125rem);
+    font-family: ui-sans-serif, Inter, Roboto, system-ui, sans-serif;
+    font-size: var(--step-0);    
     line-height: 1.5;
 }
 
@@ -27,23 +33,27 @@ main p {
 h1,
 h2,
 h3 {
-    font-size: 2rem;
-    line-height: 1.2;
-    margin-block: 2rem 1rem;
+    line-height: 1;
+    margin-block: 3rem 1rem;
     text-wrap: balance;
 }
 
+h1 {
+    font-size: var(--step-3);
+    margin-bottom: 2rem;
+}
+
 h2 {
-    font-size: 1.6rem;
+    font-size: var(--step-2);
 }
 
 h3 {
-    font-size: 1.2rem
+    font-size: var(--step-1);
 }
 
 header,
 footer {
-    font-size: .875rem;
+    font-size: var(--step--1);
 }
 
 li {
