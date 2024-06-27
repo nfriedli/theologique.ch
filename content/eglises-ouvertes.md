@@ -32,7 +32,10 @@ Chaque lieu renvoie à un lien vers son site officiel ou sa fiche Google Maps (o
 ## Canton de Neuchâtel
 
 - [Temple d’Auvernier (Milvignes)](https://www.eren.ch/barc/batiments/temple-auvernier/), aussi sur [Google Maps](https://goo.gl/maps/9Ps8VEAMCm8UYMyi8)
+- [Chapelle de Bémont (La Brévine)](https://maps.app.goo.gl/iRS6fE7s9YmemceR8)
 - [Temple de Bôle (Milvignes)](https://www.eren.ch/barc/batiments/temple-de-bole/), aussi sur [Google Maps](https://goo.gl/maps/LRJUxafhPUtXfCdy7)
+- [Temple de La Brévine](https://maps.app.goo.gl/iRS6fE7s9YmemceR8)
+- [Temple de La Chaux-du-Milieu](https://maps.app.goo.gl/KWT1C4JUkkWBETAk9)
 - [Temple de Colombier (Milvignes)](https://www.eren.ch/barc/batiments/temple-de-colombier/), aussi sur [Google Maps](https://goo.gl/maps/3KSuvNTqXsdSFmnc9)
 - [Collégiale de Neuchâtel](https://www.eren.ch/neuchatel/culture/patrimoine-architectural/collegiale/), aussi sur [Google Maps](https://goo.gl/maps/AaW6UsQMm5XD74wn9)
 - [Chapelle de l’Ermitage à Neuchâtel](https://www.eren.ch/neuchatel/culture/patrimoine-architectural/chapelle-ermitage/), aussi sur [Google Maps](https://goo.gl/maps/TD4XHCxYnDtBT43Q7)
