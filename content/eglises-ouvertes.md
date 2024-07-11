@@ -55,7 +55,7 @@ Je n’ajoute que des lieux dont les horaires sont disponibles en ligne! Au beso
 - [Temple Saint-Martin de Bursins](https://goo.gl/maps/vZHeggbBcopqZNwg9)
 - [Temple Saint-Donat à Château-d’Œx](https://www.chateau-doex.ch/fr/P7243/le-temple-de-chateau-d-oex)
 - [Église de La Chiésaz](https://www.eerv.ch/region/riviera-pays-denhaut/blonay-saint-legier/pratique/vous-cherchez/a-reserver-leglise)
-- [Église de Corcelles-le-Joran](https://maps.app.goo.gl/AcnAfYFvHhGJFuG2A)
+- [Église de Corcelles-le-Jorat](https://maps.app.goo.gl/AcnAfYFvHhGJFuG2A)
 - [Temple de Corsier](https://goo.gl/maps/vaiPpzvPnW2rXnoE9)
 - [Temple des Croisettes à Épalinges](https://goo.gl/maps/PYuPeJHwiAaj22rQ7)
 - [Temple de l’Étivaz (Château-d’Œx)](https://www.chateau-doex.ch/fr/P9999/l-eglise-de-l-etivaz)
