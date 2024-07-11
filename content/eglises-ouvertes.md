@@ -81,4 +81,5 @@ Au besoin, demandez-moi une modification d’une fiche Google Maps.
 - [Chapelle de Ropraz](https://maps.app.goo.gl/yBTtFFq82xF1DpLm9)
 - [Église Sainte-Marie-Madeleine à Rossinière](https://www.alpesvaudoises.ch/fr/service-providers/ET-SERVICEPROVIDER-9998)
 - [Église Saint-Nicolas de Myre à Rougemont](https://www.alpesvaudoises.ch/fr/service-providers/ET-SERVICEPROVIDER-9747)
+- [Ẽ́glise Sainte-Claire à Vevey](https://sainteclairevevey.wordpress.com/)
 - [Temple Saint-Paul à Villeneuve](https://goo.gl/maps/4y76RSx4Z15U8aLS9)
