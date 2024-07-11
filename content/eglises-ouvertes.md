@@ -74,6 +74,8 @@ Au besoin, demandez-moi une modification d’une fiche Google Maps.
 - [Église Notre-Dame à Nyon](https://goo.gl/maps/s4ucyTMVkY75YsrC6)
 - [Église Notre-Dame à Orbe](https://goo.gl/maps/s4ucyTMVkY75YsrC6)
 - [Abbatiale de Payerne](https://www.abbatiale-payerne.ch/) (payant), aussi sur [Google Maps](https://maps.app.goo.gl/11tNE5ZvUz3QmTsS9)
+- [Église de Chamblandes à Pully](https://maps.app.goo.gl/V3SnNMSkv447LM9D9)
+- [Église de Chantemerle à Pully](https://maps.app.goo.gl/MD8yatfBidCwaPgU6)
 - [Église du Prieuré à Pully](https://maps.app.goo.gl/VqVK7hanx5hWp7Qg7)
 - [Abbatiale de Romainmôtier (Romainmôtier-Envy)](https://www.yverdonlesbainsregion.ch/fr/P650/abbatiale-de-romainmotier), aussi sur [Google Maps](https://goo.gl/maps/R6ybkhDWEVD5YLkYA)
 - [Chapelle de Ropraz](https://maps.app.goo.gl/yBTtFFq82xF1DpLm9)
