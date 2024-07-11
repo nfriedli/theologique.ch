@@ -2,7 +2,7 @@
 title = "Églises ouvertes de Suisse romande"
 +++
 
-Présentation systématique de toutes les églises protestantes réformées ouvertes en Suisse romande. Une «église ouverte» est un bâtiment qu’il est possible de visiter librement et gratuitement, hors de toute manifestation cultuelle ou culturelle.
+Présentation systématique de toutes les églises protestantes réformées ouvertes en Suisse romande. Une «église ouverte» est un bâtiment qu’il est possible de visiter librement (et souvent gratuitement), hors de toute manifestation cultuelle ou culturelle.
 
 **Chaque lieu renvoie à un lien vers son site officiel ou sa fiche Google Maps (ou les deux).Il vaut toujours la peine de vérifier les horaires d’ouverture avant un déplacement.**
 
@@ -24,6 +24,10 @@ Je n’ajoute que des lieux dont les horaires sont disponibles en ligne! Au beso
 - [Temple de Sornetan (Petit-Val)](https://visitedeglise.ch/lieux/lieux-par-region/jura/247-sornetan-temple)
 - [Temple de Tramelan](https://visitedeglise.ch/lieux/lieux-par-region/jura/271-tramelan-temple)
 - [Temple de Villeret](https://visitedeglise.ch/lieux/lieux-par-region/jura/271-tramelan-temple)
+
+## Canton de Genève
+
+- [Cathédrale Saint-Pierre à Genève](https://www.cathedrale-geneve.ch/), aussi sur [Google Maps](https://maps.app.goo.gl/48oNgLR1JBiTodF68)
 
 ## Canton du Jura
 
