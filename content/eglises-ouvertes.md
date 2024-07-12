@@ -5,11 +5,13 @@ title = "Églises ouvertes de Suisse romande"
 Présentation systématique de toutes les églises protestantes réformées ouvertes en Suisse romande.
 Une «église ouverte» est un bâtiment qu’il est possible de visiter librement (et souvent gratuitement), hors de toute manifestation cultuelle ou culturelle.
 
-**Chaque lieu renvoie à un lien vers son site officiel ou sa fiche Google Maps (ou les deux).
+**Chaque lieu renvoie à un lien vers son site officiel ou sa fiche Google Maps, parfois les deux.
 Il vaut toujours la peine de vérifier les horaires d’ouverture avant un déplacement.**
 
 Je n’ajoute que des lieux dont les horaires sont disponibles en ligne!
 Au besoin, demandez-moi une modification d’une fiche Google Maps.
+
+Le nom de la commune est précisé entre parenthèses quand il est différent de celui de la localité.
 
 ## Canton de Berne
 
@@ -81,5 +83,5 @@ Au besoin, demandez-moi une modification d’une fiche Google Maps.
 - [Chapelle de Ropraz](https://maps.app.goo.gl/yBTtFFq82xF1DpLm9)
 - [Église Sainte-Marie-Madeleine à Rossinière](https://www.alpesvaudoises.ch/fr/service-providers/ET-SERVICEPROVIDER-9998)
 - [Église Saint-Nicolas de Myre à Rougemont](https://www.alpesvaudoises.ch/fr/service-providers/ET-SERVICEPROVIDER-9747)
-- [Ẽ́glise Sainte-Claire à Vevey](https://sainteclairevevey.wordpress.com/)
+- [Église Sainte-Claire à Vevey](https://sainteclairevevey.wordpress.com/)
 - [Temple Saint-Paul à Villeneuve](https://goo.gl/maps/4y76RSx4Z15U8aLS9)
