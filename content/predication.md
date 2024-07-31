@@ -18,7 +18,7 @@ Le site [celebrer.ch](https://www.celebrer.ch/) publie chaque semaine un culte d
 - [Elio Jaillet](https://eliojaillet.ch/category/predication/) est docteur en théologie et pasteur stagiaire dans l’Église évangélique réformée du canton de Vaud
 - [Marc Pernot](http://marcpernot.net/) est pasteur dans la paroisse de Cologny-Vandœuvres-Choulex (Genève)
 - [Jean-Marie Thévoz](http://clamans.hautetfort.com/) est pasteur retraité de l’Église évangélique réformée du canton de Vaud (publication d’archives)
-- [James Woody](https://espritdeliberte.leswoody.net/category/predication/) est pasteur de l’Église protestante unie de France à Montpellier
+- [James Woody](https://espritdeliberte.leswoody.net/category/predication/) est pasteur de l’Église protestante unie de France à Auteuil
 
 ## Berne (RefBeJuSo)
 

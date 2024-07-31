@@ -61,6 +61,7 @@ li {
 hr {
     border: 0;
     border-top: 2px solid;
+    margin-block: 2rem;
 }
 
 a {
