@@ -36,9 +36,13 @@ theologique.ch est donc publié par Nicolas Friedli. Il est créé à titre bén
 
 ## Vie privée
 
-Toutes les ressources du site proviennent du nom de domaine theologique.ch. Les données ne fuitent pas ailleurs. theologique.ch n’utilise pas de système statistiques.
+À l’exception des statistiques, toutes les ressources du site proviennent du nom de domaine theologique.ch.
+Les données ne fuitent pas ailleurs.
 
-*Il me paraît intéressant de respecter vraiment la vie privée des internautes. En particulier d’éviter que d’autres prestataires puissent avoir des indices sur les croyances des personnes. Je pense en à des personnes qui se trouvent dans des pays où la liberté de croyances est remise en question.*
+theologique.ch utilise des statistiques respectueuses.
+Tout est expliqué dans [Plausible Analytics Privacy Policy](https://plausible.io/privacy) et [Plausible: GDPR, CCPA and cookie law compliant site analytics](https://plausible.io/data-policy).
+
+*Il me paraît intéressant de respecter vraiment la vie privée des internautes. En particulier d’éviter que d’autres prestataires puissent avoir des indices sur les croyances des personnes. Je pense en à celles et ceux qui se trouvent dans des pays où la liberté de croyances est remise en question.*
 
 ## Abonnement
 
