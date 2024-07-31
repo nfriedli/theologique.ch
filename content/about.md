@@ -1,18 +1,18 @@
 +++
-title = "À propos de ce site"
+title = "À propos de ce site"
 +++
 
 Je réunis sur une page toutes les informations que j’estime importantes pour comprendre ce qu’est theologique.ch. On y trouve une bonne partie de ce qui est normalement dans les [slash pages](https://slashpages.net/).
 
 ## Contact
 
-Mon contact par mail est disponible en bas de chaque page. Merci de le privilégier pour un premier contact.
+Mon contact est disponible en bas de chaque page. Merci de **privilégier le mail** pour un premier contact.
 
 Mes coordonnées complètes sont:
 
-Nicolas Friedli  
-Rue du Château 3  
-2013 Colombier (NE)  
+Nicolas Friedli  
+Rue du Château 3  
+2013 Colombier (NE)  
 Suisse
 
 +41 32 841 48 74 (urgences uniquement)  
