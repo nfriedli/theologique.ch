@@ -80,7 +80,7 @@ Les sites personnels sont ceux que je considère comme les plus importants pour 
 
 - [Musée virtuel du protestantisme](https://museeprotestant.org/)
 - [Musée international de la Réforme](https://www.musee-reforme.ch/)
-- [Musée du Désert](https://www.museedudesert.com/)
+- [Musée du Désert](https://www.museedudesert.com/index.php)
 - [Société de l’histoire du protestantisme français](https://www.shpf.fr/)
 - [Visite d’église](https://visitedeglise.ch/)
 
@@ -102,7 +102,7 @@ Les sites personnels sont ceux que je considère comme les plus importants pour 
 - [Église réformée du canton du Jura](https://www.egliserefju.ch/)
 - [Église réformée évangélique du canton de Neuchâtel](https://www.eren.ch/) (EREN)
 - [Église réformée évangélique du Valais](https://erev.ch/) (EREV)
-- [Église évangélique réformée du canton de Vaud](https://www.eerv.ch/) (EERV)
+- [Église évangélique réformée du canton de Vaud](https://www.eerv.ch/accueil) (EERV)
 - [Conférence des Églises réformées de langue française en Suisse alémanique](https://cerfsa.ch/) (CERFSA)
 - [Conférence des Églises protestantes des pays latins d’Europe](https://cepple.eu/) (CEPPLE)
 
@@ -115,7 +115,7 @@ Les sites personnels sont ceux que je considère comme les plus importants pour 
 ## À classer
 
 - [Festival Battement Réformé](https://battement.ch/) (BREF)
-- [Compagnie La Marelle](https://www.compagnielamarelle.ch/)
+- [Compagnie La Marelle](https://compagnielamarelle.ch/)
 
 ----
 

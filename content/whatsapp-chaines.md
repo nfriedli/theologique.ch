@@ -8,9 +8,9 @@ Les groupes, dans lesquels chaque membre peut voir tous les numéros de téléph
 
 Pour le moment, j’ai:
 
-- Église réformée vaudoise - EERV: [https://whatsapp.com/channel/0029VaMJ810CMY0Khk2ILa1U](https://whatsapp.com/channel/0029VaMJ810CMY0Khk2ILa1U)
-- 📻👩🏻⛪ radio Diane (Diane Friedli): [https://whatsapp.com/channel/0029VagIACrCnA7qiPRQVz2H](https://whatsapp.com/channel/0029VagIACrCnA7qiPRQVz2H)
+- Église réformée vaudoise - EERV: https://www.whatsapp.com/channel/0029VaMJ810CMY0Khk2ILa1U
+- 📻👩🏻⛪ radio Diane (Diane Friedli): https://www.whatsapp.com/channel/0029VagIACrCnA7qiPRQVz2H
 
 Sur Telegram, j’ai:
 
-- Carolina Costa - Voie chrétienne de l’Amour: [https://t.me/pasteurecarolinacosta](https://t.me/pasteurecarolinacosta)
+- Carolina Costa - Voie chrétienne de l’Amour: https://t.me/pasteurecarolinacosta

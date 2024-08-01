@@ -22,7 +22,7 @@ Le site [celebrer.ch](https://www.celebrer.ch/) publie chaque semaine un culte d
 
 ## Berne (RefBeJuSo)
 
-- [Erguël](https://referguel.ch)
+- [Erguël](https://referguel.ch/accueil/)
 
 ## Fribourg (EERF)
 
@@ -45,7 +45,7 @@ Le site [celebrer.ch](https://www.celebrer.ch/) publie chaque semaine un culte d
 ## Vaud (EERV)
 
 - [Blonay-St-Légier](https://www.eerv.ch/region/riviera-pays-denhaut/blonay-saint-legier/activites/nos-predications)
-- [Jorat](https://www.eerv.ch/region/la-broye/jorat/activites/cultes-et-spiritualite/predications-des-cultes)
+- [Jorat](https://www.eerv.ch/region/la-broye/jorat/activites/spiritualite/toutes-les-predications)
 - [Église Martin Luther King](https://www.eerv.ch/activites-cantonales/eglise-martin-luther-king-lausanne/activites/predications/)
 - [Oron-Palézieux](https://www.eerv.ch/region/la-broye/oron-palezieux/activites/celebrations/predications-des-cultes)
 - [Prilly-Jouxtens](https://www.eerv.ch/region/les-chamberonnes/prilly-jouxtens/pratique/meditations-et-predications)

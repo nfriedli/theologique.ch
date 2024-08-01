@@ -27,7 +27,7 @@ Esquisse d’une bibliographie classée autour de la thématique de la mort.
 - Florence Auvergne-Abric et Jean-Charles Rochat, *Les Théopopettes: La mort, c’est pour longtemps?*, OPEC/Olivétan, 2017
 - Élise Cairus, *L’accompagnement spirituel des naissances difficiles*, Salvator, 2019
 - Anne-Dauphine Julliand, *Deux petits pas sur le sable mouillé*, Les Arènes, 2011
-- Alix Noble, *Les cahiers d’Alix*, 3 cahiers sur la mort à commander sur [son site web](http://www.alixraconte.ch)
+- Alix Noble, *Les cahiers d’Alix*, 3 cahiers sur la mort à commander sur [son site web](https://alixraconte.ch/)
 - Susan Varley, *Au revoir Blaireau*, Gallimard Jeunesse, 2010
 
 ## Témoignages

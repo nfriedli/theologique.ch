@@ -42,8 +42,8 @@ J’avais pris ces quelques notes à l’occasion des 450 ans de sa mort
 
 ### Autres
 
-- [faculté réformée de Montréal](http://www.farel.net/)
-- [éditions Farel](http://www.editionsfarel.com/)
+- [faculté réformée de Montréal](https://farel.net/)
+- [éditions Farel](https://www.editionsfarel.com/)
 - [prix Farel](https://www.prixfarel.ch/)
 - [maison Farel à Bienne](https://www.farelhaus.ch/fr)
 - [bistro Farel dans la Maison Farel](https://farelbistro.ch/fr)
