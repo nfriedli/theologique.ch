@@ -26,7 +26,7 @@ Je donne un peu plus d’informations sur la [page contact de mon site nicolasfr
 
 Les contenus de ce site sont publiés sous licence Creative Commons BY-SA. C’est une licence libre qui vous permet une réutilisation sous conditions.
 
-J’ai développé ce sujet dans [Licence d’utilisation des contenus](/licence/) où je donne quelques pistes et enjeux en contexte ecclésial.
+J’ai développé ce sujet dans [Licence d’utilisation des contenus]({{< relref licence >}}) où je donne quelques pistes et enjeux en contexte ecclésial.
 
 ## Indépendance
 

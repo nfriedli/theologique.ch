@@ -2,13 +2,16 @@
 title = "Sites protestants réformés"
 +++
 
-Sur cette page, je vous propose une sélections de liens vers des sites protestants réformés francophones. La liste est reprise de l’ancien annuaire qui se trouvait sur ce nom de domaine.
+Sur cette page, je vous propose une sélections de liens vers des sites protestants réformés francophones.
+La liste est reprise de l’ancien annuaire qui se trouvait sur ce nom de domaine.
 
-Je cherche aussi à créer une liste de [chaînes WhatsApp](/whatsapp-chaines/) (Telegram, etc.).
+Je cherche aussi à créer une liste de [chaînes WhatsApp]({{< relref whatsapp-chaines >}}) (Telegram, etc.).
 
 ## Blogs et sites personnels
 
-Les sites personnels sont ceux que je considère comme les plus importants pour découvrir la réalité du protestantisme réformé. Je conseille de s’y abonner par flux RSS. Une partie est reprise sur la page [Trouver une prédication protestante en ligne](/predication/), avec des liens plus précis.
+Les sites personnels sont ceux que je considère comme les plus importants pour découvrir la réalité du protestantisme réformé.
+Je conseille de s’y abonner par flux RSS.
+Une partie est reprise sur la page [Trouver une prédication protestante en ligne]({{< relref predication >}}), avec des liens plus précis.
 
 - [Une théologie au quotidien](https://olivierbauer.org/) (Olivier Bauer)
 - [Théologie et spiritualité](https://gillesbourquin.ch/) (Gilles Bourquin)
@@ -46,10 +49,10 @@ Les sites personnels sont ceux que je considère comme les plus importants pour 
 
 - [Solaé, le rendez-vous protestant](https://www.radiofrance.fr/franceculture/podcasts/service-protestant) (France Culture)
 - [toutes les séries de Regards protestants](https://regardsprotestants.com/series-podcasts/), notamment:
-   * [Une bonne foi pour tous.tes](https://regardsprotestants.com/series-podcasts/une-bonne-foi-pour-tous-tes/)
-   * [Protestantes!](https://regardsprotestants.com/series-podcasts/protestantes/)
-   * [Théolympiques!](https://regardsprotestants.com/series-podcasts/theolympiques/)
-   * [Hérétique?](https://regardsprotestants.com/series-podcasts/heretique/)
+  - [Une bonne foi pour tous.tes](https://regardsprotestants.com/series-podcasts/une-bonne-foi-pour-tous-tes/)
+  - [Protestantes!](https://regardsprotestants.com/series-podcasts/protestantes/)
+  - [Théolympiques!](https://regardsprotestants.com/series-podcasts/theolympiques/)
+  - [Hérétique?](https://regardsprotestants.com/series-podcasts/heretique/)
 - [Échos protestants](https://www.rcf.fr/vie-spirituelle/echos-protestants) (James Woody)
 - [L’Église hors les murs](https://podcast.ausha.co/eerv-eglise-hors-les-murs/) (EERV)
 - [Radio Diane](https://open.spotify.com/show/2aUjfOIu9HVNuT4ShZC0N2) (Diane Friedli)
