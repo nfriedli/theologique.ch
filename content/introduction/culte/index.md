@@ -1,3 +1,3 @@
 +++
-title = "Le culte protestant"
+title = "Culte protestant"
 +++

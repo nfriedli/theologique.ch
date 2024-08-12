@@ -1,7 +1,7 @@
-
+{{ with .Parent }}
+{{ if gt (len .Pages ) 2 }}
 <aside>
     <strong>Et aussi:</strong>
-    {{ with .Parent }}
     <ul>
         {{ range .Pages }}
             {{ if ne .Page page }} 
@@ -11,6 +11,7 @@
             {{ end }}
         {{ end}}
     </ul>
-    {{ end }}
 </aside>
+{{ end }}
+{{ end }}
 
