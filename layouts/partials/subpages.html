@@ -1,0 +1,7 @@
+<ul>
+{{ range .Pages }}
+    <li>
+        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a><br>
+    </li>
+{{ end}}
+</ul>

@@ -3,7 +3,8 @@
 }
 
 body > header,
-footer {
+footer,
+aside {
     display: none;
 }
 

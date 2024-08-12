@@ -31,7 +31,7 @@ main p {
 h1,
 h2,
 h3 {
-    line-height: 1;
+    line-height: 1.1;
     margin-block: 3rem 1rem;
     text-wrap: balance;
 }
@@ -67,4 +67,11 @@ hr {
 a {
     text-decoration-thickness: .2ch;
     text-underline-offset: .2ch;
+}
+
+aside {
+    border: 2px solid;
+    font-size: var(--step--1);
+    padding: 1rem;
+    margin-block: 4rem;
 }

@@ -1,0 +1,16 @@
+
+<aside>
+    <strong>Et aussi:</strong>
+    {{ with .Parent }}
+    <ul>
+        {{ range .Pages }}
+            {{ if ne .Page page }} 
+            <li>
+                <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a><br>
+            </li>
+            {{ end }}
+        {{ end}}
+    </ul>
+    {{ end }}
+</aside>
+

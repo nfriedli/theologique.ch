@@ -1,0 +1,9 @@
+{{ if .IsHome }}
+    {{ site.Title }}
+{{ else }}
+    <nav>
+    {{ range .Ancestors.Reverse }}
+        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a> >
+    {{ end }}
+    </nav>
+{{ end }}

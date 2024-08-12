@@ -1,5 +1,6 @@
 +++
-title = "Chaînes WhatsApp"
+title = "Chaînes WhatsApp protestantes"
+weight = 1000
 +++
 
 Je cherche des chaînes WhatsApp protestantes réformées, francophones et publiques pour rédiger un petit annuaire.
