@@ -1,7 +1,15 @@
 html {
-    font-family: ui-sans-serif, Noto Sans, sans-serif;
+    font-family: ui-sans-serif, Inter, Lexend, Roboto, sans-serif;
 }
 
-h1, h2, h3, blockquote {
-    font-family: ui-serif, Noto Serif, serif;
+* {
+    font-style: normal;
+}
+
+em {
+    font-weight: 600;
+}
+
+strong {
+    font-weight: 800;
 }
