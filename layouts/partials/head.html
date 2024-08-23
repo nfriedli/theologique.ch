@@ -1,0 +1,35 @@
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>{{ if not .IsHome }}{{ .Title }} - {{ end }}{{ site.Title }}</title>
+
+{{ $fonts := resources.Get "css/fonts.css" }}
+<style>{{ $fonts.Content | safeCSS }}</style>
+{{ $screen := resources.Get "css/screen.css" }}
+<style media="screen">{{ $screen.Content | safeCSS }}</style>
+{{ $print := resources.Get "css/print.css" }}
+<style media="print">{{ $print.Content | safeCSS }}</style>
+
+<link rel="alternate" type="application/rss+xml" href="/index.xml" title="{{ site.Title }}"> 
+
+<link rel="icon" href="/favicon.ico" sizes="48x48">
+<link rel="icon" href="/favicon.svg" sizes="any" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+
+<link rel="canonical" href="{{ .Permalink }}">
+
+{{ if .IsHome }}{{ partial "home" . }}{{ end }}
+
+{{ if .Description }}
+    <meta name="description" content="{{ .Description }}">
+{{ else }}
+    {{ if  .Content }}
+        <meta name="description" content="{{ .Summary }}">
+    {{ end }}
+{{ end }}
+
+<script defer data-domain="theologique.ch" src="https://plausible.io/js/script.outbound-links.js"></script>
+<link rel="webmention" href="https://webmention.io/theologique.ch/webmention" />
+
+{{ partial "opengraph.html" . }}
