@@ -1,7 +1,5 @@
 +++
 title = "À propos de ce site"
-linkTitle = "À propos"
-weight = 1000
 +++
 
 Je réunis sur une page toutes les informations que j’estime importantes pour comprendre ce qu’est theologique.ch. On y trouve une bonne partie de ce qui est normalement dans les [slash pages](https://slashpages.net/).

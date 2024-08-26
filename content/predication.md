@@ -1,6 +1,5 @@
 +++
 title = "Trouver une prédication protestante en ligne"
-weight = 50
 +++
 
 Cette page recense des sites personnels et institutionnels qui publient régulièrement des prédications en ligne. On trouve parfois les termes homélie, message, prêche ou sermon pour parler de la même chose.

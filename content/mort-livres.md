@@ -1,6 +1,5 @@
 +++
 title = "Livres pour aborder la mort et le deuil"
-weight = 40
 +++
 
 Esquisse d’une bibliographie classée autour de la thématique de la mort.

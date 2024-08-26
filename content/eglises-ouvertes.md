@@ -1,7 +1,5 @@
 +++
-title = "Églises ouvertes réformées de Suisse romande"
-linkTitle = "Églises ouvertes de Suisse romande"
-weight = 10
+title = "Églises ouvertes de Suisse romande"
 +++
 
 Présentation systématique de toutes les églises protestantes réformées ouvertes en Suisse romande.

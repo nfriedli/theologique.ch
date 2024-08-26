@@ -1,6 +1,5 @@
 +++
 title = "La mort en chansons"
-weight = 30
 +++
 
 Des références francophone pour parler de la mort, du deuil, de l’angoisse ou de l’absence.

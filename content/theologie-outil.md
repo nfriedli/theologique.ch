@@ -1,6 +1,5 @@
 +++
 title = "La théologie comme outil: documentation et méthode"
-weight = 10
 +++
 
 La théologie est un outil.

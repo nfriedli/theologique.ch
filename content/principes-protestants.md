@@ -1,6 +1,5 @@
 +++
-title = "Les 7 principes en bref"
-weight = 10
+title = "Principes protestants"
 +++
 
 Toutes les dénominations issues de la Réformation se retrouvent sur un certain nombre de lignes directrices. Avec des nuances, ces 7 principes sont communs à tous les courants de la tradition protestante.
