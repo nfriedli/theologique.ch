@@ -2,16 +2,16 @@
 title = "Églises ouvertes de Suisse romande"
 +++
 
-Présentation systématique de toutes les églises protestantes réformées ouvertes en Suisse romande.
-Une «église ouverte» est un bâtiment qu’il est possible de visiter librement (et souvent gratuitement), hors de toute manifestation cultuelle ou culturelle.
+Voici une liste des églises protestantes réformées ouvertes en Suisse romande.
+Vous pouvez visiter ces églises quand il n'y a pas de culte ou d'événement.
+La visite est souvent gratuite.
 
-**Chaque lieu renvoie à un lien vers son site officiel ou sa fiche Google Maps, parfois les deux.
-Il vaut toujours la peine de vérifier les horaires d’ouverture avant un déplacement.**
+Chaque église a un lien vers son site ou Google Maps.
+Parfois, il y a les 2 liens.
+Il faut toujours vérifier les horaires avant une visite.
 
-Je n’ajoute que des lieux dont les horaires sont disponibles en ligne!
-Au besoin, demandez-moi une modification d’une fiche Google Maps.
-
-Le nom de la commune est précisé entre parenthèses quand il est différent de celui de la localité.
+Je mets seulement les églises avec les horaires en ligne.
+Si vous avez besoin de modifier une fiche Google Maps, je peux vous aider.
 
 ## Canton de Berne
 
