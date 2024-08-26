@@ -75,3 +75,7 @@ aside {
     padding: 1rem;
     margin-block: 4rem;
 }
+
+button {
+    font-size: var(--step--1);
+}
