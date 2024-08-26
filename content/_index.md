@@ -4,8 +4,8 @@ weight = 10
 +++
 
 
-theologique.ch parle de théologie protestante en langage simple et clair.  
-Les articles répondent à vos questions sur le protestantisme réformé.
+Ce site parle de théologie protestante en langage simple et clair.  
+Les articles répondent à vos interrogations sur le protestantisme réformé.
 
 L’adresse du responsable du site est disponible en bas de chaque page.  
 Dites-lui quels sujets vous intéressent!
