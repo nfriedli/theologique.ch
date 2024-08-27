@@ -1,9 +1,11 @@
+<nav>
+<ol>
 {{ if .IsHome }}
-    {{ site.Title }}
+    <li>{{ site.Title }}</li>
 {{ else }}
-    <nav>
     {{ range .Ancestors.Reverse }}
-        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a> >
+        <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
     {{ end }}
-    </nav>
 {{ end }}
+</ol>
+</nav>
