@@ -1,7 +1,7 @@
 {{ with .Parent }}
 {{ if gt (len .Pages ) 2 }}
 <aside>
-    <strong>Et aussi:</strong>
+    <strong>Ces contenus peuvent aussi vous intéresser:</strong>
     <ul>
         {{ range .Pages }}
             {{ if ne .Page page }} 
