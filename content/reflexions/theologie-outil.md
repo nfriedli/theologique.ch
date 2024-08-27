@@ -1,5 +1,6 @@
 +++
 title = "La théologie comme outil: documentation et méthode"
+aliases = ["/theologie-outil/"]
 +++
 
 La théologie est un outil.

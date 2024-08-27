@@ -1,5 +1,6 @@
 +++
 title = "Protestantisme & vocabulaire contemporain"
+aliases = ["/vocabulaire-contemporain/"]
 +++
 
 Je suis convaincu que le protestantisme aurait tout à gagner à utiliser des termes compréhensibles de nos contemporain·es.

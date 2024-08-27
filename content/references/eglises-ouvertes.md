@@ -1,5 +1,7 @@
 +++
 title = "Églises ouvertes de Suisse romande"
+weight = 10
+aliases = ["/eglises-ouvertes/"]
 +++
 
 Voici une liste d’églises protestantes réformées ouvertes en Suisse romande.

@@ -1,5 +1,7 @@
 +++
 title = "Chaînes WhatsApp"
+weight = 70
+aliases = ["/whatsapp-chaines/"]
 +++
 
 Je cherche des chaînes WhatsApp protestantes réformées, francophones et publiques pour rédiger un petit annuaire.

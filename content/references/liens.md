@@ -1,5 +1,7 @@
 +++
 title = "Sites protestants réformés"
+weight = 20
+aliases = ["/liens/"]
 +++
 
 Sur cette page, je vous propose une sélections de liens vers des sites protestants réformés francophones.

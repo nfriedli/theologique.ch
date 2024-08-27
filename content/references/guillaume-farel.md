@@ -1,5 +1,7 @@
 +++
 title = "Guillaume Farel"
+weight = 40
+aliases = ["/guillaume-farel/"]
 +++
 
 Guillaume Farel est né à Gap en 1489. Il est un des principaux artisans de la Réforme en Suisse romande. Il est mort à Neuchâtel en 1565.

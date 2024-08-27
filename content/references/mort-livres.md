@@ -1,5 +1,7 @@
 +++
 title = "Livres pour aborder la mort et le deuil"
+weight = 60
+aliases = ["/mort-livres/"]
 +++
 
 Esquisse d’une bibliographie classée autour de la thématique de la mort.

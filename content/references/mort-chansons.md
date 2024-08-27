@@ -1,5 +1,7 @@
 +++
 title = "La mort en chansons"
+weight = 50
+aliases = ["/mort-chansons/"]
 +++
 
 Des références francophone pour parler de la mort, du deuil, de l’angoisse ou de l’absence.
