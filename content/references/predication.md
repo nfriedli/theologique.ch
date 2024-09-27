@@ -22,10 +22,6 @@ Le site [celebrer.ch](https://www.celebrer.ch/) publie chaque semaine un culte d
 - [Jean-Marie Thévoz](http://clamans.hautetfort.com/) est pasteur retraité de l’Église évangélique réformée du canton de Vaud (publication d’archives)
 - [James Woody](https://espritdeliberte.leswoody.net/category/predication/) est pasteur de l’Église protestante unie de France à Auteuil
 
-## Berne (RefBeJuSo)
-
-- [Erguël](https://referguel.ch/accueil/)
-
 ## Fribourg (EERF)
 
 - [Bulle-La Gruyère](https://eglise-bulle.ch/project/cultes/)
@@ -35,14 +31,11 @@ Le site [celebrer.ch](https://www.celebrer.ch/) publie chaque semaine un culte d
 
 - [Centre-ville Rive gauche](https://centre-ville-rive-gauche.epg.ch/multimedia/cultes-et-predications/)
 - [Cologny-Vadœuvres-Choulex](https://colvancho.epg.ch/?page_id=8)
-- [Petit-Saconnex](https://petit-saconnex.epg.ch/predications/)
 
 ## Neuchâtel (EREN)
 
 - [La BARC](https://www.eren.ch/barc/category/cultes/)
-- [Les Hautes Joux](https://www.eren.ch/hautesjoux/category/predication/)
-- [Neuchâtel](https://www.eren.ch/neuchatel/category/predications/)
-- [Val-de-Travers](https://paroissereformeevaldetravers.wordpress.com/category/predications/)
+- [Val-de-Travers](https://www.eren.ch/vdt/category/predications/)
 
 ## Vaud (EERV)
 
