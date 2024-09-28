@@ -1,6 +1,6 @@
 :root {
-    --sans: Roboto, ui-sans-serif, Inter, Rubik, Noto Sans, Poppins, system-ui, sans-serif;
-    --display: Fraunces, var(--sans);
+    --sans: ui-sans-serif, Roboto, Inter, Arial system-ui, sans-serif;
+    --display: Fraunces, Syne, "Bricolage Grotesque", "Barlow Condensed", "Fira Sans Condensed", Poppins, Rubik, var(--sans);
 }
 
 html {
@@ -10,11 +10,3 @@ html {
 h1, h2, h3, h4 {
     font-family: var(--display);
 }
-
-@font-face {
-    font-display: swap; 
-    font-family: "Fraunces";
-    font-style: normal;
-    font-weight: 700;
-    src: url("/fonts/fraunces-v31-latin-700.woff2") format("woff2");
-  }

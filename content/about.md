@@ -61,7 +61,7 @@ Je fais tout ce qui est dans mon possible pour être conforme à toutes les règ
 
 theologique.ch peut être considéré comme brutaliste, au sens des [Guidelines for Brutalist Web Design](https://brutalist-web.design/). Il est lisible partout et la fonction des liens et des zones de la page est triviale.
 
-Je n’utilise aucune image mais, parfois, quelques emojis. Les polices d’écritures sont celles présentes sur votre propre ordinateur, tablette ou téléphone. Sauf pour les titres qui utilisent Fraunces, sans faire appel à un service externe.
+Je n’utilise aucune image mais, parfois, quelques emojis. Les polices d’écritures sont celles présentes sur votre propre ordinateur, tablette ou téléphone.
 
 *Je tiens à rappeler que le web est avant tout un outil pour publier du contenu. Le choix radical de présentation du site ne me permet pas de me réfugier derrière des artifices esthétiques.*
 
