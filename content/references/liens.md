@@ -27,7 +27,6 @@ Une partie est reprise sur la page [Trouver une prédication protestante en lign
 - [Résistance et Ouverture](https://gardiol.net/) (Maurice Gardiol)
 - [André Gounelle](https://andregounelle.fr/)
 - [Journal d’un théologien vaudois éclectique](https://eliojaillet.ch/) (Elio Jaillet)
-- [Jean-Denis Kraege](https://www.reformes.ch/blog/jean-denis-kraege)
 - [Armin Kressmann](https://www.kressmann.ch/)
 - [ethikos.ch](https://www.ethikos.ch/) (Armin Kressmann)
 - [Aurélie Netz](https://aurelienetz.ch/)
