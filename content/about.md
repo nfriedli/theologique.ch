@@ -16,8 +16,8 @@ Rue du Château 3
 2013 Colombier (NE)  
 Suisse
 
-+41 32 841 48 74 (urgences uniquement)  
-+41 79 344 33 82 (SMS)
+[+41 32 841 48 74](tel:+41328414874) (urgences uniquement)  
+[+41 79 344 33 82](sms:+41793443382) (SMS)
 
 Je donne un peu plus d’informations sur la [page contact de mon site nicolasfriedli.ch](https://nicolasfriedli.ch/contact/), notamment quelques [éléments bibliographiques](https://nicolasfriedli.ch/bio/).
 

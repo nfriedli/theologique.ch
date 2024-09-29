@@ -1,56 +1,33 @@
+/* some ideas from https://piccalil.li/blog/a-more-modern-css-reset/ */
+
+/* mode clair / sombre automatique */
 :root {
     color-scheme: dark light;
 }
 
-:target {
-    scroll-margin-block: 5ex;
-}
-
-/* some ideas from https://piccalil.li/blog/a-more-modern-css-reset/ */
-
-*,
-*::before,
-*::after {
-    box-sizing: border-box;
-}
-
-html {
-    -moz-text-size-adjust: none;
-    -webkit-text-size-adjust: none;
-    text-size-adjust: none;
-    text-wrap: pretty;
-}
-
-body,
-h1,
-h2,
-h3,
-h4,
-p,
-blockquote,
-dl,
-dd {
-    margin-block-end: 0;
-}
-
+/* structure générale de la page */
 body {
     min-height: 100vh;
     line-height: 1.5;
     margin: auto;
     max-width: 40rem;
     padding: 1rem;
+    text-wrap: pretty;
 }
 
+/* rythme minimal pour la page */
 body > *+* {
     margin-block: 4rem;
 }
 
+/* textes annexes plus petits */
 header,
 footer,
 aside {
     font-size: .9rem;
 }
 
+/* esthétique des titres */
 h1,
 h2,
 h3, 
@@ -60,20 +37,19 @@ h4 {
     text-wrap: balance;
 }
 
+/* A11Y */
 li {
     margin-block: .5rem;
 }
 
+/* jolie ligne de séparation */
 hr {
     border: 0;
     border-top: 2px solid;
     margin-block: 2rem;
 }
 
-a {
-    text-decoration-thickness: .2ch;
-    text-underline-offset: .2ch;
-}
+/* blocks de liens supplémentaires */
 
 aside {
     border: 2px solid;
@@ -81,6 +57,7 @@ aside {
     margin-block: 4rem;
 }
 
+/* navigation façon breadcrumb */
 nav ol {
     gap: .5rem 1rem;
     display: flex;
@@ -88,10 +65,4 @@ nav ol {
     list-style-type: none;
     margin: 0;
     padding: 0;
-}
-
-blockquote {
-    border-inline-start: 2px solid;
-    margin-inline-start: 0;
-    padding-inline-start: 1rem;
 }
