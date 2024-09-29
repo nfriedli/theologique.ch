@@ -24,6 +24,11 @@ body > *+* {
     margin-block: 4rem;
 }
 
+/* certaines choses sont plus petites */
+aside, footer, header {
+    font-size: .85rem;
+}
+
 /* esthétique des titres */
 h1,
 h2,
