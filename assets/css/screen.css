@@ -5,6 +5,10 @@
     color-scheme: dark light;
 }
 
+html {
+    font-size: clamp(1rem, 0.95rem + 0.25vi, 1.25rem);
+}
+
 /* structure générale de la page */
 body {
     line-height: 1.5;
