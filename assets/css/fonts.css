@@ -1,12 +1,3 @@
-:root {
-    --sans: ui-sans-serif, Roboto, Inter, Arial system-ui, sans-serif;
-    --display: Fraunces, Syne, "Bricolage Grotesque", "Barlow Condensed", "Fira Sans Condensed", Poppins, Rubik, var(--sans);
-}
-
 html {
-    font-family: var(--sans);
-}
-
-h1, h2, h3, h4 {
-    font-family: var(--display);
+    font-family: ui-sans-serif, Roboto, Inter, Arial system-ui, sans-serif;
 }
