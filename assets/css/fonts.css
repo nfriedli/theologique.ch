@@ -1,11 +1,5 @@
 /* utilisé pour écran et impression */
 
 html {
-    font-family: ui-sans-serif, Roboto, Inter, Arial system-ui, sans-serif;
-    font-variant-numeric: oldstyle-nums proportional-nums;
-    font-variant-ligatures: none;
-}
-
-a, h1, h2, h3, h4 {
-    font-variant-numeric: lining-nums;
+    font-family: ui-sans-serif, system-ui, sans-serif;
 }
