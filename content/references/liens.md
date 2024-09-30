@@ -57,8 +57,6 @@ Une partie est reprise sur la page [Trouver une prédication protestante en lign
 - [Échos protestants](https://www.rcf.fr/vie-spirituelle/echos-protestants) (James Woody)
 - [L’Église hors les murs](https://podcast.ausha.co/eerv-eglise-hors-les-murs/) (EERV)
 - [Radio Diane](https://open.spotify.com/show/2aUjfOIu9HVNuT4ShZC0N2) (Diane Friedli)
-- [cultes de la paroisse de Delémont](https://open.spotify.com/show/4BsYqtrVPG7AlsxrivW5gb)
-- [cultes de la paroisse de Meyrin](https://open.spotify.com/show/1qhGupxfJ1Cf6ITNwK5OK0)
 
 ## Édition & monde du livre
 
@@ -83,7 +81,7 @@ Une partie est reprise sur la page [Trouver une prédication protestante en lign
 ## Histoire & patrimoine
 
 - [Musée virtuel du protestantisme](https://museeprotestant.org/)
-- [Musée international de la Réforme](https://www.musee-reforme.ch/)
+- ~~[Musée international de la Réforme](https://www.musee-reforme.ch/)~~ site très lourd, à éviter!
 - [Musée du Désert](https://www.museedudesert.com/index.php)
 - [Société de l’histoire du protestantisme français](https://www.shpf.fr/)
 - [Visite d’église](https://visitedeglise.ch/)
