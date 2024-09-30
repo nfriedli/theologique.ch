@@ -55,6 +55,6 @@ C’est la réponse à la question: *comment évolue l’institution Église?* C
 - [les grands principes selon la paroisse d’Auteuil](https://auteuil.epudf.org/histoire/les-grands-principes-du-protestantisme/)
 - [les principes selon la paroisse de Nimes](https://nimes-eglise-protestante-unie.fr/principes-protestants/)
 - [les 4 principes selon Olivier Bauer](https://olivierbauer.org/2015/10/26/les-quatre-grands-principes-du-protestantisme/)
-- [les 6 principes selon les protestants d’Arles](https://nimes-eglise-protestante-unie.fr/principes-protestants/)
+- [les 6 principes selon les protestants d’Arles](https://www.arles-protestants.fr/en-lien-avec-la-vie-paroissiale/un-peu-dhistoire/les-6-principes-protestants)
 - [Doctrine, dogmes et principes](http://andregounelle.fr/vocabulaire-theologique/doctrines-dogmes-et-principes.php) par André Gounelle
 - [cours sur le protestantisme](http://andregounelle.fr/protestantisme/index.php) par André Gounelle
