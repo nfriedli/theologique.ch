@@ -3,19 +3,19 @@ title = "Principes protestants"
 weight = 10
 +++
 
-Toutes les dénominations issues de la Réformation se retrouvent sur un certain nombre de lignes directrices. 
+Toutes les dénominations issues de la Réformation se retrouvent sur un certain nombre de lignes directrices.
 Avec des nuances, ces 7 principes sont communs à tous les courants de la tradition protestante.
 
 ## Les 5 principes exprimés en «seul»
 
-Élaborés à l’époque de la Réforme protestante du XVIe siècle initiée par Martin Luther, ces 5 principes marquent un contraste avec la religion du temps. 
+Élaborés à l’époque de la Réforme protestante du XVIe siècle initiée par Martin Luther, ces 5 principes marquent un contraste avec la religion du temps.
 L’affirmation répétée de «seul·e» exprime toujours une opposition à un principe ou un dogme catholique.
 
 ### La grâce seule
 
-C’est la réponse à la question: *comment être sauvé·e?* 
-Seul Dieu est capable de «sauver les âmes», par son seul choix et sa seule grâce. 
-*Sola gratia* porte sur les conditions du salut. 
+C’est la réponse à la question: *comment être sauvé·e?*
+Seul Dieu est capable de «sauver les âmes», par son seul choix et sa seule grâce.
+*Sola gratia* porte sur les conditions du salut.
 C’est à mes yeux le principe le plus important du protestantisme.
 
 [En savoir plus sur *la grâce seule*]({{< relref "sola-gratia" >}})
@@ -23,7 +23,7 @@ C’est à mes yeux le principe le plus important du protestantisme.
 ### La foi seule
 
 C’est la réponse à la question: *quelle attitude adopter?*
-La conscience que le salut ne dépend que de la grâce de Dieu invite les croyant·e·s à placer leur confiance, leur foi, en lui. 
+La conscience que le salut ne dépend que de la grâce de Dieu invite les croyant·e·s à placer leur confiance, leur foi, en lui.
 *Sola fide* porte sur l’attitude des croyant·es.
 
 [En savoir plus sur *la foi seule*]({{< relref "sola-fide" >}})
@@ -49,7 +49,7 @@ Les croyantes et croyants accèdent à Jésus-Christ sans l’intermédiaire de 
 
 C’est la réponse à la question: *quelle est la source?*
 L’Écriture est l’autorité théologique ultime dans le protestantisme.
-Dans les témoignages humains relatés par la Bible se trouve la Parole de Dieu, qui doit être toujours interprétée. 
+Dans les témoignages humains relatés par la Bible se trouve la Parole de Dieu, qui doit être toujours interprétée.
 *Sola scriptura* porte sur la référence théologique à laquelle se fier.
 
 [En savoir plus sur *l’Écriture seule*]({{< relref "sola-scriptura" >}})
@@ -69,7 +69,7 @@ Il est en lien étroit avec la question des sacrements et de la prêtrise.
 ### L’Église toujours à réformer
 
 C’est la réponse à la question: *comment évolue l’institution Église?*
-Ce principe ne date pas de la Réforme en ces termes, mais il reflète une conception ecclésiologique qui date de cette époque. 
+Ce principe ne date pas de la Réforme en ces termes, mais il reflète une conception ecclésiologique qui date de cette époque.
 *Ecclesia semper reformanda* porte sur la question de la vérité et de la perfection de l’Église.
 
 [En savoir plus sur *l’Église toujours à réformer*]({{< relref "ecclesia-semper-reformanda" >}})
