@@ -13,46 +13,46 @@ L’affirmation répétée de «seul·e» exprime toujours une opposition à un 
 
 ### La grâce seule
 
-C’est la réponse à la question: *comment être sauvé·e?*
+C’est la réponse à la question: **comment être sauvé·e?**
 Seul Dieu est capable de «sauver les âmes», par son seul choix et sa seule grâce.
 *Sola gratia* porte sur les conditions du salut.
 C’est à mes yeux le principe le plus important du protestantisme.
 
-[En savoir plus sur *la grâce seule*]({{< relref "sola-gratia" >}})
+💡 [En savoir plus sur *la grâce seule*]({{< relref "sola-gratia" >}})
 
 ### La foi seule
 
-C’est la réponse à la question: *quelle attitude adopter?*
+C’est la réponse à la question: **quelle attitude adopter?**
 La conscience que le salut ne dépend que de la grâce de Dieu invite les croyant·e·s à placer leur confiance, leur foi, en lui.
 *Sola fide* porte sur l’attitude des croyant·es.
 
-[En savoir plus sur *la foi seule*]({{< relref "sola-fide" >}})
+💡 [En savoir plus sur *la foi seule*]({{< relref "sola-fide" >}})
 
 ### À Dieu seul la gloire
 
-C’est la réponse à la question: *qui mérite reconnaissance?*
+C’est la réponse à la question: **qui mérite reconnaissance?**
 Seul Dieu est absolu et aucune démarche humaine ne saurait l’égaler.
 C’est donc à lui seul que le culte est rendu.
 *Soli Deo gloria* porte sur le sacré ou le divin.
 
-[En savoir plus sur *à Dieu seul la gloire*]({{< relref "soli-deo-gloria" >}})
+💡 [En savoir plus sur *à Dieu seul la gloire*]({{< relref "soli-deo-gloria" >}})
 
 ### Le Christ seul
 
-C’est la réponse à la question: *vers qui se tourner?*
+C’est la réponse à la question: **vers qui se tourner?**
 Les croyantes et croyants accèdent à Jésus-Christ sans l’intermédiaire de personnes, quel que soit leur statut.
 *Solus Christus* porte sur question de la personne à qui s’adresser.
 
-[En savoir plus sur *le Christ seul*]({{< relref "solus-christus" >}})
+💡 [En savoir plus sur *le Christ seul*]({{< relref "solus-christus" >}})
 
 ### L’Écriture seule
 
-C’est la réponse à la question: *quelle est la source?*
+C’est la réponse à la question: **quelle est la source?**
 L’Écriture est l’autorité théologique ultime dans le protestantisme.
 Dans les témoignages humains relatés par la Bible se trouve la Parole de Dieu, qui doit être toujours interprétée.
 *Sola scriptura* porte sur la référence théologique à laquelle se fier.
 
-[En savoir plus sur *l’Écriture seule*]({{< relref "sola-scriptura" >}})
+💡 [En savoir plus sur *l’Écriture seule*]({{< relref "sola-scriptura" >}})
 
 ## Les 2 autres principes
 
@@ -60,19 +60,19 @@ Si ces 2 principes ne suivent pas la formulation en «seul», ils sont des marq
 
 ### Le sacerdoce universel
 
-C’est la réponse à la question: *qui exprime sa foi et son engagement?*
+C’est la réponse à la question: **qui exprime sa foi et son engagement?**
 Le sacerdoce universel affirme que toute personne en droit de faire de la théologie et de l’exprimer.
 Il est en lien étroit avec la question des sacrements et de la prêtrise.
 
-[En savoir plus sur *le sacerdoce universel*]({{< relref "sacerdoce-universel" >}})
+💡 [En savoir plus sur *le sacerdoce universel*]({{< relref "sacerdoce-universel" >}})
 
 ### L’Église toujours à réformer
 
-C’est la réponse à la question: *comment évolue l’institution Église?*
+C’est la réponse à la question: **comment évolue l’institution Église?**
 Ce principe ne date pas de la Réforme en ces termes, mais il reflète une conception ecclésiologique qui date de cette époque.
 *Ecclesia semper reformanda* porte sur la question de la vérité et de la perfection de l’Église.
 
-[En savoir plus sur *l’Église toujours à réformer*]({{< relref "ecclesia-semper-reformanda" >}})
+💡 [En savoir plus sur *l’Église toujours à réformer*]({{< relref "ecclesia-semper-reformanda" >}})
 
 ## Références
 
