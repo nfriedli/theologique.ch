@@ -12,7 +12,7 @@ J’avais pris ces quelques notes à l’occasion des 450 ans de sa mort
 
 - [Dictionnaire historique de la Suisse (DHS)](https://hls-dhs-dss.ch/fr/articles/011113/2006-03-27/)
 - [Musée virtuel du protestantisme](https://museeprotestant.org/notice/guillaume-farel-1489-1565/)
-- [Guillaume_Farel sur Wikipédia](https://fr.wikipedia.org/wiki/Guillaume_Farel)
+- [*Guillaume Farel* sur Wikipédia](https://fr.wikipedia.org/wiki/Guillaume_Farel)
 
 ## Traces
 
