@@ -1,7 +1,7 @@
 /* utilisé pour écran et impression */
 
 html {
-    font-family: ui-sans-serif, system-ui, sans-serif;
+    font-family: Fira Sans, Asap, Archivo, Lato, Roboto, Noto Sans, Rubik, Inter, PT Sans, Open Sans, Poppins, Mulish, ui-sans-serif, system-ui, sans-serif;
     font-variant-numeric: oldstyle-nums proportional-nums;
 }
 
@@ -11,4 +11,12 @@ h2,
 h3,
 h4 {
     font-variant-numeric: lining-nums;
+}
+
+blockquote {
+    font-style: italic;
+}
+
+blockquote em {
+    font-style: normal;
 }
