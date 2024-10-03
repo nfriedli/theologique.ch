@@ -3,17 +3,14 @@ title = "theologique.ch"
 weight = 10
 +++
 
+Ce site est à l’arrêt.  
+Je laisse les morts enterrer leurs morts.
 
-Ce site parle de théologie protestante en langage simple et clair.
-Les articles répondent à vos interrogations sur le protestantisme réformé.
+----
+Quelques brouillons restent accessibles:
 
-L’adresse du responsable du site est disponible en bas de chaque page.
-Dites-lui quels sujets vous intéressent!
-
-Début des publications à l’automne 2024 (ou pas).
+{{< subpages >}}
 
 ----
 
-En attendant, vous pouvez lire les archives:
-
-{{< subpages >}}
+Des archives plus anciennes sont disponibles dans la [Wayback Machine](https://web.archive.org/web/*/theologique.ch).
