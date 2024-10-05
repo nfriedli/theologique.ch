@@ -4,7 +4,7 @@ weight = 10
 +++
 
 Ce site est à l’arrêt depuis le 3 octobre 2024.  
-Rien n'est décidé pour la suite.
+Rien n’est décidé pour la suite.
 
 ----
 Encore en ligne à titre d’archives:

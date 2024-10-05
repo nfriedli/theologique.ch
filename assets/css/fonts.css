@@ -1,5 +1,3 @@
-/* utilisé pour écran et impression */
-
 html {
     font-family: Fira Sans, Asap, Archivo, Lato, Roboto, Noto Sans, Rubik, Inter, PT Sans, Open Sans, Poppins, Mulish, ui-sans-serif, system-ui, sans-serif;
     font-variant-numeric: oldstyle-nums proportional-nums;
@@ -8,8 +6,7 @@ html {
 a,
 h1,
 h2,
-h3,
-h4 {
+h3{
     font-variant-numeric: lining-nums;
 }
 

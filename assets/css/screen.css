@@ -1,85 +1,70 @@
-/* some ideas from https://piccalil.li/blog/a-more-modern-css-reset/ */
-
-/* mode clair / sombre automatique */
 :root {
     color-scheme: dark light;
-
-    --background: #F8F8F8;
-    --color: #222;
-}
-
-@media (prefers-color-scheme: dark) {
-    :root {
-        --background: #000;
-        --color: #DDD;
-    }
 }
 
 html {
-    background: var(--background);
-    color: var(--color);
     font-size: clamp(1rem, 0.95rem + 0.25vi, 1.25rem);
 }
 
-/* structure générale de la page */
 body {
     line-height: 1.5;
     margin: auto;
     max-width: 66ch;
-    min-height: 100vh;
     padding: 1rem;
     text-wrap: pretty;
 }
 
-/* rythme minimal pour la page */
 body>*+* {
     margin-block: 4rem;
 }
 
-/* certaines choses sont plus petites */
 aside,
 footer,
 header {
     font-size: .85rem;
 }
 
-/* pas de variation de couleurs selon visité, etc. */
 a {
-    color: inherit;
     text-decoration-thickness: .1em;
     text-underline-offset: .1em;
 }
 
-/* esthétique des titres */
 h1,
 h2,
-h3,
-h4 {
+h3 {
     line-height: 1.1;
     margin-block: 2em 1em;
     text-wrap: balance;
 }
 
-/* A11Y */
+h1 {
+    font-size: 2rem;
+}
+
+h2 {
+    font-size: 1.6rem;
+}
+
+h3 {
+    font-size: 1.2rem
+}
+
 li {
     margin-block: .5rem;
 }
 
-/* jolie ligne de séparation */
 hr {
     border: 0;
     border-top: 2px solid;
     margin-block: 2rem;
 }
 
-/* blocks de liens supplémentaires */
 aside {
     border: 2px solid;
     padding: 1rem;
     margin-block: 4rem;
 }
 
-/* navigation façon breadcrumb */
 nav ol {
     gap: .5rem 1rem;
     display: flex;

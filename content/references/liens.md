@@ -24,7 +24,7 @@ Une partie est reprise sur la page [Trouver une prédication protestante en lign
 - [Laure Devaux Allisson](https://lauredevaux.ch/)
 - [Sébastien Fath](http://blogdesebastienfath.hautetfort.com/)
 - [Diane Friedli](https://dianefriedli.ch)
-- [Résistance et Ouverture](https://gardiol.net/) (Maurice Gardiol)
+- ~~[Résistance et Ouverture](https://gardiol.net/) (Maurice Gardiol)~~ en panne!
 - [André Gounelle](https://andregounelle.fr/)
 - [Journal d’un théologien vaudois éclectique](https://eliojaillet.ch/) (Elio Jaillet)
 - [Armin Kressmann](https://www.kressmann.ch/)
@@ -81,7 +81,7 @@ Une partie est reprise sur la page [Trouver une prédication protestante en lign
 ## Histoire & patrimoine
 
 - [Musée virtuel du protestantisme](https://museeprotestant.org/)
-- ~~[Musée international de la Réforme](https://www.musee-reforme.ch/)~~ site très lourd, à éviter!
+- [Musée international de la Réforme](https://www.musee-reforme.ch/)
 - [Musée du Désert](https://www.museedudesert.com/index.php)
 - [Société de l’histoire du protestantisme français](https://www.shpf.fr/)
 - [Visite d’église](https://visitedeglise.ch/)
