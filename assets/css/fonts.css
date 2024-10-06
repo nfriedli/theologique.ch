@@ -1,12 +1,13 @@
 html {
-    font-family: Fira Sans, Asap, Archivo, Lato, Roboto, Noto Sans, Rubik, Inter, PT Sans, Open Sans, Poppins, Mulish, ui-sans-serif, system-ui, sans-serif;
+    font-family: FiraSans, "Fira Sans", ui-sans-serif, system-ui, sans-serif;
     font-variant-numeric: oldstyle-nums proportional-nums;
+    font-feature-settings: "calt" 1, "case" 1, "cpsp" 1, "dlig" 1, "liga" 1, "kern" 1;
 }
 
 a,
 h1,
 h2,
-h3{
+h3 {
     font-variant-numeric: lining-nums;
 }
 
@@ -16,4 +17,36 @@ blockquote {
 
 blockquote em {
     font-style: normal;
+}
+
+@font-face {
+    font-display: optional;
+    font-family: "FiraSans";
+    font-style: normal;
+    font-weight: 400;
+    src: url("/fonts/fs.woff2") format("woff2");
+}
+
+@font-face {
+    font-display: optional;
+    font-family: "FiraSans";
+    font-style: italic;
+    font-weight: 400;
+    src: url("/fonts/fsi.woff2") format("woff2");
+}
+
+@font-face {
+    font-display: optional;
+    font-family: "FiraSans";
+    font-style: normal;
+    font-weight: 700;
+    src: url("/fonts/fsb.woff2") format("woff2");
+}
+
+@font-face {
+    font-display: optional;
+    font-family: "FiraSans";
+    font-style: italic;
+    font-weight: 700;
+    src: url("/fonts/fsbi.woff2") format("woff2");
 }

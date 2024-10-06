@@ -1,8 +1,20 @@
 :root {
     color-scheme: dark light;
+
+    --background: #F8F8F8;
+    --color: #222;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --background: #000;
+        --color: #DDD;
+    }
 }
 
 html {
+    background: var(--background);
+    color: var(--color);
     font-size: clamp(1rem, 0.95rem + 0.25vi, 1.25rem);
 }
 
@@ -25,6 +37,7 @@ header {
 }
 
 a {
+    color: inherit;
     text-decoration-thickness: .1em;
     text-underline-offset: .1em;
 }
