@@ -8,8 +8,8 @@ body {
 
 header,
 footer,
-.webring,
-#TableOfContents {
+#TableOfContents,
+.tags {
     display: none;
 }
 
