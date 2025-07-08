@@ -27,9 +27,9 @@
 html {
     background: var(--bg);
     color: var(--txt);
-    line-height: 1.5;
-    /* 320 -> 16 / 960 -> 18 */
-    font-size: clamp(1rem, 0.9167rem + 0.4167vw, 1.25rem);
+    line-height: 1.6;
+    /* 320 -> 16 / 960 -> 19 */
+    font-size: clamp(1rem, 0.9063rem + 0.4688vw, 1.1875rem);;
 }
 
 body {
