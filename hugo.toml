@@ -1,0 +1,39 @@
+baseURL = "https://theologique.ch/"
+title = "theologique.ch"
+
+languageCode = "fr"
+defaultContentLanguage = "fr"
+
+copyright = "Creative Commons Zero (CC0)"
+
+disableKinds = ["robotstxt"]
+enableEmoji = true
+noBuildLock = true
+summaryLength = 30
+
+enableGitInfo = true
+
+[frontmatter]
+date = ["date", ":git"]
+lastmod = ["lastmod", "date", ":git"]
+
+[markup]
+[markup.goldmark.parser]
+autoHeadingIDType = "github-ascii"
+
+[minify]
+minifyOutput = true
+
+[minify.tdewolff.html]
+keepDefaultAttrVals = false
+keepEndTags = true
+keepQuotes = true
+keepWhitespace = true
+
+[params]
+images = [ "/images/opengraph.jpg" ]
+slogan = "un blog protestant réformé par Nicolas Friedli"
+
+[params.author]
+name = "Nicolas Friedli"
+email = "contact+rss@theologique.ch"

@@ -1,0 +1,23 @@
+@page {
+    margin: 2cm
+}
+
+body {
+    line-height: 1.5;
+}
+
+header,
+footer,
+.webring,
+#TableOfContents {
+    display: none;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    line-height: 1.2;
+    page-break-after: avoid;
+    text-wrap: balance;
+}

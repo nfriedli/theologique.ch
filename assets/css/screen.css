@@ -1,0 +1,139 @@
+:root {
+    color-scheme: dark light;
+
+    --bg: hsl(312, 25%, 96%);
+    --txt: hsl(312, 25%, 20%);
+    --a: hsl(312, 75%, 20%);
+    --deco: hsl(312, 50%, 40%);
+    --h: hsl(312, 100%, 20%);
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --bg: hsl(312, 25%, 10%);
+        --txt: hsl(312, 25%, 98%);
+        --a: hsl(312, 75%, 90%);
+        --deco: hsl(312, 50%, 60%);
+        --h: hsl(312, 100%, 90%);
+    }
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+    background: var(--bg);
+    color: var(--txt);
+    line-height: 1.5;
+    /* 320 -> 16 / 960 -> 18 */
+    font-size: clamp(1rem, 0.9167rem + 0.4167vw, 1.25rem);
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+    margin: auto;
+    padding: 1rem;
+    min-height: 100vh;
+    max-width: 75ch;
+    overflow-wrap: break-word;
+}
+
+header, footer, time {
+    font-size: .85rem;
+}
+
+
+
+footer {
+    margin-block-start: auto;
+}
+
+a {
+    color: var(--a);
+    text-decoration-thickness: .1em;
+    text-underline-offset: .1em;
+    text-decoration-color: var(--deco);
+}
+
+a[aria-current="page"] {
+    text-decoration: none;
+}
+
+p {
+    margin: 0;
+    margin-block-start: 1rem;
+}
+
+h1,
+h2,
+h3{
+    color: var(--h);
+    line-height: 1.1;
+    margin-block-start: 2rem;
+    margin-block-end: 1rem;
+    text-wrap: balance;
+}
+
+h1 {
+    font-size: 2rem;
+    margin-block-start: 0;
+}
+
+h2 {
+    font-size: 1.6rem;
+}
+
+h3 {
+    font-size: 1.3rem;
+}
+
+li {
+    margin-block: .5rem;
+}
+
+dt {
+    font-weight: 700;
+    margin-block-start: 1rem;
+}
+
+dd {
+    margin-inline-start: 1rem;
+}
+
+pre {
+    overflow-x: auto;
+}
+
+hr {
+    border: 0;
+    border-block-start: .15rem solid var(--deco);
+    margin-block: 2rem;
+}
+
+
+blockquote {
+    font-style: italic;
+    margin-inline-start: 1rem;
+}
+
+blockquote em {
+    font-style: normal;
+}
+
+nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .5rem 1rem;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    margin: 0;
+    list-style-type: none;
+}

@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "WebSite",
+    "name": "theologique.ch",
+    "description": "Le blog protestant réformé de Nicolas Friedli, consultant web et théologien en Suisse romande.",
+    "url": "https://theologique.ch/",
+    "image": "https://theologique.ch/images/opengraph.jpg",
+    "author": {
+        "@type": "Person",
+        "name": "Nicolas Friedli",
+        "url": "https://nicolasfriedli.ch/"
+    }
+}
