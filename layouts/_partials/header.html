@@ -1,8 +1,9 @@
+{{ $currentPage := . }}
 <nav>
     <ul>
         {{ range .Site.Menus.main }}
             <li>
-                    <a href="{{ .URL }}"{{ if eq $.Page.RelPermalink .URL }}  aria-current="page"{{ end }}>{{ .Name }}</a>
+                    <a href="{{ .URL }}"{{ if $currentPage.IsMenuCurrent .Menu . }}  aria-current="page"{{ end }}>{{ .Name }}</a>
             </li>
         {{ end }}
       </ul>
