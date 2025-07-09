@@ -1,7 +1,7 @@
 +++
 title = "Suivre le web protestant (liste OPML)"
 description = "Une sélection de sites protestants réfomés francophones utilisable directement dans un agrégateur de flux RSS et Atom (Inoreader, Feedly, etc.)."
-date = 2025-07-10
+date = 2025-07-09
 categories = ["web"]
 +++
 

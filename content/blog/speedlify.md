@@ -1,7 +1,7 @@
 +++
 title = "Fin du monitoring du protestantisme réformé francophone"
 description = "90+ sites protestants réformés francophones testés chaque semaine durant 18 mois me permettent d’esquisser un bilan de performance global."
-date = 2025-07-09
+date = 2025-07-08
 categories = ["web"]
 tags = ["webperf"]
 +++
