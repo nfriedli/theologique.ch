@@ -16,10 +16,20 @@
     }
 }
 
+::selection {
+    background: var(--txt2);
+    color: var(--bg);
+}
+
 *,
 *::before,
 *::after {
     box-sizing: border-box;
+}
+
+* {
+    scrollbar-color: var(--txt2) var(--bg);
+    scrollbar-width: thin
 }
 
 html {
@@ -114,7 +124,8 @@ dd {
     margin-inline-start: 1rem;
 }
 
-pre, code {
+pre,
+code {
     font-size: .875rem;
 }
 
