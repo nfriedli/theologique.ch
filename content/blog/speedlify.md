@@ -33,16 +33,16 @@ C’est ce que fait son créateur Zach Leatherman pour [son site personnel](http
 
 ## Résultats du test du jour
 
-Il y a 10% des sites qui sont excellents.
+**10% des sites sont excellents.**
 Ils obtiennent un score vert (supérieur à 90%) dans les 4 catégories de Lighthouse.
 
-Il y a au moins 25% des sites qui ont des lacunes très sérieuses en performance.
+**Au moins 25% des sites ont des lacunes très sérieuses en performances.**
 Ils obtiennent un score rouge (inférieur à 50%) dans cette catégorie.
 
-Plus de 50% des sites transfèrent beaucoup trop de données.
+**Plus de 50% des sites transfèrent beaucoup trop de données.**
 Ils sollicitent trop la bande passante, sont peu écologiques et s’affichent probablement mal (voire pas du tout) sur des périphériques qui ont quelques années.
 
-Sans surprise, l’accessibilité (A11Y) est problématique.
+**Sans surprise, l’accessibilité (A11Y) est problématique.**
 Un seul exemple: les contrastes insuffisants représentent un souci bien documenté depuis longtemps (voir [Color Contrast](https://almanac.httparchive.org/en/2024/accessibility#color-contrast) du Web Almanach 2024).
 
 Il n’y a pas de différences sensibles entre des «petits sites personnels» et des «grands projets d’agences».
@@ -56,24 +56,24 @@ Bien utilisé, il permet d’excellents résulats; mal configuré, il est désas
 Je l’ai dit, speedlify propose un classement.
 J’en tire ceci:
 
-> Dans la grande majorité des cas, quand un site améliore son classement, cela ne signifie pas qu’il s’améliore.
+> Dans la grande majorité des cas, **quand un site améliore son classement, cela ne signifie pas qu’il s’améliore**.
 > Ses résultats restent souvent identiques.
 > Mais cela signifie que ce sont ses «concurrents» qui dégringolent; leurs résultats empirent.
 
 Dans l’absolu, je trouve cette notion de classement peu utile dans le monde du web protestant réformé francophone.
 Les présences web sont rarement en concurrence directe et il importe peu de dépasser ses collègues.
 De plus, les mauvais résultats ne semblent pas motiver les plus mauvais à s’améliorer (pour les internautes).
-J’ai toujours rêvé d’une vigilance mutuelle sans compétition.
+J’ai toujours rêvé de vigilance mutuelle sans compétition.
 
 Je pourrais dire la même chose des refontes complètes de sites.
-Les nouveaux sites, bien souvent, ne sont pas meilleurs que ceux qu’ils remplacent du point de vue de la performance.
+Bien souvent, du point de vue de la performance **les nouveaux sites ne sont pas meilleurs que ceux qu’ils remplacent**.
 La lecture de [JavaScript broke the web (and called it progress)](https://www.jonoalderson.com/conjecture/javascript-broke-the-web-and-called-it-progress/) de Jono Alderson donne quelques pistes.
 
 Hors refonte, les modifications techniques semblent rares.
 Quand un site diminue ou augmente la quantité de données transférée, c’est presque toujours une conséquence des contenus publiés.
-C’est un gros problème, peut-être par manque de formation des personnes en charge de la gestion courante.
+C’est un gros problème de compétence, d’attention ou de configuration, peut-être par manque de formation des personnes en charge de la gestion courante.
 
-Je reste surpris par les discours que je trouve ça et là.
+**Je reste surpris par les discours.**
 Un hebdomadaire français nous explique que son site est «rapide et intuitif» alors que les mesures sont médiocres.
 De nombreux sites qui parlent de sauvegarde de la Création continuent de me décevoir par l’écart entre leurs injonctions et leurs sites.
 J’en avais dit un mot dans [Écologie et cohérence sur le web](https://nicolasfriedli.ch/blog/ecologie-coherence/).
@@ -82,9 +82,8 @@ Enfin, je rappelle qu’une annonce dithyrambique n’est pas performative; elle
 ## Besoin de conseils?
 
 Mon suivi régulier s’arrête, mais les enjeux restent.
-
-Il y a des lien vers des outils dans mon billet [Tester un site web](https://nicolasfriedli.ch/blog/tester-site/).
+Mon billet [Tester un site web](https://nicolasfriedli.ch/blog/tester-site/) donne des liens pour vous lancer.
 
 Si vos internautes vous intéressent (vraiment), je reste disponible pour l’amélioration de votre site.
-Je vous conseille gratuitement pour vos sites personnels.
+Je vous conseille **gratuitement pour vos sites personnels**.
 Je suis disponible comme consultant web indépendant pour des projets institutionnels et des sites marchands.
