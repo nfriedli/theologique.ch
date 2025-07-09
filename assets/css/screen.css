@@ -3,18 +3,16 @@
 
     --bg: hsl(312, 25%, 96%);
     --txt: hsl(312, 25%, 20%);
-    --a: hsl(312, 75%, 20%);
+    --txt2: hsl(312, 75%, 20%);
     --deco: hsl(312, 50%, 40%);
-    --h: hsl(312, 100%, 20%);
 }
 
 @media (prefers-color-scheme: dark) {
     :root {
         --bg: hsl(312, 25%, 10%);
         --txt: hsl(312, 25%, 98%);
-        --a: hsl(312, 75%, 90%);
+        --txt2: hsl(312, 75%, 90%);
         --deco: hsl(312, 50%, 60%);
-        --h: hsl(312, 100%, 90%);
     }
 }
 
@@ -54,7 +52,7 @@ footer {
 }
 
 a {
-    color: var(--a);
+    color: var(--txt2);
     text-decoration-thickness: .1em;
     text-underline-offset: .1em;
     text-decoration-color: var(--deco);
@@ -72,8 +70,8 @@ p {
 h1,
 h2,
 h3{
-    color: var(--h);
-    line-height: 1.1;
+    color: var(--txt2);
+    line-height: 1.2;
     margin-block-start: 2rem;
     margin-block-end: 1rem;
     text-wrap: balance;
@@ -81,6 +79,7 @@ h3{
 
 h1 {
     font-size: 2rem;
+    font-weight: 600;
     margin-block-start: 0;
 }
 
@@ -90,6 +89,7 @@ h2 {
 
 h3 {
     font-size: 1.3rem;
+    font-weight: 800;
 }
 
 li {
@@ -117,12 +117,9 @@ hr {
 
 
 blockquote {
-    font-style: italic;
-    margin-inline-start: 1rem;
-}
-
-blockquote em {
-    font-style: normal;
+    border-inline-start: .2rem solid var(--deco);
+    margin: 0;
+    padding-inline-start: 1rem;
 }
 
 nav ul {

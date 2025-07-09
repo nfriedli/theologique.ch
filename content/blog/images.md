@@ -12,4 +12,4 @@ Fin du patrimoine, parce que pas assez bon
 
 Images disponibles sur Google Maps (et chez moi)
 
-Quid du libre de droits, c'est la vraie question
+Quid du libre de droits, c’est la vraie question
