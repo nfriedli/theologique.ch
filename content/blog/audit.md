@@ -11,7 +11,7 @@ Je reprends ce que j’ai écrit dans [Tester un site web](https://nicolasfriedl
 
 Ce toujours problématique de tester son propre site, que l’on connaît bien... notamment pour la navigation.
 
-J'en profite pour donner quelques éléments théologiques ou ecclésiaux.
+J’en profite pour donner quelques éléments théologiques ou ecclésiaux.
 
 ## PageSpeed Insights
 
