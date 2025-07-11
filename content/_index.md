@@ -9,11 +9,11 @@ theologique.ch est un blog protestant réformé proposé par Nicolas Friedli.
 C’est un site personnel, bénévole et indépendant.
 Il est en phase de lent redémarrage :rocket:
 
-## Dans le blog
+## Dans le blog :bouquet:
 
 {{< last >}}
 
-## Pour info
+## Pour info :potted_plant:
 
 Des archives sur plusieurs années sont disponibles dans la [Wayback Machine](https://web.archive.org/web/*/theologique.ch*).
 Il est possible de réagir par Webmentions ou en m’envoyant un mail.
