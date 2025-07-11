@@ -7,6 +7,7 @@ weight = 10
 
 theologique.ch est un blog protestant réformé proposé par Nicolas Friedli.
 C’est un site personnel, bénévole et indépendant.
+Il est en phase de lent redémarrage :rocket:
 
 ## Dans le blog
 
@@ -14,7 +15,7 @@ C’est un site personnel, bénévole et indépendant.
 
 ## Pour info
 
-Le site n’est volontairement pas indexé correctement dans Google pour le moment.
 Des archives sur plusieurs années sont disponibles dans la [Wayback Machine](https://web.archive.org/web/*/theologique.ch*).
 Il est possible de réagir par Webmentions ou en m’envoyant un mail.
-Les statistiques utilisées ([Plausible](https://plausible.io/)) respectent de votre vie privée.
+Les statistiques utilisées respectent de votre vie privée.
+Je ne me soucie pas du référencement du site dans Google (ou dans un autre moteur de recherche).
