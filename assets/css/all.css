@@ -1,8 +1,8 @@
 html {
-  font-family: ui-sans-serif, "Roboto", system-ui, sans-serif;
+  font-family: ui-sans-serif, "Inter", "Roboto", system-ui, sans-serif;
 }
 
 code,
 pre {
-  font-family: ui-monospace, "JetBrains Mono", "Roboto Mono", "Noto Sans Mono", "Menlo", "Consolas", "Cascadia Code", monospace;
+  font-family: ui-monospace, "JetBrains Mono", "Roboto Mono", "Menlo", "Consolas", "Cascadia Code", monospace;
 }
