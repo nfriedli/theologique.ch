@@ -6,7 +6,7 @@ categories = ["web"]
 tags = ["webperf"]
 +++
 
-Durant 18 mois, j’ai testé chaque semaine presque 100 sites protestants réformés francophones avec [speedlify](https://www.speedlify.dev/).
+Durant 18 mois, j’ai testé chaque semaine presque 100 sites protestants réformés francophones avec [speedlify](https://www.speedlify.dev/).
 Cet outil permet d’automatiser des mesures de performances et d’accessibilité (A11Y) sur un ensemble de pages choisies.
 Il utilise [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview?hl=fr) et [Axe](https://www.deque.com/axe/).
 Il propose un classement et un historique de toutes les mesures.
