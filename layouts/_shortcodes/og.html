@@ -1,0 +1,19 @@
+{{ $featured := resources.Get "/opengraph/opengraph.jpg" }}
+{{ $size := 120 }}
+{{ $title := page.LinkTitle }}
+{{ if gt (len $title) 20 }}
+{{ $size = 80 }}
+{{ end }}
+
+{{ $text := $title }}
+            {{ $textOptions := dict 
+                "color" "#000"
+                "size" $size
+                "lineSpacing" 10
+                "x" 65 "y" 80
+                "font" (resources.Get "/opengraph/inter.ttf")
+            }}
+
+{{ $featured = $featured | images.Filter (images.Text $text $textOptions) }}
+
+<img src="{{$featured.Permalink}}">
