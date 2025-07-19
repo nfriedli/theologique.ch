@@ -8,10 +8,6 @@ RewriteCond %{HTTPS} off [OR]
 RewriteCond %{HTTP_HOST} ^www. [NC]
 RewriteRule (.*) https://theologique.ch/$1 [R=301,L]
 
-# Renvoie gone (erreur 410) pour toutes les URL qui contiennent do= en query string (ex DokuWiki)
-RewriteCond %{QUERY_STRING} (^|&)do= [NC]
-RewriteRule ^ - [G,L]
-
 # Redirige les URL avec paramètres vers la même URL sans les paramètres
 RewriteCond %{QUERY_STRING} !^$
 RewriteRule ^(.*)$ /$1? [R=301,L]
@@ -38,6 +34,7 @@ Header unset Last-Modified
 Redirect 301 /feed/atom /index.xml
 Redirect 302 /feed/ /index.xml
 Redirect 302 /feed.php /index.xml
+Redirect 302 /spip.php?page=backend /index.xml
 
 # Cache pour images
 <filesMatch ".(avif|jpg|jpeg|png|gif|ico|svg|webp)$">

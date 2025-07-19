@@ -167,6 +167,12 @@ nav li {
     list-style-type: none;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+    margin-block: 2rem;
+}
+
 ul.tags {
     list-style-type: none;
     margin: 0;
