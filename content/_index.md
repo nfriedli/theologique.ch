@@ -18,5 +18,5 @@ Il est en phase de lent redémarrage.
 Il est possible de réagir par Webmentions ou en m’envoyant un mail.
 Le [flux RSS](/index.xml) permet de s’abonner.
 Les statistiques utilisées respectent de votre vie privée.
-Je ne me soucie pas du référencement du site dans Google (ou dans un autre moteur de recherche) pour le moment.
+J’ai supprimé le site de Google (pour le moment).
 Des archives sur plusieurs années sont disponibles dans la [Wayback Machine](https://web.archive.org/web/*/theologique.ch*).
