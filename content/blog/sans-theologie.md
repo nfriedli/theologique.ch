@@ -31,7 +31,7 @@ https://theologique.ch/index.xml
 ----
 
 Aujourd’hui, j’apprends que [Jérôme Grandet met son blog en pause](https://jeromeg.ch/2025/07/27/stase/).
-Cela m’interpelle sur la fin des blogs, alors que les réseaux sociaux ne fonctionne plus vraiment.
+Cela m’interpelle sur la fin des blogs, alors que les réseaux sociaux ne fonctionnent plus vraiment, malgré les apparences.
 Peut-être qu’il y aura aussi quelque chose à dire sur ce sujet.
 
 ---- 
