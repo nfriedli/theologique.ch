@@ -11,7 +11,8 @@ draft = true
 J’en dis quelque chose d’un point de vue technique dans [Tester un site web](https://nicolasfriedli.ch/blog/tester-site/).
 
 Toutefois, ce billet souhaite parler des enjeux théologiques de ces vérifications.
-Mon objectif est de montrer les conséquences ecclésiologiques, sociales, sociétales, etc. de mauvais résultats.
+Mon objectif est de montrer les conséquences ecclésiologiques, sociales, sociétales, etc.
+de mauvais résultats.
 
 Je teste toujours la page d’accueil de ce site dans les outils proposés.
 Je vous invite à suivre la démarche et à effectuer les mêmes tests avec votre propre site ou un site de votre choix.
@@ -57,7 +58,8 @@ Un mauvais résultat, c’est l’assurance que le site d’affichera mal, voir 
 Cette mesure est globale.
 Elle prend en compte la qualité du serveur, la taille des images, le configuration du cache, le chargement des polices, la complexité de la page, etc.
 
-Les sites protestants, théologiques, ecclésiaux, etc. en français reçoivent une proportion importantes de visites du monde entier.
+Les sites protestants, théologiques, ecclésiaux, etc.
+en français reçoivent une proportion importantes de visites du monde entier.
 L’Afrique francophone, en particulier, est friande de contenus spirituels et cultuels réformés.
 Mais, en Afrique, comme ailleurs, le matériel et les connexions se sont pas les mêmes qu’en Suisse...
 

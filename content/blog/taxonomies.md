@@ -25,7 +25,8 @@ Ce modèle semble fournir des résultats meilleurs que les intelligences artific
 Ce que j’envisage pour le moment, ce sont 3 (+1) taxonomies distinctes, avec des fonctions précises:
 
 catégories
-: Ce sont les grandes rubriques de ce site, des ensembles de pages assez importants. 
+: Ce sont les grandes rubriques de ce site, des ensembles de pages assez importants.
+
   Chaque billet de blog est en principe attribué à 1 catégorie (mais ce n’est pas un absolu).
 
 mots-clés (tags)
@@ -38,8 +39,10 @@ mots-clés (keywords)
   Mais je ne les utiliserai pas par des raisons techniques, ce qui est souvent le cas sur le web.
 
 séries
-: En principe, il existe la possibilité de créer des séries avec Hugo. 
-  C’est utilisé dans les balises opengraph de certains sites. 
+: En principe, il existe la possibilité de créer des séries avec Hugo.
+
+  C’est utilisé dans les balises opengraph de certains sites.
+
   Mais je ne pense pas les utiliser.
 
 ## Taxonomies en théologie

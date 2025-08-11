@@ -10,7 +10,8 @@ draft = true
 > Je ne sais pas si c’est très bien vu d’aller dans des églises juste pour regarder, visiter et faire des photos.
 > Je ne m’autorise pas à y aller à part en vacances où ce sont clairement des lieux touristiques.
 
-> Je ne vais pas à l’église, ni les visiter, car je ne sais jamais si on a le droit. Surtout que je ne suis pas croyante.
+> Je ne vais pas à l’église, ni les visiter, car je ne sais jamais si on a le droit.
+Surtout que je ne suis pas croyante.
 
 ## Paradoxe du sacré
 

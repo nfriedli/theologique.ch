@@ -15,18 +15,22 @@ Le billet de départ, c’est [Cette théorie de la stupidité qui explique pour
 
 ## De la stupidité
 
-Je trouve que Korben s’est plutôt bien débrouillé avec ce que dit Dietrich Bonhoeffer de la stupidité. 
-J’ai consulté les 3 pages sur le sujet dans [Résistance et soumission. Lettres et notes de captivité](https://www.laboretfides.com/product/resistance-et-soumission/) pour m’en assurer.
+Je trouve que Korben s’est plutôt bien débrouillé avec ce que dit Dietrich Bonhoeffer de la stupidité.
+
+J’ai consulté les 3 pages sur le sujet dans [Résistance et soumission.
+Lettres et notes de captivité](https://www.laboretfides.com/product/resistance-et-soumission/) pour m’en assurer.
 
 > Bonhoeffer se demande [...] comment un *pays de poètes et de penseurs* a pu se transformer en machine génocidaire.
 
 Voici, selon les mots de Korben, la thèse de Bonhoeffer:
 
-> Et là, sa définition de la stupidité fait tout exploser. Il balance: *La stupidité n’est pas un défaut intellectuel, mais moral.* [...] La stupidité selon Bonhoeffer, c’est donc le refus volontaire d’exercer son jugement critique.
+> Et là, sa définition de la stupidité fait tout exploser.
+Il balance: *La stupidité n’est pas un défaut intellectuel, mais moral.* [...] La stupidité selon Bonhoeffer, c’est donc le refus volontaire d’exercer son jugement critique.
 
 Puis, toujours selon le blogueur, cette réactualisation:
 
-> Mais attendez, il y a mieux (ou pire, selon le point de vue): *Les faits qui contredisent ses propres préjugés ne sont tout simplement pas crus*. Cette analyse avait 80 ans d’avance sur nos débats stériles dans nos petites bulles algorithmiques sur les réseaux sociaux et je parie que vous reconnaissez le pattern...
+> Mais attendez, il y a mieux (ou pire, selon le point de vue): *Les faits qui contredisent ses propres préjugés ne sont tout simplement pas crus*.
+Cette analyse avait 80 ans d’avance sur nos débats stériles dans nos petites bulles algorithmiques sur les réseaux sociaux et je parie que vous reconnaissez le pattern...
 
 Mais mon propos du jour ne porte pas sur la stupidité.
 Plutôt sur la théologie.
