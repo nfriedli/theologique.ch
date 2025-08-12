@@ -2,6 +2,8 @@
 title = "Priorité au texte"
 description = "Le texte est sans hésitation le meilleur outil de communication. Il est précis, fiable, pérenne. Sur le web ou ailleurs, il résiste au modes. Parier sur le texte me paraît le meilleur moyen de récupérer sa mise (et même plus)."
 date = 2025-08-10
+draft = true
+
 +++
 
 Je viens de découvrir un article qui a plus de 10 ans et qui synthétise bien ce que je pense du format texte.Je m’étonne de ne pas en avoir eu connaissance plus tôt parce qu’il est souvent cité.

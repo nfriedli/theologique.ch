@@ -2,6 +2,8 @@
 title = "URL courtes et simples"
 description = "Les adresses courtes peuvent être lisibles, faciles à mémoriser, simples à transmettre, jolies à l’impression, créatives dans le choix des lettres. Elles permettent aussi des codes QR plus petits pour les représenter en images."
 date = 2025-08-07
+draft = true
+
 +++
 
 Un des choix importants lors de la création d'un nouveau site, c'est la gestion des URL (Uniform Resource Locator) ou adresses web.

@@ -45,7 +45,7 @@ C’est facile:
 
 Pourtant, la majorité des réseaux sociaux ne permet pas (ou plus) un suivi natif par flux.
 En 25 ans, RSS et Atom ne me semblent pas avoir fait d’ombre à des sites commerciaux.
-Je considère les sites qui ne proposent pas de RSS ou Atom comme [merdifiés](https://www.lemonde.fr/idees/article/2025/04/23/la-merdification-ce-processus-inexorable-de-degradation-de-la-qualite-des-services-sur-les-plateformes-numeriques_6599211_3232.html) et à éviter.
+Je considère les sites qui ne proposent pas de RSS ou Atom comme [merdifiés](/blog/merdification/) et à éviter.
 
 ----
 

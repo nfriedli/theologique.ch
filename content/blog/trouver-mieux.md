@@ -17,7 +17,7 @@ Elle commence ainsi:
 Pour relancer theologique.ch, j’ai fait quelques fois le tour de la terre ces derniers mois.
 J’ai [réinstallé SPIP](https://nicolasfriedli.ch/blog/spip/), un bel outil qui traîne ses scories.
 J’ai réessayé DokuWiki, qui permet d’avancer à une vitesse folle, mais au risque de l’épuisement.
-J’ai réenvisagé Shaarli, qui s’est (hélas) copieusement alourdi et [merdifié](https://ploum.net/2023-06-15-merdification.html).
+J’ai réenvisagé Shaarli, qui s’est (hélas) copieusement alourdi et [merdifié](/blog/merdification/).
 
 Mais jamais je n’ai trouvé mieux qu’un blog pour essayer de publier des contenus plus ou moins théologiques.
 On continue avec Francis Cabrel:

@@ -2,6 +2,8 @@
 title = "Web sématique facile"
 description = "Structurer sa page avec des intertitres, utiliser le bon type de liste, ajouter des emphases faibles ou forte ou des séparateurs. Le web est sémantique quand il est clair (ou l'inverse)."
 date = 2025-08-11
+draft = true
+
 +++
 
 Je viens de voir la page [Why Semantic HTML Matters For SEO And AI](https://www.searchenginejournal.com/why-semantic-html-matters-for-seo-and-ai/553197/) dans mon agrégateur de flux.

@@ -2,6 +2,7 @@
 title = "Devernir influenceur (ou pas)"
 description = "Je crois qu’avec les liens que je publie, je joue un peu de l’influence douce. Ce que je souhaite vraiment, c’est que les internautes suivent les liens que je leur propose. Parce que je choisis de renvoyer à des contenus que j’ai lus et que j’estime stimulants pour la réflexion."
 date = 2025-08-08
+draft = true
 +++
 
 En prenant quelques notes sur des publications possibles, je remarque que je choisis un titre (provisoire) et que j'ajoute en général au moins 1 lien externe dans le corps du texte.

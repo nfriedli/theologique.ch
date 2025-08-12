@@ -2,6 +2,8 @@
 title = "Court & subversif"
 description = "Quelques pistes sur l’affirmation que les billets de blog courts sont subversifs. J’estime que la longueur des écrits ne dit rien de leur potentiel pour susciter la réflexion. Les formats ne sont pas gage de qualité."
 date = 2025-08-05
+draft = true
+
 +++
 
 J'ai lu avec intérêt [Short form blogs are subversive{en}](https://lukealexdavis.co.uk/posts/short-form-blogs-subversive/).
