@@ -6,7 +6,7 @@ defaultContentLanguage = "fr"
 
 copyright = "Creative Commons Zero (CC0)"
 
-disableKinds = ["robotstxt", "taxonomy", "term"]
+disableKinds = ["robotstxt", "taxonomy", "term", "RSS"]
 noBuildLock = true
 summaryLength = 30
 
