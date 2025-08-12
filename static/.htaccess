@@ -29,11 +29,13 @@ Header always set Permissions-Policy "accelerometer=(), camera=(), geolocation=(
 Header unset Pragma
 Header unset Last-Modified
 
-# Redirection flux RSS
-Redirect 301 /feed/atom /index.xml
-Redirect 302 /feed/ /index.xml
-Redirect 302 /feed.php /index.xml
-Redirect 302 /spip.php?page=backend /index.xml
+# Transparence des flux RSS
+RewriteRule ^feed/atom$ /index.xml [R=301,L]
+RewriteRule ^feed/?$ /index.xml [R=301,L]
+RewriteRule ^feed\.php$ /index.xml [R=301,L]
+
+RewriteCond %{QUERY_STRING} ^page=backend$
+RewriteRule ^spip\.php$ /index.xml [R=301,L]
 
 # Cache pour images
 <filesMatch ".(avif|jpg|jpeg|png|gif|ico|svg|webp)$">
@@ -41,6 +43,6 @@ Header set Cache-Control "max-age=31536000, public"
 </filesMatch>
 
 # Cache immutable pour fonts et css
-<filesMatch ".(css|woff2)$">
+<filesMatch ".(css|woff2|js)$">
 Header set Cache-Control "max-age=63072000, public, immutable"
 </filesMatch>

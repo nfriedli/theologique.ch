@@ -2,3 +2,6 @@ Sitemap: https://theologique.ch/sitemap.xml
 
 User-agent: *
 Disallow: /404.html
+
+User-agent: *
+Disallow: /spip/
