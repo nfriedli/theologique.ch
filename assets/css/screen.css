@@ -124,19 +124,16 @@ dd {
     margin-inline-start: 1rem;
 }
 
-pre,
-code {
-    font-size: .875rem;
-}
-
 code:not(pre code) {
     border: 1px solid var(--deco);
+    font-size: .875em;
     padding-inline: .1rem;
 }
 
 pre {
     background: var(--txt);
     color: var(--bg);
+    font-size: .875rem;
     margin-block-end: 2rem;
     overflow-x: auto;
     padding: .5rem 1rem;
