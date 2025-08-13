@@ -12,7 +12,7 @@ C’est peut-être là que je pourrais être pertinent.
 
 J’ai fait pas mal de lectures intéressantes durant mes vacances, par exemple:
 
-- [Short form blogs are subversive](https://www.inoreader.com/article/3a9c6e771750ceff-short-form-blogs-are-subversive) (j'ai écris un billet par la suite: [Court & subversif](/blog/subversif/))
+- [Short form blogs are subversive](https://www.inoreader.com/article/3a9c6e771750ceff-short-form-blogs-are-subversive) (j’ai écris un billet par la suite: [Court & subversif](/blog/subversif/))
 - [About this website](https://gwern.net/about)
 - [The Internet Changed My Life](https://pointersgonewild.com/2022/01/19/the-internet-changed-my-life/)
 
