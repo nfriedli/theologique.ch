@@ -30,7 +30,7 @@ Là non plus, la longueur n'est pas un critère.
 La dernière affirmation, **court car subversif**, laisse entendre que le format court s'impose pour être subversif.
 Cette piste me semble peu fondée, parce que des idées longues et développées peuvent parfaitement susciter le déclic et provoquer la réflexion.
 
-Il faudrait bien entendu développer la notion de [subversion](https://fr.wikipedia.org/wiki/Subversion], qui a un sens beaucoup plus large.
+Il faudrait bien entendu développer la notion de [subversion](https://fr.wikipedia.org/wiki/Subversion), qui a un sens beaucoup plus large.
 Et plus encore la volonté de publier du contenu subversif.
 Les propositions de Luke Davis me suffisent pour le moment.
 Je me sens prêt à écrire des articles de toutes longueurs, à la manière des pistes 2 et 3.

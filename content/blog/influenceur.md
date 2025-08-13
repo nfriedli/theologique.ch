@@ -27,7 +27,6 @@ Parce que je choisis de renvoyer à des contenus que j'ai lus et que j'estime st
 
 Si je peux être «blogueur (protestant) influent» -- vieille formule dépassée -- en permettant à celles et ceux qui me suivent de lire des personnes plus intéressantes que moi, ça me convient très bien.
 
-
 Sur theologique.ch, j'ai installé des statistiques.
 Il va de soi qu'elles sont respectueuses de votre vie privée ([Plausible Analytics Privacy Policy](https://plausible.io/privacy]).
 Cela vous étonnera peut-être, mais je me fich) pas mal du nombre de visites.
@@ -40,4 +39,3 @@ Je suis intéressé par 3 informations:
 J'ai configuré les statistiques ainsi bien avant de penser à ce billet, comme je le fais sur tous les sites.
 Parce que les liens et les textes sont toujours les éléments constitutifs du web, je vérifie en permanence que ces principes fonctionnent toujours.
 Le reste n'est que bullshit.
-

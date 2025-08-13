@@ -9,7 +9,6 @@ draft = true
 Un des choix importants lors de la création d'un nouveau site, c'est la gestion des URL (Uniform Resource Locator) ou adresses web.
 Pour ce site, je les souhaite courtes et simples.
 
-
 J'utilise le terme «URL» au féminin, mais on rencontre parfois le masculin.
 
 En principe, les adresses ne changent plus une fois «figées».
@@ -19,13 +18,12 @@ En 1998 déjà, le créateur du web Tim Berners-Lee nous disait que les bonnes a
 Schématiquement, il existe 3 types d'adresses de pages:
 
 - celles qui sont conformes à la hiérarchie des pages sur le serveur, c'est ce que j'utilise pour [Trouver ma paroisse](https://ma-paroisse.ch/).
-Par exemple https://ma-paroisse.ch/neuchatel/barc/ qui se situe bien au même endroit dans les sources: https://github.com/nfriedli/ma-paroisse.ch/blob/main/content/neuchatel/barc.md
-- celles qui sont utilisées par ces CMS (Content Management System ou système de gestion de contenu) comme WordPress et qui ne dépendent pas de la présence réelle d'un fichier (logique, tous les contenus se trouvent dans une base de données), par exemple: https://dianefriedli.ch/ce-blog-a-10-ans/
-- celles qui sont une suite aléatoire de caractères, par exemple https://sebsauvage.net/links/?MZ9hOg dans le Shaarli de son créateur Sebastien Sauvage
+Par exemple <https://ma-paroisse.ch/neuchatel/barc/> qui se situe bien au même endroit dans les sources: <https://github.com/nfriedli/ma-paroisse.ch/blob/main/content/neuchatel/barc.md>
+- celles qui sont utilisées par ces CMS (Content Management System ou système de gestion de contenu) comme WordPress et qui ne dépendent pas de la présence réelle d'un fichier (logique, tous les contenus se trouvent dans une base de données), par exemple: <https://dianefriedli.ch/ce-blog-a-10-ans/>
+- celles qui sont une suite aléatoire de caractères, par exemple <https://sebsauvage.net/links/?MZ9hOg> dans le Shaarli de son créateur Sebastien Sauvage
 
 Il existe aussi des adresses courtes, souvent créées par des systèmes externes, sur lesquels nous n'avons pas la gestion.
 Je ne traite pas du sujet ici.
-
 
 Derek Sivers a choisi d'utiliser des URL à la fois courtes et simple.
 Ce qui signifie que la longueur ne doit pas déranger la lisibilité.
@@ -35,8 +33,8 @@ Ces adresses peuvent être à la fois simplement mémorisées,  transmises orale
 J'ajouterais qu'elles permettent une certaine créativité.
 Et que des URL pas trop longues sont plus faciles à insérer dans des textes imprimés.
 
-Pour cette page, SPIP (le CMS utilisé ici) a choisi une URL en fonction du titre: https://theologique.ch/url-courtes-et-simples C'est correct, mais le `-et-` est inutile, tant pour la lisibilité que pour l'hypothétique apport au référencement.
-J'ai modifié l'adresse pour choisir, simplement: https://theologique.ch/url 
+Pour cette page, SPIP (le CMS utilisé ici) a choisi une URL en fonction du titre: <https://theologique.ch/url-courtes-et-simples> C'est correct, mais le `-et-` est inutile, tant pour la lisibilité que pour l'hypothétique apport au référencement.
+J'ai modifié l'adresse pour choisir, simplement: <https://theologique.ch/url>
 
 Tout n'est pas rose avec des adresses très courtes, qui ne reflètent pas la hiérarchie du site.
 Par exemple, il est impossible d'obtenir des statistiques par répertoire ou sous-répertoire.

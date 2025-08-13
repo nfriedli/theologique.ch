@@ -103,7 +103,7 @@ La particularité du `commit`, c'est qu'il est composé d'un ensemble d'élémen
 
 - la photographie elle-même, de tous les fichiers du corpus, où qu'ils se trouvent dans le répertoire racine
 - le nom et l'email de la personne qui le fait
-- un message, qui explique sur quoi il porte 
+- un message, qui explique sur quoi il porte
 - sa date
 - une somme de contôle `SHA1`, c'est-à-dire une clé unique qui permet de l'identifier parmi l'ensemble des commits
 
@@ -203,7 +203,7 @@ Cette fonction est très utile pour savoir exactement ce qui va entrer
 dans le nouveau `commit`, et quel est le message le plus adapté pour
 décrire ces modifications.
 
-**Note.** 
+**Note.**
 Git, l'outil que nous utiliserons dans la suite de ce document, permet plus de finesses dans le choix de ce qui va être
 commité.
 Il est pourtant trop tôt pour en parler ici et c'est par choix
@@ -228,7 +228,8 @@ bibliothèque de s'assurer que tous les livres, et les nouvelles
 **Note.** Nous verrons plus tard que pour identifier des version très
 précise du corpus, la notion de tag est encore plus efficace… Patience!
 
-## Cloner un dépôt avec...
+## Cloner un dépôt avec
+
 `clone`
 
 Les deux passages précédents présentaient deux actions courantes.
@@ -393,7 +394,7 @@ ajout.
 
 Un patch, c'est donc un semble d'opérations qui permettent de reproduire le passage d'un état à un autre sur tout un corpus.
 
-**Note.** 
+**Note.**
 Nous verrons au cours de cette documentation que des outils beaucoup plus puissants que le patch existent.
 Pourtant, il reste d'actualité pour deux raisons principales:
 
@@ -496,7 +497,7 @@ Il se se passe alors deux choses:
 - les fichiers qui restent identiques sur les deux branches ne changent simplement pas
 - les fichiers qui ont été modifiés sur la branche de développement (appelée, par exemple, `dev`) remplacent ceux de l'ancienne branche (`main`).
 
-Une fusion complexe, qui survient lorsque des mêmes fichiers ont été modifiés sur les deux branches. 
+Une fusion complexe, qui survient lorsque des mêmes fichiers ont été modifiés sur les deux branches.
 Si merge était un remplacement, cette opération se déroulerait comme un merge simple, et les fichiers d'une branche seraient remplacés par ceux de l'autres.
 Voici ce qui se passe:
 

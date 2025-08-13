@@ -26,7 +26,7 @@ Et je ne le fais simplement pas!
 Je vais peut-être désactiver mon flux RSS pour ne pas inonder les (hypothétiques) internautes qui me suivent.
 Mais il sera toujours disponible à la même adresse, redirigée au besoin:
 
-https://theologique.ch/index.xml
+<https://theologique.ch/index.xml>
 
 ----
 

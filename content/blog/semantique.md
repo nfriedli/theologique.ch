@@ -25,7 +25,7 @@ Contentez-vous de faire du bon boulot *dans* votre page ou votre article, dans s
 
 ## Structure des publications
 
-Toute publication a un titre, qui est automatiquement balisé `h1`. 
+Toute publication a un titre, qui est automatiquement balisé `h1`.
 Il n'y a rien à faire, tout est automatique.
 
 Ensuite, vous *pouvez* structurer votre billet avec des intertitres.

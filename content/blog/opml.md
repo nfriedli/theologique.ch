@@ -25,14 +25,12 @@ La petite sélection propose des sites personnels et des sites de médias ou ins
 Tous ont proposé des publications durant les derniers mois.
 Cela me semble être un bon point de départ.
 
-
-
 Bien entendu, vous supprimerez les sites qui ne vous conviennent pas.
 Vous ajouterez ceux qui vous semblent nécessaires.
 Vous créerez des catégories.
 La lecture des flux est toujours plus efficace et gratifiante que on travaille avec sa propre logique.
 
-**Je suis preneur de vos suggestions de sites à ajouter à ce «Starter Kit theologique.ch».** 
+**Je suis preneur de vos suggestions de sites à ajouter à ce «Starter Kit theologique.ch».**
 Vous pouvez aussi m’envoyer votre liste à <contact+opml@theologique.ch>.
 
 ## Qui a peur des flux RSS?
