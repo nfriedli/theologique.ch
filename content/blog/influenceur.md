@@ -29,12 +29,12 @@ Si je peux être «blogueur (protestant) influent» -- vieille formule dépassé
 
 
 Sur theologique.ch, j'ai installé des statistiques.
-Il va de soi qu'elles sont respectueuses de votre vie privée ([Plausible Analytics Privacy Policy{en}](https://plausible.io/privacy]).
+Il va de soi qu'elles sont respectueuses de votre vie privée ([Plausible Analytics Privacy Policy](https://plausible.io/privacy]).
 Cela vous étonnera peut-être, mais je me fich) pas mal du nombre de visites.
 Je suis intéressé par 3 informations:
 
 - les erreurs 404 qui me permettent de détecter des liens qui mènent vers des pages qui ne sont pas ou plus en ligne, et au besoin de proposer des redirections utiles
-- les liens sortants (les clics sur les liens externes que je propose), pour me rassurer et savoir que <del>je  joue de mon influence</del> je propose des liens qui intéressent les internautes
+- les liens sortants (les clics sur les liens externes que je propose), pour me rassurer et savoir que ~~je  joue de mon influence~~ je propose des liens qui intéressent les internautes
 - les liens entrants, pour détecter les blogueurs et blogueuses qui ont de l'influence et la bonne idée de renvoyer à mon site
 
 J'ai configuré les statistiques ainsi bien avant de penser à ce billet, comme je le fais sur tous les sites.
