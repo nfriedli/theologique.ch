@@ -124,6 +124,10 @@ dd {
     margin-inline-start: 1rem;
 }
 
+dt + dt{
+    margin-block-start: 0;
+}
+
 code:not(pre code) {
     border: 1px solid var(--deco);
     font-size: .875em;
