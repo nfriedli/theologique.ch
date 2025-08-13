@@ -14,7 +14,7 @@ J'utilise le terme «URL» au féminin, mais on rencontre parfois le masculin.
 
 En principe, les adresses ne changent plus une fois «figées».
 Et, quand elles sont modifiées pour de bonnes raisons, elles devraient être redirigées.
-En 1998 déjà, le créateur du web Tim Berners-Lee nous disait que les bonnes adresses ne changent pas: [Cool URIs don't change{en}](https://www.w3.org/Provider/Style/URI).
+En 1998 déjà, le créateur du web Tim Berners-Lee nous disait que les bonnes adresses ne changent pas: [Cool URIs don't change](https://www.w3.org/Provider/Style/URI).
 
 Schématiquement, il existe 3 types d'adresses de pages:
 
@@ -29,7 +29,7 @@ Je ne traite pas du sujet ici.
 
 Derek Sivers a choisi d'utiliser des URL à la fois courtes et simple.
 Ce qui signifie que la longueur ne doit pas déranger la lisibilité.
-Il en parle très bien dans [Short URLs: why and how{en}](https://sive.rs/su).
+Il en parle très bien dans [Short URLs: why and how](https://sive.rs/su).
 
 Ces adresses peuvent être à la fois simplement mémorisées,  transmises oralement, et être jolies.
 J'ajouterais qu'elles permettent une certaine créativité.

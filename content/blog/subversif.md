@@ -6,9 +6,9 @@ draft = true
 
 +++
 
-J'ai lu avec intérêt [Short form blogs are subversive{en}](https://lukealexdavis.co.uk/posts/short-form-blogs-subversive/).
+J'ai lu avec intérêt [Short form blogs are subversive](https://lukealexdavis.co.uk/posts/short-form-blogs-subversive/).
 Si l'on s'en tient au titre, Luke Davis nous dit que les billets courts sont subversifs.
-Comme j'ai hésité à n'utiliser que [Shaarli{en}](https://shaarli.readthedocs.io/en/master/) pour le présent site, c'est bien entendu une question qui m'intéresse.
+Comme j'ai hésité à n'utiliser que [Shaarli](https://shaarli.readthedocs.io/en/master/) pour le présent site, c'est bien entendu une question qui m'intéresse.
 
 Il me semble qu'il faut essayer d'aller un peu plus loin sur le rapport entre longueur et subversion.
 
