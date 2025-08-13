@@ -2,8 +2,8 @@
 title = "Priorité au texte"
 description = "Le texte est sans hésitation le meilleur outil de communication. Il est précis, fiable, pérenne. Sur le web ou ailleurs, il résiste au modes. Parier sur le texte me paraît le meilleur moyen de récupérer sa mise (et même plus)."
 date = 2025-08-10
-draft = true
-
+lastMod = 2025-08-13
+aliases = ["/txt"]
 +++
 
 Je viens de découvrir un article qui a plus de 10 ans et qui synthétise bien ce que je pense du format texte.Je m’étonne de ne pas en avoir eu connaissance plus tôt parce qu’il est souvent cité.
@@ -31,8 +31,8 @@ Conclusion: toujours le privilégier.
 Je ne discute pas ici de la pertinence de l’utilisation d’un LLM pour une tâche aussi simple...
 
 Pour theologique.ch, j’ai décidé de favoriser le texte.
-Les images ne sont pas exclues, j’en ai déjà inséré dans URL courtes et simples.
-Mais je ne me vois pas en inclure partout à titre décoratif.
+Les images ne sont pas exclues, mais si elles sont nécessaires.
+Je ne me vois pas en inclure partout à titre décoratif.
 Pour dire vrai, je n’ai pas besoin de me forcer, tant j’aime le texte sur le web.
 J’aime produire pour le web (plutôt que simplement «mettre sur le web») et j’aime lire sur le web.
 
@@ -65,5 +65,8 @@ Le passage [Premières utilisations](https://fr.wikipedia.org/wiki/S%C3%A9maphor
 
 ----
 
-En passant, je rejoins l’auteur sur l’utilisation de son blog telle qu’il la décrit dans son premier paragraphe.
+En passant, je rejoins l’auteur sur l’utilisation de son blog telle qu’il la décrit dans son premier paragraphe:
+
+> I figured I should just post this somewhere so I can make future reference to how I feel about the matter, anytime someone asks me [...]
+
 Publier des notices dans l’idée de pouvoir y faire référence plus tard, parce que qu’elles traitent de thématiques et de questions qui arriveront un jour ou l’autre.
