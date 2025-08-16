@@ -7,7 +7,9 @@ weight = 10
 
 **theologique.ch s’est arrêté définitivement le 16 août 2025.  
 Je n’ai plus ni force ni envie.  
-Merci pour ces belles années.**
+Merci pour les belles années de partages en ligne.**
+
+----
 
 theologique.ch était un site publié par Nicolas Friedli.  
 Il s’inscrivait dans une vision protestante réformée.  
