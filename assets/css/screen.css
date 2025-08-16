@@ -184,6 +184,11 @@ aside {
     padding: .5rem 1rem;
 }
 
+aside.warning {
+    border: .3rem solid red;
+    font-size: 1rem;
+}
+
 ul.tags {
     list-style-type: none;
     margin: 0;
