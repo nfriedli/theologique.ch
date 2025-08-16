@@ -2,6 +2,7 @@
     color-scheme: dark light;
 
     --bg: hsl(312, 25%, 96%);
+    --bg2: hsl(312, 100%, 90%);
     --txt: hsl(312, 25%, 20%);
     --txt2: hsl(312, 75%, 20%);
     --deco: hsl(312, 50%, 40%);
@@ -10,6 +11,7 @@
 @media (prefers-color-scheme: dark) {
     :root {
         --bg: hsl(312, 25%, 10%);
+        --bg2: hsl(312, 50%, 20%);
         --txt: hsl(312, 25%, 98%);
         --txt2: hsl(312, 75%, 90%);
         --deco: hsl(312, 50%, 60%);
@@ -129,7 +131,7 @@ dt + dt{
 }
 
 code:not(pre code) {
-    border: 1px solid var(--deco);
+    background: var(--bg2);
     font-size: .875em;
     padding-inline: .1rem;
 }
