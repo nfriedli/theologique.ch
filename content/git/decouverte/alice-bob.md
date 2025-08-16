@@ -28,16 +28,12 @@ Charles
   Charles s’intéresse particulièrement aux scènes de crucifixion.
   Il peine à trouver une introduction au Nouveau Testament adaptée aux étudiants en lettres.
 
-## Le choix du Nouveau Testament
+Je prendrai comme corpus d'exemple une *Introduction au Nouveau Testament*:
 
-L’idée de prendre comme corpus d’exemple un cours d’introduction au
-Nouveau Testament se justifie pour plusieurs raison:
+- parce que l’auteur principal de cette documentation est théologien et que c’est une matière qu’il connaît
+- parce que le Nouveau Testament constitue un corpus diversifié et intéressant qui se prêtera bien aux exemples
 
-- Parce que l’auteur principal de cette documentation est théologien et que c’est une matière qu’il connaît.
-- Parce que le Nouveau Testament constitue en soi un corpus diversifié et intéressant qui se prêtera bien aux exemples donnés.
-- Parce qu’à l’époque de mes études en théologie, il n’existait pas de réelle introduction au Nouveau Testament en français.
-  J’ai eu d’excellents cours dispensé par le professeur [Andreas Dettwiler](http://www.unige.ch/theologie/faculte/collaborateurs/nouveau-testament/dettwiler.html)     qui disposait de son propre cours.
-  Si Alice n’était pas un nom commun des exemples informatiques, elle aurait pu s’appeler Andreas ;)
+
 
 ## Le parcours
 
