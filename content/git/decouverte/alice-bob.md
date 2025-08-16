@@ -33,8 +33,6 @@ Je prendrai comme corpus d'exemple une *Introduction au Nouveau Testament*:
 - parce que l’auteur principal de cette documentation est théologien et que c’est une matière qu’il connaît
 - parce que le Nouveau Testament constitue un corpus diversifié et intéressant qui se prêtera bien aux exemples
 
-
-
 ## Le parcours
 
 Nous allons découvrir la gestion de versions tout d’abord en compagnie d’Alice.

@@ -28,4 +28,4 @@ Nous proposons donc un plan un peu particulier:
   L’enseignement est beaucoup plus rude, mais conçu pour permettre un apprentissage rapide et efficace.
 - Dans une troisième partie, nous discutons des enjeux et des difficultés d’un passage réel à git.
 
-Découvrez le logiciel de gestion de révision *dont vous êtes le héros ou l'héroïne* ;)
+Découvrez le logiciel de gestion de révision *dont vous êtes le héros ou l'héroïne*!

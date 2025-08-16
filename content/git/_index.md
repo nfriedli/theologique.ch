@@ -1,11 +1,12 @@
 +++
-title = "Git en sciences humaines et sociales, en théologie, en DH, et le reste..."
-linkTitle = "Git en théologie"
+title = "Git en théologie"
 menu = "main"
 weight = 20
 +++
 
-Cette documentation est en cours de rédaction.
-Je ne sais pas quand je la terminerai.
+Cette documentation s'adressent aux disciplines qui ne traitent pas de code, mais simplement de texte.
+La gestion des révisions est susceptible d'intéresser tout personne qui produit des documents, qui se soucie de leur évolution et qui cherche à bien collaborer.
+
+Bonne découverte!
 
 {{< subpages >}}
