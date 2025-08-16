@@ -22,7 +22,7 @@ La révision de versions répond à un certain nombre de probématiques classiqu
 - comment tester des pistes sans prendre le risque de tout casser?
 - comment proposer des modifications à un projet auquel on ne participe pas?
 
-Même si les documents sources diffèrent fortement entre code informatique et travaux «de texte», les grandes questions restent identiques. 
+Même si les documents sources diffèrent fortement entre code informatique et travaux «de texte», les grandes questions restent identiques.
 Comment utiliser `git`, un logiciel de référence dans le développement informatique, dans un contexte de sciences humaines ou sociales, théologie, humanités numériques, droit, etc.?
 
 Pour le moment, j'actualise la partie [Découvrir la gestion de version](/git/decouverte/).
