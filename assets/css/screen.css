@@ -175,6 +175,13 @@ img {
     margin-block: 2rem;
 }
 
+aside {
+    border: .15rem solid var(--deco);
+    font-size: .85rem;
+    margin-block: 2rem;
+    padding: .5rem 1rem;
+}
+
 ul.tags {
     list-style-type: none;
     margin: 0;
