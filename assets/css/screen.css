@@ -185,7 +185,9 @@ aside {
 }
 
 aside.warning {
-    border: .3rem solid red;
+    background:  hsl(0, 100%, 95%);
+    border: .3rem solid hsl(0, 100%, 50%);
+    color:  hsl(0, 100%, 20%);
     font-size: 1rem;
 }
 
