@@ -5,9 +5,9 @@ menu = "main"
 weight = 10
 +++
 
-theologique.ch s’est arrêté définitivement (ou pas) le 16 août 2025.
-Je n’ai plus ni force ni envie pour essayer de proposer des contenus théologiques.
-Je n'exclus pas de garder un blog personnel à cette adresse.
+theologique.ch s’est arrêté définitivement (ou pas) le 16 août 2025.  
+Je n’ai plus ni force ni envie pour proposer des contenus théologiques.  
+Je n'exclus pas de garder un blog personnel à cette adresse.  
 Merci pour les belles années de partages en ligne.
 
 ----
