@@ -39,7 +39,3 @@ email = "contact+rss@theologique.ch"
 
 [services.rss]
 limit = "20"
-
-[taxonomies]
-category = "categories"
-tag = "tags"

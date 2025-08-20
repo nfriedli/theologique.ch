@@ -8,8 +8,7 @@ body {
 
 header,
 footer,
-#TableOfContents,
-.tags {
+#TableOfContents {
     display: none;
 }
 
