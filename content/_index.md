@@ -1,21 +1,19 @@
 +++
 title = "theologique.ch"
-description = "Le site protestant réformé de Nicolas Friedli explore les différentes expressions théologiques sur le web en Suisse romande et dans le monde francophone."
+description = "theologique.ch est un site personnel et indépendant proposé par Nicolas Friedli. Il ne propose plus de contenus théologiques mais est publié par un théologien protestant réformé."
 menu = "main"
 weight = 10
 +++
 
-theologique.ch s’est arrêté définitivement (ou pas) le 16 août 2025.
-Je n’ai plus ni force ni envie pour proposer des contenus théologiques.
-Je n'exclus pas de garder un blog personnel à cette adresse.
-Merci pour les belles années de partages en ligne.
+theologique.ch est un site personnel et indépendant proposé par Nicolas Friedli.
+Il ne propose plus de contenus théologiques mais est publié par un théologien protestant réformé.
+Je conserve ce nom de domaine qui m'accompagne depuis des années.
 
-----
+## Sur le blog
 
-theologique.ch était un site publié par Nicolas Friedli.
-Il s’inscrivait dans une vision protestante réformée.
-C’était un site personnel et indépendant.
+{{< last >}}
 
-----
+## Archives
 
-Des archives sur plusieurs années sont disponibles dans la [Wayback Machine](https://web.archive.org/web/*/theologique.ch*).
+Des anciennes versions de ce site et de nombreuses archives sont disponibles dans la [Wayback Machine](https://web.archive.org/web/*/theologique.ch*) de l'Internet archive.
+Je vous invite à y faire entrer systématiquement vos publications ou celles que vous citez dans vos articles.

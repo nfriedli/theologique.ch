@@ -55,12 +55,9 @@ body {
 
 header,
 footer,
-time,
-.’s {
+time {
     font-size: .85rem;
 }
-
-
 
 footer {
     margin-block-start: auto;
@@ -88,7 +85,8 @@ h3,
 h4 {
     color: var(--txt2);
     line-height: 1.2;
-    margin-block: 2rem;
+    margin-block-start: 2rem;
+    margin-block-end: 1rem;
     text-wrap: balance;
 }
 
@@ -97,10 +95,6 @@ h1 {
     font-weight: 500;
     margin-block-start: 0;
     margin-block-end: 1rem;
-}
-
-h1 + p {
-    margin-block-start: 2rem;
 }
 
 h2 {
