@@ -18,11 +18,11 @@ Par contraste, des étudiant·e.s de Stanford et des historien·ne·s profession
 
 ## La méthode
 
-Leur méthode s’appelle SIFT (traduction libre dans l'esprit de la méthode):
+Leur méthode s’appelle SIFT (traduction libre dans l’esprit de la méthode):
 
 - Stop (arrête-toi avant de lire la page)
 - Investigate the source (identifie et vérifie la source)
-- Find better coverage (trouve d'autres informations et plus d'articles sur le sujet)
+- Find better coverage (trouve d’autres informations et plus d’articles sur le sujet)
 - Trace claims, quotes and media to the original context (remonte aux origines et replace les choses dans leurs contextes)
 
 Avant de commencer à lire une page, il convient de s’arrêter.

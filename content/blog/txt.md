@@ -44,7 +44,7 @@ Il faut «parler aux jeunes».
 Pourquoi pas, ce n’est pas ma langue, mais certaines et certaines la maîtrisent plutôt bien.
 
 Ce que j’observe surtout, c’est une importante production d’images Instagram qui portent du texte.
-Sans alternatives (l'attribut `alt`), sans statut d’accompagnement, sans hashtags, ces images sont vouées à un oubli presque immédiat.
+Sans alternatives (l’attribut `alt`), sans statut d’accompagnement, sans hashtags, ces images sont vouées à un oubli presque immédiat.
 La recherche, même sur Instagram, est aussi textuelle.
 
 Vous avez le droit de laisser les réseaux sociaux reconstituer des descriptions d’images à coups d’intelligences artificielles, mais vous avez aussi le droit d’écrire quelques mots de votre clavier pour leur donner de la valeur.
