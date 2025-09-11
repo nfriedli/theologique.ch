@@ -93,10 +93,11 @@ Si je dis que Markdown a gagné, c’est que d’autres ont «perdu» la course.
 - [reStructuredText](https://fr.wikipedia.org/wiki/ReStructuredText) est plus puissant que Markdown.
 Il n’est pas orienté spécifiquement pour le web et permet des constructions très raffinées.
 C’est le langage par défaut de l’excellent [Sphinx](https://www.sphinx-doc.org/en/master/index.html).
-Mais Markdown est tellement répandu que (même) Sphinx propose une extension qui pour lui.
+Mais Markdown est tellement répandu que (même) Sphinx propose une extension spécifique pour lui.
 
 - [AsciiDoc](https://asciidoc.org/) propose plus de richesse sémantique que Markdown.
 Il cherche aussi à proposer un code lisible et peut être transformé en plusieurs formats de sortie intéressants.
+Je n’ai jamais apprécié cette syntaxe.
 
 Mais ces langages de balisage sont pénibles à utiliser pour une personne qui ne passe pas son temps à rédiger des documentations techniques.
 Le choix pragmatique, c’est bien Markdown.
