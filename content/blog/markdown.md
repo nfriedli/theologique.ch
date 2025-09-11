@@ -2,7 +2,6 @@
 title = "Markdown a gagné"
 description = "Le langage de balise léger Markdown est le plus utilisé aujourd’hui. De nombreux outils le produisent ou le comprennent. Il est facile à apprendre et suffisant pour la grande majorité des usages."
 date = 2025-09-11
-draft = true
 +++
 
 Le langage de balisage léger Markdown a gagné la course.
@@ -128,13 +127,17 @@ La possibilité de collaborer vraiment, la maintenance d’un corpus en ligne (o
 
 Le premier paragraphe de l’article d’Arthur Perret cité précédemment:
 
-> Ma recherche est de nature épistémologique: j’examine la manière dont la connaissance advient, est construite. Plus précisément, j’étudie les outils d’écriture, les processus d’analyse et de synthèse de connaissances, ainsi que l’édition scientifique. C’est une recherche qui est ancrée dans le monde du texte et du document.
+> Ma recherche est de nature épistémologique: j’examine la manière dont la connaissance advient, est construite.
+> Plus précisément, j’étudie les outils d’écriture, les processus d’analyse et de synthèse de connaissances, ainsi que l’édition scientifique. 
+> C’est une recherche qui est ancrée dans le monde du texte et du document.
 
-L’édition de documents dans un [éditeur de texte](https://fr.wikipedia.org/wiki/%C3%89diteur_de_texte) est beaucoup plus efficace que dans un traitement de texte (comme Word).
-Elle permet de séparer la forme du fond, elle produit des [fichiers texte](/blog/txt/) légers et pérennes.
+L’édition de documents dans un [éditeur de textes](https://fr.wikipedia.org/wiki/%C3%89diteur_de_texte) est beaucoup plus efficace que dans un traitement de texte (comme Word).
+Elle permet de séparer la forme du fond, elle produit des [fichiers textes](/blog/txt/) légers et pérennes.
 
 Je m’étonne à chaque fois que je vois des personnes utiliser des traitements de texte pour des tâches qui devraient se faire dans des éditeurs.
 Je m’effraie en pensant au temps perdu en mise en page au moment de la rédaction, à l’énergie perdue face aux bugs et à la lourdeur de ces outils.
 J’imagine le pire pour la pérennité des documents produits.
 
-J’ai bien envie de réfléchir aux conditions de **production** et de **diffusion** des contenus théologiques avec les internautes que cela intéresse.
+Sur GitHub, vous trouverez la [source de cette page](https://github.com/nfriedli/theologique.ch/blob/main/content/blog/markdown.md).
+Je ne vous ment pas, c’est vraiment très simple.
+Vérifiez!
