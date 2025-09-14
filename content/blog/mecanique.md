@@ -1,58 +1,67 @@
 +++
 title = "Sur la mécanique du texte"
-description = ""
-date = "2025-09-12"
-draft = true
+description = "Des outils différents nous font écrire différemment. Mais quelle est la place de la réflexion sur ses pratiques et ses outils dans sa vie professionnelle ou estudiantine?"
+date = "2025-09-14"
 +++
 
-J’ai relu *La mécanique du texte* de Thierry Crouzet.
+Ces dernières semaines, j’ai lu beaucoup de contenus sur le texte et les formats de texte.
+J’en ai profité pour relire *La mécanique du texte* de Thierry Crouzet.
 J’y ai trouvé au moins autant d’intérêt qu’à sa première lecture il y a quelques années.
 Le propos toujours aussi pertinent.
 Les années ont passé, les outils ont changé, mais le fond reste.
 
-Je n’analyse pas le livre; d’autres le font mieux que moi.
-Par exemple:
+La thèse de Thierry Crouzet est claire dès la quatrième de couverture:
 
-- [Thierry Crouzet : «Internet a une incidence sur l’écriture»](https://www.la-croix.com/Sciences-et-ethique/Numerique/Thierry-Crouzet-Internet-incidence-lecriture-2017-08-18-1200870520)
-- [Thierry Crouzet: le texte, influencé par la technique?](https://www.viabooks.fr/article/pas-question-que-le-livre-disparaisse-49867)
-- [Analyse de La Mécanique du texte, Thierry Crouzet](https://blogs.mediapart.fr/maia-delcourt/blog/280520/analyse-de-la-mecanique-du-texte-thierry-crouzet)
+> Un même auteur, avec des outils différents, écrit différemment!
 
-Ce que j’observe tout simplement, c’est que je publie différemment selon l’outil que j’utilise.
-Ma configuration préférée du moment pour rédiger ce site, c’est:
+C’est quelque chose que j’observe aussi chez moi.
+Lorsque je publie une page web dans WordPress, je passe très vite à la mise en page.
+Notamment parce que l’éditeur montre (plus ou moins bien) comment le texte apparaîtra sur le site.
+C’est le «modèle Word».
 
-- 2 écrans avec:
-  - VS Code en plein écran avec le texte source, l’arborescence et un petit terminal
-  - un navigateur ouvert sur des sources que je consulte
-- un clavier mécanique
-- Hugo qui compile le site à la volée et qui me permet de prévisualiser le résultat en temps réel si je le souhaite
-- une rédaction en Markdown qui présente le meilleur compromis entre simplicité et efficacité.
+Quand je rédige en [Markdown](/blog/markdown/), je me concentre beaucoup plus sur le fond.
+Je vois un texte complètement indépendant de son apparence finale.
+Comme je travaille avec 2 écrans, je peux disposer d’un navigateur ouvert en tout temps pour faciliter l’insertion de liens.
+Avec comme résultat de proposer plus facilement des liens dans le corps du texte quand je rédige ainsi.
 
-C’est ainsi que j’arrive à construire des billets raisonnablement structurés, avec des liens dans le corps du texte.
+Avec Hugo, je peux, si je le souhaite, réunir les 2 mondes.
+Je peux écrire dans un éditeur de texte et visualiser le site final en temps réel.
 
+J’utilise l’éditeur de texte VS Code.
+Je dispose toujours de l’ensemble des sources du site dans la barre latérale et la recherche porte sur tous ces fichiers.
+Cela signifie que je vais plus facilement consulter des contenus dans mes propres publications qu’avec WordPress ou un traitement de texte «à la Word».
+Je peux aussi faire des modifications par lots, par exemple pour unifier des contenus.
 
-WordPress
-DokuWiki
-Markdown
-ou... Word
+Mon clavier est mécanique.
+Je frappe avec un autre rythme qu’avec un clavier classique.
+La vitesse de frappe et sa qualité changent fatalement les phrases.
+Moins de coquilles à la frappe, c’est plus de fluidité dans la rédaction.
+Et la possibilité de produire plus rapidement des contenus au fil des idées.
+Avec aussi le risque de la paresse de ne pas relire mes notes...
 
-différence entre éditeurs
-colorisation syntaxique
-raccourcis
+Thierry Crouzet développe tout cela durant presque 150 pages.
+Celles et ceux qui s’intéressent au sujet auront tout intérêt à le lire attentivement.
 
-Impacts sur 
+Ce qui m’interpelle vraiment, c’est que le sujet des conditions de production du texte me semble peu abordé.
+J’ai l’impression que les réflexions des spécialistes comme [Arthur Perret](https://www.arthurperret.fr/) sont peu reprises en dehors de cercles très précis.
+Je n’ai jamais vu, par exemple, de cours ou séminaires en théologie sur les outils informatiques, les formats de fichiers, les système de gestion de révisions, etc.
 
-Longueur
+Je n’ai pas l’impression non plus que les administrations incitent beaucoup à réfléchir sur le sujet et à adapter leurs outils.
+Les secrétaires continuent généralement de passer des heures sur des mauvais clavier Dell ou HP livrés par défaut, de se limiter à un seul écran, d’avoir une souris médiocre.
+Elles et ils continuent à produire des rapports structurés dans Word, sans séparer sérieusement le fond de la forme.
 
-Liens
+Je n’écris pas ces lignes pour pousser quiconque à changer d’outils.
+Mais seulement pour dire que d’autres possibles existent.
+J’ai conscience qu’il y aun coût de changement, mais au vu des heures passées devant un ordinateur de nos jours, cela peut être très intéressant.
 
-Citations
+Bien entendu, il faudrait continuer les réflexions de *La mécanique du texte* avec les intelligences artificielles ou la reconnaissance vocale.
+Parce que là aussi, tout change.
 
-Structure
+Je serais reconnaissant de recevoir des retours d’étudiant·e actuel·le·s:
 
-Copier-coller
+1. Utilisez-vous un éditeur de texte (et non seulement un traitement de texte)? Si oui, lequel?
+1. Utilisez-vous un balisage léger (comme Markdown) pour la rédaction de travaux universitaires? Si oui, dans un éditeur de texte ou un logiciel dédié (comme iA Writer)?
+1. Utilisez-vous un système de gestion de révisions (comme Git)? Si oui, avec un site dédié (comme GitHub) ou seulement en local?
+1. Utilisez-vous du matériel particulier (clavier mécanique, clavier Bépo, souris spéciale, écrans multiples, etc.)?
 
-Et du côté de la consommation?
-
-Tourne des pages (les liseuses permettent le choix page / défilement)
-Notes de base de page
-Hypertextes -> déploie un univers
+J’aimerais aussi savoir si c’est un thème abordé dans vos études, que ce soit sous forme de cours, de séminaires ou de discussions entre collègues.

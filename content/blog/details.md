@@ -7,10 +7,10 @@ draft = true
 
 Déteste les notes de bas de page.
 
-{{< details summary="Test d'un bloc `details`" >}}
+{{< details summary="Test d’un bloc `details`" >}}
 Ceci est un texte dans un blog de détails (`details`).
 
-Je trouve qu'il remplace agréablement les notes de bas de page, en conservant le contexte.
+Je trouve qu’il remplace agréablement les notes de bas de page, en conservant le contexte.
 
 Avec du code:
 
