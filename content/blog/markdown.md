@@ -129,7 +129,7 @@ La possibilité de collaborer vraiment, la maintenance d’un corpus en ligne (o
 Le premier paragraphe de l’article d’Arthur Perret cité précédemment:
 
 > Ma recherche est de nature épistémologique: j’examine la manière dont la connaissance advient, est construite.
-> Plus précisément, j’étudie les outils d’écriture, les processus d’analyse et de synthèse de connaissances, ainsi que l’édition scientifique. 
+> Plus précisément, j’étudie les outils d’écriture, les processus d’analyse et de synthèse de connaissances, ainsi que l’édition scientifique.
 > C’est une recherche qui est ancrée dans le monde du texte et du document.
 
 L’édition de documents dans un [éditeur de textes](https://fr.wikipedia.org/wiki/%C3%89diteur_de_texte) est beaucoup plus efficace que dans un traitement de texte (comme Word).

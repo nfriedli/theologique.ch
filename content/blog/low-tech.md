@@ -44,7 +44,6 @@ Ce qui m’intéresse dans son billet, c’est que sa définition suppose la cap
 
 > Une technologie est dite « low-tech » si les personnes interagissant avec cette technologie savent et peuvent en comprendre son fonctionnement.
 
-
 Aujourd’hui, le web peut être si complexe, même pour celles et ceux qui pourtant le font, que l’on n’y comprend plus rien.
 On s’appuie sur des outils en espérant qu’il feront ce qui est souhaité.
 Et partout, ça grouille de mots incompréhensibles qui masquent des concepts qui ne sont pas plus clairs.
