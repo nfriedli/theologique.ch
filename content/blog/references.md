@@ -1,7 +1,7 @@
 +++
 title = "Utiliser des livres et des citations comme références"
 description = ""
-date = "2025-08-24"
+date = 2025-08-24
 draft = true
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = "Exclure par le web"
 description = ""
-date = "2025-09-04"
+date = 2025-09-04
 draft = true
 +++
 

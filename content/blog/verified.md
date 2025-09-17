@@ -1,7 +1,7 @@
 +++
 title = "Verified"
 description = "Comment vérifier des informations sur le web avec méthode? C’est à cette question que répond le livre «Verified» de Mike Caulfield et Sam Wineburg avec brio."
-date = "2025-09-08"
+date = 2025-09-08
 +++
 
 Comment vérifier rapidement et simplement une information trouvée sur le web?

@@ -1,7 +1,7 @@
 +++
 title = "Aide Google Maps"
 description = ""
-date = "2025-08-20"
+date = 2025-08-20
 draft = true
 +++
 

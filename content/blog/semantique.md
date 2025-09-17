@@ -1,7 +1,7 @@
 +++
 title = "Web sémantique"
 description = "L’utilisation simple mais rigoureuse des éléments de syntaxe classiques d’HTML est amplement suffisante pour produire un contenu a forte valeur sémantique. Des bonnes bases valent mieux que du verbiage."
-date = "2025-09-15"
+date = 2025-09-15
 +++
 
 Il n’y a pas besoin de beaucoup d’éléments pour produire des pages web avec une forte valeur sémantique.

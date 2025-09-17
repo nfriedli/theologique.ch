@@ -1,7 +1,7 @@
 +++
 title = "Sur les notes de bas de page"
 description = ""
-date = "2025-09-15"
+date = 2025-09-15
 draft = true
 +++
 

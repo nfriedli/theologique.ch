@@ -1,7 +1,7 @@
 +++
 title = "Fin de la théologie"
 description = "Je renonce à toute idée de publier des contenus théologiques sur theologique.ch. Mais je garde ce nom de domaine qui dit quelque chose de moi et mon regard de théologien protestant réformé de Suisse romande."
-date = "2025-09-03"
+date = 2025-09-03
 +++
 
 Je renonce à toute idée de publier des contenus théologiques sur theologique.ch.
