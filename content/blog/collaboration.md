@@ -70,3 +70,7 @@ Clay Shirky: Comment internet transformera un jour le gouvernement](https://www.
 J’ai expérimenté ce genre de collaboration dans le monde protestant avec [Olivier Keshavjee](https://www.theologeek.ch/) pour [Trouver ma paroisse](https://ma-paroisse.ch/).
 [85 fichiers pour les paroisses vaudoises](https://github.com/nfriedli/ma-paroisse.ch/commit/3926a4d3ecca78b1ae63c63ebfdf939eb203f5d3) d’un coup, puis [48 pour les paroisses genevoises](https://github.com/nfriedli/ma-paroisse.ch/commit/e75e9adfab4d6d55133c57a5af2d6d16fb8dcf62).
 C’est extraordinaire d’efficacité.
+
+---
+
+Et, pour vous donner envie, je vous propose de [visualiser la modification](https://github.com/nfriedli/theologique.ch/commit/ba58254bf0100e1819e4fa593c37d8d4acc6f595) (`commit`) du passage en exemple ci-dessus.
