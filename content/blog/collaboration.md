@@ -64,3 +64,9 @@ Cela paraît technique, mais quand on y a goûté, on ne peut plus s’en passer
 On entre alors dans le monde coopération sans coordination, en utilisant la force de Git.
 Pour comprendre de quoi il s’agit et imaginer la puissance du concept, je vous conseille de regarder [
 Clay Shirky: Comment internet transformera un jour le gouvernement](https://www.youtube.com/watch?v=CEN4XNth61o).
+
+----
+
+J’ai expérimenté ce genre de collaboration dans le monde protestant avec [Olivier Keshavjee](https://www.theologeek.ch/) pour [Trouver ma paroisse](https://ma-paroisse.ch/).
+[85 fichiers pour les paroisses vaudoises](https://github.com/nfriedli/ma-paroisse.ch/commit/3926a4d3ecca78b1ae63c63ebfdf939eb203f5d3) d’un coup, puis [48 pour les paroisses genevoises](https://github.com/nfriedli/ma-paroisse.ch/commit/e75e9adfab4d6d55133c57a5af2d6d16fb8dcf62).
+C’est extraordinaire d’efficacité.
