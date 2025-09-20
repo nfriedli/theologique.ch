@@ -25,9 +25,9 @@ Pour la même raison que vous cuisinez des biscuits.
 Parce que ça vous fait plaisir de le faire.
 Et parce que vous aimez le résultat.
 
-Aucune intelligence artificielle, si vous lui posez la question de Jim Nielsen, ne vous répondra cela.
+Aucune intelligence artificielle, si vous lui posez la question, ne vous répondra cela.
 Vous aurez des réponses longues, construites, argumentées.
-Mais jamais la bonne réponse qu’apporte Jim Nielsen.
+Mais jamais une bonne réponse comme celle de Jim Nielsen.
 
 Résister aux intelligences artificielles, c’est peut-être cela.
 Les IA donnent les résultats cumulatifs de leurs semblants de réflexions.
