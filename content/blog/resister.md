@@ -4,7 +4,7 @@ description = "Les IA donnent les résultats cumulatifs de leurs semblants de r�
 date = 2025-09-20
 +++
 
-J’étais en train d’imaginer sur les manières de résister aux intelligences artificielles (IA).
+J’étais en train d’imaginer une publication sur les manières de résister aux intelligences artificielles (IA).
 Ce billet s’annonçait absolument remarquable.
 Il allait donner des stratégies puissantes pour les blogs.
 
