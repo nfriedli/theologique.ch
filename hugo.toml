@@ -20,6 +20,9 @@ lastmod = ["lastmod", "date", ":git"]
 [markup.goldmark.parser]
 autoHeadingIDType = "github-ascii"
 
+[markup.highlight]
+noClasses = false
+
 [minify]
 minifyOutput = true
 

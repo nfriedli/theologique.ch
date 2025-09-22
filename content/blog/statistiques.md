@@ -40,4 +40,4 @@ Et maintenant, j’essaie d’accepter de perdre le contrôle.
 ----
 
 Si vous avez un **besoin réel** de données statistiques pour votre site, je vous conseille Plausible.
-C’est un excellent outil que j’utilise si nécessaire en contexte professionnel. 
+C’est un excellent outil que j’utilise si nécessaire en contexte professionnel.
