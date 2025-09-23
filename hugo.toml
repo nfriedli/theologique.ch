@@ -11,6 +11,7 @@ noBuildLock = true
 summaryLength = 30
 
 enableGitInfo = true
+enableEmoji = true
 
 [frontmatter]
 date = ["date", ":git"]
