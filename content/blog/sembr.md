@@ -16,7 +16,7 @@ Je prends pour exemple le texte suivant:
 
 > Voici un exemple de texte en Markdown.
 Cette syntaxe ne tient pas compte des sauts de ligne ni des espaces multiples.
-Ce qui fait que de fichiers différents peuvent présenter des sorties identiques.
+Ce qui fait que de fichiers différents peuvent présenter un sortie identique.
 C’est ce que j’illustre sur cette page.
 
 Les trois sources suivantes produiront le même résultat de sortie:
@@ -24,7 +24,7 @@ Les trois sources suivantes produiront le même résultat de sortie:
 Tout le texte «au kilomètre», c’est mon éditeur de texte qui crée de faux sauts de ligne (*soft wrap*), comme dans un paragraphe de Word:
 
 ```markdown
-Voici un exemple de texte en Markdown. Cette syntaxe ne tient pas compte des sauts de ligne. Des sources différentes présentent des sorties identiques. C’est ce que j’illustre sur cette page.
+Voici un exemple de texte en Markdown. Cette syntaxe ne tient pas compte des sauts de ligne. Des sources différentes présentent une sortie identique. C’est ce que j’illustre sur cette page.
 ```
 
 Ou alors on peut artificiellement créer des sauts de ligne, pour avoir une colonne assez compacte:
@@ -32,8 +32,8 @@ Ou alors on peut artificiellement créer des sauts de ligne, pour avoir une colo
 ```markdown
 Voici un exemple de texte en Markdown. Cette
 syntaxe ne tient pas compte des sauts de ligne.
-Des sources différentes présentent des sorties
-identiques. C’est ce que j’illustre sur cette
+Des sources différentes présentent une sortie
+identique. C’est ce que j’illustre sur cette
 page.
 ```
 
@@ -42,7 +42,7 @@ Enfin, on peut créer des sauts de lignes sémantiques, donc l’unité de sens 
 ```markdown
 Voici un exemple de texte en Markdown.
 Cette syntaxe ne tient pas compte des sauts de ligne.
-Des sources différentes présentent des sorties identiques.
+Des sources différentes présentent une sortie identique.
 C’est ce que j’illustre sur cette page.
 
 ```
