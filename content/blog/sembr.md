@@ -60,6 +60,8 @@ Ce que l’on constate:
 - dans le deuxième exemple, il considère que 2 lignes ont été modifiées (alors qu’il s’agit d’une seule phrase) :thinking:
 - dans le troisième exemple, il considère qu’une ligne (= une phrase) a été modifiée :smile:
 
+Je vous propose d’observer les différences par le [commit 68a301a](https://github.com/nfriedli/theologique.ch/commit/68a301a6ffa9f8c2e0c0e465100c2cd78ac73d65) directement dans GitHub.
+
 ## Convention sémantique
 
 Depuis longtemps, je fais des sauts de ligne en fin de phrase, parce ce que c’est ce qui produit le code source que je préfère.
