@@ -37,16 +37,17 @@
 html {
     background: var(--bg);
     color: var(--txt);
-    line-height: 1.6;
     /* 320 -> 16 / 960 -> 19 */
     font-size: clamp(1rem, 0.9063rem + 0.4688vw, 1.1875rem);
+    line-height: 1.5;
+    margin: auto;
+    max-width: 100ch;
 }
 
 body {
     display: flex;
     flex-direction: column;
     gap: 3rem;
-    margin: auto;
     padding: 1rem;
     min-height: 100vh;
     max-width: 75ch;
