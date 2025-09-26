@@ -33,3 +33,7 @@ Ou ce que je dis de l’article de Jim Nielsen dans [Résister aux intelligences
 
 Dans le web d’aujourd’hui, dans le monde d’aujourd’hui, c’est immense.
 Merci à celles et ceux qui bloguent.
+
+----
+
+Vous pouvez poursuivre votre lecture par [Saying thanks on the web](https://jamesg.blog/2025/09/26/saying-thanks-on-the-web) que j’ai découvert dans mon lecteur de flux quelques minutes après la publication de cette page.
