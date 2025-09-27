@@ -37,8 +37,8 @@
 html {
     background: var(--bg);
     color: var(--txt);
-    /* 320 -> 16 / 960 -> 19 */
-    font-size: clamp(1rem, 0.9063rem + 0.4688vw, 1.1875rem);
+    /* 320 -> 16 / 960 -> 20 */
+    font-size: clamp(1rem, 0.875rem + 0.625vw, 1.25rem);
     line-height: 1.5;
     margin: auto;
     max-width: 100ch;
