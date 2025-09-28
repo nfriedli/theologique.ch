@@ -1,19 +1,22 @@
 +++
 title = "theologique.ch"
-description = "theologique.ch est un site personnel et indépendant proposé par Nicolas Friedli. Il ne propose plus de contenus théologiques mais est publié par un théologien protestant réformé."
+description = "Je suis Nicolas Friedli. Ce site est un projet personnel et indépendant. Malgré son nom, je n’y publie plus forcément de contenus théologiques."
 menu = "main"
 weight = 10
 +++
 
-theologique.ch est un site personnel et indépendant proposé par Nicolas Friedli.
-Il ne propose plus de contenus théologiques mais est publié par un théologien protestant réformé.
-Je conserve ce nom de domaine qui m’accompagne depuis des années.
+Je suis Nicolas Friedli.
+Ce site est un projet personnel et indépendant.
+Malgré son nom, je n’y publie plus forcément de contenus théologiques.
+Mais je conserve le nom de domaine theologique.ch qui m’accompagne depuis des années, qui me plaît et qui dit quelque chose de moi.
 
 ## Sur le blog
 
+Les 5 dernières publications:
+
 {{< last >}}
 
-## Archives
+## Archéologie
 
-Des anciennes versions de ce site et de nombreuses archives sont disponibles dans la [Wayback Machine](https://web.archive.org/web/*/theologique.ch*) de l’Internet archive.
-Je vous invite à y faire entrer systématiquement vos publications ou celles que vous citez dans vos articles.
+Des anciennes versions de ce site et de nombreuses archives sont disponibles dans la [Wayback Machine](https://web.archive.org/web/*/theologique.ch*) de l’Internet Archive.
+Je vous conseille d’y faire entrer vos propres publications ou celles que vous citez dans vos articles.
