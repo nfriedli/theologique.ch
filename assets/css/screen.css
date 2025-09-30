@@ -41,7 +41,7 @@ html {
     font-size: clamp(1rem, 0.9063rem + 0.4688vw, 1.1875rem);
     line-height: 1.5;
     margin: auto;
-    max-width: 100ch;
+    max-width: 99ch;
 }
 
 body {
@@ -50,8 +50,11 @@ body {
     gap: 3rem;
     padding: 1rem;
     min-height: 100vh;
-    max-width: 75ch;
     overflow-wrap: break-word;
+}
+
+main {
+    max-width: 66ch;
 }
 
 header,
