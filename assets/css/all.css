@@ -1,11 +1,11 @@
 html {
-  font-family: "Roboto", ui-sans-serif, "Inter", "Open Sans", "Noto Sans", system-ui, "Apple Color Emoji", "Noto Color Emoji", "Noto Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+  font-family: ui-sans-serif, "Roboto", system-ui, "Apple Color Emoji", "Noto Color Emoji", "Noto Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
   font-variant-numeric: oldstyle-nums proportional-nums;
 }
 
 code,
 pre {
-  font-family: "JetBrains Mono", "Roboto Mono", ui-monospace, "Noto Sans Mono", "Menlo", "Consolas", "Cascadia Code", monospace;
+  font-family: ui-monospace, "JetBrains Mono", "Roboto Mono", "Ubuntu Sans Mono", "Menlo", "Consolas", "Cascadia Code", monospace;
   font-variant-numeric: tabular-nums lining-nums;
 }
 
