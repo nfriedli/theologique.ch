@@ -13,9 +13,9 @@ Intello
 
 Travail dans la durée
 
-Capable d'autonomie
+Capable d’autonomie
 +/- technique
 
-Comprennent la notion d'investissement (apprendre à utiliser une télécommande)
+Comprennent la notion d’investissement (apprendre à utiliser une télécommande)
 
 Plus ou moins ecclésial, protestant, etc.
