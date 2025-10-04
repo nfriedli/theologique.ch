@@ -1,5 +1,5 @@
 :root {
-    color-scheme: dark light;
+    color-scheme: light dark;
 
     --bg: hsl(312, 25%, 96%);
     --bg2: hsl(312, 100%, 90%);
@@ -35,20 +35,21 @@
 }
 
 html {
-    background: var(--bg);
-    color: var(--txt);
     /* 320 -> 16 / 960 -> 19 */
     font-size: clamp(1rem, 0.9063rem + 0.4688vw, 1.1875rem);
-    line-height: 1.5;
-    margin: auto;
-    max-width: 99ch;
+    hanging-punctuation: first allow-end last;
 }
 
 body {
+    background: var(--bg);
+    color: var(--txt);
     display: flex;
     flex-direction: column;
+    line-height: 1.5;
     gap: 3rem;
     padding: 1rem;
+    margin: auto;
+    max-width: 99ch;
     min-height: 100vh;
     overflow-wrap: break-word;
 }
@@ -96,14 +97,14 @@ h4 {
 
 h1 {
     font-size: 1.728rem;
-    font-weight: 500;
+    font-weight: 900;
     margin-block-start: 0;
     margin-block-end: 1rem;
 }
 
 h2 {
     font-size: 1.44rem;
-    font-weight: 600;
+    font-weight: 800;
 }
 
 h3 {
@@ -112,7 +113,7 @@ h3 {
 
 h4 {
     font-size: 1rem;
-    font-weight: 800;
+    font-weight: 600;
 }
 
 ul {
@@ -149,6 +150,7 @@ pre {
     margin-block-end: 2rem;
     overflow-x: auto;
     padding: .5rem 1rem;
+    white-space: pre-wrap;
 }
 
 hr {
