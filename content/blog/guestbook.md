@@ -17,7 +17,7 @@ Beaucoup plus simple
 
 [Envoyer un message](mailto:hello+guestbook@theologique.ch?subject=Livre%20d’or&body=Votre%20message%3A%0D%0A%0D%0A%0D%0A%0D%0A%0D%0A***%0D%0A%0D%0ACe%20message%3A%0D%0A%5B%20%5D%20peut%20%C3%AAtre%20publi%C3%A9%20sur%20theologique.ch%20avec%20mon%20nom%0D%0A%5B%20%5D%20peut%20%C3%AAtre%20publi%C3%A9%20anonymement%0D%0A%5B%20%5D%20devrait%20rester%20priv%C3%A9)
 
-Besoin de rien d'autre.
+Besoin de rien d’autre.
 
 Ensuite, je les ajoute en date ou directement dans ce document.
 

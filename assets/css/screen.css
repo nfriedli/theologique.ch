@@ -150,7 +150,6 @@ pre {
     margin-block-end: 2rem;
     overflow-x: auto;
     padding: .5rem 1rem;
-    white-space: pre-wrap;
 }
 
 hr {
