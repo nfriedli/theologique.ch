@@ -14,9 +14,11 @@ Mais il pourra être utilisé exactement comme un moteur propre au site.
 ## Résultat
 
 Quand vous utilisez ce moteur de recherche, vous arrivez chez Google.
-Si vous souhaitez absolument éviter ce géant du web, vous pouvez effectuer une recherche similaire dans le moteur de recherche de votre choix.
+Si vous souhaitez absolument éviter ce géant du web, n’utilisez pas ce formulaire!
 
 {{< search >}}
+
+Ce formulaire est désormais disponible sur la page d’accueil du site.
 
 ## Pourquoi une recherche externe
 
@@ -51,6 +53,9 @@ N’hésitez pas à réutiliser ce code en n’oubliant pas de préciser votre n
 </form>
 ```
 
+Dans WordPress, cela fonctionne très bien en insérant le code dans un article, une page ou un *widget*.
+Il faut choisir un bloc HTML et éviter de copier le code comme texte.
+
 ## Recherches avancées
 
 Pour aller plus loin dans vos recherche, sur n’importe quel site indexé dans Google, je vous invite à consulter mon billet [Recherches Google avancées](https://nicolasfriedli.ch/blog/recherche-google-avancee/).
@@ -59,5 +64,5 @@ C’est très utile quand le moteur de recherche interne est défaillant, quand 
 Vous remarquerez que la recherche qui a lieu en utilisant le formulaire de cette page utilise tout simplement `+theologique.ch`.
 
 Le même type de recherche est possible avec d’autres moteurs, mais leur indexation n’est, hélas, pas toujours aussi bonne que celle de Google.
-Je concède que si j’optimise mon indexation chez l’orgre de la recherche, c’est aussi un peu de ma faute.
+Je concède que si j’optimise mon indexation chez l’ogre de la recherche, c’est aussi un peu de ma faute.
 Mais je reste pragmatique, à défaut d’être complètement cohérent.
