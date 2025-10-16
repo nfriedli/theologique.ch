@@ -10,17 +10,20 @@ Ce site est un projet personnel et indépendant.
 Malgré son nom, je n’y publie plus forcément de contenus théologiques.
 Mais je conserve le nom de domaine theologique.ch qui m’accompagne depuis des années, qui me plaît et qui dit quelque chose de moi.
 
-## Recherche
-
-Si Google ne vous fait pas peur, vous pouvez effectuer votre recherche.
-
-{{< search >}}
+**Les contenus seront fusionnés avec [nicolasfriedli.ch](https://nicolasfriedli.ch/).
+Il n’y aura pas de nouvelles publications ici.**
 
 ## Sur le blog
 
 Les 5 dernières publications:
 
 {{< last >}}
+
+## Recherche
+
+Si Google ne vous fait pas peur, vous pouvez effectuer votre recherche.
+
+{{< search >}}
 
 ## Archéologie
 
