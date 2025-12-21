@@ -22,6 +22,8 @@
 <link rel="me" href="https://github.com/nfriedli/">
 <link rel="me" href="https://gravatar.com/nfriedli">
 <link rel="me" href="mailto:contact+webmentions@theologique.ch">
+<link rel="me" href="https://mastodon.social/@frdlch">
+<meta name="fediverse:creator" content="@frdlch@mastodon.social">
 
 <link rel="webmention" href="https://webmention.io/theologique.ch/webmention">
 <link rel="pingback" href="https://webmention.io/theologique.ch/xmlrpc">
@@ -31,6 +33,13 @@
 <link rel="icon" href="{{ relURL "favicon.ico" }}" sizes="48x48">
 <link rel="icon" href="{{ relURL "favicon.svg" }}" type="image/svg+xml" >
 <link rel="apple-touch-icon" href="{{ relURL "apple-touch-icon.png" }}" >
+
+<script async src="https://plausible.io/js/pa-7lrT7vc7XUvu3Pivo42Mt.js"></script>
+<script>
+  window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
+  plausible.init()
+</script>
+{{ if eq .Kind "404" }}<script>document.addEventListener("DOMContentLoaded", function () { plausible("404"); });</script>{{ end }}
 
 {{ if .IsHome }}
     {{ partial "home" . }}
