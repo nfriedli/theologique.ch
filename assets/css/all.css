@@ -1,6 +1,10 @@
 html {
-  font-family: "LiterataWeb", "Literata", ui-serif, "Noto Serif", "Georgia", serif;
-  font-variant-ligatures: discretionary-ligatures;
+  font-family: "LiterataWeb", "Literata", ui-serif, system-ui, sans-serif;
+  font-variant-numeric: oldstyle-nums proportional-nums;
+}
+
+a {
+  font-variant-numeric: lining-nums proportional-nums;
 }
 
 @font-face {

@@ -1,8 +1,8 @@
 :root {
     color-scheme: light dark;
 
-    --bg: #EEE;
-    --txt: #111;
+    --bg: #FFF;
+    --txt: #222;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -79,9 +79,12 @@ h4 {
 
 h1 {
     font-size: 2.2rem;
-    font-weight: 300;
-    margin-block-start: 0;
-    margin-block-end: 2rem;
+    font-weight: 400;
+    margin-block-start: 1rem;
+}
+
+h1 + p {
+    margin-block-start: 2rem;
 }
 
 h2 {
@@ -91,12 +94,12 @@ h2 {
 
 h3 {
     font-size: 1.3rem;
-    font-weight: 700;
+    font-weight: 600;
 }
 
 h4 {
     font-size: 1rem;
-    font-weight: 900;
+    font-weight: 700;
 }
 
 ul {
@@ -123,15 +126,23 @@ dt + dt{
 
 hr {
     border: 0;
-    border-block-start: .15rem solid;
+    border-block-start: .15rem solid var(--txt);
     margin-block: 2rem;
 }
 
+time {
+    font-style: italic;
+}
 
 blockquote {
     border-inline-start: .2rem solid;
+    font-style: italic;
     margin: 0;
     padding-inline-start: 1rem;
+}
+
+blockquote em {
+    font-style: normal;
 }
 
 nav ul {
