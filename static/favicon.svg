@@ -1,7 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" width="512" height="512"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" width="512" height="512"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-  <circle cx="256" cy="256" r="256" fill="#d400aa" paint-order="markers stroke fill"></circle>
-</svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
-@media (prefers-color-scheme: dark) { :root { filter: none; } }
-</style></svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
-@media (prefers-color-scheme: dark) { :root { filter: none; } }
-</style></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512"><svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 135.467 135.467"><path d="M55.656 59.864h135.467v135.467H55.656z" style="fill:#000;stroke-width:.682449;stroke-linecap:round;paint-order:markers fill stroke" transform="translate(-55.656 -59.864)"/></svg><style>@media (prefers-color-scheme:light){:root{filter:none}}@media (prefers-color-scheme:dark){:root{filter:none}}</style></svg>

@@ -4,7 +4,7 @@ title = "theologique.ch"
 languageCode = "fr"
 defaultContentLanguage = "fr"
 
-copyright = "Creative Commons Zero (CC0)"
+copyright = "Creative Commons BY-SA"
 
 disableKinds = ["robotstxt", "taxonomy", "term"]
 noBuildLock = true
