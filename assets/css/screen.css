@@ -136,13 +136,8 @@ time {
 
 blockquote {
     border-inline-start: .2rem solid;
-    font-style: italic;
     margin: 0;
     padding-inline-start: 1rem;
-}
-
-blockquote em {
-    font-style: normal;
 }
 
 nav ul {
