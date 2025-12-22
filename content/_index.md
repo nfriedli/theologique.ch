@@ -1,6 +1,6 @@
 +++
 title = "theologique.ch"
-description = "Je suis Nicolas Friedli. Ce site est un projet personnel et indépendant. Malgré son nom, je n’y publie plus forcément de contenus théologiques."
+description = "Je suis Nicolas Friedli. Ce site est un projet personnel et indépendant. C’est un lieu de tests, un laboratoire, un espace d’expérimentations en ligne."
 menu = "main"
 weight = 10
 +++
@@ -14,3 +14,4 @@ Mais je conserve le nom de domaine theologique.ch qui m’accompagne depuis des 
 
 Des anciennes versions de ce site et de nombreuses archives sont disponibles dans la [Wayback Machine](https://web.archive.org/web/*/theologique.ch*) de l’Internet Archive.
 Je vous conseille d’y faire entrer vos propres publications ou celles que vous citez dans vos articles.
+J’en dis un peu plus dans [Disparition d’une page ou d’un site web](https://nicolasfriedli.ch/pratique/disparition/).

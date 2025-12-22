@@ -18,6 +18,11 @@
     box-sizing: border-box;
 }
 
+::selection {
+    background: #FF0;
+    color: #000;
+}
+
 html {
     /* 320px - 16 -> 1280px - 20 */
     font-size: clamp(1rem, 0.9167rem + 0.4167vw, 1.25rem);
