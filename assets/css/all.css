@@ -1,9 +1,13 @@
 html {
-  font-family: "Roboto", system-ui, sans-serif;
+  font-family: ui-sans-serif, "Roboto", "Noto Sans", "Inter", system-ui, sans-serif;
   font-variant-numeric: oldstyle-nums proportional-nums;
   text-rendering: optimizeLegibility;
 }
 
 a {
   font-variant-numeric: lining-nums proportional-nums;
+}
+
+h1, h2, h3, h4, blockquote {
+  font-family: ui-serif, "Noto Serif", "Charter", "Georgia", "Cambria", sans-serif;
 }

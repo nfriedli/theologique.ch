@@ -37,6 +37,7 @@ body {
     margin: auto;
     max-width: 77ch;
     min-height: 100vh;
+    min-height: 100dvh;
     overflow-wrap: break-word;
 }
 
@@ -81,17 +82,13 @@ h4 {
 }
 
 h1 {
-    font-size: 1.728rem;
+    font-size: 1.9rem;
     font-weight: 500;
     margin-block-start: 1rem;
 }
 
-h1+p {
-    margin-block-start: 2rem;
-}
-
 h2 {
-    font-size: 1.44rem;
+    font-size: 1.5rem;
     font-weight: 600;
 }
 
