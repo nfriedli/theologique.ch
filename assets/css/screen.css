@@ -1,16 +1,14 @@
 :root {
     color-scheme: light dark;
 
-    --bg: hsl(240, 50%, 98%);
-    --txt: hsl(240, 50%, 10%);
-    --contrast: hsl(240, 100%, 30%);
+    --bg: #FFF;
+    --txt: #000;
 }
 
 @media (prefers-color-scheme: dark) {
     :root {
-        --bg: hsl(240, 100%, 2%);
-        --txt: hsl(240, 50%, 98%);
-        --contrast: hsl(240, 100%, 85%);
+        --bg: #000;
+        --txt: #FFF;
     }
 }
 
@@ -74,7 +72,6 @@ h1,
 h2,
 h3,
 h4 {
-    color: var(--contrast);
     font-weight: 400;
     line-height: 1.2;
     margin-block-start: 2rem;
