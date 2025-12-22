@@ -2,7 +2,7 @@
 title = "Contact"
 description = "Coordonnées complètes et informations utiles pour contacter Nicolas Friedli, propriétaire et responsable de theologique.ch. Une page pour assurer la transparence et la clarté dans nos échanges."
 date = 2025-12-21
-lastMod = 2025-12-21
+lastMod = 2025-12-22
 menu = "main"
 weight = 1000
 +++
@@ -22,7 +22,7 @@ Suisse
 [+41 32 841 48 74](tel:+41328414874) (comme ultime recours...)
 
 Je ne suis pas présent sur Bluesky, Instagram, LinkedIn, X (Twitter), etc.
-Ma présence sur Facebook et Mastodon est passive.
+Ma présence sur [Facebook](https://www.facebook.com/frdl.ch) et [Mastodon](https://mastodon.social/@frdlch) est passive.
 
 ## Questions pastorales
 
