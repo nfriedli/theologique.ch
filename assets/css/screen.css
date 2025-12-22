@@ -10,7 +10,7 @@
     :root {
         --bg: hsl(240, 100%, 2%);
         --txt: hsl(240, 50%, 98%);
-        --contrast: hsl(240, 100%, 95%);
+        --contrast: hsl(240, 100%, 85%);
     }
 }
 
@@ -83,22 +83,22 @@ h4 {
 
 h1 {
     font-size: 1.9rem;
-    font-weight: 500;
+    font-weight: 600;
     margin-block-start: 1rem;
 }
 
 h2 {
     font-size: 1.5rem;
-    font-weight: 600;
 }
 
 h3 {
     font-size: 1.2rem;
+    font-weight: 800;
 }
 
 h4 {
     font-size: 1rem;
-    font-weight: 800;
+    font-weight: 900;
 }
 
 ul {
