@@ -1,14 +1,14 @@
 :root {
     color-scheme: light dark;
 
-    --bg: #FFF;
-    --txt: #222;
+    --bg: #EEE;
+    --txt: #004;
 }
 
 @media (prefers-color-scheme: dark) {
     :root {
         --bg: #000;
-        --txt: #FFF;
+        --txt: #EEF;
     }
 }
 
@@ -19,8 +19,8 @@
 }
 
 html {
-    /* 320 -> 16 / 960 -> 19 */
-    font-size: clamp(1rem, 0.9063rem + 0.4688vw, 1.1875rem);
+    /* 320px - 16 -> 1280px - 18 */
+    font-size: clamp(1rem, 0.9583rem + 0.2083vw, 1.125rem);
     hanging-punctuation: first allow-end last;
 }
 
@@ -33,13 +33,13 @@ body {
     gap: 3rem;
     padding: 1rem;
     margin: auto;
-    max-width: 99ch;
+    max-width: 100ch;
     min-height: 100vh;
     overflow-wrap: break-word;
 }
 
 main {
-    max-width: 66ch;
+    max-width: 80ch;
 }
 
 header,
@@ -78,8 +78,7 @@ h4 {
 }
 
 h1 {
-    font-size: 2.2rem;
-    font-weight: 400;
+    font-size: 1.728rem;
     margin-block-start: 1rem;
 }
 
@@ -88,18 +87,15 @@ h1 + p {
 }
 
 h2 {
-    font-size: 1.7rem;
-    font-weight: 500;
+    font-size: 1.44rem;
 }
 
 h3 {
-    font-size: 1.3rem;
-    font-weight: 600;
+    font-size: 1.2rem;
 }
 
 h4 {
     font-size: 1rem;
-    font-weight: 700;
 }
 
 ul {
