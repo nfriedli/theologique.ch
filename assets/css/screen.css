@@ -1,14 +1,16 @@
 :root {
     color-scheme: light dark;
 
-    --bg: #EEE;
-    --txt: #008;
+    --bg: hsl(240, 50%, 98%);
+    --txt: hsl(240, 50%, 10%);
+    --contrast: hsl(240, 100%, 30%);
 }
 
 @media (prefers-color-scheme: dark) {
     :root {
-        --bg: #000;
-        --txt: #FED;
+        --bg: hsl(240, 100%, 2%);
+        --txt: hsl(240, 50%, 98%);
+        --contrast: hsl(240, 100%, 95%);
     }
 }
 
@@ -19,8 +21,8 @@
 }
 
 html {
-    /* 320px - 16 -> 1280px - 18 */
-    font-size: clamp(1rem, 0.9583rem + 0.2083vw, 1.125rem);
+    /* 320px - 16 -> 1280px - 20 */
+    font-size: clamp(1rem, 0.9167rem + 0.4167vw, 1.25rem);
     hanging-punctuation: first allow-end last;
 }
 
@@ -33,13 +35,13 @@ body {
     gap: 3rem;
     padding: 1rem;
     margin: auto;
-    max-width: 100ch;
+    max-width: 77ch;
     min-height: 100vh;
     overflow-wrap: break-word;
 }
 
 main {
-    max-width: 80ch;
+    max-width: 66ch;
 }
 
 header,
@@ -71,6 +73,7 @@ h1,
 h2,
 h3,
 h4 {
+    color: var(--contrast);
     line-height: 1.2;
     margin-block-start: 2rem;
     margin-block-end: 1rem;
@@ -79,15 +82,17 @@ h4 {
 
 h1 {
     font-size: 1.728rem;
+    font-weight: 500;
     margin-block-start: 1rem;
 }
 
-h1 + p {
+h1+p {
     margin-block-start: 2rem;
 }
 
 h2 {
     font-size: 1.44rem;
+    font-weight: 600;
 }
 
 h3 {
@@ -96,6 +101,7 @@ h3 {
 
 h4 {
     font-size: 1rem;
+    font-weight: 800;
 }
 
 ul {
@@ -115,7 +121,7 @@ dd {
     margin-inline-start: 1rem;
 }
 
-dt + dt{
+dt+dt {
     margin-block-start: 0;
 }
 
