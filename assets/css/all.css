@@ -1,5 +1,6 @@
 html {
-  font-family: ui-sans-serif, "Roboto", "Noto Sans", "Inter", system-ui, sans-serif;
+  font-family: "LiterataWeb", "Literata", system-ui, sans-serif;
+  font-variant-ligatures: discretionary-ligatures;
   font-variant-numeric: oldstyle-nums proportional-nums;
   text-rendering: optimizeLegibility;
 }
@@ -8,6 +9,18 @@ a {
   font-variant-numeric: lining-nums tabular-nums;
 }
 
-h1, h2, h3, h4, blockquote {
-  font-family: ui-serif, "Literata", "Noto Serif", "Georgia", "Charter", "Cambria", sans-serif;
+@font-face {
+  font-family: "LiterataWeb";
+  font-style: normal;
+  font-weight: 200 900;
+  font-display: swap;
+  src: url(/fonts/literata.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: "LiterataWeb";
+  font-style: italic;
+  font-weight: 200 900;
+  font-display: swap;
+  src: url(/fonts/literata-italic.woff2) format("woff2");
 }

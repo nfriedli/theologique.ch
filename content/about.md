@@ -2,7 +2,7 @@
 title = "À propos"
 description = "Informations sur Nicolas Friedli, auteur du site protestant réformé theologique.ch: parcours, réalisations et engagements bénévoles."
 date = 2025-12-21
-lastMod = 2025-12-21
+lastMod = 2025-12-24
 menu = "main"
 weight = 990
 +++
@@ -38,7 +38,7 @@ Toujours avec cette ligne: faire simple, durable, lisible et utile.
 J’ai conçu [Emploi-Église](https://www.emploi-eglise.ch/) avec Fabrice Demarle.
 Nous avons imaginé l’architecture d’information pour permettre aux Églises réformées de Suisse romande (CER) de valoriser leurs offres d’emploi.
 J’ai assumé les aspects techniques, rédigé une documentation complète et formé les personnes de tous les cantons à son utilisation.
-Ce site est actuellement géré par [Médias-pro](https://mediaspro.ch/).
+Ce site est actuellement géré par [Réf-Mldias](https://www.reformes.ch/source/ref-medias).
 
 J’ai créé le premier catalogue en ligne de l’OPEC (Office protestant d’éditions chrétiennes).
 Aujourd’hui, cet office s’appelle [Ref-Éditions](https://ref-editions.ch/).
