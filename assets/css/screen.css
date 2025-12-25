@@ -1,14 +1,14 @@
 :root {
     color-scheme: light dark;
 
-    --bg: #FFF;
+    --bg: #F5F5E1;
     --txt: #222;
 }
 
 @media (prefers-color-scheme: dark) {
     :root {
         --bg: #000;
-        --txt: #DDD;
+        --txt: #D3F7F1;
     }
 }
 
