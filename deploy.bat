@@ -1,2 +1,2 @@
 hugo --cleanDestinationDir
-rclone copy --progress public/ infomaniakssh:theologique.ch/
+rclone sync --progress public/ infomaniakssh:theologique.ch/
