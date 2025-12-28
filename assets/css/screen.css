@@ -3,12 +3,14 @@
 
     --bg: hsl(36, 50%, 95%);
     --txt: hsl(36, 50%, 10%);
+    --orange: hsl(36, 100%, 40%);
 }
 
 @media (prefers-color-scheme: dark) {
     :root {
         --bg: hsl(36, 100%, 5%);
         --txt: hsl(36, 50%, 90%);
+        --orange: hsl(36, 100%, 60%);
     }
 }
 
@@ -60,6 +62,7 @@ footer {
 
 a {
     color: inherit;
+    text-decoration-color: var(--orange);
     text-decoration-thickness: .1em;
     text-underline-offset: .1em;
 }
