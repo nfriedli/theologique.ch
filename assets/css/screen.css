@@ -1,14 +1,14 @@
 :root {
     color-scheme: light dark;
 
-    --bg: #EEE;
-    --txt: #000;
+    --bg: hsl(36, 50%, 95%);
+    --txt: hsl(36, 50%, 10%);
 }
 
 @media (prefers-color-scheme: dark) {
     :root {
-        --bg: #000;
-        --txt: #EEE;
+        --bg: hsl(36, 100%, 5%);
+        --txt: hsl(36, 50%, 90%);
     }
 }
 
@@ -19,8 +19,8 @@
 }
 
 ::selection {
-    background: #FF0;
-    color: #000;
+    background: hsl(36, 100%, 50%);
+    color: hsl(36, 50%, 5%);
 }
 
 html {
