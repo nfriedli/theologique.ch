@@ -1,18 +1,13 @@
 html {
   font-family: "Switzer", ui-sans-serif, "Roboto", system-ui, sans-serif;
-  font-variant-numeric: oldstyle-nums proportional-nums;
   text-rendering: optimizeLegibility;
-}
-
-a {
-  font-variant-numeric: lining-nums tabular-nums;
 }
 
 @font-face {
   font-family: "Switzer";
   src: url("/fonts/switzer.woff2") format("woff2");
   font-weight: 100 900;
-  font-display: swap;
+  font-display: optional;
   font-style: normal;
 }
 
@@ -20,6 +15,6 @@ a {
   font-family: "Switzer";
   src: url("/fonts/switzer-italic.woff2") format("woff2");
   font-weight: 100 900;
-  font-display: swap;
+  font-display: optional;
   font-style: italic;
 }
