@@ -16,8 +16,6 @@ Mais je conserve le nom de domaine theologique.ch qui m’accompagne depuis des 
 
 À venir...
 
-{{< last >}}
-
 ## Archéologie
 
 Des anciennes versions de ce site et de nombreuses archives sont disponibles dans la [Wayback Machine](https://web.archive.org/web/*/theologique.ch*) de l’Internet Archive.
