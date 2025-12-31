@@ -12,7 +12,9 @@ C’est un lieu de tests, un laboratoire, un espace d’expérimentations en lig
 Actuellement, il est en jachère pour une durée indéterminée.
 Mais je conserve le nom de domaine theologique.ch qui m’accompagne depuis des années, qui me plaît et qui dit quelque chose de moi.
 
-## Dernières publications
+## Dans le blog
+
+À venir...
 
 {{< last >}}
 
