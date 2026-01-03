@@ -1,0 +1,1 @@
+npx @remy/webmention https://theologique.ch/index.xml --send
