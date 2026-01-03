@@ -80,6 +80,6 @@ Les blogs restent [la meilleure réponse](https://henry.codes/writing/a-website-
 
 Si mes billets ne nous plaisent pas, allez voir ailleurs.
 Il existe plein de bons sites auxquels s’abonner.
-Je suis prêt à vous donner ma liste complète de veille en fichier OPML.
+Je suis prêt à vous donner ma liste complète de veille en fichier OPML sur simple demande.
 
 S’ils vous plaisent, n’hésitez pas à me le dire par un simple message ou par webmention.
