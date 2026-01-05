@@ -19,9 +19,9 @@ Suisse
 
 **[contact+site@theologique.ch](mailto:contact+site@theologique.ch)**\
 [+41 79 344 33 82](tel:+41793443382)\
-[+41 32 841 48 74](tel:+41328414874) (comme ultime recours...)
+[+41 32 841 48 74](tel:+41328414874) (comme ultime recours)
 
-Je lis parfois les [messages WhatsApp](https://wa.me/41793443382)...
+Je lis parfois des [messages WhatsApp](https://wa.me/41793443382).
 
 Je ne suis pas présent sur Bluesky, Instagram, LinkedIn, X (Twitter), etc.
 Ma présence sur [Facebook](https://www.facebook.com/frdl.ch) et [Mastodon](https://mastodon.social/@frdlch) est passive.
