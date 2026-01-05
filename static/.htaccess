@@ -8,10 +8,6 @@ RewriteCond %{HTTPS} off [OR]
 RewriteCond %{HTTP_HOST} ^www. [NC]
 RewriteRule (.*) https://theologique.ch/$1 [R=301,L]
 
-# Redirige les URL avec paramètres vers la même URL sans les paramètres
-RewriteCond %{QUERY_STRING} !^$
-RewriteRule ^(.*)$ /$1? [R=301,L]
-
 # 404
 ErrorDocument 404 /404.html
 
@@ -24,18 +20,9 @@ Header always set Referrer-Policy "no-referrer"
 Header always set X-Permitted-Cross-Domain-Policies "none"
 Header always set Permissions-Policy "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()"
 
-
 # headers pour le cache
 Header unset Pragma
 Header unset Last-Modified
-
-# Transparence des flux RSS
-RewriteRule ^feed/atom$ /index.xml [R=301,L]
-RewriteRule ^feed/?$ /index.xml [R=301,L]
-RewriteRule ^feed\.php$ /index.xml [R=301,L]
-
-RewriteCond %{QUERY_STRING} ^page=backend$
-RewriteRule ^spip\.php$ /index.xml [R=301,L]
 
 # Cache pour images
 <filesMatch ".(avif|jpg|jpeg|png|gif|ico|svg|webp)$">
