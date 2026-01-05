@@ -66,7 +66,7 @@ J’interviens régulièrement en tant que [consultant web indépendant](https:/
 ## À titre bénévole (*side projects*)
 
 theologique.ch a existé avant sa version actuelle.
-Durant la crise sanitaire COVID-19, il proposait par exemple une documentation pour améliorer son site paroissial ou lancer son blog personnel.
+Durant la crise sanitaire Covid-19, il proposait par exemple une documentation pour améliorer son site paroissial ou lancer son blog personnel.
 
 J’ai créé et tiens à jour le site de référence pour [trouver une paroisse protestante réformée en Suisse romande](https://ma-paroisse.ch/).
 Il a été réalisé avec Hugo et présente quelques raffinements techniques intéressants pour assurer ses performances et sa pérennité.

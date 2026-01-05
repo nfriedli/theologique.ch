@@ -2,10 +2,11 @@
 title = "Assumer un ton personnel sur un blog indépendant"
 description = "theologique.ch propose un ton personnel, assumé par Nicolas Friedli, sans entrer dans la course au référencement ni au nombre de visites."
 date = 2026-01-03
+aliases = ["/ton"]
 +++
 
 Le web a beaucoup changé ces dernières années.
-D’une part avec la pandémie de coronavirus COVID-19, d’autre part avec l’arrivée des intelligences artificielles (IA) et les grands modèles de langage (LLM) comme ChatGPT.
+D’une part avec la pandémie de coronavirus Covid-19, d’autre part avec l’arrivée des intelligences artificielles (IA) et les grands modèles de langage (LLM) comme ChatGPT.
 
 Dans son article [Pourquoi votre site web va disparaître (mais pas le mien ^^)](https://korben.info/gemini-vue-dynamique-fin-web.html), le blogueur technique français Korben a achevé de me convaincre de ce qu’il fallait viser pour theologique.ch.
 Et, surtout, de ce qu’il fallait éviter à tout prix.
@@ -76,7 +77,7 @@ Mes abonnements à des flux RSS et Atom sont constitués en grande majorités d
 Leurs publications ne cachent pas les doutes, les hésitations ou même les contradictions.
 
 C’est exactement pour cette raison que je décide de relancer théologique sous forme d’un simple blog.
-Les blogs restent [la meilleure réponse](https://henry.codes/writing/a-website-to-destroy-all-websites/#:~:text=The%20most%20self%2Devident%2C%20convivial%20answer%20is%20an%20old%20one%3A%20blogs.) au ~merdier~ chaos actuel.
+Les blogs restent [la meilleure réponse](https://henry.codes/writing/a-website-to-destroy-all-websites/#:~:text=The%20most%20self%2Devident%2C%20convivial%20answer%20is%20an%20old%20one%3A%20blogs.) au ~~merdier~~ chaos actuel.
 
 Si mes billets ne nous plaisent pas, allez voir ailleurs.
 Il existe plein de bons sites auxquels s’abonner.

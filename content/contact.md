@@ -21,8 +21,12 @@ Suisse
 [+41 79 344 33 82](tel:+41793443382)\
 [+41 32 841 48 74](tel:+41328414874) (comme ultime recours...)
 
+Je lis parfois les [messages WhatsApp](https://wa.me/41793443382)...
+
 Je ne suis pas présent sur Bluesky, Instagram, LinkedIn, X (Twitter), etc.
 Ma présence sur [Facebook](https://www.facebook.com/frdl.ch) et [Mastodon](https://mastodon.social/@frdlch) est passive.
+
+Mon site de consultant web est [nicolasfriedli.ch](https://nicolasfriedli.ch/).
 
 ## Questions pastorales
 
@@ -49,9 +53,3 @@ Pour signaler un abus:
 - [aide aux victimes en Suisse](https://www.aide-aux-victimes.ch/fr/)
 - [service d’aide aux victimes (SAVI) dans le canton de Neuchâtel](https://savi-ne.ch/)
 - [signalement d’abus dans l’EREN](https://www.eren.ch/signalement-abus/) (Église réformée évangélique du canton de Neuchâtel)
-
-Prenez soin de vous et de vos proches!
-
-----
-
-Si vous souhaitez me proposer un mandat concernant le web, vous trouverez les informations nécessaire sur mon site [nicolasfriedli.ch](https://nicolasfriedli.ch/contact/).
