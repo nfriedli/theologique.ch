@@ -2,7 +2,6 @@
 title = "Là où tu vas (Étienne Davodeau)"
 description = "Remarques une bande dessinée (BD) qui parle de l’accompagnement de la maladie d’Alzheimer. Narration, niveaux de récit,  métadiscours & choix des mots."
 date = 2026-01-06
-images = ["https://media.groupe.gallimard.fr/couvHD/F00567.jpg"]
 +++
 
 J’ai beaucoup aimé la bande dessinée (BD) *Là où tu vas. Voyage au pays de la mémoire qui flanche* d’Étienne Davodeau chez [Futuropolis](https://www.futuropolis.fr/9782754845946/la-ou-tu-vas.html).
