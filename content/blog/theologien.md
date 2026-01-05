@@ -1,5 +1,5 @@
 +++
-title = "Je suis théologien mais pas pasteur"
+title = "Je suis théologien, mais pas pasteur"
 description = "Je ne suis pas pasteur, mais on me prend parfois pour un pasteur. Je suis théologien. J’en profite pour donner quelques informations sur la formation pastorale dans les Églises réformées de Suisse romande."
 date = 2026-01-05
 aliases = ["/theologien-pas-pasteur"]
