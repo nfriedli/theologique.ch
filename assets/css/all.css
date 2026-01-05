@@ -1,4 +1,5 @@
 html {
+  font-family: ui-sans-serif,  "Roboto", "Arial", system-ui, sans-serif;
   font-family: ui-sans-serif, "Roboto", "Arial", system-ui, sans-serif;
   text-rendering: optimizeLegibility;
 }

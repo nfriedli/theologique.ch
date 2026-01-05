@@ -40,14 +40,14 @@ body {
     gap: 3rem;
     padding: 1rem;
     margin: auto;
-    max-width: 77ch;
+    max-width: 50rem;
     min-height: 100vh;
     min-height: 100dvh;
     overflow-wrap: break-word;
 }
 
 main {
-    max-width: 66ch;
+    max-width: 40rem;
 }
 
 header,
