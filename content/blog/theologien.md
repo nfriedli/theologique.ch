@@ -2,7 +2,7 @@
 title = "Je suis théologien mais pas pasteur"
 description = "Je ne suis pas pasteur, mais on me prend parfois pour un pasteur. Je suis théologien. J’en profite pour donner quelques informations sur la formation pastorale dans les Églises réformées de Suisse romande."
 date = 2026-01-05
-aliases = ["/ton"]
+aliases = ["/theologien-pas-pasteur"]
 +++
 
 Il y a quelques semaines, j’ai trouvé sur le répondeur de ma ligne fixe un message à un prétendu «pasteur Nicolas».
