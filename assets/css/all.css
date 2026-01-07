@@ -5,6 +5,10 @@ html {
   text-rendering: optimizeLegibility;
 }
 
+h1, h2, h3, h4, blockquote {
+  font-family: ui-serif, "Literata", "Noto Serif", "Georgia", serif;
+}
+
 /* 
   @font-face {
     font-family: "Literata";
