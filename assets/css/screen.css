@@ -133,14 +133,9 @@ hr {
 }
 
 blockquote {
-    font-style: italic;
     border-inline-start: .2rem solid;
     margin: 0;
     padding-inline-start: 1rem;
-}
-
-blockquote em {
-    font-style: normal;
 }
 
 nav ul {
@@ -160,11 +155,4 @@ img {
     max-width: 100%;
     height: auto;
     margin-block: 2rem;
-}
-
-aside {
-    border: .15rem solid var(--deco);
-    font-size: .85rem;
-    margin-block: 2rem;
-    padding: .5rem 1rem;
 }
