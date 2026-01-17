@@ -13,4 +13,4 @@ Reprise du billet de test.
 
 Comparaison avec WordPress et Ghost.
 
-Rien n'est neutre, SPIP pas non plus.
+Rien n’est neutre, SPIP pas non plus.

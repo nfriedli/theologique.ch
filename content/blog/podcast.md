@@ -5,32 +5,77 @@ date = 2026-01-16
 draft = true
 +++
 
+Je ne parle que d’audio.
+Article peu technique.
+
 ## Préciser la notion de «podcast»
 
-épisode (de podcast)
+Lorsque nous parlons de «podcast», nous parlons de plusieurs choses différentes, par abus de langage.
+J’essaie de poser les termes pour mieux se comprendre ensuite:
 
-flux (de podcast)
+épisode
+: un contenu d’un podcast, qui contient un titre, une date, une description et un fichier audio (et parfois une image)
 
 podcast
+: un ensemble d’épisodes, auquel il est possible de s’abonner, qui a un titre et une description (et parfois une image)
 
-diffusion asynchrone (donc différente du streaming)
+flux
+: un fichier RSS qui comprend la définition du podcast et de chaque épisode, c’est en fait au flux que l’on s’abonne (sans forcément s’en rendre compte)
 
-audio pour l'exemple
+Ce qui est définitoire du podcast pour moi, c’est la notion d’abonnement.
+Je peux m’abonner pour obtenir automatiquement les nouveaux épisodes.
+Je peux les écouter quand je veux, ce qui diffère de la radio (classique) ou de la télévision (avant le replay).
+C’est asynchrone; je n’ai pas besoin d’écouter un épisode au moment exact de sa mise en ligne.
+Je peux m’abonner à un podcast dans un logiciel ou sur une plateforme.
 
-avec une notion d'abonnement
+Je conseille le passage [Concept](https://fr.wikipedia.org/wiki/Podcasting#Concept) de la page Wikipédia sur le sujet.
 
-Voir [Concept](https://fr.wikipedia.org/wiki/Podcasting#Concept) de la page Wikipédia sur le sujet.
+## Retour sur le podcast «Explore» de l’EERS
 
-## Retour sur le podcast «Explore» de l'EERS
+Sur la page [Podcast EERS Explore Saison 2](https://www.eks-eers.ch/fr/themenseite/podcast-eers-explore-saison-2-le-partage-de-la-foi/), Elio Jaillet propose un regard retrospectif sur «Explore» de l’Église évangélique réformée de Suisse (EERS).
+Sa réflexion porte sur le fond du processus créatif, je l’ai trouvée intéressante, critique et honnête.
+C’est préciseux pour toute personne ou toute institution qui cherchera à se lancer dans la production d’un podcast.
 
-Pas d'abonnement sur le site
+Sans suprise, je vais m’intéresser aux aspects techniques, qui ne sont pas l’objet de l’analyse d’Elio Jaillet.
 
-Mais visiblement podigee.io
+Pas de RSS chez EERS...
+
+Pas d’abonnement sur le site
+
+La page elle-même n’est pas un podcast
+
+Le site lui-même ne crée pas de podcast
+
 
 Repris sur Spotify et Apple Podcasts et Deezer
 
+Sélection sur le site, moins vaste que celle de podigee.io, pourquoi?
+Pourquoi ne pas renvoyer à la page source
+
+Mais visiblement [podigee.io](https://kteexplore.podigee.io/)
+
+
 Créée aussi un RSS
 
+## Outil de diffusion
+
+Un blog comme plateforme de diffusion.
+
+Un outil de diffusion dédié.
+
+podigee.io ne fait que de la diffusion!
+
+Plein de statistiques...
+
+## Outil d’abonnement
+
+Un lecteur de flux RSS (normaux)
+
+Un logiciel dédié aux podcasts
+
+Une plateforme
+
+Spotify ne permet pas l’abonnement à un flux
 
 ## Test avec un blog (et Spotify)
 
@@ -41,7 +86,7 @@ Créée aussi un RSS
 
 Le lien parle de curation :)
 
-C'est un RSS, aussi lisible dans mon lecteur de flux
+C’est un RSS, aussi lisible dans mon lecteur de flux
 
 SPIP
 
@@ -69,7 +114,7 @@ Ou chacun fait son podcast?
 
 ## Questions provisoires
 
-Notion d'abonnement
+Notion d’abonnement
 
 Hébergement premier
 
