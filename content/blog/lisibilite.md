@@ -6,7 +6,7 @@ date = 2026-01-20
 
 Quand je me trouve sur un site depuis quelques minutes et que je l’apprécie, j’essaie toujours de comprendre pourquoi.
 Dans une très grande majorité des cas, je constate que ce site se lit très bien.
-Il propose un véritable «confort de lecture», comme certains libres.
+Il propose un véritable «confort de lecture», comme certains livres.
 Je pense que c’est ce qu’il y a de plus important pour un site de contenu.
 
 C’est de la lisibilité du texte dont je parle ici.
@@ -28,7 +28,7 @@ Je tolère une fourchette entre 60 et 100.
 L’interligne devrait être fixé à 1.5, voire 1.6.
 Sauf pour les titres (`h1`) et intertitres (`h2`, `h3`, etc.) où l’interligne devrait être réduit à 1.1 ou 1.2.
 
-Mataj Latin propose le jeu [Triangle — a web typography learning game](https://betterwebtype.com/triangle/) pour exercer les interlignes et les longeurs de ligne.
+Mataj Latin propose le jeu [Triangle — a web typography learning game](https://betterwebtype.com/triangle/) pour exercer les interlignes et les longueurs de ligne.
 
 Je trouve que la titraille trop espacée n’est pas du tout lisible; elle donne un aspect négligé.
 En bonus, on peut appliquer un `text-wrap: balance` qui équilibre la longeur les lignes.
@@ -39,7 +39,7 @@ Mais je pense qu’il faut aller plus loin que les exigences minimales et obteni
 
 La police d’écriture m’importe assez peu.
 Je trouve des sites très bon en Arial, d’autres en Georgia, d’autres enfin en police à chasse fixe.
-Mais il faut qu’il contrast suffisamment avec le fond.
+Mais il faut qu’il contraste suffisamment avec le fond.
 Je déconseille de choisir des fontes trop fines.
 `font-weight: 400` ou `font-weight: normal` fonctionnent bien, c’est le choix par défaut des navigateurs et ce n’est pas un hasard.
 
