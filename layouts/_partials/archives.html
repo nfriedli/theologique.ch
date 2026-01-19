@@ -1,9 +1,9 @@
 {{ with page.Pages }}
 <ul>
 {{ range . }}
-    <li class="archives">
-        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a><br>
-        <time datetime="{{.Date.Format "2006-01-02"}}">{{.Date | time.Format ":date_long" }}</time>
+    <li>
+        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+        <time datetime="{{.Date.Format "2006-01-02"}}">({{.Date | time.Format ":date_long" }})</time>
     </li>
 {{ end }}
 </ul>
