@@ -2,6 +2,7 @@
 title = "Découverte du web protestant francophone"
 description = "Petite sélection de liens pour naviguer sur le web et redécouvrir sa magie malgré les réseaux sociaux et les errances des intelligences artificielles (IA)."
 date = 2026-01-07
+lastMod = 2026-01-19
 aliases = ["/blogroll/"]
 +++
 
@@ -67,3 +68,8 @@ Vous pourrez aller plus loin sur le même site ou le quitter pour arpenter d’a
 
 Tous contribuent à la «magie du web», envers et contre tout.
 Un monde merveilleux fait de liens sélectionnés, à l’écart des algorithmes, sans recherche du *like*, et plus riche que les résumés des intelligences artificielles (IA).
+
+---
+
+J’essaie de maintenir une [liste à jour sur GitHub](https://github.com/nfriedli/reseau-protestant).
+
