@@ -8,6 +8,8 @@ Je vous propose le moyen le plus simple qui soit pour suivre des blogs protestan
 C’est un abonnement à des flux RSS et Atom dans l’outil le plus léger possible.
 Si «c’est trop compliqué», je ne peux rien pour vous.
 
+## Mode d’emploi
+
 Voici la marche à suivre:
 
 1. télécharger [liste OPML de démarrage](/files/theologique.xml)
@@ -21,6 +23,8 @@ C’est tout!
 Vous êtes abonné·e à 10+ sites dont vous recevrez les nouveautés quand elles seront publiées.
 
 C’était ma dernière offre pour lire des flux RSS et Atom simplement.
+
+## Aller plus loin
 
 Sur le site ou avec l’application installée, vous pouvez ajouter d’autres flux qui vous intéressant, en supprimer.
 Vous pouvez aussi organiser les choses avec des taxonomies (tags).
