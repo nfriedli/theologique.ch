@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Feeds of Nicolas Friedli tagged as Blogs Are Back from Inoreader [https://www.inoreader.com]</title>
+  </head>
+  <body>
+    <outline text="Blogs Are Back" title="Blogs Are Back">
+      <outline text="Accueil - Claude ÉcritureS - Claude ÉcritureS" title="Accueil - Claude ÉcritureS - Claude ÉcritureS" type="rss" xmlUrl="https://www.claude-ecritures.ch/?format=feed&amp;type=rss" htmlUrl="https://www.claude-ecritures.ch/"/>
+      <outline text="Aurélie Netz" title="Aurélie Netz" type="rss" xmlUrl="https://aurelienetz.ch/feed/" htmlUrl="https://aurelienetz.ch/"/>
+      <outline text="CIDOC - Accueil" title="CIDOC - Accueil" type="rss" xmlUrl="https://www.cidoc.ch/?format=feed&amp;type=rss" htmlUrl="https://www.cidoc.ch/component/content/featured"/>
+      <outline text="Diane Friedli" title="Diane Friedli" type="rss" xmlUrl="https://dianefriedli.ch/feed/" htmlUrl="http://dianefriedli.ch"/>
+      <outline text="Elio Jaillet" title="Elio Jaillet" type="rss" xmlUrl="https://eliojaillet.ch/feed/" htmlUrl="https://eliojaillet.ch/"/>
+      <outline text="Esprit de liberté" title="Esprit de liberté" type="rss" xmlUrl="https://espritdeliberte.leswoody.net/feed/" htmlUrl="https://espritdeliberte.leswoody.net"/>
+      <outline text="Laure Devaux Allisson" title="Laure Devaux Allisson" type="rss" xmlUrl="https://lauredevaux.ch/feed/" htmlUrl="https://lauredevaux.ch/"/>
+      <outline text="Le blog de Jean-Marc Leresche" title="Le blog de Jean-Marc Leresche" type="rss" xmlUrl="https://jeanmarcleresche.ch/feed/" htmlUrl="https://jeanmarcleresche.ch/"/>
+      <outline text="Le blog de Richard Falo" title="Le blog de Richard Falo" type="rss" xmlUrl="https://richardfalo.com/feed/" htmlUrl="https://richardfalo.com/"/>
+      <outline text="PRÉDICATIONS" title="PRÉDICATIONS" type="rss" xmlUrl="https://www.predic.ch/feed/" htmlUrl="https://www.predic.ch/"/>
+      <outline text="Recherche théologique et spirituelle" title="Recherche théologique et spirituelle" type="rss" xmlUrl="https://jecherchedieu.ch/feed" htmlUrl="https://jecherchedieu.ch/"/>
+      <outline text="Textes de JJ Corbaz" title="Textes de JJ Corbaz" type="rss" xmlUrl="https://textesdejjcorbaz.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://textesdejjcorbaz.blogspot.com/"/>
+      <outline text="Théologie et spiritualité" title="Théologie et spiritualité" type="rss" xmlUrl="https://gillesbourquin.ch/feed/" htmlUrl="https://gillesbourquin.ch/"/>
+      <outline text="theologique.ch" title="theologique.ch" type="rss" xmlUrl="https://theologique.ch/index.xml?v=2026-01-15" htmlUrl="https://theologique.ch/"/>
+    </outline>
+  </body>
+</opml>
