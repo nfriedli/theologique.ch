@@ -30,7 +30,7 @@ Mon site de consultant web est [nicolasfriedli.ch](https://nicolasfriedli.ch/).
 
 ## Questions pastorales
 
-**Je ne suis pas pasteur.**
+**[Je ne suis pas pasteur.](/blog/theologien/)**
 Je ne suis pas soumis au secret pastoral et ne souhaite pas recevoir de «confessions».
 Ce blog n’a pas vocation à répondre à des questions de pratiques paroissiales.
 
