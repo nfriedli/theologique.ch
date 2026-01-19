@@ -24,6 +24,12 @@ Header always set Referrer-Policy "no-referrer"
 Header always set X-Permitted-Cross-Domain-Policies "none"
 Header always set Permissions-Policy "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()"
 
+# Accès CORS pour lecteurs de flux
+<FilesMatch "\.(xml|rss|atom)$">
+    Header set Access-Control-Allow-Origin "*"
+    Header set Access-Control-Allow-Methods "GET, HEAD, OPTIONS"
+</FilesMatch>
+
 # headers pour le cache
 Header unset Pragma
 Header unset Last-Modified
