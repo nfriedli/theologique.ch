@@ -18,7 +18,7 @@
       <outline text="Je cherche Dieu (Marc Pernot)" title="Je cherche Dieu (Marc Pernot)" type="rss" xmlUrl="https://jecherchedieu.ch/feed" htmlUrl="https://jecherchedieu.ch/"/>
       <outline text="Jean-Jacques Corbaz" title="Jean-Jacques Corbaz" type="rss" xmlUrl="https://textesdejjcorbaz.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://textesdejjcorbaz.blogspot.com/"/>
       <outline text="Théologie et spiritualité (Gilles Bourquin)" title="Théologie et spiritualité (Gilles Bourquin)" type="rss" xmlUrl="https://gillesbourquin.ch/feed/" htmlUrl="https://gillesbourquin.ch/"/>
-      <outline text="theologique.ch (Nicolas Friedli)" title="theologique.ch (Nicolas Friedli)" type="rss" xmlUrl="https://theologique.ch/index.xml?v=2026-01-15" htmlUrl="https://theologique.ch/"/>
+      <outline text="theologique.ch (Nicolas Friedli)" title="theologique.ch (Nicolas Friedli)" type="rss" xmlUrl="https://theologique.ch/index.xml" htmlUrl="https://theologique.ch/"/>
     </outline>
   </body>
 </opml>
