@@ -4,6 +4,12 @@ description = "Mastodon, avec son protocole ActivityPub, semble être le seul r�
 date = 2026-01-22
 +++
 
+Mastodon semble être le seul réseau social capable de résister au temps en restant fréquentable.
+Mais il fonctionne pas notion d’instances qui peuvent rebuter à l’inscription.
+Alors que c’est là que réside sa force.
+
+Je lance cette discussion pour voir si elle suscite des réactions, des envies ou des vocations.
+
 ## Merdification ou décentralisation
 
 Avec les réseaux sociaux, il n’y a que 2 possibilités: la merdification ou la décentralisation.
