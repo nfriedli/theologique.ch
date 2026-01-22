@@ -77,9 +77,8 @@ Les protocoles documentés et ouverts offrent des possiblités intéressantes.
 Par exemple, je possède le nom de domaine familial [frdl.ch](https://frdl.ch/).
 Le truc sympa, c’est que @n@frdl.ch renvoie à mon compte actuel sur mon instance actuelle.
 Je peux en changer quand je veux, cette adresse reste unique et à moi.
-
 Si tu es sur Mastodon, essaie de me trouver.
-J’en avais dit quelques mots dans [Nom de domaine personnel pour QR codes, Mastodon & Bluesky](https://nicolasfriedli.ch/pratique/nom-domaine-personnel/)
+
 
 Donc, en attendant de trouver des instances spécifiques au protestantisme, réformé ou non, romand ou Suisse (voire francophone), on pourrait se créer des noms de comptes pertinents (et pérennes).
 
@@ -94,3 +93,9 @@ Puis, quand les instances tant espérées arriveront, on les fera pointer là.
 ---
 
 Je ne perds pas espoir de voir les geek·ette·s d’[Open Source Church](https://www.open-source.church/) proposer quelque chose.
+
+---
+
+Il existe une extension [WordPress pour le protocole Webfinger](https://fr.wordpress.org/plugins/webfinger/). 
+Donc, tu peux te créer une adresse liée à ton site web perso facilement.
+J’en avais dit quelques mots dans [Nom de domaine personnel pour QR codes, Mastodon & Bluesky](https://nicolasfriedli.ch/pratique/nom-domaine-personnel/)
