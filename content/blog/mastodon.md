@@ -16,13 +16,14 @@ Avec les réseaux sociaux, il n’y a que 2 possibilités: la merdification ou 
 
 Les outils propriétaires des Big Techs finissent tous par se merdifier.
 C’est un processus choisi et assumé, comme je l’avais signalé dans [Merdification généralisée](https://nicolasfriedli.ch/pratique/merdification/).
-La question n’est pas de savoir *si* ces entreprises vont partir en vrille, mais *quand*.
 Donc, si un réseau social tient à une entreprise et un nom de domaine, c’est foutu.
 Des exemples: facebook.com, instagram.com, linkedin.com, twitter.com, x.com.
 
+La question n’est pas de savoir **si** ces entreprises vont partir en vrille, mais **quand**.
+
 Bluesky (bsky.app) essaie de nous faire croire qu’il a un avenir parce qu’il serait décentralisé.
 Plutôt, il pourrait être décentralisé à terme.
-En l’état, c’est un réseau centralisé comme les autres, avec ses censures et ses biais comme les autres.
+En l’état, c’est un réseau centralisé comme les autres, avec ses censures, ses biais et ses risques.
 
 Donc, pour échapper à la merdification, il n’y a que la décentralisation.
 Elle est possible avec un protocole ouvert.
@@ -33,7 +34,7 @@ Elles sont indépendantes mais permettent d’interagir d’une à l’autre.
 Pour se lancer sur Mastodon, il faut commencer par choisir son instance.
 Ce n’est pas bien compliqué, mais c’est une première marche à gravir.
 
-C’est pourquoi je pense qu’il faut une instance qui pourrait ressembler à:
+C’est pourquoi je pense qu’il faut une instance bien identifiable qui pourrait ressembler à:
 
 - un Mastodon protestant réformé
 - un Mastodon protestant de Suisse romande
@@ -44,24 +45,28 @@ On est là devant un choix stratégique.
 
 ## Périmètre et convention de nommage
 
-Si l’instance est toute petit, avec quelques personnes ou institutions seulement, elle ne paraîtra pas crédible.
-Pourtant, elle est complètement reliée à l’ensemble des instances, donc ça n’a aucune importance.
+Si l’instance est toute petite, avec quelques personnes ou institutions seulement, elle ne paraîtra pas crédible.
+Pourtant, elle est complètement reliée à l’ensemble des autres, donc ça n’a aucune importance.
 Mais ce n’est pas «vendeur».
 
-J’adore voir des développeurs qui ont leur propre instance, comme [Zach Leatherman](https://fediverse.zachleat.com/@zachleat) ou [Andi Gohr](https://fedi.splitbrain.org/@splitbrain).
-Je le suis et j’interagis avec eux alors que je suis sur mastodon.social (avec le compte [@frdlch](https://mastodon.social/@frdlch)).
+J’adore voir des développeurs qui ont leur propre instance, individuelle, comme [Zach Leatherman](https://fediverse.zachleat.com/@zachleat) ou [Andi Gohr](https://fedi.splitbrain.org/@splitbrain).
+Je les suis et j’interagis avec eux alors que je suis sur mastodon.social (avec le compte [@frdlch](https://mastodon.social/@frdlch)).
 
 Je sais que chaque institution ne va pas administrer sa propre instance.
 Il faudrait donc une plateforme au niveau romand, par exemple par la Conférence des Églises réformées de Suisse romande (CER).
 Ou une instance au niveau suisse, par exemple par l’Église évangélique réformée de Suisse (EERS).
 
-Comme chaque instance fixe ses règles d’inscription et de fonctionnement, il faudrait voir qui y a droit:
+Comme chaque serveur fixe ses règles d’inscription et de fonctionnement, il faudrait voir qui y a droit:
 
 - les Églises cantonales?
 - les paroisses?
 - les employé·e·s?
 - les œuvres d’entraide?
 - des associations
+
+Et il faudra dès règles de nommage, pour éviter que des paroisses qui ont le même nom dans plusieurs cantons se marche sur les pieds. 
+Et pour permettre que les personnes s’affichent avec clarté, y compris quand il y a des homonymes.
+La règle de l’ordre d’arrivée n’est peut-être pas la bonne.
 
 Je sais que ce type de réflexion a lieu avec des communes et nous ferions bien de nous en inspirer.
 Avec un Mastodon réformé, composé de quelques institutions romande, d’Églises cantonales, quelques dizaines de paroisses et quelques centaines de personnes, l’inscription devient bien plus alléchante.
