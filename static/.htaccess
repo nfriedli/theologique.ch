@@ -8,7 +8,13 @@ RewriteCond %{HTTPS} off [OR]
 RewriteCond %{HTTP_HOST} ^www. [NC]
 RewriteRule (.*) https://theologique.ch/$1 [R=301,L]
 
+# Comptes Mastodon & co par Webfinger
+RewriteCond %{QUERY_STRING} ^resource=acct:(.+)$ [OR]
+RewriteCond %{QUERY_STRING} ^resource=acct%3A(.+)$
+RewriteRule ^\.well-known/webfinger$ /webfinger/%1? [L]
+
 # Supression des query strings
+RewriteCond %{REQUEST_URI} !^/\.well-known/
 RewriteCond %{QUERY_STRING} .
 RewriteRule ^ %{REQUEST_URI}? [R=301,L]
 
