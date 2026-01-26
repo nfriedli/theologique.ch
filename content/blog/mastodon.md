@@ -2,6 +2,7 @@
 title = "Réseau social Mastodon protestant"
 description = "Mastodon, avec son protocole ActivityPub, semble être le seul réseau social capable de résister à la merdification. Il est temps de créer des instances de tailles raisonnables et spécifiques pour susciter les inscriptions. Ou se rabattre sur WebFinger en attendant."
 date = 2026-01-22
+lastMod = 2026-01-26
 +++
 
 Mastodon semble être le seul réseau social capable de résister au temps en restant fréquentable.
@@ -82,8 +83,9 @@ Si tu es sur Mastodon, essaie de me trouver.
 
 Donc, en attendant de trouver des instances spécifiques au protestantisme, réformé ou non, romand ou Suisse (voire francophone), on pourrait se créer des noms de comptes pertinents (et pérennes).
 
-Je viens de créer le «compte» @nicolas@theologique.ch.
+Je viens de créer le «compte» @nicolas@theologique.ch à des fins de tests.
 Il fonctionne exactement comme celui dont j’ai parlé ci-dessus avec frdl.ch.
+Je l'ai désactivé ensuite mais tout est dans le [commit d0f8bfb](https://github.com/nfriedli/theologique.ch/commit/9ecc1142aed0c1f8e6126cb21707807f59f8ef43) si cela t'intéresse pour ton site.
 
 Donc, tu vois le truc.
 On peut dès maintenant créer des «comptes» liés à des institutions.
@@ -96,6 +98,6 @@ Je ne perds pas espoir de voir les geek·ette·s d’[Open Source Church](https:
 
 ---
 
-Il existe une extension [WordPress pour le protocole Webfinger](https://fr.wordpress.org/plugins/webfinger/). 
+Il existe une extension [WordPress pour le protocole Webfinger](https://fr.wordpress.org/plugins/webfinger/).
 Donc, tu peux te créer une adresse liée à ton site web perso facilement.
 J’en avais dit quelques mots dans [Nom de domaine personnel pour QR codes, Mastodon & Bluesky](https://nicolasfriedli.ch/pratique/nom-domaine-personnel/)
