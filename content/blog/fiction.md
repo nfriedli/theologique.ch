@@ -44,7 +44,7 @@ L’histoire a besoin de temps pour se déployer.
 Elle doit nous embarquer, nous emmener sur de fausses pistes, construire et déconstruire ses protagonistes, nous partager un bout de vie.
 
 Je pense avec Joan Westenberg que le narratif n’est pas réductible dans l’explicatif.
-J’en ai dit quelques lignes dans [Là où tu vas (Étienne Davodeau)](/blog/davodeau-la-ou-tu-vas/).
+J’en ai dit quelques lignes dans [Là où tu vas](/blog/davodeau-la-ou-tu-vas/) sur une bande dessinée (BD) d’Étienne Davodeau
 
 ## Apprendre et enseigner
 
