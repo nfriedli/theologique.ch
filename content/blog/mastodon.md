@@ -85,7 +85,7 @@ Donc, en attendant de trouver des instances spécifiques au protestantisme, réf
 
 Je viens de créer le «compte» @nicolas@theologique.ch à des fins de tests.
 Il fonctionne exactement comme celui dont j’ai parlé ci-dessus avec frdl.ch.
-Je l'ai désactivé ensuite mais tout est dans le [commit d0f8bfb](https://github.com/nfriedli/theologique.ch/commit/9ecc1142aed0c1f8e6126cb21707807f59f8ef43) si cela t'intéresse pour ton site.
+Je l’ai désactivé ensuite mais tout est dans le [commit d0f8bfb](https://github.com/nfriedli/theologique.ch/commit/9ecc1142aed0c1f8e6126cb21707807f59f8ef43) si cela t’intéresse pour ton site.
 
 Donc, tu vois le truc.
 On peut dès maintenant créer des «comptes» liés à des institutions.
