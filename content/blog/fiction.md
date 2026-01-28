@@ -63,7 +63,8 @@ Et il y en a d’autres qui s’apprennent par des expériences ressenties, véc
 Diane Friedli, ma femme, dit quelque chose de la transmission de la foi dans [Trois réflexions sur la catéchèse](https://dianefriedli.ch/3-reflexions-catechese/).
 Elle cite une prédication lumineuse de James Woody: [La catéchèse, pour un peu plus que la culture et la doctrine](https://espritdeliberte.leswoody.net/2024/09/15/la-catechese-pour-un-peu-plus-que-la-culture-et-la-doctrine/).
 
-Comme un cadre de confiance catéchétique ne se décrète pas, le monde déployé par une histoire n’est pas remplaçable par des arguments, des conseils et des recettes à suivre.
+Un cadre de confiance catéchétique ne se décrète pas, il se construit.
+Comme le monde déployé par une histoire qui n’est pas remplaçable par des arguments, des conseils et des recettes à suivre.
 Il y a plein de bonnes raisons de regarder des films, de lire des romans et d’écouter des contes.
 C’est intemporel.
 Et peut-être simplement irremplaçable.
