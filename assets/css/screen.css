@@ -5,8 +5,7 @@
     --txt: hsl(36, 50%, 10%);
     --orange: hsl(36, 100%, 40%);
 
-    --sans-serif: ui-sans-serif, "Roboto", "Arial", system-ui, sans-serif;
-    --display: "Syne", var(--sans-serif);
+    --sans-serif: "Roboto", ui-sans-serif, "Inter", "Arial", system-ui, sans-serif;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -33,6 +32,7 @@ html {
     /* 320px - 16 -> 1280px - 20 */
     font-size: clamp(1rem, 0.9167rem + 0.4167vw, 1.25rem);
     text-rendering: optimizeLegibility;
+    font-variant-numeric: oldstyle-nums proportional-nums;
 }
 
 body {
@@ -69,6 +69,7 @@ a {
     text-decoration-color: var(--orange);
     text-decoration-thickness: .1em;
     text-underline-offset: .1em;
+    font-variant-numeric: lining-nums tabular-nums;
 }
 
 a[aria-current="page"] {
@@ -84,7 +85,6 @@ h1,
 h2,
 h3,
 h4 {
-    font-family: var(--display);
     line-height: 1.2;
     margin-block-start: 2rem;
     margin-block-end: 1rem;
@@ -93,6 +93,7 @@ h4 {
 
 h1 {
     font-size: 2.2rem;
+    font-weight: 600; 
     margin-block-start: 0;
 }
 
@@ -102,10 +103,12 @@ h2 {
 
 h3 {
     font-size: 1.3rem;
+    font-weight: 800;
 }
 
 h4 {
     font-size: 1rem;
+    font-weight: 900;
 }
 
 ul {
@@ -164,12 +167,4 @@ code {
     background: var(--txt);
     color: var(--bg);
     font-size: .9rem;
-}
-
-@font-face {
-  font-display: swap;
-  font-family: "Syne";
-  font-style: normal;
-  font-weight: 700;
-  src: url("/fonts/syne-v24-latin-700.woff2") format("woff2"); 
 }
