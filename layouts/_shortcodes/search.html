@@ -1,0 +1,25 @@
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
+<style>
+    :root {
+        --pagefind-ui-scale: 1;
+        --pagefind-ui-primary: var(--txt);
+        --pagefind-ui-text: var(--txt);
+        --pagefind-ui-background: var(--bg);
+        --pagefind-ui-border: var(--orange);
+        --pagefind-ui-tag: var(--txt);
+        --pagefind-ui-font: var(--sans-serif);
+    }
+</style>
+<div id="search"></div>
+<script>
+    window.addEventListener("DOMContentLoaded", (event) => {
+        new PagefindUI({
+            element: "#search",
+            showSubResults: true,
+            showImages: false,
+            resetStyles: true,
+            autofocus: true
+        });
+    });
+</script>
