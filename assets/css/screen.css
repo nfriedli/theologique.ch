@@ -174,12 +174,11 @@ form {
 }
 
 input {
-    color: var(--txt);
-    background: var(--bg2);
-    border: .2rem solid var(--txt);
+    color:var(--txt);
+    border: .2rem solid var(--orange);
     font-family: inherit;
-    font-size: 1.44rem;
-    padding: .4rem;
+    font-size: 1.5rem;
+    padding: .5rem;
     width: 100%;
 }
 
