@@ -168,3 +168,21 @@ code {
     color: var(--bg);
     font-size: .9rem;
 }
+
+form {
+    margin-block: 1rem;
+}
+
+input {
+    color: var(--txt);
+    background: var(--bg2);
+    border: .2rem solid var(--txt);
+    font-family: inherit;
+    font-size: 1.44rem;
+    padding: .4rem;
+    width: 100%;
+}
+
+input::placeholder {
+    color: var(--txt)
+}
