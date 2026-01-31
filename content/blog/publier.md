@@ -23,9 +23,11 @@ J’ai longtemps hésité à relancer un [DokuWiki](https://www.dokuwiki.org/dok
 Mais cette amélioration continue est aussi un risque de rechercher la «perfection» sur quelques contenus, au risque d’être très limitant et de les figer.
 
 theologique.ch ne changera pas avant d’avoir mis 50 billets en ligne.
-Ni d’outil, ni de présentation, ni d’architecture d’information.
+Ni de présentation, ni d’architecture d’information.
 À quoi bon travailler sur le site s’il n’a rien à dire.
 Des ajustements seront apportés, mais rien d’autre.
+
+Ou alors je change complètement d'outil parce que je suis dans une impasse.
 
 ## Fonction des articles
 
