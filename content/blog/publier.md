@@ -27,7 +27,7 @@ Ni de présentation, ni d’architecture d’information.
 À quoi bon travailler sur le site s’il n’a rien à dire.
 Des ajustements seront apportés, mais rien d’autre.
 
-Ou alors je change complètement d'outil parce que je suis dans une impasse.
+Ou alors je change complètement d’outil parce que je suis dans une impasse.
 
 ## Fonction des articles
 
