@@ -41,7 +41,7 @@ Mais il est raisonnable de penser que chacun et chacune peut trouver quelque cho
 Reste à savoir quoi, où et quand.
 C’est loin d’être trivial.
 
-## Savoir que «les gens» veulent
+## Savoir ce que «les gens» veulent
 
 Ce qui m’interpelle souvent chez les diacres et pasteur·e·s, c’est la prétention de savoir que ce «les gens» veulent.
 Je ne doute pas un instant qu’il y a des retours nombreux sur ce qui est proposé dans leurs pratiques.
@@ -56,7 +56,7 @@ Extrapoler des attentes à partir du groupe de «**nos** gens», c’est courir 
 C’est peut-être, pour reprendre Paul Watzlawick, faire «toujours plus de la même chose».
 C’est peut-être proposer exactement ce qui a fait qu’elles et ils n’étaient pas là.
 
-Dans le domaine du web, j’ai appris que nous ne savons qui utilisera un site, quand et comment.
+Dans le domaine du web, j’ai appris que nous ne savons pas qui utilisera un site, quand et comment.
 J’ai envie de dire que je ne sais ni le jour, ni l’heure, ni le comment, ni le «d’où», ni le pourquoi.
 
 Nous nous trompons souvent, les statistiques nous le démontrent.
