@@ -4,7 +4,7 @@ description = "Le résultat compte plus que les outils utilisés pour le produir
 date = 2026-02-08
 +++
 
-Un ami m’a signalé l’article *Nobody gives a shit* (Tout le monde s’en fout) de Joan Westenberg.
+Un ami m’a signalé l’article *Nobody gives a shit* (Tout le monde s’en fout) de Joan Westenberg.
 L’idée, c’est que personne n’en a rien à battre des outils que nous utilisons.
 
 Je ne sais pas s’il me l’a transmis parce que je cite souvent cette blogueuse ou parce que je parle trop d’outils.
@@ -35,8 +35,8 @@ Toutefois, je trouve que parler, un peu, des outils utilisés n’est pas un cho
 Sur ce site, je m’adresse à une audience théologique, spirituelle, ecclésiale, etc.
 Je pense que ce contexte justifie de parler des outils qui permettent de produire des sites.
 
-Quand des pasteur·e·s mettent leurs prédications en ligne sur le blog personnel.
-Et quand on sait que ce blog est motorisé par WordPress, un message est transmis aux collègues:
+Des pasteur·e·s mettent leurs prédications en ligne sur leur blog personnel.
+Quand on sait que ce blog est motorisé par WordPress, un message est transmis aux collègues:
 
 > Si tu veux créer un site similaire au mien, sache que tu peux le faire avec WordPress.
 > C’est un outil standard, simple d’utilisation, avec lequel tu peux mettre aisément en ligne ta prédication rédigée avec Word.
@@ -69,7 +69,7 @@ Sur GitHub, j’ai récupéré sa [liste de sites](https://github.com/nfriedli/r
 Pour moi, il est important de savoir si des théologiennes et théologiens utilisent git.
 Est-ce un moyen viable de proposer quelque chose? ou non?
 
-J’imagine que plein de pasteur·e·s stockent leur prédications sur GitHub en format Markdown.
+J’imagine que plein de pasteur·e·s stockent leurs prédications sur GitHub en format Markdown.
 Ce serait une folie de ne pas le faire.
 Comme [Markdown a gagné la course](https://www.inoreader.com/article/3a9c6e769a82a548-how-markdown-took-over-the-world), le champ des possibles est illimité.
 Avec une liste de dépôts GitHub, je pourrais mettre en ligne des dizaines de prédications chaque dimanche soir, sur un site dédié, en quelques minutes.
@@ -77,15 +77,15 @@ J’y pense souvent.
 
 ## Utiliser des outils éthiques peut éviter des écueils
 
-Dans son article, Joan Westenberg nous parle encore d’outils éthiques (ou non).
-Là encore, on s’en balancerait.
+Dans son article, Joan Westenberg nous parle d’outils éthiques (ou non).
+Là encore, on s’en balance (ou pas).
 
-C’est partiellement vrai.
+Sa position ne me paraît que partielle tenable.
 Qu’importe que les prédications dont je parlais ci-dessus soient écrites dans des logiciels privateurs (comme Word et Pages).
-Si elles sont en ligne dans un format ouvert, en HTML, c’est peu intéressant.
+Si elles sont en ligne sur son propre site en HTML (web ouvert), c’est peu intéressant de regarder les coulisses.
 
 Mais elle démontre par sa propre pratique que tout n’est pas si simple.
-C’est sur X/Twitter que l’article à l’origine de ce billet a été publié (et pas sur [son blog](https://www.joanwestenberg.com/)).
+C’est sur X/Twitter (web fermé) que l’article à l’origine de ce billet a été publié (et pas sur [son blog](https://www.joanwestenberg.com/)).
 Le problème, c’est qu’il n’est pas accessible si tu ne disposes pas de compte X/Twitter.
 
 Donc, pour lire [Nobody gives a shit](https://x.com/jawestenberg/status/2019640470331355455), tu dois créer un compte et accepter les conditions générales de [ce site merdifié](https://nicolasfriedli.ch/pratique/merdification/).
@@ -109,4 +109,7 @@ Et si tu veux discuter technique, je suis disponible.
 ---
 
 En passant, je ne comprends toujours pas pourquoi l’Église évangélique réformée de Suisse (EERS) a bloqué son flux RSS ou Atom.
-Avec WordPress, il est produit par défaut, c’est donc un choix!
+Avec WordPress, le flux sont actifs par défaut.
+C’est donc un choix de les désactiver.
+Dans quel but?
+Et au service de qui?
