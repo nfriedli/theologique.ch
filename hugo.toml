@@ -36,7 +36,6 @@ keepWhitespace = true
 [params]
 images = [ "/images/opengraph.jpg" ]
 slogan = "un blog protestant réformé par Nicolas Friedli"
-siteversion = "2026-01-15"
 
 [params.author]
 name = "Nicolas Friedli"
