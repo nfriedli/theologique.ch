@@ -31,7 +31,10 @@ Ce qui est définitoire du podcast pour moi, c’est l’abonnement.
 Je peux m’abonner pour obtenir automatiquement les nouveaux épisodes.
 Je peux les écouter quand je veux, ce qui diffère de la radio (classique) ou de la télévision (avant le replay).
 C’est asynchrone; je n’ai pas besoin d’écouter un épisode au moment exact de sa mise en ligne.
-Cet abonnement, je peux le faire dans un logiciel ou sur une plateforme, mais toujours via un flux RSS
+Cet abonnement, je peux le faire dans un logiciel ou sur une plateforme, mais toujours via un flux RSS.
+
+C’est tellement simple et génial qu’il est possible de s’abonner dans un simple agrégateur (Feedly, Inoreader, Feedbin, etc.).
+Si c’est pour quelques abonnements, pas besoin de créer un compte sur une plateforme obscure.
 
 Je conseille le passage [Concept](https://fr.wikipedia.org/wiki/Podcasting#Concept) de la page Wikipédia sur le sujet.
 
