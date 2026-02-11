@@ -137,3 +137,7 @@ Mais si le sujet intéresse, je réfléchirai peut être à ceci.
 ----
 
 Je suis intéressé à toutes questions, remarques, critiques, retours, etc. pour essayer de me construite un avis plus éclairé sur le sujet.
+
+----
+
+Pour l’exercice, j’ai généré un [épisode sur le contenu de cette page](https://archive.org/details/l-independance-du-podcast-face-a-l-ia) par NotebookLM.
