@@ -1,6 +1,6 @@
 +++
 title = "Sur les podcasts"
-description = "Réflexions en cours sur les podcasts. Génération par intelligence artificielle, publication d’un texte d’accompagnement, poids des fichiers produit, choix des outils de diffusion."
+description = "Réflexion en cours sur les podcasts: génération par intelligence artificielle, publication d’un texte d’accompagnement utile, poids des fichiers produits, choix des outils de diffusion et risque de merdification."
 date = 2026-02-11
 +++
 
@@ -9,8 +9,9 @@ Ce n’est pas complètement nouveau, j’avais publié un billet sur une ancien
 Mais je remarque que c’est un format qui a pas mal de succès ces temps, auprès des toutes les tranches d’âges.
 Peut-être un moyen de [rejoindre les gens où ils sont](/blog/rejoindre/).
 
-**Ce billet est une prise de note rendue publique.**
+**Ce billet est une simple prise de note.**
 Il ne parle que de podcasts audio.
+Tout y est provisoire.
 
 ## Préciser la notion de «podcast»
 
@@ -117,7 +118,7 @@ Quand un épisode est rédigé avant l’audio (scripté), d’autres questions 
 - Faut-il se contenter de bons textes et lasser les synthèses vocales (locales et légères) lire le contenu?
 - Faut-il suggérer aux internautes de créer leur propre podcast, avec l’IAg de leur choix (et espérer une écoute après 10 minutes de génération)?
 
-Je ne soutiens évidemment pas la dernière piste qui est une horreur de consommation et d'utilisation de son temps, mais je mentionne son existence.
+Je ne soutiens évidemment pas la dernière piste qui est une horreur de consommation et d’utilisation de son temps, mais je mentionne son existence.
 
 ## Ce qu’il faudrait traiter
 
