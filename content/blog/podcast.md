@@ -49,7 +49,7 @@ Je remarque:
 
 - que la page en question propose plein de fichiers audio, mais sans possibilité de s’abonner (ce n’est pas un podcast)
 - qu’un flux RSS (c’est un podcast) est disponible (bravo), mais sur la page [Explore chez podigee.io](https://kteexplore.podigee.io/) seulement
-- que les abonnements sont possible par des plateformes, avec toutes les merdifications à venir
+- que les abonnements sont possible par des plateformes, avec toutes les [merdifications](https://nicolasfriedli.ch/pratique/merdification/) à venir
 
 Mes question toutes simples:
 
@@ -127,7 +127,7 @@ Je ne soutiens évidemment pas la dernière piste qui est une horreur de consomm
 
 Au fond, je crois que je suis bien avec mes billets textuels.
 
-Mais si le sujet intéresse, je réfléchirai peut être à ceci.
+Mais si le sujet intéresse, je réfléchirai peut être à ceci:
 
 - le risque de merdification des services tiers
 - le plateformes privatrices
