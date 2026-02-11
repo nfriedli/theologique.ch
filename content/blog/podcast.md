@@ -12,6 +12,7 @@ Peut-être un moyen de [rejoindre les gens où ils sont](/blog/rejoindre/).
 **Ce billet est une simple prise de note.**
 Il ne parle que de podcasts audio.
 Tout y est provisoire.
+:tada: Surprise en toute fin de billet. :tada:
 
 ## Préciser la notion de «podcast»
 
@@ -82,7 +83,7 @@ J’ai publié [Enjeux de la curation de contenu](https://theologique.ch/blog/cu
 Une thématique dont parle aussi le lien dans la citation d’Adaction ci-dessus.
 
 Puis j’ai demandé à NotebookLM de me générer un épisode.
-C’était sur un site de démo, mais le fichier audio est toujours disponible en archive: [Épisode de podcast sur la curation généré par NotebookLM](https://web.archive.org/web/20260113091024/https://spip.theologique.ch/IMG/m4a/curation.m4a).
+C’était sur un site de démo, mais le fichier audio est toujours disponible en archive: :loudspeaker: [Épisode de podcast sur la curation généré par NotebookLM](https://web.archive.org/web/20260113091024/https://spip.theologique.ch/IMG/m4a/curation.m4a).
 
 Il était hébergé sur un site de test en sous-domaine, qui produisait un RSS qui était un vrai podcast, repris automatiquement sur Spotify.
 Je n’ai pas l’intention de le faire pour le moment, mais j’ai expérimenté la possibilité d’héberger son podcast complet pour échapper à la merdification.
@@ -129,10 +130,10 @@ Au fond, je crois que je suis bien avec mes billets textuels.
 
 Mais si le sujet intéresse, je réfléchirai peut être à ceci:
 
-- le risque de merdification des services tiers
-- le plateformes privatrices
-- des meilleurs pistes pour créer des textes de description et de contenu plus utiles (qui accompagne vraiment l’écoute plutôt que d’y inciter seulement)
-- les outils pour autohéberger son podcast (le vieux SPIP le fait nativement...)
+- le risque de merdification :poop: des services tiers
+- le plateformes privatrices :lock:
+- des meilleurs pistes pour créer des textes de description et de contenu plus utiles (qui accompagne vraiment l’écoute plutôt que d’y inciter seulement) :compass:
+- les outils pour autohéberger son podcast (le vieux SPIP le fait nativement...) :toolbox:
 
 ----
 
@@ -140,4 +141,4 @@ Je suis intéressé à toutes questions, remarques, critiques, retours, etc. pou
 
 ----
 
-Pour l’exercice, j’ai généré un [épisode sur le contenu de cette page](https://archive.org/details/l-independance-du-podcast-face-a-l-ia) par NotebookLM.
+Pour l’exercice, j’ai généré un :loudspeaker: [épisode sur le contenu de cette page](https://archive.org/details/l-independance-du-podcast-face-a-l-ia) par NotebookLM.
