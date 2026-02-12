@@ -79,6 +79,7 @@ a[aria-current="page"] {
 p {
     margin: 0;
     margin-block-start: 1rem;
+    text-wrap: pretty;
 }
 
 h1,
