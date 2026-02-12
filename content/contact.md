@@ -21,10 +21,12 @@ Suisse
 [+41 79 344 33 82](tel:+41793443382)\
 [+41 32 841 48 74](tel:+41328414874) (comme ultime recours)
 
-Je lis parfois des [messages WhatsApp](https://wa.me/41793443382).
+Je lis parfois des messages [Signal](https://signal.me/#p/+41793443382) ou  [WhatsApp](https://wa.me/41793443382).
+Mais je ne prends pas d’appels sur ces messageries.
 
+Je suis présent sur [Mastodon](https://mastodon.social/@frdlch) pour de la veille.
 Je ne suis pas présent sur Bluesky, Instagram, LinkedIn, X (Twitter), etc.
-Ma présence sur [Facebook](https://www.facebook.com/frdl.ch) et [Mastodon](https://mastodon.social/@frdlch) est passive.
+Ma «présence» sur [Facebook](https://www.facebook.com/frdl.ch) est passive.
 
 Mon site de consultant web est [nicolasfriedli.ch](https://nicolasfriedli.ch/).
 
