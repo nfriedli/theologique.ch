@@ -2,7 +2,7 @@
 title = "Découverte du web protestant francophone"
 description = "Petite sélection de liens pour naviguer sur le web et redécouvrir sa magie malgré les réseaux sociaux et les errances des intelligences artificielles (IA)."
 date = 2026-01-07
-lastMod = 2026-01-19
+lastMod = 2026-02-12
 aliases = ["/blogroll/"]
 +++
 
@@ -56,6 +56,7 @@ La voici:
 - [Diane Friedli](https://dianefriedli.ch/), qui propose des [prédications](https://dianefriedli.ch/category/predication/) et des [réflexions sur la catéchèse](https://dianefriedli.ch/category/catechese/)
 - [Laure Devaux Allisson](https://lauredevaux.ch/), qui a inventé les géniales [méditations domestiques](https://lauredevaux.ch/category/meditation-domestique/)
 - [Esprit de liberté](https://espritdeliberte.leswoody.net/) par James Woody dont les [cultes](https://espritdeliberte.leswoody.net/page-des-cultes/) sont disponibles en texte, audio et vidéo
+- [La raison et la foi](https://jeromeg.ch/) par Jérôme Grandet qui propose notamment des chroniques de ses accompagnements en tant qu’aumônier
 - [Réformés.ch](https://www.reformes.ch/), portail d’actualité qui héberge aussi le [journal *Réformés*](https://www.reformes.ch/source/reformes-le-journal)
 - [Regards protestants](https://regardsprotestants.com/), qui compile de nombreuses [sources](https://regardsprotestants.com/partenaires/) protestantes francophones (pas uniquement réformées)
 - [Blog de l’EERS (Église évangélique réformée de Suisse)](https://www.eks-eers.ch/fr/themenseite/themes-le-blog-de-leers/), qui propose des [podcasts](https://www.eks-eers.ch/fr/eks-blog-inhaltstyp/podcast-fr/), des [recensions](https://www.eks-eers.ch/fr/eks-blog-inhaltstyp/recensions-fr/) et des [réflexions de fond](https://www.eks-eers.ch/fr/eks-blog-inhaltstyp/blog-fr/), sur lequel s’exprime notamment Elio Jaillet (dont le blog personnel est cité en haut de page)
