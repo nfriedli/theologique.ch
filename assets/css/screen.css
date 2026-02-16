@@ -2,6 +2,7 @@
     color-scheme: light dark;
 
     --bg: hsl(36, 50%, 95%);
+    --bg2: hsl(36, 25%, 90%);
     --txt: hsl(36, 50%, 10%);
     --orange: hsl(36, 100%, 40%);
 
@@ -11,6 +12,7 @@
 @media (prefers-color-scheme: dark) {
     :root {
         --bg: hsl(36, 100%, 5%);
+        --bg2: hsl(36, 50%, 10%);
         --txt: hsl(36, 50%, 90%);
         --orange: hsl(36, 100%, 60%);
     }
@@ -48,6 +50,7 @@ body {
     min-height: 100vh;
     min-height: 100dvh;
     overflow-wrap: break-word;
+    text-wrap: pretty;
 }
 
 main {
@@ -56,7 +59,8 @@ main {
 
 header,
 footer,
-time {
+time, 
+aside {
     font-size: .85rem;
 }
 
@@ -79,7 +83,6 @@ a[aria-current="page"] {
 p {
     margin: 0;
     margin-block-start: 1rem;
-    text-wrap: pretty;
 }
 
 h1,
@@ -145,7 +148,7 @@ blockquote {
     padding-inline-start: 1rem;
 }
 
-nav ul {
+header nav ul {
     display: flex;
     flex-wrap: wrap;
     gap: .5rem 1rem;
@@ -153,7 +156,7 @@ nav ul {
     padding: 0;
 }
 
-nav li {
+header nav li {
     margin: 0;
     list-style-type: none;
 }
@@ -185,4 +188,10 @@ input {
 
 input::placeholder {
     color: var(--txt)
+}
+
+aside {
+    background-color: var(--bg2);
+    margin-block: 1rem;
+    padding: .5rem 1rem;
 }

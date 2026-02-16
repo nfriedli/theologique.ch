@@ -4,6 +4,8 @@
 
 <time datetime="{{.Date.Format " 2006-01-02"}}">{{.Date | time.Format ":date_long"}}</time>
 
+{{ partial "toc" . }}
+
 {{ .Content }}
 
 {{ end }}

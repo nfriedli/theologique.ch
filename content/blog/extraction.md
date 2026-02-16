@@ -2,7 +2,7 @@
 title = "S’extraire de la théologie (pour faire de la théologie)"
 description = "Les débats ecclésiaux et théologiques sur les intelligences artificielles (IA) ne sont pas toujours à la hauteur des enjeux. Souvent, c’est ailleurs que se trouvent les écrits les plus stimulants, y compris d’un point de vue théologique."
 date = 2026-02-14
-draft = true
+lastMod = 2026-02-16
 +++
 
 Les débats ecclésiaux et théologiques sur les intelligences artificielles (IA) ne sont pas toujours à la hauteur des enjeux.
@@ -29,8 +29,8 @@ Ces analogies ne sont pas opérantes (comme souvent quand elles sont utilisées 
 Pire, elles stoppent tout réflexion en nous enfermant dans des réalités physiques.
 
 Ce qui a été dit dans [Enjeux de la curation de contenu](/blog/curation/) reste valable.
-Mais le travail de curation du CIDOC a perdu en crédibilité.
-L’envoi hebdomadaire a hypothéqué sa valeur; pourquoi y rester abonné s’il recommande des liens d’aussi piètre tenue?
+Mais le travail de curation du CIDOC a perdu un peu en crédibilité.
+Je vais continuer à le suivre, pour le moment.
 
 ## Excursus 1
 
@@ -89,6 +89,7 @@ Tout semble tourner à vide dans ce petit monde protestant romand.
 
 [La honte d’être croyant](https://www.reforme.net/oeil-reforme/la-honte-detre-croyant-loeil-de-reforme-du-13-fevrier-2026/) d’Antoine Nouis interpelle.
 Mais il n’infléchira pas mon envie de tout bazarder dans quelques jours.
+Ou pas.
 
 ----
 
