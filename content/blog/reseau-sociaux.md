@@ -2,6 +2,7 @@
 title = "À propos des réseaux prétendument sociaux"
 description = "Les réseaux dits sociaux ont cassé le contrat social qui faisait leur intérêt. Ils sont merdifiés et uniquement au service du capitalisme de surveillance. Heureusement, Mastodon est bien vivant."
 date = 2026-02-09
+lastMod = 2026-02-17
 +++
 
 On m’a demandé pourquoi j’étais si sévère au sujet des réseaux sociaux.
@@ -59,6 +60,10 @@ Si l’ignoble rapporte beaucoup, autant le laisser prospérer.
 
 À titre personnel et institutionnel, nous avons à nous regarder en face sans complaisance comme nous continuons à alimenter la bête.
 Je me mets dans le lot pour mes usages professionnels de sites que toute décence devrait rendre infréquentables.
+
+Framablog propose une excellente bande dessinée dans son billet [Attention à l’économie de l’attention](https://framablog.org/2026/02/17/attention-a-leconomie-de-lattention/):
+
+> Parce que les phénomènes d’addiction aux médias sociaux ne sont pas apparus spontanément mais ont savamment été mis en place par les GAFAM, et qu’il faudrait sans doute que ça se sache un peu plus...
 
 ## Le réseau social n’est pas mort
 
