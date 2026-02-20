@@ -3,7 +3,6 @@ title = "Découverte du web protestant francophone"
 description = "Petite sélection de liens pour naviguer sur le web et redécouvrir sa magie malgré les réseaux sociaux et les errances des intelligences artificielles (IA)."
 date = 2026-01-07
 lastMod = 2026-02-20
-aliases = ["/blogroll/"]
 +++
 
 À la fin de 2025, le [Réseau protestant](https://reseau-protestant.ch/) (réformé de Suisse romande) a annoncé qu’il se mettait en veille.
@@ -72,4 +71,4 @@ Un monde merveilleux fait de liens sélectionnés, à l’écart des algorithmes
 
 ----
 
-Une liste de [Sites protestants réformés de Suisse romande](/blog/blogroll/)
+Une liste de [Sites protestants réformés de Suisse romande](/blog/blogroll/) est désormais proposée sur ce blog.

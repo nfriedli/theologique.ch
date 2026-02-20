@@ -1,13 +1,17 @@
 +++
 title = "Sites protestants réformés de Suisse romande"
-description = ""
+description = "Un annuaire des sites (blogroll) pour poursuivre le travail du «Réseau protestant de Suisse romande» en version simplifiée."
 date = 2026-02-20
+aliases = ["/blogroll/"]
 +++
 
 Le [Réseau protestant réformé](https://reseau-protestant.ch/) a été mis en sommeil en décembre 2025.
 Cette page repart de la liste de sites qu’il proposait et l’actualise.
+Elle n’a pas l’ambition de créer un réseau, mais simplement de proposer un petit annuaire.
 
-Le suivi des modifications est visible dans l’[historique de cette page](https://github.com/nfriedli/theologique.ch/commits/main/content/blog/blogroll.md).
+Elle sera toujours disponible en [slash page](https://slashpages.net/) avec le raccourci: [/blogroll/](https://theologique.ch/blogroll/).
+
+Le suivi des modifications est visible dans l’[historique sur GitHub](https://github.com/nfriedli/theologique.ch/commits/main/content/blog/blogroll.md).
 
 ## Réflexion & théologie
 
