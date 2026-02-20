@@ -9,7 +9,7 @@ Le [Réseau protestant réformé](https://reseau-protestant.ch/) a été mis en 
 Cette page repart de la liste de sites qu’il proposait et l’actualise.
 Elle n’a pas l’ambition de créer un réseau, mais simplement de proposer un petit annuaire.
 
-Elle sera toujours disponible en [slash page](https://slashpages.net/) avec le raccourci: [/blogroll/](https://theologique.ch/blogroll/).
+Elle sera toujours disponible en [slash page](https://slashpages.net/) avec le raccourci: [/blogroll/](/blogroll/).
 
 Le suivi des modifications est visible dans l’[historique sur GitHub](https://github.com/nfriedli/theologique.ch/commits/main/content/blog/blogroll.md).
 
