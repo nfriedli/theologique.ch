@@ -7,6 +7,6 @@ draft = true
 
 [Principes](https://indieweb.org/principles-fr)
 
-[Qu'est-ce que l'IndieWeb?](https://indieweb.org/Main_Page-fr)
+[Qu’est-ce que l’IndieWeb?](https://indieweb.org/Main_Page-fr)
 
 [Indie Web: Recouvrer son indépendance numérique](https://www.glukhov.org/fr/post/2025/10/indie-web-overview/)
