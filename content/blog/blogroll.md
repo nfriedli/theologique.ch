@@ -3,6 +3,7 @@ title = "Sites protestants réformés de Suisse romande"
 description = "Un annuaire des sites (blogroll) pour poursuivre le travail du «Réseau protestant de Suisse romande» en version simplifiée."
 date = 2026-02-20
 aliases = ["/blogroll/"]
+images = ["https://cdn.pixabay.com/photo/2023/06/17/21/42/reformers-wall-8070835_1280.jpg"]
 +++
 
 Le [Réseau protestant réformé](https://reseau-protestant.ch/) a été mis en sommeil en décembre 2025.
