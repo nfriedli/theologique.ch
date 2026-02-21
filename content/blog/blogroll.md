@@ -84,7 +84,6 @@ Certains disposent de ressources toujours préciseuses.
 
 ## Livres & bibliothèques
 
-- [Centre de recherche et de documentation catéchétique (CREDOC)](https://www.mediatheque-cip.ch/mediatheque/Partenaires/CREDOC) (Tramelan)
 - [Centre œcuménique de documentation (COD)](https://www.cod-ne.ch/) (La Chaux-de-Fonds & Peseux)
 - [Centre pour l’information et la documentation chrétiennes (CIDOC)](https://www.cidoc.ch/) (Lausanne)
 - [Centre œcuménique de catéchèse (COEC)](https://coec.ch/) (Genève)
