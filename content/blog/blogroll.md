@@ -112,11 +112,13 @@ Certains disposent de ressources toujours préciseuses.
 - [Journal Réformés](https://www.reformes.ch/source/reformes-le-journal)
 - [Portail Réformés.ch](https://www.reformes.ch/)
 
-## Solidarité
+## Solidarité & écologie
 
 - [Diaconie Suisse](https://diakonie.ch/fr/)
-- [DM Dynamique dans l’échange (ex DM échange et mission)](https://www.dmr.ch/)
+- [DM](https://www.dmr.ch/)
+- [ÉcoÉglise](https://ecoeglise.ch/)
 - [EPER](https://www.eper.ch/)
+- [œco](https://oeku.ch/fr/)
 
 ----
 
