@@ -118,7 +118,6 @@ Certains disposent de ressources toujours précieuses.
 - [DM](https://www.dmr.ch/)
 - [ÉcoÉglise](https://ecoeglise.ch/)
 - [EPER](https://www.eper.ch/)
-- [œco](https://oeku.ch/fr/)
 
 ----
 
