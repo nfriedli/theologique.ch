@@ -119,6 +119,7 @@ Certains disposent de ressources toujours précieuses.
 À faire:
 
 - proposer une sélection de podcasts
-- supprimer les sites inactifs ou problématiques (sécurité ou qualité)
+- supprimer les sites inactifs ou problématiques (sécurité, qualité, bilan carbone)
 - lister les flux RSS des sites existants
 - produire une version JSON,
+- étendre à la francophonie?
