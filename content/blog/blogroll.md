@@ -19,7 +19,6 @@ Le suivi des modifications est visible dans l’[historique sur GitHub](https://
 
 - [Avent en vers](https://aventenvers.blogspot.com/)
 - [Cèdres Réflexion](https://cedresreflexion.ch/)
-- [ContactGPS](https://www.contactgps.ch)
 - [Je cherche Dieu](https://jecherchedieu.ch/)
 - [Labo khi](https://labokhi.ch)
 - [Miettes de Carême](https://miettesdecareme.blogspot.com/)
