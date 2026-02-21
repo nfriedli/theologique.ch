@@ -78,7 +78,6 @@ Certains disposent de ressources toujours précieuses.
 - [Cèdres Formation](https://cedresformation.ch/)
 - [Faculté de théologie de Genève](https://www.unige.ch/theologie/)
 - [Faculté de théologie et de sciences des religions de Lausanne](https://www.unil.ch/ftsr/fr/home.html)
-- [Héros Bibliques](https://heros-bibliques.ch/)
 - [Réf-Formation](https://ref-formation.ch) (ex OPF)
 
 ## Livres & bibliothèques
