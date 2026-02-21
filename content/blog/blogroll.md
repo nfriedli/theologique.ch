@@ -24,7 +24,6 @@ Le suivi des modifications est visible dans l’[historique sur GitHub](https://
 - [Miettes de Carême](https://miettesdecareme.blogspot.com/)
 - [Open Source Church](https://www.open-source.church/)
 - [Perspectives protestantes](http://perspectivesprotestantes.ch/)
-- [Pertinence](https://www.pertinence.ch/)
 - [Rassemblement pour un renouveau réformé (R3)](https://www.ler3.ch/)
 
 ## Blogs & sites personnels
