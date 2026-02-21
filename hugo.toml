@@ -41,5 +41,5 @@ slogan = "un blog protestant réformé par Nicolas Friedli"
 name = "Nicolas Friedli"
 email = "contact+rss@theologique.ch"
 
-[services.rss]
-limit = "20"
+#[services.rss]
+#limit = "20"
