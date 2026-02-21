@@ -2,6 +2,7 @@
 title = "Sites protestants réformés de Suisse romande"
 description = "Un annuaire des sites (blogroll) pour poursuivre le travail du «Réseau protestant de Suisse romande» en version simplifiée."
 date = 2026-02-20
+lastMod = 2026-02-21
 aliases = ["/blogroll/"]
 images = ["https://cdn.pixabay.com/photo/2023/06/17/21/42/reformers-wall-8070835_1280.jpg"]
 +++
@@ -28,35 +29,43 @@ Le suivi des modifications est visible dans l’[historique sur GitHub](https://
 
 ## Blogs & sites personnels
 
-- [Olivier Bauer](https://olivierbauer.wordpress.com/)
+### Actifs
+
 - [René Blanchet](https://www.predic.ch/)
 - [Gilles Bourquin](https://gillesbourquin.ch/)
-- [Martin Burkhard](https://coeuretmonde.wordpress.com/)
-- [Benjamin Corbaz](https://carnetderoutedunpasteurpassionne.blogspot.com/)
-- [Carolina Costa](https://carolina-costa.com/) et [Road Trip Spirituel](https://roadtripspirituel.ch/)
 - [Claude Demissy](https://www.claude-ecritures.ch/)
 - [Laure Devaux Allisson](https://lauredevaux.ch/)
-- [Noémie Emery](https://pelerine-au-chocolat.blogspot.com/)
-- [Richard Falo](https://richardfalo.com)
 - [Diane Friedli](https://dianefriedli.ch/)
 - [Nicolas Friedli](https://theologique.ch/)
 - [Maurice Gardiol](https://gardiol.net)
-- [Philippe Golaz](https://philippegolaz.ch/)
 - [Jerôme Grandet](https://jeromeg.ch/)
 - [Martin Hoegger](https://martin.hoegger.org)
 - [Elio Jaillet](https://eliojaillet.ch/)
-- [Olivier Keshavjee](https://www.theologeek.ch/)
 - [Shafique Keshavjee](https://shafique-keshavjee.com/)
 - [Sandrine Landeau](https://sandrinelandeau.net/)
-- [Félix Moser](https://moser-felix.ch/)
 - [Jean-Jacques Corbaz](https://textesdejjcorbaz.blogspot.com/)
-- [Jean-Marc Leresche](https://jeanmarcleresche.ch/) et [Meditheoblog](https://meditheoblog.wordpress.com/)
+- [Jean-Marc Leresche](https://jeanmarcleresche.ch/)
 - [Aurélie Netz](https://aurelienetz.ch/)
+- [Marc Pernot](https://marcpernot.net/) et [Je cherche Dieu](https://jecherchedieu.ch/)
+- [Alexandre Winter](https://lesensdelamarche.net/)
+
+### Inactifs
+
+Ce sites ne proposent pas de nouveautés depuis au moins 1 an.
+Certains disposent de ressources toujours préciseuses.
+
+- [Olivier Bauer](https://olivierbauer.wordpress.com/)
+- [Martin Burkhard](https://coeuretmonde.wordpress.com/)
+- [Benjamin Corbaz](https://carnetderoutedunpasteurpassionne.blogspot.com/)
+- [Carolina Costa](https://carolina-costa.com/)
+- [Noémie Émery](https://pelerine-au-chocolat.blogspot.com/)
+- [Richard Falo](https://richardfalo.com)
+- [Philippe Golaz](https://philippegolaz.ch/)
+- [Olivier Keshavjee](https://www.theologeek.ch/)
+- [Félix Moser](https://moser-felix.ch/)
 - [Hyonou Paik](https://potinsdivins.wordpress.com/)
 - [Stella Pastoris](https://leblogduneveilleuse.blogspot.com/)
-- [Marc Pernot](https://marcpernot.net/) et [Je cherche Dieu](https://jecherchedieu.ch/)
 - [Nicole Rochat](https://nicolerochat.ch/)
-- [Alexandre Winter](https://lesensdelamarche.net/)
 
 ## Culture
 
