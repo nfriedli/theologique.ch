@@ -78,7 +78,7 @@ Certains disposent de ressources toujours précieuses.
 - [Cèdres Formation](https://cedresformation.ch/)
 - [Faculté de théologie de Genève](https://www.unige.ch/theologie/)
 - [Faculté de théologie et de sciences des religions de Lausanne](https://www.unil.ch/ftsr/fr/home.html)
-- [Réf-Formation](https://ref-formation.ch) (ex OPF)
+- [Réf-Formation](https://ref-formation.ch)
 
 ## Livres & bibliothèques
 
@@ -88,7 +88,7 @@ Certains disposent de ressources toujours précieuses.
 - [Éditions Atalahalta](https://editions-atalahalta.com/)
 - [Éditions Labor et Fides](https://www.laboretfides.com/)
 - [Éditions Ouvertures](https://editionsouverture.ch/)
-- [Réf-Éditions](https://ref-editions.ch) (ex OPEC)
+- [Réf-Éditions](https://ref-editions.ch)
 - [La Revue des Cèdres](https://revuedescedres.ch/)
 - [Revue Lire & Dire](https://www.lire-et-dire.ch/)
 
@@ -105,10 +105,7 @@ Certains disposent de ressources toujours précieuses.
 
 ## Médias
 
-- [Réf-Médias](https://www.reformes.ch/source/ref-medias) (ex Médias-pro)
-- [ProtestInfo](https://www.reformes.ch/source/protestinfo)
-- [Journal Réformés](https://www.reformes.ch/source/reformes-le-journal)
-- [Portail Réformés.ch](https://www.reformes.ch/)
+- [Réf-Médias](https://www.reformes.ch/source/ref-medias)
 
 ## Solidarité & écologie
 
