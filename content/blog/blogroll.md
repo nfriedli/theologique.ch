@@ -114,15 +114,9 @@ Certains disposent de ressources toujours préciseuses.
 
 ## Solidarité
 
-- [ACAT-Suisse](https://www.acat.ch/fr/)
-- [Aumônerie Genevoise Œcuménique auprès des Requérants d’Asile et des Réfugiés (AGORA)](https://agora-asile.ch/)
-- [Mouvement chrétien citoyen](https://mouvement-chretien-citoyen.ch/)
 - [Diaconie Suisse](https://diakonie.ch/fr/)
 - [DM Dynamique dans l’échange (ex DM échange et mission)](https://www.dmr.ch/)
-- [Église en route](https://egliseenroute.ch/)
 - [EPER](https://www.eper.ch/)
-- [La Lanterne](https://www.eren.ch/lanterne/)
-- [Plateforme interreligieuse de Genève](https://www.interreligieux.ch/wp/)
 
 ----
 
