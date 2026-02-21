@@ -77,12 +77,10 @@ Certains disposent de ressources toujours préciseuses.
 
 - [Atelier Œcuménique de théologie](https://aotge.clubdesk.com/)
 - [Cèdres Formation](https://cedresformation.ch/)
-- [Comcat - catéchèse francophone des Églises réformées Berne-Jura-Soleure](https://cate.ch)
 - [Faculté de théologie de Genève](https://www.unige.ch/theologie/)
 - [Faculté de théologie et de sciences des religions de Lausanne](https://www.unil.ch/ftsr/fr/home.html)
 - [Héros Bibliques](https://heros-bibliques.ch/)
 - [Réf-Formation](https://ref-formation.ch) (ex OPF)
-- [Société Vaudoise de Théologie](https://svth.ch/)
 
 ## Livres & bibliothèques
 
