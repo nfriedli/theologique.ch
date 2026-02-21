@@ -20,6 +20,7 @@ Le suivi des modifications est visible dans l’[historique sur GitHub](https://
 - [Avent en vers](https://aventenvers.blogspot.com/)
 - [Cèdres Réflexion](https://cedresreflexion.ch/)
 - [ContactGPS](https://www.contactgps.ch)
+- [Je cherche Dieu](https://jecherchedieu.ch/)
 - [Labo khi](https://labokhi.ch)
 - [Miettes de Carême](https://miettesdecareme.blogspot.com/)
 - [Open Source Church](https://www.open-source.church/)
@@ -46,7 +47,7 @@ Le suivi des modifications est visible dans l’[historique sur GitHub](https://
 - [Jean-Jacques Corbaz](https://textesdejjcorbaz.blogspot.com/)
 - [Jean-Marc Leresche](https://jeanmarcleresche.ch/)
 - [Aurélie Netz](https://aurelienetz.ch/)
-- [Marc Pernot](https://marcpernot.net/) et [Je cherche Dieu](https://jecherchedieu.ch/)
+- [Marc Pernot](https://marcpernot.net/)
 - [Alexandre Winter](https://lesensdelamarche.net/)
 
 ### Inactifs
@@ -69,7 +70,6 @@ Certains disposent de ressources toujours préciseuses.
 
 ## Culture
 
-- [Ma femme est pasteure](http://www.mafemmeestpasteure.ch/)
 - [Musée international de la Réforme](https://www.musee-reforme.ch/)
 - [TemPL’Oz Arts](https://templozarts.ch/)
 
