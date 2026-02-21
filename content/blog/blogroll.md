@@ -94,13 +94,6 @@ Certains disposent de ressources toujours préciseuses.
 - [La Revue des Cèdres](https://revuedescedres.ch/)
 - [Revue Lire & Dire](https://www.lire-et-dire.ch/)
 
-## Ressources professionnelles
-
-- [Commission Jurassienne de Liturgie](https://celebrations.refbejuso.ch/)
-- [CulteBox](https://cultebox.ch/)
-- [Emploi-Église](https://www.emploi-eglise.ch/)
-- [Société pastorale suisse (SPS)](https://www.pfarrverein.ch/)
-
 ## Églises
 
 - [Berne-Jura-Soleure (RefBeJuSo)](https://www.refbejuso.ch/)
