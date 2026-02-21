@@ -100,10 +100,10 @@ Certains disposent de ressources toujours préciseuses.
 - [Fribourg (EERF)](https://www.ref-fr.ch/)
 - [Genève (EPG)](https://epg.ch/)
 - [Jura](https://www.egliserefju.ch/)
-- [Suisse (EERS)](https://www.eks-eers.ch/fr/)
-- [Suisse alémanique (CERFSA)](https://cerfsa.ch/)
 - [Vaud (EERV)](https://www.eerv.ch/accueil)
 - [Valais (EREV)](https://erev.ch/)
+- [Suisse (EERS)](https://www.eks-eers.ch/fr/)
+- [Église francophones en Suisse alémanique (CERFSA)](https://cerfsa.ch/)
 
 ## Médias
 
