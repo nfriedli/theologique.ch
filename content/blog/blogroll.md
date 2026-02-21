@@ -52,8 +52,8 @@ Le suivi des modifications est visible dans l’[historique sur GitHub](https://
 
 ### Inactifs
 
-Ce sites ne proposent pas de nouveautés depuis au moins 1 an.
-Certains disposent de ressources toujours préciseuses.
+Ces sites ne proposent pas de nouveautés depuis au moins 1 an.
+Certains disposent de ressources toujours précieuses.
 
 - [Olivier Bauer](https://olivierbauer.wordpress.com/)
 - [Martin Burkhard](https://coeuretmonde.wordpress.com/)
