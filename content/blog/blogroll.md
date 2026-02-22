@@ -2,7 +2,7 @@
 title = "Sites protestants réformés de Suisse romande"
 description = "Un annuaire des sites (blogroll) pour poursuivre le travail du «Réseau protestant de Suisse romande» en version simplifiée."
 date = 2026-02-20
-lastMod = 2026-02-21
+lastMod = 2026-02-22
 aliases = ["/blogroll/"]
 images = ["https://cdn.pixabay.com/photo/2023/06/17/21/42/reformers-wall-8070835_1280.jpg"]
 +++
@@ -39,6 +39,7 @@ Le suivi des modifications est visible dans l’[historique sur GitHub](https://
 - [Jerôme Grandet](https://jeromeg.ch/)
 - [Martin Hoegger](https://martin.hoegger.org)
 - [Elio Jaillet](https://eliojaillet.ch/)
+- [Armin Kressmann](https://www.ethikos.ch/)
 - [Shafique Keshavjee](https://shafique-keshavjee.com/)
 - [Sandrine Landeau](https://sandrinelandeau.net/)
 - [Jean-Jacques Corbaz](https://textesdejjcorbaz.blogspot.com/)
