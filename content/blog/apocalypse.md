@@ -9,7 +9,7 @@ draft = true
 
 Prestataires externes
 
-Complexité d'usage
+Complexité d’usage
 
 Nouvelle version pas meilleure que la précédente
 

@@ -2,7 +2,7 @@
 title = "S’extraire de la théologie (pour faire de la théologie)"
 description = "Les débats ecclésiaux et théologiques sur les intelligences artificielles (IA) ne sont pas toujours à la hauteur des enjeux. Souvent, c’est ailleurs que se trouvent les écrits les plus stimulants, y compris d’un point de vue théologique."
 date = 2026-02-14
-lastMod = 2026-02-16
+lastMod = 2026-03-01
 +++
 
 Les débats ecclésiaux et théologiques sur les intelligences artificielles (IA) ne sont pas toujours à la hauteur des enjeux.
@@ -80,7 +80,7 @@ En quelques phrases, il propose une analyse bien plus opérantes que des grands 
 > Ce qui caractérise ChatGPT [...], c’est que la relation entre les discours et les faits échappent à sa définition du sens.
 > Peu importe qu’on réduise son taux d’erreurs: le problème est qu’il s’exprime sous un régime de vérité bien particulier, qui traite les faits sous l’angle communicationnel plutôt qu’informationnel.
 
-## Fin des opérations
+## Fin des opérations?
 
 theologique.ch a redémarré il y a à peine plus d’un mois.
 La lassitude est déjà bien installée.
@@ -94,3 +94,4 @@ Ou pas.
 ----
 
 Les quelques sites suggérés dans [Découverte du web protestant francophone](/blog/decouverte/) restent recommandables.
+Celle liste a été complétée d’une nouvelle version du blogroll: [Sites protestants réformés de Suisse romande](/blog/blogroll/).
