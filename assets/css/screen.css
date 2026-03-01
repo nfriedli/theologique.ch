@@ -7,7 +7,7 @@
     --orange: hsl(36, 100%, 40%);
     --orange2: hsl(36, 100%, 20%);
 
-    --sans-serif: "Roboto", ui-sans-serif, "Inter", "Arial", system-ui, sans-serif;
+    --sans-serif: "Lato", "Roboto", ui-sans-serif, "Inter", "Arial", system-ui, sans-serif;
     --titles: "Fraunces", var(--sans-serif);
 }
 
@@ -61,7 +61,7 @@ body {
     color: var(--txt);
     display: flex;
     flex-direction: column;
-    line-height: 1.5;
+    line-height: 1.45;
     gap: 3rem;
     padding: 1rem;
     margin: auto;
