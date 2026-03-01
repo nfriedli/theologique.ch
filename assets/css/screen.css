@@ -79,7 +79,8 @@ main {
 header,
 footer,
 time,
-aside {
+aside, 
+details {
     font-size: .85rem;
 }
 
@@ -208,7 +209,7 @@ input::placeholder {
     color: var(--txt)
 }
 
-aside {
+details {
     background-color: var(--bg2);
     margin-block: 1rem;
     padding: .5rem 1rem;
