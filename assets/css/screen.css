@@ -5,6 +5,7 @@
     --bg2: hsl(36, 25%, 90%);
     --txt: hsl(36, 50%, 10%);
     --orange: hsl(36, 100%, 40%);
+    --orange2: hsl(36, 100%, 20%);
 
     --sans-serif: "Roboto", ui-sans-serif, "Inter", "Arial", system-ui, sans-serif;
     --titles: "Fraunces", var(--sans-serif);
@@ -16,6 +17,7 @@
         --bg2: hsl(36, 50%, 10%);
         --txt: hsl(36, 50%, 90%);
         --orange: hsl(36, 100%, 60%);
+        --orange2: hsl(36, 50%, 70%);
     }
 }
 
@@ -106,6 +108,7 @@ h1,
 h2,
 h3,
 h4 {
+    color: var(--orange2);
     font-family: var(--titles);
     line-height: 1.2;
     margin-block-start: 2rem;
