@@ -81,9 +81,9 @@ Certains disposent de ressources toujours précieuses.
 
 ## Livres & bibliothèques
 
-- [Centre œcuménique de documentation (COD)](https://www.cod-ne.ch/) (La Chaux-de-Fonds & Peseux)
-- [Centre pour l’information et la documentation chrétiennes (CIDOC)](https://www.cidoc.ch/) (Lausanne)
-- [Centre œcuménique de catéchèse (COEC)](https://coec.ch/) (Genève)
+- [Centre œcuménique de documentation (COD)](https://www.cod-ne.ch/) à La Chaux-de-Fonds & Peseux
+- [Centre pour l’information et la documentation chrétiennes (CIDOC)](https://www.cidoc.ch/) à Lausanne
+- [Centre œcuménique de catéchèse (COEC)](https://coec.ch/) à Genève
 - [Éditions Atalahalta](https://editions-atalahalta.com/)
 - [Éditions Labor et Fides](https://www.laboretfides.com/)
 - [Éditions Ouvertures](https://editionsouverture.ch/)
