@@ -14,15 +14,21 @@ Il a redémarré en 2026 suite à un longue jachère en 2025.
 
 Il est possible de s’abonner par un flux RSS, par une [chaîne WhatsApp](https://www.whatsapp.com/channel/0029VbCWixWAojYsRF1cYP0M) ou par une [newsletter](https://buttondown.com/theologique).
 
-{{< details summary="À propos de la vie privée" >}}
-Je conseille toujours les abonnements à un flux RSS ou Atom.
-C’est léger, efficace, pérenne et je ne saurai rien de vous.
+{{< details summary="À propos votre vie privée" >}}
+Je conseille toujours de privilégier les abonnements à un flux RSS ou Atom.
+C’est léger, efficace, pérenne.
+Votre agrégateur le trouvera automatiquement et un lien est disponible en pied de page.
+Avec un tel abonnement, je ne sais rien de mes abonnné·e·s.
+Et c’est très bien ainsi.
 
-Avec une chaîne WhatsApp -- qui n’est pas un groupe! -- il est possible de savoir qui est abonné·e uniquement si vous faites déjà partie de mes contacts.
-Les autres personnes restent anonymes (à moi mais pas à WhatsApp).
+Avec une chaîne WhatsApp – qui n’est pas un groupe! – je peux savoir qui est abonné·e uniquement si vous faites déjà partie de mes contacts.
+Les autres personnes restent anonymes me restent inconnues.
+WhatsApp est loin de respecter votre vie privée, mais si vous avez déjà accepté ses conditions générales...
 
-Les newsletters sont gérées par [Buttondown](https://buttondown.com/refer/theologique) (lien affilié).
-C’est un outil respectueux de la vie privée, mais je connaîtrai votre mail.
+La newsletter est gérée par [Buttondown](https://buttondown.com/refer/theologique) (lien affilié).
+C’est un outil respectueux de la vie privée.
+Je connaîtrai votre mail.
+Mais je ne le transmettrai à personne et ne l’utiliserai que pour ces envois.
 {{< /details >}}
 
 ## Derniers articles de blog
