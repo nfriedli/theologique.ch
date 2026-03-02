@@ -17,13 +17,14 @@ Cette panne bienvenue m’a suscité 3 réflexions.
 
 ## Slow Productivity
 
-Elle me rappelle 2 principes de Cal Newport dans [Slow Productivity](https://calnewport.com/my-new-book-slow-productivity/):
+Elle me rappelle 2 des 3 principes fondamentaux de Cal Newport dans [Slow Productivity](https://calnewport.com/my-new-book-slow-productivity/):
 
 - faire moins de choses
 - travailler à un rythme naturel
 
 Je n’ai aucune obligation de publication, de rythme, de retours sur investissement, de «j’aime», de résultats statistiques (qui ne sont pas actives sur ce blog).
 Mais il y a avait un semblant de culpabilité à ne pas être capable de publier aujourd’hui.
+Et pourtant, je défends que ce blog est un espace personnel libre et dilettante.
 
 ## Éviter le commentaire rapide
 
@@ -53,6 +54,7 @@ Non, ce n’est pas toujours facile.
 Tenir un blog n’est pas inné.
 Rédiger prend du temps et de l’énergie.
 
-C’est l’occasion de remercier toutes celles et ceux que je cite et qui mettent des contenus originaux en ligne.
-Il faut saluer leurs efforts, il faut se réjouir de toutes ces initiatives.
+C’est l’occasion de remercier toutes celles et ceux que je cite dans mes publications et qui mettent des contenus originaux en ligne.
+Il faut saluer leurs efforts; il faut se réjouir de toutes [ces initiatives](/blog/blogroll/).
+
 La gratitude de trouver des lectures qui me font réfléchir me fait oublier toutes les pannes.
