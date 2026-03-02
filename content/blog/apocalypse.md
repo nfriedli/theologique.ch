@@ -58,15 +58,15 @@ Dépendances externes
 
 Fontes, cartes, Javascript
 
-Dépendances à l'arbitraire (coiffeurs, fleuristes, etc.)
+Dépendances à l’arbitraire (coiffeurs, fleuristes, etc.)
 
 ## Enjeux énergétiques
 
-Tristan Nitot sur YouTube [L'humanité a-t-elle les moyens de s’offrir l’IA?](https://www.youtube.com/watch?v=oXQZ8AVNxnQ)
+Tristan Nitot sur YouTube [L’humanité a-t-elle les moyens de s’offrir l’IA?](https://www.youtube.com/watch?v=oXQZ8AVNxnQ)
 
 ## Mauvaises réflexions & mauvaises réponses
 
-Le nouveau est toujours bon... jusqu'à quand?
+Le nouveau est toujours bon... jusqu’à quand?
 
 Ghost
 
@@ -101,4 +101,4 @@ Newsletter et même WhatsApp
 
 [WhatsApp chez les militants? coup de gueule!](https://tutox.fr/2026/02/27/whatsapp-chez-les-militants-coup-de-gueule/)
 
-Consultez les liens que j'ai partagé.
+Consultez les liens que j’ai partagé.

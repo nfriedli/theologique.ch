@@ -4,7 +4,6 @@ description = "Un annuaire des sites (blogroll) pour poursuivre le travail du «
 date = 2026-02-20
 lastMod = 2026-02-22
 aliases = ["/blogroll/"]
-slug = "blogroll-2026"
 images = ["https://cdn.pixabay.com/photo/2023/06/17/21/42/reformers-wall-8070835_1280.jpg"]
 +++
 
