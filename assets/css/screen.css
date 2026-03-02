@@ -8,7 +8,6 @@
     --orange2: hsl(36, 100%, 20%);
 
     --sans-serif: "Roboto", ui-sans-serif, "Inter", "Arial", system-ui, sans-serif;
-    --titles: "Fraunces", "FrauncesWeb", var(--sans-serif);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -19,22 +18,6 @@
         --orange: hsl(36, 100%, 60%);
         --orange2: hsl(36, 50%, 70%);
     }
-}
-
-@font-face {
-    font-display: optional;
-    font-family: "FrauncesWeb";
-    font-style: normal;
-    font-weight: 700;
-    src: url("/fonts/fraunces-v38-latin-700.woff2") format("woff2");
-}
-
-@font-face {
-    font-display: optional;
-    font-family: "FrauncesWeb";
-    font-style: italic;
-    font-weight: 700;
-    src: url("/fonts/fraunces-v38-latin-700italic.woff2") format("woff2");
 }
 
 *,
@@ -118,20 +101,23 @@ h4 {
 }
 
 h1 {
-    font-size: 2.2rem;
+    font-size: 1.9rem;
+    font-weight: 900;
     margin-block-start: 0;
 }
 
 h2 {
-    font-size: 1.7rem;
+    font-size: 1.5rem;
+    font-weight: 800;
 }
 
 h3 {
-    font-size: 1.3rem;
+    font-size: 1.2rem;
 }
 
 h4 {
     font-size: 1rem;
+    font-weight: 600;
 }
 
 ul {
