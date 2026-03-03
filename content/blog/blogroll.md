@@ -97,6 +97,7 @@ Certains disposent de ressources toujours précieuses.
 - [Fribourg (EERF)](https://www.ref-fr.ch/)
 - [Genève (EPG)](https://epg.ch/)
 - [Jura](https://www.egliserefju.ch/)
+- [Neuchâtel (EREN)](https://www.eren.ch/)
 - [Vaud (EERV)](https://www.eerv.ch/accueil)
 - [Valais (EREV)](https://erev.ch/)
 - [Suisse (EERS)](https://www.eks-eers.ch/fr/)
