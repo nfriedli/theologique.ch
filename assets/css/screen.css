@@ -143,7 +143,7 @@ dt+dt {
 
 hr {
     border: 0;
-    border-block-start: .15rem solid var(--txt);
+    border-block-start: .15rem solid var(--orange2);
     margin-block: 2rem;
 }
 
@@ -174,8 +174,8 @@ img {
 }
 
 code {
-    background: var(--txt);
-    color: var(--bg);
+    background: var(--bg2);
+    color: var(--txt);
     font-size: .9rem;
 }
 
@@ -200,4 +200,8 @@ details {
     background-color: var(--bg2);
     margin-block: 1rem;
     padding: .5rem 1rem;
+}
+
+summary {
+    font-weight: 700;
 }
