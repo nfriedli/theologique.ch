@@ -2,10 +2,11 @@
 title = "Le syndrome de la peur de rater quelque chose (FOMO)"
 description = "FOMO, c’est la peur de rater quelque chose. Une anxiété qui pousse à rester sur des réseaux merdifiés, à accepter des intermédiaires malhonnêtes et à les rendre presque omniscients."
 date = 2026-03-08
+images = ["https://cdn.pixabay.com/photo/2014/05/14/16/47/power-plant-344231_1280.jpg"]
 +++
 
 Le syndrome FOMO (fear of missing out), c’est la peur de rater quelque chose.
-La [page Wikiédia sur le sujet](https://fr.wikipedia.org/wiki/Syndrome_FOMO) le nomme aussi l’«anxiété de ratage».
+La [page Wikipédia sur le sujet](https://fr.wikipedia.org/wiki/Syndrome_FOMO) le nomme aussi l’«anxiété de ratage».
 Il se manifeste par une peur d’être laissé·e de côté et d’être empêché·e dans ses relations sociales.
 
 ## FOMO et réseaux sociaux
