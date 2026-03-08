@@ -1,22 +1,24 @@
 :root {
     color-scheme: light dark;
 
-    --bg: hsl(36, 50%, 95%);
-    --bg2: hsl(36, 25%, 90%);
-    --txt: hsl(36, 50%, 10%);
-    --orange: hsl(36, 100%, 40%);
-    --orange2: hsl(36, 100%, 20%);
+    --color: 36;
+
+    --bg: hsl(var(--color), 50%, 95%);
+    --bg2: hsl(var(--color), 25%, 90%);
+    --txt: hsl(var(--color), 50%, 10%);
+    --orange: hsl(var(--color), 100%, 40%);
+    --orange2: hsl(var(--color), 100%, 20%);
 
     --sans-serif: "Roboto", ui-sans-serif, "Inter", "Arial", system-ui, sans-serif;
 }
 
 @media (prefers-color-scheme: dark) {
     :root {
-        --bg: hsl(36, 100%, 5%);
-        --bg2: hsl(36, 50%, 10%);
-        --txt: hsl(36, 50%, 90%);
-        --orange: hsl(36, 100%, 60%);
-        --orange2: hsl(36, 50%, 70%);
+        --bg: hsl(var(--color), 100%, 5%);
+        --bg2: hsl(var(--color), 50%, 10%);
+        --txt: hsl(var(--color), 50%, 90%);
+        --orange: hsl(var(--color), 100%, 60%);
+        --orange2: hsl(var(--color), 50%, 70%);
     }
 }
 
@@ -27,8 +29,8 @@
 }
 
 ::selection {
-    background: hsl(36, 100%, 50%);
-    color: hsl(36, 50%, 5%);
+    background: hsl(var(--color), 100%, 50%);
+    color: hsl(var(--color), 50%, 5%);
 }
 
 html {
