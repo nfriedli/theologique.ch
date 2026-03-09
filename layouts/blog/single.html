@@ -12,6 +12,7 @@
 
 
 {{ define "json-ld" }}
+{{- $ISO8601 := "2006-01-02T15:04:05-07:00" }}
 <script type="application/ld+json">
 {
     "@context": "https://schema.org",
@@ -19,10 +20,10 @@
     "headline": "{{ .Title }}",
     "wordCount": "{{ .WordCount }}",
     {{ with .Date }}
-        "datePublished": "{{ .Format "2006-01-02" }}",
+        "datePublished": "{{ .Format $ISO8601 }}",
     {{ end }}
     {{ with .Lastmod }}
-    "dateModified": "{{ .Format "2006-01-02" }}",
+    "dateModified": "{{ .Format $ISO8601 }}",
     {{ end }}
     "author": [{
         "@type": "Person",

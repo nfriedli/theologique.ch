@@ -15,6 +15,7 @@
 {{ end }}
 
 {{ partial "opengraph" . }}
+{{ partial "schema" . }}
 
 <meta name="fediverse:creator" content="@frdlch@mastodon.social">
 
@@ -28,8 +29,6 @@
 <link rel="apple-touch-icon" href="{{ relURL "apple-touch-icon.png" }}">
 
 <meta name="theme-color" content="#FF9B00">
-
-
 
 {{ if .IsHome }}
     {{ partial "home" . }}
