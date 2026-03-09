@@ -43,4 +43,4 @@ email = "contact+rss@theologique.ch"
 
 [services]
 [services.rss]
-limit = 5
+limit = 10
