@@ -2,7 +2,6 @@
 title = "Licence Creative Commons (CC)"
 description = "Les licences libres Creatives Commons permettent de se simplifier la vie et de rendre celles des internautes plus belles. Et surtout, que seraint la théologie et le web sans possibilités de réutiliser des contenus et des outils?"
 date = 2026-03-09
-draft = true
 +++
 
 Un ami m’a demandé si cela valait la peine de choisir une licence Creative Commons (CC) pour son blog.
