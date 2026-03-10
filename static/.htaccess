@@ -31,9 +31,11 @@ FileETag MTime Size
 
 # Configuration RSS
 <FilesMatch "index.xml">
+    Header always set X-Frame-Options "SAMEORIGIN"
     Header set Access-Control-Allow-Origin "*"
     Header set Access-Control-Allow-Methods "GET, HEAD, OPTIONS"
     Header set Cache-Control "public, max-age=3600, must-revalidate"
+    AddType application/rss+xml .xml
 </FilesMatch>
 
 # Cache pour images
