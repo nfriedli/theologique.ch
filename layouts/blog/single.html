@@ -1,13 +1,19 @@
 {{ define "main" }}
-<h1>{{ .Title }}</h1>
-<time datetime="{{.Date.Format " 2006-01-02"}}">
-    {{.Date | time.Format ":date_long"}}
-    {{ if gt .Lastmod .Date }}
-        - modification: {{.Lastmod | time.Format ":date_long"}}
-    {{ end }}
-</time>
-{{ partial "toc" . }}
-{{ .Content }}
+<article class="h-entry">
+    <header>
+        <h1 class="p-name">{{ .Title }}</h1>
+        <time class="dt-published" datetime="{{.Date.Format " 2006-01-02"}}">
+            {{.Date | time.Format ":date_long"}}
+            {{ if gt .Lastmod .Date }}
+                - modification: <span class="dt-updated">{{.Lastmod | time.Format ":date_long"}}</span>
+            {{ end }}
+        </time>
+    </header>
+    {{ partial "toc" . }}
+    <div class="e-content">
+        {{ .Content }}
+    </div>
+</article>
 {{ end }}
 
 
