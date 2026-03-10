@@ -1,6 +1,6 @@
 +++
 title = "Licence Creative Commons (CC)"
-description = "Les licences libres Creatives Commons permettent de se simplifier la vie et de rendre celles des internautes plus belles. Et surtout, que seraint la théologie et le web sans possibilités de réutiliser des contenus et des outils?"
+description = "Les licences libres Creatives Commons permettent de se simplifier la vie et de rendre celle des internautes plus belle. Et surtout, que seraient la théologie et le web sans possibilités de réutiliser des contenus et des outils?"
 date = 2026-03-09
 +++
 

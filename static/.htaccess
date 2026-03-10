@@ -24,15 +24,17 @@ Header always set Referrer-Policy "no-referrer"
 Header always set X-Permitted-Cross-Domain-Policies "none"
 Header always set Permissions-Policy "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()"
 
-# Accès CORS pour lecteurs de flux
-<FilesMatch "\.(xml|rss|atom)$">
-    Header set Access-Control-Allow-Origin "*"
-    Header set Access-Control-Allow-Methods "GET, HEAD, OPTIONS"
-</FilesMatch>
-
 # headers pour le cache
 Header unset Pragma
 Header unset Last-Modified
+FileETag MTime Size
+
+# Configuration RSS
+<FilesMatch "index.xml">
+    Header set Access-Control-Allow-Origin "*"
+    Header set Access-Control-Allow-Methods "GET, HEAD, OPTIONS"
+    Header set Cache-Control "public, max-age=3600, must-revalidate"
+</FilesMatch>
 
 # Cache pour images
 <filesMatch ".(avif|jpg|jpeg|png|gif|ico|svg|webp)$">
