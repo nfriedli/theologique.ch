@@ -27,6 +27,7 @@ Ce qui couvait depuis plusieurs semaines est devenu évident.
 C’est exactement ce que j’ai envie de faire.
 Un blog, toujours, mais avec des notices|notes|notules plutôt que des billets|articles.
 Ni Shaarli, ni WordPress.
+(Ou Wordpress, ou Shaarli. Ou Spip, ou Dokuwiki. Ou rien.)
 
 Nous sommes en contexte web post-apocalyptique – l’article que je n’ai pas réussi à pondre dont parle [En panne!](/blog/panne/) – et il faut voir les choses sous un autre angle.
 
