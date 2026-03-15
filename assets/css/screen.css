@@ -8,8 +8,6 @@
     --txt: hsl(var(--color), 50%, 10%);
     --orange: hsl(var(--color), 100%, 40%);
     --orange2: hsl(var(--color), 100%, 20%);
-
-    --sans-serif: "Roboto", ui-sans-serif, "Inter", "Arial", system-ui, sans-serif;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -34,11 +32,8 @@
 }
 
 html {
-    font-family: var(--sans-serif);
     /* 320px - 16 -> 1280px - 20 */
     font-size: clamp(1rem, 0.9167rem + 0.4167vw, 1.25rem);
-    text-rendering: optimizeLegibility;
-    font-variant-numeric: oldstyle-nums proportional-nums;
 }
 
 body {
@@ -46,7 +41,7 @@ body {
     color: var(--txt);
     display: flex;
     flex-direction: column;
-    line-height: 1.45;
+    line-height: 1.5;
     gap: 3rem;
     padding: 1rem;
     margin: auto;
@@ -78,7 +73,6 @@ a {
     text-decoration-color: var(--orange);
     text-decoration-thickness: .1em;
     text-underline-offset: .1em;
-    font-variant-numeric: lining-nums tabular-nums;
 }
 
 a[aria-current="page"] {
@@ -104,22 +98,23 @@ h4 {
 
 h1 {
     font-size: 1.9rem;
-    font-weight: 900;
+    font-weight: 450;
     margin-block-start: 0;
 }
 
 h2 {
     font-size: 1.5rem;
-    font-weight: 800;
+    font-weight: 600;
 }
 
 h3 {
     font-size: 1.2rem;
+    font-weight: 750;
 }
 
 h4 {
     font-size: 1rem;
-    font-weight: 600;
+    font-weight: 900;
 }
 
 ul {
@@ -150,10 +145,8 @@ hr {
 }
 
 blockquote {
-    border-inline-start: .2rem solid;
-    margin: 0;
-    margin-block-end: 2rem;
-    padding-inline-start: 1rem;
+    margin-block: 2rem;
+    margin-inline: 2rem;
 }
 
 header nav ul {
