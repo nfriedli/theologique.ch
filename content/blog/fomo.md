@@ -16,13 +16,12 @@ C’est souvent quand la discussion tourne autour des réseaux sociaux que le sy
 > J’ai encore un compte Facebook, mais je ne m’y connecte presque jamais.
 > Je peux savoir ce que deviennent mes amis, l’autre jour, j’ai appris que...
 
-Mais ils ne sont plus des réseaux sociaux, comme je l’écrivais dans [À propos des réseaux prétendument sociaux](/blog/reseau-sociaux/)
+Mais ils ne sont plus des réseaux sociaux, comme je l’écrivais dans [À propos des réseaux prétendument sociaux](/blog/reseau-sociaux/).
 Pire, ils fixent des règles du jeux qu’ils ne respectent pas.
 
 L’ironie de l’histoire, c’est que Facebook, Instagram, X/Twitter et les autres font tout pour ne pas donner toutes les informations de manière honnête.
 Ils m’imposent des contenus que je ne voulais pas voir; ils m’empêchent de lire tout ce que je souhaitais voir.
 Une des exceptions, c’est Mastodon, qui est honnête par conception.
-
 
 Il n’est pas tenable de rester sur ces «outils» par peur de ne rien rater alors qu’ils me font volontairement manquer des publications.
 Il n’est pas plus tenable d’y garder un compte par paresse de fermer le mien.
