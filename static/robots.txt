@@ -1,6 +1,7 @@
 # Blocage de bots, moteurs de recherche inutiles, LLM, etc.
 # À retravailler
 User-agent: AddSearchBot
+User-agent: AdsBot-Google
 User-agent: AhrefsBot
 User-agent: AI2Bot
 User-agent: AI2Bot-DeepResearchEval
@@ -21,6 +22,8 @@ User-agent: Applebot
 User-agent: Applebot-Extended
 User-agent: atlassian-bot
 User-agent: Awario
+User-agent: AwarioRssBot
+User-agent: AwarioSmartBot
 User-agent: AzureAI-SearchBot
 User-agent: Baiduspider
 User-agent: Baiduspider-image
@@ -48,6 +51,7 @@ User-agent: cohere-training-data-crawler
 User-agent: Cotoyogi
 User-agent: Crawl4AI
 User-agent: Crawlspace
+User-agent: DataForSeoBot
 User-agent: Datenbank Crawler
 User-agent: DeepSeekBot
 User-agent: Devin
@@ -92,7 +96,9 @@ User-agent: LCC
 User-agent: LinerBot
 User-agent: Linguee Bot
 User-agent: LinkupBot
+User-agent: magpie-crawler
 User-agent: Manus-User
+User-agent: Meltwater
 User-agent: meta-externalagent
 User-agent: Meta-ExternalAgent
 User-agent: meta-externalfetcher
@@ -116,10 +122,13 @@ User-agent: Operator
 User-agent: PanguBot
 User-agent: Panscient
 User-agent: panscient.com
+User-agent: peer39_crawler
+User-agent: peer39_crawler/1.0
 User-agent: Perplexity-User
 User-agent: PerplexityBot
 User-agent: PetalBot
 User-agent: PhindBot
+User-agent: PiplBot
 User-agent: Poggio-Citations
 User-agent: Poseidon Research Crawler
 User-agent: QualifiedBot
@@ -128,6 +137,7 @@ User-agent: quillbot.com
 User-agent: Rogerbot
 User-agent: SBIntuitionsBot
 User-agent: Scrapy
+User-agent: Seekr
 User-agent: SemrushBot
 User-agent: SemrushBot-OCOB
 User-agent: SemrushBot-SWA
