@@ -2,9 +2,10 @@
 title = "À l’ancienne"
 description = "J’ai navigué de page en page sur un site pas franchement beau. Un site à la tête vieillotte, mais avec des contenus récents. Sous un peu de poussière, un truc rapide doté de tags biens choisis et d’une recherche décente."
 date = 2026-03-13
+lastMod = 2025-03-15
 +++
 
-**Ce billet est avant tout une annonce aux personnes abonnées au flux RSS de theologique.ch.**
+**Ce billet est en priorité une annonce aux personnes abonnées au flux RSS de theologique.ch.**
 
 Je viens de passer 1 heure sur un site personnel d’un Suisse romand.
 Ou 30 minutes.
@@ -27,7 +28,10 @@ Ce qui couvait depuis plusieurs semaines est devenu évident.
 C’est exactement ce que j’ai envie de faire.
 Un blog, toujours, mais avec des notices|notes|notules plutôt que des billets|articles.
 Ni Shaarli, ni WordPress.
-(Ou Wordpress, ou Shaarli. Ou Spip, ou Dokuwiki. Ou rien.)
+Ou Wordpress, ou Shaarli.
+Ou Spip, ou Dokuwiki.
+Ou conserver mon site en Hugo.
+Ou aucun système de gestion de contenu.
 
 Nous sommes en contexte web post-apocalyptique – l’article que je n’ai pas réussi à pondre dont parle [En panne!](/blog/panne/) – et il faut voir les choses sous un autre angle.
 
@@ -35,6 +39,6 @@ Le flux RSS du nouveau truc qui débarquera sur theologique.ch sera toujours ac
 Mais des erreurs temporaires sont possibles.
 Et des doublons pourraient atterrir dans vos agrégateurs.
 
-Les anciens liens seront toujours disponibles dans la Wayback Machine.
+Quoi qu'il arrive, les anciens liens seront toujours disponibles dans la Wayback Machine.
 
-Les chaîne WhatsApp et lettre de nouvelles seront évidemment désactivées.
+Les chaîne WhatsApp et la lettre de nouvelles ont été désactivées après avoir averti les personnes concernées.
