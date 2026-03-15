@@ -102,6 +102,10 @@ h1 {
     margin-block-start: 0;
 }
 
+h1:has(+ p) {
+    margin-block-end: 3rem;
+}
+
 h2 {
     font-size: 1.7rem;
     font-weight: 600;
@@ -140,7 +144,7 @@ dt+dt {
 
 hr {
     border: 0;
-    border-block-start: .15rem solid var(--orange2);
+    border-block-start: .1rem solid var(--orange2);
     margin-block: 2rem;
 }
 
@@ -199,4 +203,8 @@ details {
 
 summary {
     font-weight: 700;
+}
+
+aside.toc {
+    margin-block-end: 2rem;
 }

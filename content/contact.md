@@ -10,11 +10,9 @@ weight = 1000
 Je reçois avec plaisir vos retours sur les contenus de ce site.
 J’essaie de répondre, dans la mesure du temps disponible, aux petites questions techniques.
 
-## Coordonnées
-
-Nicolas Friedli\
-Rue du Château 3\
-2013 Colombier (NE)\
+Nicolas Friedli  
+Rue du Château 3  
+2013 Colombier (NE)  
 Suisse
 
 **[contact+site@theologique.ch](mailto:contact+site@theologique.ch)**\
@@ -30,7 +28,7 @@ Ma «présence» sur [Facebook](https://www.facebook.com/frdl.ch) est passive.
 
 Mon site de consultant web est [nicolasfriedli.ch](https://nicolasfriedli.ch/).
 
-## Questions pastorales
+{{< details summary="Questions pastorales?" name="pastoral" >}}
 
 **[Je ne suis pas pasteur.](/blog/theologien/)**
 Je ne suis pas soumis au secret pastoral et ne souhaite pas recevoir de «confessions».
@@ -42,7 +40,9 @@ Si votre question s’adresse à un·e pasteur·e, vous pouvez:
 - rechercher votre paroisse en Suisse romande sur mon site [Trouver ma paroisse](https://ma-paroisse.ch/)
 - vous adresser à Marc Pernot de [Je cherche Dieu](https://jecherchedieu.ch/poser-une-question/)
 
-## Urgences, détresse & abus
+{{< /details >}}
+
+{{< details summary="Urgences, détresse & abus?" name="pastoral" >}}
 
 Si la situation est urgente, si vous êtes en détresse, contactez sans délai:
 
@@ -55,3 +55,5 @@ Pour signaler un abus:
 - [aide aux victimes en Suisse](https://www.aide-aux-victimes.ch/fr/)
 - [service d’aide aux victimes (SAVI) dans le canton de Neuchâtel](https://savi-ne.ch/)
 - [signalement d’abus dans l’EREN](https://www.eren.ch/signalement-abus/) (Église réformée évangélique du canton de Neuchâtel)
+
+{{< /details >}}
