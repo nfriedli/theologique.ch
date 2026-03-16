@@ -43,7 +43,7 @@ Même si [les Églises s’expriment volontiers sur les IA](https://www.eks-eers
 
 {{< details summary="Problème de l’*opt-out*">}}
 L’utilisation des sites par les IA pour l’entraînement de leurs LLM est autorisé tant qu’il n’est pas interdit.
-C’est le principe de l’[opt-out](https://fr.wikipedia.org/wiki/Opt-out_(marketing)).
+C’est le principe de l’[*opt-out*](https://fr.wikipedia.org/wiki/Opt-out_(marketing)).
 En conséquence, il est impossible de savoir si certaines institutions ont accordé un accès complet aux robots à la suite d’une discussion sérieuse.
 Elles ne l’ont pas explicitement interdit; il n’y a aucune trace.
 {{< /details >}}
@@ -113,7 +113,12 @@ Ainsi qu’en refusant les IA qui ne doivent pas leur apporter beaucoup.
 
 ### Solution juridique
 
-La directive `<meta name="tdm-reservation" content="1">` ne bloque aucun robot mais elle affirme votre opt-out.
+Cette directive ne bloque aucun robot mais elle affirme votre *opt-out*:
+
+```
+<meta name="tdm-reservation" content="1">
+```
+
 Elle semble avoir une valeur juridique, mais qu’en est-il en Suisse?
 
 En revanche, elle ne résout pas forcément la question de la bande passante.
@@ -123,15 +128,15 @@ On peut parfaitement imaginer que les crawlers lisent tout un site (sans en stoc
 
 Quand les robots ne respectent pas les règles, il faut trouver d’autres solutions, par exemple:
 
-- l’ajout d’un «obstacle» comme [Anubis](https://anubis.techaro.lol/) ou [Botcheck](https://github.com/splitbrain/botcheck) d’Andi Gohr
+- l’ajout d’un «obstacle» comme [Botcheck](https://github.com/splitbrain/botcheck) d’Andi Gohr ou [Anubis](https://anubis.techaro.lol/)
 - le pourrissement volontaire des contenus qui ne devraient pas être lus (si les robots respectaient les règles), c’est la proposition [Poisoning well](https://heydonworks.com/article/poisoning-well/) d’Heydon Pickering
-- les [bombes de décompression](https://fr.wikipedia.org/wiki/Bombe_de_d%C3%A9compression) (un tout petit fichier qui devient immense et sature les ordinateurs qui analysent les données, mais qui peut être considéré comme une attaque)
+- les [bombes de décompression](https://fr.wikipedia.org/wiki/Bombe_de_d%C3%A9compression) ou *zip bombs* (un tout petit fichier qui devient immense et sature les ordinateurs qui analysent les données, mais qui peut être considéré comme une attaque)
 
 Ces solutions visent toutes à ralentir ou arrêter les crawlers des grandes entreprises qui saturent la bande passante ou ne jouent pas le jeu.
 Elles sont discutables parce qu’elles dérangent les internautes.
-Certaines sont très consommatrices d’énergie; c’est le but.
+Certaines sont très consommatrices d’énergie; c’est le but, hélas.
 
 ----
 
-Comme c’est un sujet en mutation permanentei, je suis preneur de vos discussions et de vos solutions.
+Comme c’est un sujet en mutation permanente, je suis preneur de vos discussions et de vos solutions.
 Et je reste disponible pour parler de votre propre `robots.txt`; le mien est bien entendu public.
