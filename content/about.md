@@ -2,7 +2,7 @@
 title = "À propos"
 description = "Informations sur Nicolas Friedli, auteur du site protestant réformé theologique.ch: parcours, réalisations et engagements bénévoles."
 date = 2025-12-21
-lastMod = 2025-12-28
+lastMod = 2026-03-16
 menu = "main"
 weight = 990
 +++
@@ -44,7 +44,7 @@ J’ai créé le premier catalogue en ligne de l’OPEC (Office protestant d’�
 Aujourd’hui, cet office s’appelle [Ref-Éditions](https://ref-editions.ch/).
 Lorsque le site s’est transformé en site de vente en ligne, j’ai assuré la migration vers Shopify.
 
-J’ai été chef de projet pour la première version publique de [ProtestInfo](https://www.protestinfo.ch/).
+J’ai été chef de projet pour la première version publique de [ProtestInfo](https://www.reformes.ch/source/protestinfo).
 J’ai rédigé le cahier des charges, supervisé l’appel d’offres et veillé à sa bonne mise en œuvre.
 
 Pour l’EREN (Église réformée évangélique du canton de Neuchâtel), j’ai créé entièrement la version actuelle de [www.eren.ch](https://www.eren.ch/).
