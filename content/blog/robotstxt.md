@@ -136,6 +136,8 @@ Ces solutions visent toutes à ralentir ou arrêter les crawlers des grandes ent
 Elles sont discutables parce qu’elles dérangent les internautes.
 Certaines sont très consommatrices d’énergie; c’est le but, hélas.
 
+Je suis très réticent à l’utilisation d’une solution centralisée comme CloudFlare qui fait tomber la moitié du web à chaque problème.
+
 ----
 
 Comme c’est un sujet en mutation permanente, je suis preneur de vos discussions et de vos solutions.
