@@ -175,7 +175,7 @@ img {
 code {
     background: var(--bg2);
     color: var(--txt);
-    font-size: .9rem;
+    font-size: .9em;
 }
 
 form {

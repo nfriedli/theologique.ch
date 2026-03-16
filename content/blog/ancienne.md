@@ -39,6 +39,6 @@ Le flux RSS du nouveau truc qui débarquera sur theologique.ch sera toujours ac
 Mais des erreurs temporaires sont possibles.
 Et des doublons pourraient atterrir dans vos agrégateurs.
 
-Quoi qu'il arrive, les anciens liens seront toujours disponibles dans la Wayback Machine.
+Quoi qu’il arrive, les anciens liens seront toujours disponibles dans la Wayback Machine.
 
 Les chaîne WhatsApp et la lettre de nouvelles ont été désactivées après avoir averti les personnes concernées.
