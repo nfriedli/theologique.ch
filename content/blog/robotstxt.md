@@ -3,6 +3,7 @@ title = "Accepter (ou non) que les IA se nourrissent de nos contenus"
 description = "Beaucoup parlent intelligences artificielles (IA) mais peu sont explicites sur les droits qu’elles ont sur les contenus de leurs sites."
 date = 2026-03-16
 lastMod = 2026-03-18
+images = ["https://cdn.pixabay.com/photo/2015/03/26/17/17/chile-693064_1280.jpg"]
 +++
 
 Beaucoup parlent intelligences artificielles (IA) mais peu sont explicites sur les droits qu’elles ont sur les contenus de leurs sites.
