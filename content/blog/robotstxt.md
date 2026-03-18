@@ -41,6 +41,8 @@ Quand les robots sont honnêtes, il respectent ces directives et tout va bien.
 Donc, dans un monde honnête, on pourrait donc passer à la réflexion de fond sur l’utilisation des données par les intelligences artificielles.
 En sachant que notre position sera prise en compte.
 
+Notre monde n’est plus très honnête, mais la réflexion doit quand même avoir lieu, pour agir en connaissance de cause.
+
 ## Positions protestantes réformées sur les IA
 
 Même si [les Églises s’expriment volontiers sur les IA](https://www.eks-eers.ch/fr/blogpost/ia-et-les-eglises/), il n’existe pas de traces de débats sur l’entraînement des LLM par leurs propres sites.
@@ -75,7 +77,7 @@ Les sondages qui précèdent ne sont que des sondages.
 Mais avant d’exclure les IAg, il faudrait se demander si c’est ce qui est souhaité.
 En contexte protestant, théologique, spirituel, etc., la réponse n’est pas toujours triviale.
 
-### Pour la consultation du sites
+### Arguments pour la consultation du site
 
 Il est possible d’accorder un accès complet aux crawlers pour alimenter les IA pour des bonnes ou de mauvaises raisons.
 
@@ -84,7 +86,7 @@ Elles fourniront des «réponses protestantes» de meilleure qualité avec de te
 
 La mauvais raison, c’est d’accorder ce droit par défaut, par paresse ou par ignorance, sans en mesurer les conséquences.
 
-### Contre le siphonnage des données
+### Arguments contre le siphonnage des données
 
 Le refus de l’entraînement des IA sur un site institionnel protestant peut aussi avoir plusieurs raisons, plus ou moins bonnes:
 
@@ -135,6 +137,7 @@ On peut parfaitement imaginer que les crawlers lisent tout un site (sans en stoc
 
 Quand les robots ne respectent pas les règles, il faut trouver d’autres solutions, par exemple:
 
+- la solution [StupidAntibot](https://sebsauvage.net/wiki/doku.php?id=stupidantibot) de sebsauvage, proposée juste après la première publication de ce billet, parce que certains acteurs de l’IA ne respectent rien ni personne
 - le [filtre pur et simple dans `.htaccess`](https://github.com/ai-robots-txt/ai.robots.txt/blob/main/.htaccess) plutôt que la liste de directives `robots.txt`
 - l’ajout d’un «obstacle» comme [Botcheck](https://github.com/splitbrain/botcheck) d’Andi Gohr ou [Anubis](https://anubis.techaro.lol/)
 - le pourrissement volontaire des contenus qui ne devraient pas être lus (si les robots respectaient les règles), c’est la proposition [Poisoning well](https://heydonworks.com/article/poisoning-well/) d’Heydon Pickering
