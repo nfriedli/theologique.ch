@@ -9,6 +9,13 @@ RewriteEngine On
 RewriteCond %{HTTP_USER_AGENT} (AddSearchBot|AI2Bot|AI2Bot\-DeepResearchEval|Ai2Bot\-Dolma|aiHitBot|amazon\-kendra|Amazonbot|AmazonBuyForMe|Amzn\-SearchBot|Amzn\-User|Andibot|Anomura|anthropic\-ai|ApifyBot|ApifyWebsiteContentCrawler|Applebot|Applebot\-Extended|atlassian\-bot|Awario|AzureAI\-SearchBot|bedrockbot|bigsur\.ai|Bravebot|Brightbot\ 1\.0|BuddyBot|Bytespider|CCBot|Channel3Bot|ChatGLM\-Spider|ChatGPT\ Agent|ChatGPT\-User|Claude\-SearchBot|Claude\-User|Claude\-Web|ClaudeBot|Cloudflare\-AutoRAG|CloudVertexBot|cohere\-ai|cohere\-training\-data\-crawler|Cotoyogi|Crawl4AI|Crawlspace|Datenbank\ Crawler|DeepSeekBot|Devin|Diffbot|DuckAssistBot|Echobot\ Bot|EchoboxBot|ExaBot|FacebookBot|Factset_spyderbot|FirecrawlAgent|FriendlyCrawler|Gemini\-Deep\-Research|Google\-CloudVertexBot|Google\-Extended|Google\-Firebase|Google\-NotebookLM|GoogleAgent\-Mariner|GoogleOther|GoogleOther\-Image|GoogleOther\-Video|GPTBot|iAskBot|iaskspider|iaskspider/2\.0|IbouBot|ICC\-Crawler|ImagesiftBot|imageSpider|img2dataset|ISSCyberRiskCrawler|kagi\-fetcher|Kangaroo\ Bot|KlaviyoAIBot|KunatoCrawler|laion\-huggingface\-processor|LAIONDownloader|LCC|LinerBot|Linguee\ Bot|LinkupBot|Manus\-User|meta\-externalagent|Meta\-ExternalAgent|meta\-externalfetcher|Meta\-ExternalFetcher|meta\-webindexer|MistralAI\-User|MistralAI\-User/1\.0|MyCentralAIScraperBot|netEstate\ Imprint\ Crawler|NotebookLM|NovaAct|OAI\-SearchBot|omgili|omgilibot|OpenAI|Operator|PanguBot|Panscient|panscient\.com|Perplexity\-User|PerplexityBot|PetalBot|PhindBot|Poggio\-Citations|Poseidon\ Research\ Crawler|QualifiedBot|QuillBot|quillbot\.com|SBIntuitionsBot|Scrapy|SemrushBot\-OCOB|SemrushBot\-SWA|ShapBot|Sidetrade\ indexer\ bot|Spider|TavilyBot|TerraCotta|Thinkbot|TikTokSpider|Timpibot|TwinAgent|VelenPublicWebCrawler|WARDBot|Webzio\-Extended|webzio\-extended|wpbot|WRTNBot|YaK|YandexAdditional|YandexAdditionalBot|YouBot|ZanistaBot) [NC]
 RewriteRule !^/?robots\.txt$ - [F]
 
+# Nettoyage plus rapide (code 410 sur la 404...)
+RewriteRule ^(wp-admin|photos|_media|purgatoire|spip.php|doku.php) /404.html [G,L]
+
+# Scories de DokuWiki
+RewriteCond %{QUERY_STRING} (^|&)(do=|searchtags=) [NC]
+RewriteRule ^.*$ /404.html [G,L]
+
 # Renvoi vers la version https
 RewriteCond %{HTTPS} off [OR]
 RewriteCond %{HTTP_HOST} ^www. [NC]
@@ -18,8 +25,9 @@ RewriteRule (.*) https://theologique.ch/$1 [R=301,L]
 RewriteCond %{QUERY_STRING} .
 RewriteRule ^ %{REQUEST_URI}? [R=301,L]
 
-# 404
+# 404 / 410
 ErrorDocument 404 /404.html
+ErrorDocument 410 /404.html
 
 # https://securityheaders.com/
 Header always set Strict-Transport-Security "max-age=63072000; includeSubDomains; preload" env=HTTPS
