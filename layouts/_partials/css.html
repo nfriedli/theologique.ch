@@ -1,7 +1,3 @@
- <link rel="preload" href="/fonts/literata.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="preload" href="/fonts/literata-italic.woff2" as="font" type="font/woff2" crossorigin>
-
-
 {{ $fonts := resources.Get "css/fonts.css" }}
 <style>{{ $fonts.Content | safeCSS }}</style>
 
