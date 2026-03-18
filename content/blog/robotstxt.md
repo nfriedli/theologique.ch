@@ -2,6 +2,7 @@
 title = "Accepter (ou non) que les IA se nourrissent de nos contenus"
 description = "Beaucoup parlent intelligences artificielles (IA) mais peu sont explicites sur les droits qu’elles ont sur les contenus de leurs sites."
 date = 2026-03-16
+lastMod = 2026-03-18
 +++
 
 Beaucoup parlent intelligences artificielles (IA) mais peu sont explicites sur les droits qu’elles ont sur les contenus de leurs sites.
@@ -36,6 +37,9 @@ L’idée, toute simple, c’est de dire à ces spiders de ne pas parcourir cert
 En principe, il est possible d’utiliser le même type de règles pour limiter l’accès aux robots des IA.
 Il existe des [listes d’exclusion](https://github.com/ai-robots-txt/ai.robots.txt/blob/main/robots.txt) prêtes à l’emploi pour qui souhaite exclure les IA de son site.
 Quand les robots sont honnêtes, il respectent ces directives et tout va bien.
+
+Donc, dans un monde honnête, on pourrait donc passer à la réflexion de fond sur l’utilisation des données par les intelligences artificielles.
+En sachant que notre position sera prise en compte.
 
 ## Positions protestantes réformées sur les IA
 
@@ -95,6 +99,8 @@ Devraient-ils toujours être libres au sens où j’en parlais dans [Licence Cre
 Celles et ceux qui produisent des contenus doivent en tout cas être tenus au courant de leur réutilisation possible.
 L’ignorance n’est pas une réponse, dans ce domaine comme dans d’autres.
 
+Malheureusement, le respect et l’honnêteté ne font pas partie des vertus cardinales des boîtes de la Big Tech et il faudra aller plus loin.
+
 ## Pour aller plus loin
 
 Je vous propose une autre piste avec `robots.txt` ainsi que des possibilités d’action avec d’autres moyens.
@@ -120,6 +126,7 @@ Cette directive ne bloque aucun robot mais elle affirme votre *opt-out*:
 ```
 
 Elle semble avoir une valeur juridique, mais qu’en est-il en Suisse?
+(Le juriste [François Charlet](https://francoischarlet.ch/) me signale qu’il faut avant tout que [les indications soient claires](https://mastodon.social/@fcharlet@tooting.ch/116246313014284185) tant pour les internautes que pour les machines.)
 
 En revanche, elle ne résout pas forcément la question de la bande passante.
 On peut parfaitement imaginer que les crawlers lisent tout un site (sans en stocker les données) pour trouver des liens externes.
@@ -128,6 +135,7 @@ On peut parfaitement imaginer que les crawlers lisent tout un site (sans en stoc
 
 Quand les robots ne respectent pas les règles, il faut trouver d’autres solutions, par exemple:
 
+- le [filtre pur et simple dans `.htaccess`](https://github.com/ai-robots-txt/ai.robots.txt/blob/main/.htaccess) plutôt que la liste de directives `robots.txt`
 - l’ajout d’un «obstacle» comme [Botcheck](https://github.com/splitbrain/botcheck) d’Andi Gohr ou [Anubis](https://anubis.techaro.lol/)
 - le pourrissement volontaire des contenus qui ne devraient pas être lus (si les robots respectaient les règles), c’est la proposition [Poisoning well](https://heydonworks.com/article/poisoning-well/) d’Heydon Pickering
 - les [bombes de décompression](https://fr.wikipedia.org/wiki/Bombe_de_d%C3%A9compression) ou *zip bombs* (un tout petit fichier qui devient immense et sature les ordinateurs qui analysent les données, mais qui peut être considéré comme une attaque)
@@ -136,9 +144,10 @@ Ces solutions visent toutes à ralentir ou arrêter les crawlers des grandes ent
 Elles sont discutables parce qu’elles dérangent les internautes.
 Certaines sont très consommatrices d’énergie; c’est le but, hélas.
 
-Je suis très réticent à l’utilisation d’une solution centralisée comme CloudFlare qui fait tomber la moitié du web à chaque problème.
+Je suis très réticent à l’utilisation d’une solution trop centralisée comme CloudFlare.
+C’est une entreprise si tentaculaire qu’elle fait tomber la moitié du web à chaque problème, elle ne refuse pas la censure, etc.
 
 ----
 
 Comme c’est un sujet en mutation permanente, je suis preneur de vos discussions et de vos solutions.
-Et je reste disponible pour parler de votre propre `robots.txt`; le mien est bien entendu public.
+Et je reste disponible pour parler de votre propre `robots.txt` ou votre `.htaccess`; les miens sont bien entendu visible dans le dépôt GitHub.
