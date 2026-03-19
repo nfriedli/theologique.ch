@@ -11,6 +11,8 @@ La liste est destinée à être complétée par vos suggestions.
 Cette page fait suite à la publication de mon billet [Licence Creative Commons (CC)](/blog/cc/).
 Elle n’a pas vocation à présenter des publications tombées dans le domaine public par la force du temps, mais uniquement des livres placés à dessein sous une licence libératrice.
 
+:heart: Si vous en avez les moyens, achetez ces livres pour soutenir celles et ceux qui les écrivent, les maisons d’édition qui font un travail essentiel et les librairies de proximité qui participent à la vie locale!
+
 ## Publications sous licence CC
 
 Ces ouvrages sont sous licence [CC-BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr):
