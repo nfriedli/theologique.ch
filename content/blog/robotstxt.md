@@ -6,7 +6,7 @@ lastMod = 2026-03-18
 images = ["https://cdn.pixabay.com/photo/2015/03/26/17/17/chile-693064_1280.jpg"]
 +++
 
-Beaucoup parlent des intelligences artificielles (IA) mais peu sont explicites sur les droits qu’elles ont ou n'ont pas sur les contenus de leurs sites.
+Beaucoup parlent des intelligences artificielles (IA) mais peu sont explicites sur les droits qu’elles ont ou n’ont pas sur les contenus de leurs sites.
 Quand les entreprises respectent les règles du jeu, il est possible de régler la situation avec un seul fichier.
 
 Mais, surtout, la discussion mérite d’avoir lieu en interne sans délai.

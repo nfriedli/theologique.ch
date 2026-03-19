@@ -1,5 +1,5 @@
 +++
-title = "Imaginer un «RSS Club» théologique"
+title = "Imaginer un «RSS Club» théologique?"
 description = ""
 date = 2026-03-18
 draft = true
