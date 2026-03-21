@@ -2,7 +2,7 @@
 title = "Sites protestants réformés de Suisse romande"
 description = "Un annuaire des sites (blogroll) pour poursuivre le travail du «Réseau protestant de Suisse romande» en version simplifiée."
 date = 2026-02-20
-lastMod = 2026-02-22
+lastMod = 2026-03-21
 aliases = ["/blogroll/"]
 images = ["https://cdn.pixabay.com/photo/2023/06/17/21/42/reformers-wall-8070835_1280.jpg"]
 +++
@@ -31,6 +31,7 @@ Le suivi des modifications est visible dans l’[historique sur GitHub](https://
 
 - [René Blanchet](https://www.predic.ch/)
 - [Gilles Bourquin](https://gillesbourquin.ch/)
+- [Jean-Jacques Corbaz](https://textesdejjcorbaz.blogspot.com/)
 - [Claude Demissy](https://www.claude-ecritures.ch/)
 - [Laure Devaux Allisson](https://lauredevaux.ch/)
 - [Diane Friedli](https://dianefriedli.ch/)
@@ -42,7 +43,6 @@ Le suivi des modifications est visible dans l’[historique sur GitHub](https://
 - [Armin Kressmann](https://www.ethikos.ch/)
 - [Shafique Keshavjee](https://shafique-keshavjee.com/)
 - [Sandrine Landeau](https://sandrinelandeau.net/)
-- [Jean-Jacques Corbaz](https://textesdejjcorbaz.blogspot.com/)
 - [Jean-Marc Leresche](https://jeanmarcleresche.ch/)
 - [Aurélie Netz](https://aurelienetz.ch/)
 - [Marc Pernot](https://marcpernot.net/)
@@ -64,7 +64,6 @@ Certains disposent de ressources toujours précieuses.
 - [Félix Moser](https://moser-felix.ch/)
 - [Hyonou Paik](https://potinsdivins.wordpress.com/)
 - [Stella Pastoris](https://leblogduneveilleuse.blogspot.com/)
-- [Nicole Rochat](https://nicolerochat.ch/)
 
 ## Culture
 
@@ -121,5 +120,5 @@ Certains disposent de ressources toujours précieuses.
 - proposer une sélection de podcasts
 - supprimer les sites inactifs ou problématiques (sécurité, qualité, bilan carbone)
 - lister les flux RSS des sites existants
-- produire une version JSON,
+- produire une version JSON (je vais plutôt pencher pour [Humaniser le web avec `human.json`](/blog/human-json/))
 - étendre à la francophonie?
