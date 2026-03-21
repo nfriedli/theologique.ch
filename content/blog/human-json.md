@@ -36,3 +36,4 @@ Je me verrais bien compléter le liste avec des sites protestants réformés.
 Cette démarche compléterait bien ce qui est présenté dans [Sites protestants réformés de Suisse romande](/blog/blogroll/)
 
 **Si vous possédez un site personnel protestant réformé et que vous me connaissez «en vrai», n’hésitez pas à le signaler et je l’ajouterai à ma liste.**
+Je vous invite évidemment à ajouter un `human.json` à votre site afin de voir si cette initiative intéressante s’installe dans le paysage.
