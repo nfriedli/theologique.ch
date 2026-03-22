@@ -20,6 +20,11 @@
     }
 }
 
+/* Non reconnues par le w3 validator */
+@view-transition {
+  navigation: auto;
+}
+
 *,
 *::before,
 *::after {
