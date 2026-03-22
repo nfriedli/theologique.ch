@@ -141,7 +141,7 @@ Je suis convaincu que nous aurions intérêt, par exemple entre blogueuses et bl
 - croisillon ou non: `éthique` ou `#éthique`?
 
 Je ne développe pas pour le moment.
-Il me paraît évident que ce serait utile, mais j’ai peut d’être le seule à le penser.
+Il me paraît évident que ce serait utile, mais j’ai peur d’être le seul à le penser.
 Si cette réflexion suscite l’intérêt, je suis prêt à lancer une liste de référence sur GitHub (ou ailleurs).
 
 ## Sur theologique.ch
