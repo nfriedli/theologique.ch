@@ -3,11 +3,11 @@
 
     --color: 36;
 
-    --bg: hsl(var(--color), 50%, 95%);
-    --bg2: hsl(var(--color), 25%, 90%);
+    --bg: hsl(var(--color), 25%, 95%);
+    --bg2: hsl(var(--color), 50%, 85%);
     --txt: hsl(var(--color), 50%, 10%);
     --orange: hsl(var(--color), 100%, 40%);
-    --orange2: hsl(var(--color), 100%, 20%);
+    --orange2: hsl(var(--color), 50%, 20%);
 }
 
 @media (prefers-color-scheme: dark) {
