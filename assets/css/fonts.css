@@ -18,3 +18,7 @@ code {
     font-variant-ligatures: none;
     font-variant-numeric: lining-nums tabular-nums;
 }
+
+table {
+    font-variant-numeric: tabular-nums lining-nums;
+}
