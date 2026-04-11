@@ -1,6 +1,6 @@
 :root {
-    --sans-serif: "Roboto", ui-sans-serif, "Inter", "Arial", system-ui, sans-serif;
-    --monospace:  "Jetbrains Mono", ui-monospace, "Roboto Mono", "Cascadia Code", "Consolas", monospace;
+    --sans-serif: "Roboto", "Geist", ui-sans-serif, "Inter", "Arial", system-ui, sans-serif;
+    --monospace:  "Jetbrains Mono", "Geist Mono", ui-monospace, "Roboto Mono", "Cascadia Code", "Consolas", monospace;
 }
 
 body {
@@ -13,12 +13,11 @@ a {
     font-variant-numeric: lining-nums tabular-nums;
 }
 
-code {
-    font-family: var(--monospace);
-    font-variant-ligatures: none;
+code, table {
     font-variant-numeric: lining-nums tabular-nums;
 }
 
-table {
-    font-variant-numeric: tabular-nums lining-nums;
+code {
+    font-family: var(--monospace);
+    font-variant-ligatures: none;
 }

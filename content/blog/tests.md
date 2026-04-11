@@ -2,6 +2,7 @@
 title = "Tests de sites d’Églises réformées romandes"
 description = "Résultats de performances, accessibilité (A11Y), bonnes pratiques, SEO et bilan écologique pour les sites des Églises réformées de Suisse romande."
 date = 2026-04-03
+lastMod = 2026-04-11
 images = ["https://cdn.pixabay.com/photo/2020/03/21/22/14/dublin-4955328_1280.jpg"]
 +++
 
@@ -66,18 +67,19 @@ Pour les autres mesures, le score le plus faible est le meilleur.
 
 Bilan carbone de A+ à F (A+ est le meilleur).
 Pour les autres mesures, le score le plus faible est le meilleur.
+La page est parcourue jusqu’en bas manuellement pour obtenir les données et les requêtes, mais aucun lien n’est cliqué.
 
-| Site | Score | Serveur                  | Données | Requêtes |
-| ---- | ----: | ------------------------ | ------: | -------: |
-| #1   |     D | énergie non renouvelable |   2.4Mo |       50 |
-| #2   |     F | énergie non renouvelable |   9.3Mo |      101 |
-| #3   |     F | énergie renouvelable     |   6.0Mo |       69 |
-| #4   |     B | énergie non renouvelable |   1.4Mo |       42 |
-| #5   |    A+ | énergie renouvelable     |   0.8Mo |       23 |
-| #6   |     E | énergie non renouvelable |   2.5Mo |       45 |
-| #7   |     F | énergie non renouvelable |  36.5Mo |      591 |
-| #8   |     E | énergie renouvelable     |   4.4Mo |      108 |
-| #9   |    A+ | énergie renouvelable     | 0.004Mo |        2 |
+| Site | Score | Serveur (énergie) | Données (Mo) | Requêtes |
+| ---- | ----- | ----------------- | -----------: | -------: |
+| #1   | D     | non renouvelable  |          2.4 |       50 |
+| #2   | F     | non renouvelable  |          9.3 |      101 |
+| #3   | F     | renouvelable      |          6.0 |       69 |
+| #4   | B     | non renouvelable  |          1.4 |       42 |
+| #5   | A+    | renouvelable      |          0.8 |       23 |
+| #6   | E     | non renouvelable  |          2.5 |       45 |
+| #7   | F     | non renouvelable  |         36.5 |      591 |
+| #8   | E     | renouvelable      |          4.4 |      108 |
+| #9   | A+    | renouvelable      |        0.004 |        2 |
 
 ## Non conclusion...
 
