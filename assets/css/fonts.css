@@ -1,23 +1,27 @@
 :root {
     --sans-serif: "Roboto", ui-sans-serif, "Inter", "Arial", system-ui, sans-serif;
-    --monospace:  "Jetbrains Mono", ui-monospace, "Roboto Mono", "Cascadia Code", "Consolas", monospace;
+    --monospace:  "MapleMono", "Maple Mono", "Jetbrains Mono", ui-monospace, "Roboto Mono", "Cascadia Code", "Consolas", monospace;
 }
 
 body {
-    font-family: var(--sans-serif);
-    font-variant-numeric: oldstyle-nums proportional-nums;
+    font-family: var(--monospace);
     text-rendering: optimizeLegibility;
 }
 
-a {
-    font-variant-numeric: lining-nums tabular-nums;
+@font-face {
+  font-family: "MapleMono";
+  src: url("/fonts/mm.woff2") format("woff2-variations"),
+       url("/fonts/mm.woff2") format("woff2");
+  font-weight: 100 900;
+  font-display: swap;
+  font-style: normal;
 }
 
-code, table {
-    font-variant-numeric: lining-nums tabular-nums;
-}
-
-code {
-    font-family: var(--monospace);
-    font-variant-ligatures: none;
+@font-face {
+  font-family: "MapleMono";
+  src: url("/fonts/mmi.woff2") format("woff2-variations"),
+       url("/fonts/mmi.woff2") format("woff2");
+  font-weight: 100 900;
+  font-display: swap;
+  font-style: italic;
 }

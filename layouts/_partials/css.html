@@ -1,3 +1,6 @@
+<link rel="preload" href="/fonts/mm.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/mmi.woff2" as="font" type="font/woff2" crossorigin>
+
 {{ $fonts := resources.Get "css/fonts.css" }}
 <style>{{ $fonts.Content | safeCSS }}</style>
 

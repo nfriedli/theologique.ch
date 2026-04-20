@@ -50,7 +50,7 @@ body {
     gap: 3rem;
     padding: 1rem;
     margin: auto;
-    max-width: 50rem;
+    max-width: 60rem;
     min-height: 100vh;
     min-height: 100dvh;
     overflow-wrap: break-word;
@@ -155,9 +155,14 @@ hr {
 
 blockquote {
     border-inline-start: .15rem solid var(--orange);
+    font-style: italic;
     margin-block: 2rem;
     margin-inline: 0;
     padding-inline: 1rem;
+}
+
+blockquote em {
+    font-style: normal;
 }
 
 header nav ul {
