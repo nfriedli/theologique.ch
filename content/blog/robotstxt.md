@@ -2,7 +2,7 @@
 title = "Accepter (ou non) que les IA se nourrissent de nos contenus"
 description = "Beaucoup parlent intelligences artificielles (IA) mais peu sont explicites sur les droits qu’elles ont sur les contenus de leurs sites."
 date = 2026-03-16
-lastMod = 2026-03-18
+lastMod = 2026-04-20
 images = ["https://cdn.pixabay.com/photo/2015/03/26/17/17/chile-693064_1280.jpg"]
 +++
 
@@ -130,7 +130,7 @@ Cette directive ne bloque aucun robot mais elle affirme votre *opt-out*:
 ```
 
 Elle semble avoir une valeur juridique, mais qu’en est-il en Suisse?
-(Le juriste [François Charlet](https://francoischarlet.ch/) me signale qu’il faut avant tout que [les indications soient claires](https://mastodon.social/@fcharlet@tooting.ch/116246313014284185) tant pour les internautes que pour les machines.)
+Le juriste [François Charlet](https://francoischarlet.ch/) me signale qu’il faut avant tout quec les indications soient claires tant pour les internautes que pour les machines.
 
 En revanche, elle ne résout pas forcément la question de la bande passante.
 On peut parfaitement imaginer que les crawlers lisent tout un site (sans en stocker les données) pour trouver des liens externes.
