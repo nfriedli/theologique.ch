@@ -9,19 +9,19 @@ body {
 }
 
 @font-face {
+  font-display: optional;
   font-family: "MapleMono";
+  font-style: normal;
+  font-weight: 100 900;
   src: url("/fonts/mm.woff2") format("woff2-variations"),
        url("/fonts/mm.woff2") format("woff2");
-  font-weight: 100 900;
-  font-display: swap;
-  font-style: normal;
 }
 
 @font-face {
+  font-display: optional;
   font-family: "MapleMono";
+  font-style: italic;
+  font-weight: 100 900;
   src: url("/fonts/mmi.woff2") format("woff2-variations"),
        url("/fonts/mmi.woff2") format("woff2");
-  font-weight: 100 900;
-  font-display: swap;
-  font-style: italic;
 }
