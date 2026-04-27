@@ -84,7 +84,7 @@ Mon [profil Local Guide](https://www.google.ch/maps/contrib/10862385504235894536
 
 J’ai régulièrement enrichi et corrigé des pages Wikipédia, notamment [Église protestante de Genève](https://fr.wikipedia.org/wiki/%C3%89glise_protestante_de_Gen%C3%A8ve) et [Église réformée évangélique du canton de Neuchâtel](https://fr.wikipedia.org/wiki/%C3%89glise_r%C3%A9form%C3%A9e_%C3%A9vang%C3%A9lique_du_canton_de_Neuch%C3%A2tel).
 
-J’ai participé à la première version du *Réseau protestant* qui promeut la solidarité entre sites réformés de Suisse romande.
+J’ai participé à la première version du [Réseau protestant](https://reseau-protestant.ch/) qui promeut la solidarité entre sites réformés de Suisse romande.
 À la fin de 2025, ce projet a été mis en pause.
 
 Je me suis engagé dans les [Assises du web protestant romand](https://www.reformes.ch/201406126964/6964-les-protestants-romands-se-donnent-une-journee-pour-reflechir-a-leur-web.html), comme participant, animateur d’atelier, intervenant et membre du groupe d’organisation.

@@ -4,7 +4,7 @@ description = "Petite sélection de liens pour naviguer sur le web et redécouvr
 lastMod = 2026-02-20
 +++
 
-À la fin de 2025, le *Réseau protestant* (réformé de Suisse romande) a annoncé qu’il se mettait en veille.
+À la fin de 2025, le [Réseau protestant](https://reseau-protestant.ch/) (réformé de Suisse romande) a annoncé qu’il se mettait en veille.
 Quand une initiative s’arrête, on peut toujours le regretter.
 Ou on peut se réjouir des fruits qu’elle a portés.
 Verre à moité plein ou verre à moitié vide?
