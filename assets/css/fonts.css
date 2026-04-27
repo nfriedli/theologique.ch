@@ -11,3 +11,9 @@ body {
 code {
     font-family: var(--monospace);
 }
+
+@font-face {
+  font-family: "Inter";
+  font-display: swap;
+  src: local("Inter Variable"), local("Inter-Variable"), local("Inter");
+}
