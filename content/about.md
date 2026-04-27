@@ -2,10 +2,13 @@
 title = "À propos"
 description = "Informations sur Nicolas Friedli, auteur du site protestant réformé theologique.ch: parcours, réalisations et engagements bénévoles."
 date = 2025-12-21
-lastMod = 2026-03-16
+lastMod = 2026-04-27
 menu = "main"
 weight = 990
 +++
+
+**Cette page a été rédigée avant [Rupture](/blog/rupture/).
+Elle mériterait une refonte partielle.**
 
 theologique.ch est un site protestant réformé proposé par Nicolas Friedli.
 Comme il faut toujours catégoriser les personnes: je suis protestant réformé.

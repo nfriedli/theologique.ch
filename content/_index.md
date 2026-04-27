@@ -5,10 +5,9 @@ menu = "main"
 weight = 10
 +++
 
-theologique.ch est publié par [Nicolas Friedli](https://nicolasfriedli.ch/).
+**Web, théologie & persiflages.** theologique.ch est publié par [Nicolas Friedli](https://nicolasfriedli.ch/).
 C’est un projet personnel, indépendant et dilettante.
 Ce site est un lieu de tests, un laboratoire ouvert et un espace d’expérimentations en ligne.
-Il a redémarré en 2026 suite à une longue jachère en 2025.
 
 ## Derniers articles du blog
 
