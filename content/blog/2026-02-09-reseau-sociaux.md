@@ -62,7 +62,7 @@ Je me mets dans le lot pour mes usages professionnels de sites que toute décenc
 
 Framablog propose une excellente bande dessinée dans son billet [Attention à l’économie de l’attention](https://framablog.org/2026/02/17/attention-a-leconomie-de-lattention/):
 
-> Parce que les phénomènes d’addiction aux médias sociaux ne sont pas apparus spontanément mais ont savamment été mis en place par les GAFAM, et qu’il faudrait sans doute que ça se sache un peu plus...
+> Parce que les phénomènes d’addiction aux médias sociaux ne sont pas apparus spontanément mais ont savamment été mis en place par les GAFAM, et qu’il faudrait sans doute que ça se sache un peu plus…
 
 ## Le réseau social n’est pas mort
 

@@ -65,7 +65,7 @@ Tristan Nitot sur YouTube [L’humanité a-t-elle les moyens de s’offrir l’I
 
 ## Mauvaises réflexions & mauvaises réponses
 
-Le nouveau est toujours bon... jusqu’à quand?
+Le nouveau est toujours bon… jusqu’à quand?
 
 Ghost
 

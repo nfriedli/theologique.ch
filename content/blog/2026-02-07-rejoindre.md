@@ -44,7 +44,7 @@ C’est loin d’être trivial.
 
 Ce qui m’interpelle souvent chez les diacres et pasteur·e·s, c’est la prétention de savoir que ce «les gens» veulent.
 Je ne doute pas un instant qu’il y a des retours nombreux sur ce qui est proposé dans leurs pratiques.
-Ce qui a plu, ce qui a déplu, ce qui est arrivé au bon moment, une parole qui libère...
+Ce qui a plu, ce qui a déplu, ce qui est arrivé au bon moment, une parole qui libère…
 
 Tout cela est vrai.
 Mais avec un biais important, ces retours sont ceux de personnes qui étaient là à un moment précis et à un endroit donné.

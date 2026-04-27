@@ -10,7 +10,7 @@ Il n’avait pourtant pas prévu de raconter cette histoire.
 
 délai -> reconstruction de mémoire et dans le dialogue
 
-longues séquences «silencieuses» (350 pages...)
+longues séquences «silencieuses» (350 pages…)
 
 inventions graphiques et images fortes
 

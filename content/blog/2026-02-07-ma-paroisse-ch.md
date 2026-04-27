@@ -11,7 +11,7 @@ draft = true
 
 > If you detest the ecological impact of AI data centers, propose an alternative piece of technology that drives shareholder value.
 > 
-> [...]
+> […]
 >
 > Or make the case for how small, local, private, and less energy-intensive models are probably “good enough” for most use cases and we should stop burning barrels of crude and use those instead.
 

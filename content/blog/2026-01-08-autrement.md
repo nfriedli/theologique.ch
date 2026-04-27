@@ -16,10 +16,10 @@ Sans succès.
 Je vois régulièrement des paroisses qui annoncent des «cultes autrement».
 Même si je suis théologien, même si je travaille dans le service communication d’une Église, je dois bien admettre que je ne comprends pas ce que cela signifie.
 Mais mon bagage institutionnel me permet de reconstituer ce que cela pourrait signifier.
-«Autrement» peut porter sur le lieu, le temps, le style de musique, la liturgie... et bien d’autres choses que je n’essaie pas de lister.
+«Autrement» peut porter sur le lieu, le temps, le style de musique, la liturgie… et bien d’autres choses que je n’essaie pas de lister.
 
 Pourtant, la locution «autrement» appelle une référence pour comparaison.
-Un «culte autrement» est différent... mais de quoi?
+Un «culte autrement» est différent… mais de quoi?
 
 - d’un culte classique?
 - d’un culte ordinaire?
@@ -93,7 +93,7 @@ La notion de [discernement](https://fr.wikipedia.org/wiki/Discernement) est plut
 > Le discernement décrit en grande partie la recherche intérieure d’une réponse à la question si Dieu appelle à la vie consacrée, au ministère ordonné ou à autre vocation.
 > Le discernement pour la vocation sacerdotale est généralement accompagné d’une direction spirituelle qui peut également faire partie de l’année de propédeutique.
 
-De là à proposer sur un flyer (fictif) de «discerner pour mieux déposer»...
+De là à proposer sur un flyer (fictif) de «discerner pour mieux déposer»…
 Bel exemple de patois de Canaan, pour les doctes qui comprennent.
 
 ## «ouvert à tous»

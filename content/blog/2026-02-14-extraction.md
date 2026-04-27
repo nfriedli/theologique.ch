@@ -17,7 +17,7 @@ Toute vraie théologie serait une «rencontre avec Dieu».
 Mais cette conception du 4e siècle est-elle toujours actuelle?
 Les Lumières sont passées par là.
 
-Ce billet accumule des affirmations discutables comme «Si ChatGPT peut [...] produire un sermon correct en trente secondes».
+Ce billet accumule des affirmations discutables comme «Si ChatGPT peut […] produire un sermon correct en trente secondes».
 À elle seule, cette idée mériterait un article.
 Non, une prédication correcte n’est pas produite par une intelligence artificielle générative en 30 secondes.
 Sauf si le sermon attendu n’est qu’une (tentative de) transmission de contenu.
@@ -76,7 +76,7 @@ Son avertissement est tout simple, beaucoup plus que les analyses ecclésio-thé
 Ce même accent sur les LLM est précisé dès l’encadré initial de son article [L’intelligence artificielle générative dans l’impasse informationnelle](https://www.arthurperret.fr/articles/2025-06-20-congres-sfsic-ia-impasse-informationnelle.html).
 En quelques phrases, il propose une analyse bien plus opérantes que des grands colloques:
 
-> Ce qui caractérise ChatGPT [...], c’est que la relation entre les discours et les faits échappent à sa définition du sens.
+> Ce qui caractérise ChatGPT […], c’est que la relation entre les discours et les faits échappent à sa définition du sens.
 > Peu importe qu’on réduise son taux d’erreurs: le problème est qu’il s’exprime sous un régime de vérité bien particulier, qui traite les faits sous l’angle communicationnel plutôt qu’informationnel.
 
 ## Fin des opérations?
