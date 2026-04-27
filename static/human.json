@@ -14,9 +14,41 @@
             "url": "https://ma-paroisse.ch",
             "vouched_at": "2026-03-21"
         },
-                {
+        {
             "url": "https://frdl.ch",
             "vouched_at": "2026-03-21"
+        },
+        {
+            "url": "https://lauredevaux.ch/",
+            "vouched_at": "2026-04-27"
+        },
+        {
+            "url": "https://eliojaillet.ch/",
+            "vouched_at": "2026-04-27"
+        },
+        {
+            "url": "https://jeanmarcleresche.ch/",
+            "vouched_at": "2026-04-27"
+        },
+        {
+            "url": "https://www.kressmann.ch/",
+            "vouched_at": "2026-04-27"
+        },
+        {
+            "url": "https://www.ethikos.ch/",
+            "vouched_at": "2026-04-27"
+        },
+        {
+            "url": "https://jecherchedieu.ch/",
+            "vouched_at": "2026-04-27"
+        },
+        {
+            "url": "https://espritdeliberte.leswoody.net/",
+            "vouched_at": "2026-04-27"
+        },
+        {
+            "url": "https://aurelienetz.ch/",
+            "vouched_at": "2026-04-27"
         }
     ]
 }
