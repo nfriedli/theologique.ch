@@ -156,6 +156,7 @@ hr {
 blockquote {
     border-inline-start: .15rem solid var(--orange);
     font-style: italic;
+    font-weight: 500;
     margin-block: 2rem;
     margin-inline: 0;
     padding-inline: 1rem;
@@ -163,6 +164,10 @@ blockquote {
 
 blockquote em {
     font-style: normal;
+}
+
+blockquote strong {
+    font-weight: 800;
 }
 
 header nav ul {
