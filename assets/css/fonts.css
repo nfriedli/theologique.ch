@@ -15,5 +15,15 @@ code {
 @font-face {
   font-family: "Inter";
   font-display: swap;
+  font-style: normal;
+  font-weight: 100 900;
   src: local("Inter Variable"), local("Inter-Variable"), local("Inter");
+}
+
+@font-face {
+  font-family: "Inter";
+  font-display: swap;
+  font-style: italic;
+  font-weight: 100 900;
+  src: local("Inter Variable Italic"), local("Inter-Variable-Italic"), local("Inter Italic");
 }
