@@ -190,6 +190,7 @@ pre, code {
 }
 
 pre {
+    overflow-x: auto;
     padding: .5rem 1rem;
 }
 
