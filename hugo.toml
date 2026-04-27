@@ -14,7 +14,7 @@ enableGitInfo = true
 enableEmoji = true
 
 [frontmatter]
-date = ["date", ":git"]
+date = ["date", ":filename", ":git"]
 lastmod = ["lastmod", "date", ":git"]
 
 [markup]
@@ -35,7 +35,7 @@ keepWhitespace = true
 
 [params]
 images = [ "/images/opengraph.jpg" ]
-slogan = "un blog protestant réformé par Nicolas Friedli"
+slogan = "web, théologie & persiflages"
 
 [params.author]
 name = "Nicolas Friedli"
