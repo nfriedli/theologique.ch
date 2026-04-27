@@ -31,7 +31,7 @@ C’est de cela que parle le passage suivant.
 
 Le fichier `/robots.txt`, à la racine d’un site, donne des directives aux crawlers qui parcourent le site.
 Initialement, ils visaient les robots d’indexation des moteurs de recherche.
-Ce [protocole d’exclusion des robots](https://fr.wikipedia.org/wiki/Protocole_d’exclusion_des_robots) a plus de 30 ans.
+Ce [protocole d’exclusion des robots](https://fr.wikipedia.org/wiki/Protocole_d%27exclusion_des_robots) a plus de 30 ans.
 L’idée, toute simple, c’est de dire à ces spiders de ne pas parcourir certaines sections du site ou de ne pas référencer certains types de contenus.
 
 En principe, il est possible d’utiliser le même type de règles pour limiter l’accès aux robots des IA.

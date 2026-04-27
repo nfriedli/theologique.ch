@@ -34,8 +34,7 @@ Cela apporte quelque chose à son propre propos et enrichit la navigation des in
 
 Les liens vers des pages d’accueil ne sont pas sans valeur.
 Mais ils sont infiniment moins importants que des liens publiés dans le corps du texte, vers des pages précises et choisies avec soin.
-C’est le principe d’immersion dont parle Tom Johnson dans la conférence [Building navigation for your doc site: 5 best practices](https://www.writethedocs.org/videos/na/2017/building-navigation-for-your-doc-site-5-best-practices-tom-johnson/)
-qui a fait date.
+C’est le principe d’immersion dont parle Tom Johnson dans la conférence [Building navigation for your doc site: 5 best practices](https://www.youtube.com/watch?v=w-kEmsLwPDE) qui a fait date.
 
 Je rappelle avec reconnaissance que le réseau a été actif.
 Je me réjouis de voir que de nombreuses personnes et institutions ont partagé des liens protestants réformés sur leur propre site.
