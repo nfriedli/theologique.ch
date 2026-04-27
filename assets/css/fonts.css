@@ -5,6 +5,7 @@
 
 body {
     font-family: var(--sans-serif);
+    font-synthesis: none;
     text-rendering: optimizeLegibility;
 }
 
