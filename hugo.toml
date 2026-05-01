@@ -1,8 +1,7 @@
 baseURL = "https://theologique.ch/"
 title = "theologique.ch"
 
-languageCode = "fr"
-defaultContentLanguage = "fr"
+locale = "fr"
 
 copyright = "Creative Commons BY-SA"
 
