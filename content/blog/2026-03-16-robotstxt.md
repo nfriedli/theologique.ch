@@ -1,7 +1,7 @@
 +++
 title = "Accepter (ou non) que les IA se nourrissent de nos contenus"
 description = "Beaucoup parlent intelligences artificielles (IA) mais peu sont explicites sur les droits qu’elles ont sur les contenus de leurs sites."
-lastMod = 2026-04-20
+lastMod = 2026-05-01
 +++
 
 Beaucoup parlent des intelligences artificielles (IA) mais peu sont explicites sur les droits qu’elles ont ou n’ont pas sur les contenus de leurs sites.
@@ -128,7 +128,7 @@ Cette directive ne bloque aucun robot mais elle affirme votre *opt-out*:
 ```
 
 Elle semble avoir une valeur juridique, mais qu’en est-il en Suisse?
-Le juriste [François Charlet](https://francoischarlet.ch/) me signale qu’il faut avant tout quec les indications soient claires tant pour les internautes que pour les machines.
+Le juriste [François Charlet](https://francoischarlet.ch/) me signale qu’il faut avant tout que les indications soient claires tant pour les internautes que pour les machines.
 
 En revanche, elle ne résout pas forcément la question de la bande passante.
 On peut parfaitement imaginer que les crawlers lisent tout un site (sans en stocker les données) pour trouver des liens externes.
@@ -152,5 +152,6 @@ C’est une entreprise si tentaculaire qu’elle fait tomber la moitié du web �
 
 ----
 
-Comme c’est un sujet en mutation permanente, je suis preneur de vos discussions et de vos solutions.
-Et je reste disponible pour parler de votre propre `robots.txt` ou votre `.htaccess`; les miens sont bien entendu visible dans le dépôt GitHub.
+Comme c’est un sujet en mutation permanente, je suis preneur de vos réflexions et de vos solutions.
+Et je reste disponible pour parler de votre propre `robots.txt` ou votre `.htaccess`.
+À ce jour, je ne limite rien sur theologique.ch, parce qu’il est statique et ultra-léger.
