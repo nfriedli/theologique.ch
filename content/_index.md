@@ -5,7 +5,7 @@ menu = "main"
 weight = 10
 +++
 
-**Web, théologie & persiflages.** theologique.ch est publié par [Nicolas Friedli](https://nicolasfriedli.ch/).
+**baratin, esbroufe & persiflage.** theologique.ch est publié par [Nicolas Friedli](https://nicolasfriedli.ch/).
 C’est un projet personnel, indépendant et dilettante.
 Ce site est un lieu de tests, un laboratoire ouvert et un espace d’expérimentations en ligne.
 

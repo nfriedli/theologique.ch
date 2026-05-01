@@ -34,7 +34,7 @@ keepWhitespace = true
 
 [params]
 images = [ "/images/opengraph.jpg" ]
-slogan = "web, théologie & persiflages"
+slogan = "baratin, esbroufe & persiflage"
 
 [params.author]
 name = "Nicolas Friedli"
