@@ -1,15 +1,15 @@
 +++
 title = "theologique.ch"
-description = "Je suis Nicolas Friedli. Ce site est un projet personnel et indépendant. theologique.che est un lieu de tests, un laboratoire, un espace d’expérimentations en ligne."
+description = "Je suis Nicolas Friedli. Ce site est un projet personnel et indépendant. theologique.ch est un lieu de tests, un laboratoire, un espace d’expérimentations en ligne."
 menu = "main"
 weight = 10
 +++
 
-**Au menu: baratin, esbroufe & persiflage.**
-
 theologique.ch est publié par [Nicolas Friedli](https://nicolasfriedli.ch/).
 C’est un projet personnel, indépendant et dilettante.
 Ce site est un lieu de tests, un laboratoire ouvert et un espace d’expérimentations en ligne.
+
+Au menu: baratin, esbroufe & persiflage 👹
 
 ## Derniers articles du blog
 
