@@ -36,11 +36,3 @@
     {{ partial "home" . }}
 {{ end }}
 
-<script async src="https://plausible.io/js/pa-8AH75UR1aB2SFRK8xbiD_.js"></script>
-<script>
-  window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
-  plausible.init()
-</script>
-{{ if eq .Kind "404" }}
-    <script>document.addEventListener("DOMContentLoaded", function () { plausible("404"); });</script>
-{{ end }}
