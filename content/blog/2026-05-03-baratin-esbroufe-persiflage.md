@@ -1,5 +1,5 @@
 +++
-title = "baratin, esbroufe & persiflage"
+title = "Nouveau slogan: baratin, esbroufe & persiflage"
 description = "«baratin, esbroufe & persiflage» est le nouveau sous-titre de theologique.ch. 3 mots qui annoncent un programme pour un web sobre et efficace."
 +++
 
