@@ -7,6 +7,7 @@ const wander = {
   pages: [
     "https://affordance.framasoft.org/",
     "https://aurelienetz.ch/",
+    "https://www.cidoc.ch/nouvelles/selection-du-mois/anciennes-selections",
     "https://dianefriedli.ch/",
     "https://dianefriedli.ch/3-reflexions-catechese/",
     "https://dianefriedli.ch/jeunes-alibi/",
@@ -21,7 +22,6 @@ const wander = {
     "https://ploum.net/",
     "https://ploum.net/2023-06-15-merdification.html",
     "https://ploum.net/2025-02-06-decadence-technologique.html",
-    "https://write.as/bartux/",
     "https://write.as/bartux/post-verite-post-realite-post-humanite",
     "https://www.arthurperret.fr/",
     "https://www.theologeek.ch/2021/05/26/des-textes-du-seigneur-des-anneaux-pour-accompagner-la-mort/",
@@ -30,6 +30,8 @@ const wander = {
   // Websites and consoles to ignore.  My console will never fetch
   // consoles or web pages whose URLs match the following patterns.
   ignore: [
-
+    "https://www.facebook.com/",
+    "https://www.instagram.com/",
+    "https://x.com/",
   ],
 }
