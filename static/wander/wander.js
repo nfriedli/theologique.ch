@@ -1,6 +1,7 @@
 const wander = {
   // Other Wander consoles that visitors can reach from my console.
   consoles: [
+    "https://eliojaillet.ch/wander/",
   ],
 
   // My favourite websites and pages I recommend to the Wander community.
@@ -37,5 +38,6 @@ const wander = {
     "https://www.facebook.com/",
     "https://www.instagram.com/",
     "https://x.com/",
+    "https://www.open-source.church/", //super site, mais bloque l'affichage externe
   ],
 }
