@@ -43,8 +43,8 @@ Je ne veux pas m’y perdre, mais j’imagine plein de formules creuses avec des
 
 2 conditions pour que cela fonctionne:
 
-- que votre site soit éligible aux source privilégiées (parce qu’il propose du nouveau contenu assez souvent)
+- que votre site soit éligible aux sources privilégiées (parce qu’il propose du nouveau contenu assez souvent)
 - que vous soyez connecté·e à votre compte Google au moment du clic
 
 C’est si simple que je ne comprends pas pourquoi si peu de sites d’actu utilisent cette possibilité.
-Étonnant contraste entre la facilité de mise en œuvre et l’énergie (du désespoir) qu’ils déploient pour survivre sur les réseaux sociaux.
+Étonnant contraste entre la facilité de mise en œuvre et l’énergie qu’ils déploient pour survivre sur les réseaux sociaux.
