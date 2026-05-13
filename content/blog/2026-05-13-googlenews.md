@@ -19,7 +19,7 @@ Il vous suffit de cliquer sur:
 Bon, techniquement, c’est seulement un lien!
 Donc on pourrait aussi utiliser quelque chose comme [Ajouter en tant que source préférée sur Google](https://google.com/preferences/source?q=https://theologique.ch/).
 
-Ou pourquoi pas un code QR, qu’il est possible de scanner de son téléphone quand on navigue sur son ordinateur:
+Ou pourquoi pas un code QR, qu’il est possible de scanner de son téléphone quand on navigue sur son ordinateur (par exemple si l'ordinateur n'est pas connecté au compte Google, contrairement au smartphone):
 
 {{< qr
     text="https://google.com/preferences/source?q=https://theologique.ch/"
