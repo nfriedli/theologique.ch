@@ -19,7 +19,7 @@ Il vous suffit de cliquer sur:
 Bon, techniquement, c’est seulement un lien!
 Donc on pourrait aussi utiliser quelque chose comme [Ajouter en tant que source préférée sur Google](https://google.com/preferences/source?q=https://theologique.ch/).
 
-Ou pourquoi pas un code QR, qu’il est possible de scanner de son téléphone quand on navigue sur son ordinateur (par exemple si l'ordinateur n'est pas connecté au compte Google, contrairement au smartphone):
+Ou pourquoi pas un code QR, qu’il est possible de scanner de son téléphone quand on navigue sur son ordinateur (par exemple si l’ordinateur n’est pas connecté au compte Google, contrairement au smartphone):
 
 {{< qr
     text="https://google.com/preferences/source?q=https://theologique.ch/"
@@ -38,3 +38,13 @@ Il y a toutes les infos utiles dans [What’s News on Search](https://support.go
 
 Tout le reste n’est que discours d’accompagnement, voire baratin.
 Je ne veux pas m’y perdre, mais j’imagine plein de formules creuses avec des «innovant», «à la pointe» et autres «technologies avancées».
+
+---
+
+2 conditions pour que cela fonctionne:
+
+- que votre site soit éligible aux source privilégiées (parce qu’il propose du nouveau contenu assez souvent)
+- que vous soyez connecté·e à votre compte Google au moment du clic
+
+C’est si simple que je ne comprends pas pourquoi si peu de sites d’actu utilisent cette possibilité.
+Étonnant contraste entre la facilité de mise en œuvre et l’énergie (du désespoir) qu’ils déploient pour survivre sur les réseaux sociaux.
