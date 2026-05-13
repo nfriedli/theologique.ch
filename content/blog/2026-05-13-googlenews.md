@@ -14,6 +14,9 @@ Il vous suffit de cliquer sur:
   src="/images/google_preferred_source_badge_light_FR.png"
   alt="Ajouter en tant que source préférée sur Google"
   link="https://google.com/preferences/source?q=https://theologique.ch/"
+  target="_blank"
+  width=338
+  height=106
 >}}
 
 Bon, techniquement, c’est seulement un lien!
@@ -24,7 +27,7 @@ Ou pourquoi pas un code QR, qu’il est possible de scanner de son téléphone 
 {{< qr
     text="https://google.com/preferences/source?q=https://theologique.ch/"
     alt="Ajouter en tant que source préférée sur Google par QR Code"
-    scale=4
+    scale=6
 />}}
 
 La cible est toujours la même:
