@@ -1,7 +1,8 @@
 ---
 title: Les  5 blogs protestants réformés incontournables
-desription:
+description: 
 date: 2026-10-19
+draft: true
 ---
 
 ## Laure Devaux Allisson
@@ -18,7 +19,7 @@ Jérôme Grandet
 
 https://jeromeg.ch/
 
-## Journal d'un théologien vaudois éclectique
+## Journal d’un théologien vaudois éclectique
 
 Elio Jaillet
 

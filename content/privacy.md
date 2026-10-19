@@ -1,8 +1,9 @@
-+++
-title = "Vie privée & confidentialité des données"
-description = "Le respect de votre vie privée est total. Ce n’est pas du baratin, mais la réalité. Point final."
-date = 2026-05-02
-+++
+---
+title: Vie privée & confidentialité des données
+description: Le respect de votre vie privée est total. Ce n’est pas du baratin, mais la réalité. Point final.
+date: 2026-05-02
+draft: true
+---
 
 Le respect de votre vie privée est total.  
 Ce n’est pas du baratin, mais la réalité.  

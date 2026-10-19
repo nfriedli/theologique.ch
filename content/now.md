@@ -1,8 +1,9 @@
-+++
-title = "/now (en ce moment)"
-description = "La page /now est sensée présenter ce qui occupe la personne responsable du site en ce moment. Je n’en vois pas l’intérêt sur ce blog."
-date = 2026-04-27
-+++
+---
+title: /now (en ce moment)
+description: La page /now est sensée présenter ce qui occupe la personne responsable du site en ce moment. Je n’en vois pas l’intérêt sur ce blog.
+date: 2026-04-27
+draft: true
+---
 
 La page `/now` est une [slash page](/slashes) qui présente ce sur quoi la personne responsable du site est focalisée actuellement. L’idée paraît intéressante; elle est développée sur le site [nownownow.com](https://nownownow.com/about). Avec ce joli résumé:
 

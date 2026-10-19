@@ -1,8 +1,9 @@
-+++
-title = "Vérification d’identité"
-description = "Cette page permet d’identifier et vérifier des présences en ligne de Nicolas Friedli: noms de domaine, adresses mail et pages sur des domaines externes"
-date = 2026-04-27
-+++
+---
+title: Vérification d’identité
+description: Cette page permet d’identifier et vérifier des présences en ligne de Nicolas Friedli. Noms de domaine, adresses mail et pages sur des domaines externes.
+date: 2026-04-27
+draft: true
+---
 
 Cette page permet d’identifier et vérifier des présences en ligne de Nicolas Friedli. C’est une [slash page](/slashes) de type `/verify`. Les moyens de me contacter sont disponibles sur la *slash page* [/contact](/contact).
 

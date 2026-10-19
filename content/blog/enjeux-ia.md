@@ -6,7 +6,8 @@ aliases:
 - /enjeux-ia/
 images:
 - https://cdn.pixabay.com/photo/2021/01/02/12/32/cathedral-5881418_1280.jpg
---- 
+---
+ 
 
 Ça parle d’intelligences artificielles (IA) partout.
 En général d’IA génératives ou LLM (grands modèles de langages).
