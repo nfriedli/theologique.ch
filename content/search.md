@@ -2,8 +2,6 @@
 title = "Recherche"
 description = "Trouver un contenu de theologique.ch avec Google."
 date = 2026-01-30
-menu = "main"
-weight = 995
 +++
 
 Trouver un contenu de theologique.ch avec Google.

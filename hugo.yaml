@@ -1,0 +1,68 @@
+baseURL: https://theologique.ch/
+title: theologique.ch
+locale: fr
+
+copyright: Creative Commons BY-SA
+
+disableKinds:
+  - robotstxt
+  - taxonomy
+  - term
+
+noBuildLock: true
+
+summaryLength: 30
+
+enableGitInfo: true
+enableEmoji: true
+
+frontmatter:
+  date:
+    - date
+    - ':filename'
+    - ':git'
+  lastmod:
+    - lastmod
+    - date
+    - ':git'
+
+markup:
+  goldmark:
+    parser:
+      autoHeadingIDType: github-ascii
+  highlight:
+    noClasses: false
+
+menus:
+  main:
+    - pageRef: /
+      weight: 10
+    - pageRef: /blog/
+      weight: 20
+    - pageRef: /about/
+      weight: 30
+    - pageRef: /search/
+      weight: 40
+    - pageRef: /contact/
+      weight: 50
+
+minify:
+  minifyOutput: true
+  tdewolff:
+    html:
+      keepDefaultAttrVals: false
+      keepEndTags: true
+      keepQuotes: true
+      keepWhitespace: true
+      
+params:
+  images:
+    - /images/opengraph.jpg
+  slogan: laboratoire théologique protestant réformé
+  author:
+    name: Nicolas Friedli
+    email: contact+rss@theologique.ch
+
+services:
+  rss:
+    limit: 10

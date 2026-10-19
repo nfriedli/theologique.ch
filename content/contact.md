@@ -2,9 +2,7 @@
 title = "Contact"
 description = "Coordonnées complètes et informations utiles pour contacter Nicolas Friedli, propriétaire et responsable de theologique.ch. Une page pour assurer la transparence et la clarté dans nos échanges."
 date = 2025-12-21
-lastMod = 2025-12-22
-menu = "main"
-weight = 1000
+lastMod = 2026-10-19
 +++
 
 Je reçois avec plaisir vos retours sur les contenus de ce site.
