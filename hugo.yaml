@@ -9,6 +9,7 @@ disableKinds:
   - taxonomy
   - term
 
+cleanDestinationDir: true
 noBuildLock: true
 
 summaryLength: 30
