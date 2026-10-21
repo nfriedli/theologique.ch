@@ -11,9 +11,6 @@ Je ne suis pas opposé à l’utilisation d’images, à condition qu’elles ap
 theologique.ch est créé avec l’excellent [Hugo](https://gohugo.io/), un générateur de sites statique rapide.
 Il a été compilé avec la version {{< version >}}.
 
-Les polices d’écriture sont Geist et Geist Mono, développées par Vercel, telles que fournies par Google Fonts et installées localement.
-J’en parle dans [Test de web fonts avec Geist et Geist Mono](https://nicolasfriedli.ch/blog/geist/).
-
 Les sources de theologique.ch sont suivies dans un dépôt GitHub.
 Elles ne sont pas ouvertes, parce que je ne souhaite pas rendre publiques les expérimentations en cours.
 
