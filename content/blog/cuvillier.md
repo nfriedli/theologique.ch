@@ -65,7 +65,7 @@ Rassurez-moi (par exemple par mail):
 - Édith Tartar-Goddet
 - François Vouga
 
-Peut-être que ces personnes n'avaient pas connaissance de l’affaire et qu’elles sont blanches comme des colombes...
+Peut-être que ces personnes n’avaient pas connaissance de l’affaire et qu’elles sont blanches comme des colombes...
 
 Ou alors tout est question de distinction (fumeuse) entre l’homme et l’œuvre, avec la [clause spéciale réservée aux exégètes](https://cidoc.ch/nouvelles/actualites/410-quand-lodeur-de-saintete-se-corrompt#:~:text=en%20particulier%20des%20ex%C3%A9g%C3%A8tes).
 J’en parlais sur ce blog dans [Une (inter)minable jachère](/blog/interminable-jachere/).
