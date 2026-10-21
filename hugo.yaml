@@ -2,7 +2,7 @@ baseURL: https://theologique.ch/
 title: theologique.ch
 locale: fr
 
-copyright: Creative Commons BY-SA
+copyright: Creative Commons BY-SA
 
 disableKinds:
   - robotstxt
@@ -19,12 +19,12 @@ enableEmoji: true
 frontmatter:
   date:
     - date
-    - ':filename'
-    - ':git'
+    - :filename
+    - :git
   lastmod:
     - lastmod
     - date
-    - ':git'
+    - :git
 
 markup:
   goldmark:
