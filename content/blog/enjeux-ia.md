@@ -7,7 +7,6 @@ aliases:
 images:
 - https://cdn.pixabay.com/photo/2021/01/02/12/32/cathedral-5881418_1280.jpg
 ---
- 
 
 Ça parle d’intelligences artificielles (IA) partout.
 En général d’IA génératives ou LLM (grands modèles de langages).
@@ -28,8 +27,6 @@ Cela peut être dit:
 - par n’importe qui
 
 Exactement comme ce que j’ai entendu dimanche au Dôme de Florence par un vieux prêtre.
-
-![Dôme de Florence](/content/images/enjeux-ia/darrenquigley32-cathedral-5881418_1920.jpg)
 
 C’est ce que j’appelle les prédications «le Seigneur est mon berger».
 C’est nul, zéro, 🗑️!
@@ -75,10 +72,9 @@ Le contenu protestant réformé, il est où?
 ### Infographie 📊
 
 Moi aussi, j’arrive à copier un lien dans une IA et générer une image de merde.
+Par exemple [cette infographie à partir de ce billet](https://notebook.google.com/notebook/270d2540-8a11-48cc-8053-a56162a02cd8/artifact/fe2de786-cf1d-4947-ad08-3f3fe2bd28d5) générée dans NotebookLM
+
 C’est l’équivalent graphique des prédications «le Seigneur est mon berger».
-
-![Infographie sur ce billet par NotebookLM](/content/images/enjeux-ia/infographie-enjeux-ia.jpg)
-
 Mais ça ne fait toujours pas de contenu spécifiquement protestant réformé pour celles et ceux qui utilisent les LLM pour chercher et apprendre...
 
 ### Vidéo 📻 et podcast 📢

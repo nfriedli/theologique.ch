@@ -4,6 +4,8 @@ description: theologique.ch devient un laboratoire web protestant réformé. Ce 
 date: 2026-10-05
 aliases:
 - /laboratoire/
+images:
+- https://cdn.pixabay.com/photo/2019/08/13/08/15/analysis-4402809_1280.jpg
 ---
 
 theologique.ch devient un laboratoire web protestant réformé avec la publication de ce billet.
@@ -11,10 +13,10 @@ Désormais, ce site me servira de plateforme en ligne pour effectuer des tests e
 
 ## Tests d’outils & techniques web
 
-Avec theologique.ch, j’ai désormais la possibilité de tester en *live* des possibilités techniques du web contemporain. 
+Avec theologique.ch, j’ai désormais la possibilité de tester en *live* des possibilités techniques du web contemporain.
 Par exemple:
 
-- utilisation de [Pure Blog](https://pureblog.org/) en situation réelle
+- ~~utilisation de [Pure Blog](https://pureblog.org/) en situation réelle~~
 - [balisage sémantique en HTML](https://nicolasfriedli.ch/blog/semantique/)
 - [données structurées](https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data?hl=fr)
 - développement d’un fichier [llms.txt](https://llmstxt.org/)
@@ -46,7 +48,7 @@ Par exemple:
 
 - [baisse des visites humaines](https://next.ink/205207/wikipedia-perd-8-de-pages-vues-par-les-humains-en-un-an-et-met-ca-sur-le-compte-de-lia/)
 - impact du maillage interne
-- pertinence de l’utilisation de taxonomies (tags)
+- pertinence de l’utilisation de [taxonomies](/blog/taxonomies/) (tags)
 - fréquence de publication
 - longueur et types d’articles
 
@@ -65,7 +67,7 @@ Je ne donnerai pas toujours mes résultats ici, mais je les utiliserai pour amé
 
 ## Raison du choix
 
-J’ai publié 3 articles désabusés avant de prendre la décision de transformer theologique.ch en laboratoire de recherche indépendant.
+J’ai publié 3 articles désabusés avant de prendre la décision de transformer theologique.ch en laboratoire de recherche indépendant.
 C’est une reconversion tactique assumée dont je me réjouis.
 
 Je suis effaré par l’état du web protestant réformé.

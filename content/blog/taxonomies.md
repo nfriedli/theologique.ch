@@ -5,6 +5,8 @@ date: 2026-10-15
 lastMod: 2026-10-19
 aliases:
 - /taxonomies/
+images:
+- https://cdn.pixabay.com/photo/2016/01/19/01/42/library-1147815_1280.jpg
 ---
 
 Les taxonomies sont un moyen de classer le contenu sur un site.
@@ -31,8 +33,6 @@ Si d’autres me rejoignent, je suis prêt à lancer une liste de référence su
 
 La suite de ce billet propose quelques réflexions sur les taxonomies.
 
-![Caractères d’imprimeries non triés](/content/images/taxonomies/pexels-alphabets-1839737_1920.jpg)
-
 Les systèmes de gestion de contenu (CMS) modernes permettent d’utiliser facilement d’un point de vue technique.
 Mais leur gestion est souvent complexe du point de vue du sens.
 J’essaie de donner quelques pistes pour pratique utile aux internautes et au référencement dans les moteurs de recherche (SEO).
@@ -43,7 +43,7 @@ Comme WordPress est le CMS le plus utilisé sur le web, autant commencer par lui
 Sa conception des taxonomies n’est pas triviale.
 Notamment parce que certaines sont obligatoires et d’autres sont optionnelles.
 
-Par défaut — ce dont je parle ici —, WordPress propose 2 types de taxonomies:
+Par défaut, WordPress propose 2 types de taxonomies:
 
 catégories
 : Toute entrée de blog (article) doit appartenir à au moins une catégorie.
@@ -121,7 +121,7 @@ Et, surtout, la raison de regrouper ces articles devrait être évidente.
 Sans évidence, il n’y a pas de sens.
 
 Je pense que la taxonomie du [blog de Diane Friedli](https://dianefriedli.ch/) est intéressante.
-La taxonomie [Noël](https://dianefriedli.ch/tag/noel/) compte à ce jour 23 articles qui sont répartis entre 3 catégories (navigation transversale).
+La taxonomie [Noël](https://dianefriedli.ch/tag/noel/) compte à ce jour 23 articles qui sont répartis entre 3 catégories (navigation transversale).
 Tous les [Contes et récits de Noël](https://dianefriedli.ch/category/contes/) se voient attribuer ce tag.
 Ce pourrait être absurde si ce tag ne débordait sur d’autres catégories ([Prédications](https://dianefriedli.ch/category/predication/) et [Catéchèse](https://dianefriedli.ch/category/catechese/)).
 Il est possible, en décembre, de retrouver tout ce qui concerne Noël sans difficulté.
@@ -155,8 +155,7 @@ Je les crois volontiers.
 
 ## Sur theologique.ch
 
-Au moment de la publication de ce billet, je n’utilise pas du tout de taxonomies.
-[Pure Blog](https://pureblog.org/), conçu pour des sites personnels, fonctionne très bien ainsi.
+Au moment de la publication de ce billet, je n’utilise pas du tout de taxonomies. 
 
 Je pourrais ajouter facilement des tags, avec le danger d’en produire trop comme sur WordPress.
 
@@ -164,6 +163,3 @@ J’ajoute qu’il est important, quand une page de taxonomie existe, qu’elle 
 L’idée est de faire des pages de mots-clés ou des catégories des *landing pages* solides.
 Plus d’informations dans [Taxonomy SEO: How to optimize your categories and tags](https://yoast.com/taxonomy-seo-categories-tags/).
 
-Pure Blog ne permet pas de construire de telles pages.
-C’est un outil qui se veut simple et léger.
-C’est une concession à faire.
