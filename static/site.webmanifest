@@ -1,6 +1,7 @@
 {
   "name": "theologique.ch",
   "short_name": "theologique",
+  "start_url": "/",
   "icons": [
     {
       "src": "/web-app-manifest-192x192.png",
