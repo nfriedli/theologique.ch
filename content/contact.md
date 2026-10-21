@@ -2,7 +2,7 @@
 title: Contact
 description: Coordonnées complètes et informations utiles pour contacter Nicolas Friedli, propriétaire et responsable de theologique.ch. Une page pour assurer la transparence et la clarté dans nos échanges.
 date: 2025-12-21
-lastMod: 2026-10-19
+lastMod: 2026-10-21
 ---
 
 Je reçois avec plaisir vos retours sur les contenus de ce site.
@@ -13,7 +13,7 @@ Rue du Château 3
 2013 Colombier (NE)  
 Suisse
 
-**[contact+site@theologique.ch](mailto:contact+site@theologique.ch)**  
+**[contact+site@theologique.ch](mailto:contact+site@theologique.ch)** 😀  
 [+41 79 344 33 82](tel:+41793443382) (SMS et WhatsApp)  
 [+41 32 841 48 74](tel:+41328414874) (comme ultime recours)
 
@@ -22,8 +22,8 @@ Mais je ne prends pas d’appels sur cette messagerie.
 Je n’utilise pas Signal, Telegram, Threema, etc.
 
 Je suis présent sur [Mastodon](https://mastodon.social/@frdlch) pour de la veille.
-Je ne suis pas présent sur Bluesky, Instagram, LinkedIn, X (Twitter), etc.
 Ma «présence» sur [Facebook](https://www.facebook.com/frdl.ch) est passive.
+Je ne suis pas présent sur Bluesky, Instagram, LinkedIn, X (Twitter), etc.
 
 Mon site de consultant web est [nicolasfriedli.ch](https://nicolasfriedli.ch/).
 
