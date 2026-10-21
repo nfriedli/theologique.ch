@@ -13,8 +13,8 @@ Rue du Château 3
 2013 Colombier (NE)  
 Suisse
 
-**[contact+site@theologique.ch](mailto:contact+site@theologique.ch)**\
-[+41 79 344 33 82](tel:+41793443382)\
+**[contact+site@theologique.ch](mailto:contact+site@theologique.ch)**  
+[+41 79 344 33 82](tel:+41793443382) (SMS et WhatsApp)  
 [+41 32 841 48 74](tel:+41328414874) (comme ultime recours)
 
 Je lis parfois des messages sur [WhatsApp](https://wa.me/41793443382).
