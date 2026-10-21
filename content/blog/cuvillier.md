@@ -51,7 +51,7 @@ Malheureusement, ce n’est pas une *fake news*, parce que:
 Je ne peux pas croire que des gens ~~très bien~~ que j’estimais le cautionnent.
 Je suis triste de savoir que ces personnes sont probablement tombées dans un traquenard; rien d’étonnant, car on sait que les escrocs visent le 4e âge.
 
-Rassurez-moi:
+Rassurez-moi (par exemple par mail):
 
 - Enrico Benedetto
 - Didier Fiévet
@@ -65,11 +65,11 @@ Rassurez-moi:
 - Édith Tartar-Goddet
 - François Vouga
 
-Peut-être que ces personnes avaient pas connaissance de l’affaire et qu’elles sont blanches comme des colombes...
+Peut-être que ces personnes n'avaient pas connaissance de l’affaire et qu’elles sont blanches comme des colombes...
 
 Ou alors tout est question de distinction (fumeuse) entre l’homme et l’œuvre, avec la [clause spéciale réservée aux exégètes](https://cidoc.ch/nouvelles/actualites/410-quand-lodeur-de-saintete-se-corrompt#:~:text=en%20particulier%20des%20ex%C3%A9g%C3%A8tes).
 J’en parlais sur ce blog dans [Une (inter)minable jachère](/blog/interminable-jachere/).
-Ce genre de «nuances» est la porte ouverte à toutes les exceptions et à toutes les dérives.
+Ce genre de «nuances» est la porte grande ouverte à toutes les exceptions et à toutes les dérives.
 
 Quelle tristesse.  
 Quelle honte.  
