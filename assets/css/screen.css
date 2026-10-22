@@ -1,22 +1,14 @@
 :root {
     color-scheme: light dark;
 
-    --color: 36;
-
-    --bg: hsl(var(--color), 25%, 95%);
-    --bg2: hsl(var(--color), 50%, 85%);
-    --txt: hsl(var(--color), 50%, 10%);
-    --orange: hsl(var(--color), 100%, 40%);
-    --orange2: hsl(var(--color), 50%, 20%);
+    --bg: #FFF;
+    --txt: #000;
 }
 
 @media (prefers-color-scheme: dark) {
     :root {
-        --bg: hsl(var(--color), 100%, 5%);
-        --bg2: hsl(var(--color), 50%, 10%);
-        --txt: hsl(var(--color), 50%, 90%);
-        --orange: hsl(var(--color), 100%, 60%);
-        --orange2: hsl(var(--color), 50%, 70%);
+        --bg: #000;
+        --txt: #EEE;
     }
 }
 
@@ -27,8 +19,8 @@
 }
 
 ::selection {
-    background: hsl(var(--color), 100%, 50%);
-    color: hsl(var(--color), 50%, 5%);
+    background: #FF0;
+    color: #000;
 }
 
 html {
@@ -71,7 +63,6 @@ footer {
 
 a {
     color: inherit;
-    text-decoration-color: var(--orange);
     text-decoration-thickness: .1em;
     text-underline-offset: .1em;
 }
@@ -89,7 +80,6 @@ h1,
 h2,
 h3,
 h4 {
-    color: var(--orange2);
     line-height: 1.2;
     margin-block-start: 2rem;
     margin-block-end: 1rem;
@@ -144,25 +134,15 @@ dt+dt {
 
 hr {
     border: 0;
-    border-block-start: .1rem solid var(--orange2);
-    margin-block: 2rem;
+    border-block-start: .1rem solid var(--txt);
+    margin-block: 1rem;
 }
 
 blockquote {
-    border-inline-start: .15rem solid var(--orange);
-    font-style: italic;
-    font-weight: 500;
+    border-inline-start: .1rem solid var(--txt);
     margin-block: 2rem;
     margin-inline: 0;
     padding-inline: 1rem;
-}
-
-blockquote em {
-    font-style: normal;
-}
-
-blockquote strong {
-    font-weight: 800;
 }
 
 header nav ul {
@@ -190,8 +170,8 @@ img {
 }
 
 pre, code {
-    background: var(--bg2);
-    color: var(--txt);
+    background: var(--txt);
+    color: var(--bg);
 }
 
 pre {
@@ -213,7 +193,7 @@ form {
 
 input {
     color: var(--txt);
-    border: .2rem solid var(--orange);
+    border: .1rem solid var(--txt);
     font-family: inherit;
     font-size: 1.5rem;
     padding: .5rem;
@@ -225,7 +205,9 @@ input::placeholder {
 }
 
 details {
-    background-color: var(--bg2);
+    border-radius: .2rem;
+    background-color: var(--txt);
+    color: var(--bg);
     margin-block: 1rem;
     padding: .5rem 1rem;
 }
@@ -246,6 +228,6 @@ table {
 }
 
 th, td {
-  border: 1px solid var(--txt); 
+  border: .15em solid var(--txt); 
   padding: .2rem 1rem;
 }

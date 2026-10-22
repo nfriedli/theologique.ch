@@ -29,7 +29,7 @@ Cela peut être dit:
 Exactement comme ce que j’ai entendu dimanche au Dôme de Florence par un vieux prêtre.
 
 C’est ce que j’appelle les prédications «le Seigneur est mon berger».
-C’est nul, zéro, 🗑️!
+C’est nul, zéro, poubelle!
 
 Si les prédicatrices et prédicateurs ne sont pas capables de faire quelque chose de contextuel et de personnel, rien n’empêche de les remplacer par des IA.
 Cela ne me pose aucun problème.
@@ -67,9 +67,9 @@ Et il faudra **des compétences autres que des capacités (méta-)discursives su
 
 Le contenu protestant réformé, il est où?
 
-## Suites...📰
+## Suites...
 
-### Infographie 📊
+### Infographie
 
 Moi aussi, j’arrive à copier un lien dans une IA et générer une image de merde.
 Par exemple [cette infographie à partir de ce billet](https://notebook.google.com/notebook/270d2540-8a11-48cc-8053-a56162a02cd8/artifact/fe2de786-cf1d-4947-ad08-3f3fe2bd28d5) générée dans NotebookLM
@@ -77,7 +77,7 @@ Par exemple [cette infographie à partir de ce billet](https://notebook.google.c
 C’est l’équivalent graphique des prédications «le Seigneur est mon berger».
 Mais ça ne fait toujours pas de contenu spécifiquement protestant réformé pour celles et ceux qui utilisent les LLM pour chercher et apprendre...
 
-### Vidéo 📻 et podcast 📢
+### Vidéo et podcast
 
 Tu peux aussi créer:
 
@@ -86,7 +86,7 @@ Tu peux aussi créer:
 
 Mais si tu veux du vrai contenu spécifique, il faudra bien le fournir (ou le piller quelque part).
 
-### Citation du jour 📖
+### Citation du jour
 
 C’est [Pas pour](https://sebsauvage.net/links/?lr4gbA) chez l’incontournable sebsauvage:
 

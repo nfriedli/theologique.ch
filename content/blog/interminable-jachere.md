@@ -17,7 +17,7 @@ Le problème est ailleurs.
 
 Lorsque je trouve des contenus théologiques / religieux / protestants en ligne, je suis souvent déçu.
 J’ai regardé [La Mort de la femme du pasteur](https://www.netflix.com/fr/title/81989322) sur Netflix.
-Puis j’ai lu 2 critiques réformées:
+Puis j’ai lu 2 critiques réformées:
 
 - dans l’hebdomadaire [Réforme](https://www.reforme.net/oeil-reforme/la-mort-de-la-femme-du-pasteur-loeil-de-reforme-du-10-septembre-2026/)
 - sur le [blog de l’EERS](https://www.eks-eers.ch/fr/blogpost/la-mort-de-la-femme-du-pasteur-derriere-le-cas-isole-un-systeme/) (Église évangélique réformée de Suisse)
