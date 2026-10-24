@@ -205,9 +205,8 @@ input::placeholder {
 }
 
 details {
+    border: .1rem solid var(--txt);
     border-radius: .2rem;
-    background-color: var(--txt);
-    color: var(--bg);
     margin-block: 1rem;
     padding: .5rem 1rem;
 }
