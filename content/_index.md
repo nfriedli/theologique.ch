@@ -1,11 +1,11 @@
 ---
 title: theologique.ch
-description: Je suis Nicolas Friedli. Ce site est un projet personnel et indépendant. theologique.ch est un lieu de tests, un laboratoire ouvert et un espace d’expérimentations en ligne.
+description: Je suis Nicolas Friedli. Ce site est un projet personnel, indépendant et dilettant. C’est un blog protestant réformé.
 ---
 
 theologique.ch est publié par Nicolas Friedli.
-C’est un projet personnel, indépendant et dilettante.
-Ce site est un lieu de tests, un laboratoire ouvert et un espace d’expérimentations en ligne.
+C’est un blog protestant réformé.
+Un site personnel, indépendant et dilettante.
 
 ## Dernières nouvelles du blog
 

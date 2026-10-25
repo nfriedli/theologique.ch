@@ -1,13 +1,11 @@
 ---
 title: À propos
-description: Informations sur Nicolas Friedli, auteur du site protestant réformé theologique.ch. Parcours, réalisations et engagements bénévoles.
+description: Informations sur Nicolas Friedli, auteur du blog protestant réformé theologique.ch. Parcours, réalisations et engagements bénévoles.
 date: 2025-12-21
 lastMod: 2026-10-25
 ---
 
-theologique.ch est un site protestant réformé proposé par Nicolas Friedli.
-Comme il faut toujours catégoriser les personnes: je suis protestant réformé.
-
+theologique.ch est un blog protestant réformé proposé par Nicolas Friedli.
 Depuis 20+ ans, je m’intéresse au web comme à la théologie (et vice-versa).
 J’ai une excellente connaissance du tissu théologique et ecclésial romand.
 
