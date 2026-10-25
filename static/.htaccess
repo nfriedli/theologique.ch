@@ -24,7 +24,7 @@ ErrorDocument 404 /404.html
 ErrorDocument 410 /404.html
 
 # Flux RSS
-RewriteRule ^feed/?$ index.xml [L]
+RewriteRule ^feed/?$ index.xml [R=301,L]
 
 # https://securityheaders.com/
 Header always set Strict-Transport-Security "max-age=63072000; includeSubDomains; preload" env=HTTPS
@@ -37,7 +37,6 @@ Header always set Permissions-Policy "accelerometer=(), camera=(), geolocation=(
 
 # headers pour le cache
 Header unset Pragma
-Header unset Last-Modified
 FileETag MTime Size
 
 # Configuration RSS
@@ -46,7 +45,8 @@ FileETag MTime Size
     Header set Access-Control-Allow-Origin "*"
     Header set Access-Control-Allow-Methods "GET, HEAD, OPTIONS"
     Header set Cache-Control "public, max-age=3600, must-revalidate"
-    ForceType text/xml
+    Header set Vary "Accept-Encoding"
+    Header set Content-Type "text/xml; charset=UTF-8"
 </FilesMatch>
 
 # Cache pour images
