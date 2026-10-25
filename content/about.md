@@ -2,7 +2,7 @@
 title: À propos
 description: Informations sur Nicolas Friedli, auteur du site protestant réformé theologique.ch. Parcours, réalisations et engagements bénévoles.
 date: 2025-12-21
-lastMod: 2026-10-19
+lastMod: 2026-10-25
 ---
 
 theologique.ch est un site protestant réformé proposé par Nicolas Friedli.
@@ -49,7 +49,7 @@ Pour l’EREN (Église réformée évangélique du canton de Neuchâtel), j’ai
 Dans le cadre de mon emploi à 40% de coresponsable de la communication de cette institution, je gère les aspects techniques et la rédaction des pages cantonales.
 Je forme les rédacteurs et rédactrices en paroisse et assure un accompagnement continu.
 
-J’ai donné un grand nombre de formations aux réseaux sociaux à une époque où la documentation en ligne était encore très lacunaire et où les formations rares.
+J’ai donné un grand nombre de formations aux réseaux sociaux à une époque où la documentation en ligne était encore très lacunaire et où les formations étaients ~~rares~~ inexistantes.
 J’ai proposé ces formations et ateliers à:
 
 - l’EERV (Église réformée évangélique du canton de Vaud)
