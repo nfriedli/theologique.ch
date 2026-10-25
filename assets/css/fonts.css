@@ -9,7 +9,7 @@ body {
     text-rendering: optimizeLegibility;
 }
 
-code, time, blockquote {
+code, time, blockquote, h1, h2, h3, h4 {
     font-family: var(--monospace);
 }
 
