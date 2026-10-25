@@ -2,6 +2,7 @@
 title: Colophon (choix techniques)
 description: Des informations à propos ce site, les outils utilisés, les choix stratégiques et les résultats. Dans l’édition, on parle de colophon.
 date: 2026-10-19
+lastMod: 2026-10-25
 ---
 
 Ce site est simple et efficace.
@@ -11,9 +12,11 @@ Je ne suis pas opposé à l’utilisation d’images, à condition qu’elles ap
 theologique.ch est créé avec l’excellent [Hugo](https://gohugo.io/), un générateur de sites statique rapide.
 Il a été compilé avec la version {{< version >}}.
 
+theologique.ch utilise les polices [Geist](https://fonts.google.com/specimen/Geist) et [`Geist Mono`](https://fonts.google.com/specimen/Geist+Mono).
+Il n’utilise pas les services de Google pour respecter votre vie privée.
+
 Les sources de theologique.ch sont suivies dans un dépôt GitHub.
-Elles ne sont pas ouvertes.
-Je ne souhaite pas rendre publiques les expérimentations en cours.
+Elles ne sont pas ouvertes pour le moment.
 
 Le site et la messagerie sont hébergés en Suisse, chez [Infomaniak](https://www.infomaniak.com/fr), une entreprise écoresponsable.
 
@@ -27,7 +30,7 @@ Je teste régulièrement mon site pour m’assurer de toujours obtenir d’excel
 - HTML valide selon le [Markup Validation Service du W3C](https://validator.w3.org/)
 - CSS valide selon le [CSS Validation Service du W3C](https://jigsaw.w3.org/css-validator/)
 - RSS valide selon le [Feed Validation Service du W3C](https://validator.w3.org/feed/)
-- score A dans [Security Headers](https://securityheaders.com/?q=https%3A%2F%2Ftheologique.ch%2Fcolophon%2F&followRedirects=on)
+- score A dans [Security Headers](https://securityheaders.com/)
 
 J’essaie de respecter toutes les règles du [Référentiel Opquast](https://checklists.opquast.com/fr/qualite-numerique/) applicables.
 
