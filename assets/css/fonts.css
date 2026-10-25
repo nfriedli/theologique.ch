@@ -1,6 +1,6 @@
 :root {
-    --sans-serif: "Geist", "Inter", "Roboto", ui-sans-serif, "Arial", system-ui, sans-serif;
-    --monospace: "Geist Mono", "Jetbrains Mono", "Roboto Mono", ui-monospace, "Cascadia Code", "Consolas", monospace;
+    --sans-serif: "Geist", "Inter", "Roboto", ui-sans-serif, "Aptos", "Arial", system-ui, sans-serif;
+    --monospace: "Geist Mono", "Jetbrains Mono", "Roboto Mono", ui-monospace, "Aptos Mono", "Cascadia Mono", "Cascadia Code", "Consolas", monospace;
 }
 
 body {
@@ -9,7 +9,7 @@ body {
     text-rendering: optimizeLegibility;
 }
 
-code, time, blockquote, h1, h2, h3, h4 {
+code, time, h1, h2, h3, h4 {
     font-family: var(--monospace);
 }
 

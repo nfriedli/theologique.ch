@@ -2,12 +2,14 @@
     color-scheme: light dark;
 
     --bg: #FFF;
+    --light: #DDD;
     --txt: #000;
 }
 
 @media (prefers-color-scheme: dark) {
     :root {
         --bg: #000;
+        --light: #222;
         --txt: #EEE;
     }
 }
@@ -170,11 +172,13 @@ img {
 }
 
 pre, code {
-    background: var(--txt);
-    color: var(--bg);
+    background: var(--light);
+    color: var(--txt);
 }
 
 pre {
+    border-radius: .2rem;
+    border: .1rem solid var(--txt);
     overflow-x: auto;
     padding: .5rem 1rem;
 }
