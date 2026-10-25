@@ -2,6 +2,8 @@
 title: 100 publications en 365 jours
 description: Le défi 100 Days To Offload proposé par Kev Quirk est tout simple. Publier 100 articles sur son blog en une année. Le format des publications n’est pas défini. L’important, c’est d’écrire. Juste écrire.
 date: 2026-10-25
+images:
+- https://cdn.pixabay.com/photo/2019/12/01/19/34/stairs-4666266_1280.jpg
 ---
 
 Le défi [100 Days To Offload](https://100daystooffload.com/) proposé par [Kev Quirk](https://kevquirk.com/) est tout simple.
