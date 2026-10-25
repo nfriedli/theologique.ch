@@ -1,6 +1,8 @@
 baseURL: https://theologique.ch/
 title: theologique.ch
+
 locale: fr
+timeZone: Europe/Zurich
 
 copyright: Creative Commons BY-SA
 
@@ -9,7 +11,10 @@ disableKinds:
   - taxonomy
   - term
 
-cleanDestinationDir: true
+build:
+  cleanDestinationDir:
+    enable: true
+
 noBuildLock: true
 
 summaryLength: 30
@@ -20,7 +25,6 @@ enableEmoji: true
 frontmatter:
   date:
     - date
-    - :filename
     - :git
   lastmod:
     - lastmod
