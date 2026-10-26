@@ -1,13 +1,35 @@
 {
-    "@context": "http://schema.org",
-    "@type": "WebSite",
-    "name": "theologique.ch",
-    "description": "Le blog protestant réformée de Nicolas Friedli, consultant web et théologien en Suisse romande.",
-    "url": "https://theologique.ch/",
-    "image": "https://theologique.ch/images/opengraph.jpg",
-    "author": {
-        "@type": "Person",
-        "name": "Nicolas Friedli",
-        "url": "https://nicolasfriedli.ch/"
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@id": "https://theologique.ch/#website",
+      "@type": "Blog",
+      "name": "theologique.ch",
+      "description": "Le blog protestant réformé de Nicolas Friedli, consultant web et théologien en Suisse romande.",
+      "url": "https://theologique.ch/",
+      "inLanguage": "fr-CH",
+      "publisher": {
+        "@id": "https://theologique.ch/#author"
+      },
+      "author": {
+        "@id": "https://theologique.ch/#author"
+      },
+      "image": {
+        "@id": "https://theologique.ch/#image"
+      }
+    },
+    {
+      "@id": "https://theologique.ch/#author",
+      "@type": "Person",
+      "name": "Nicolas Friedli",
+      "url": "https://nicolasfriedli.ch/"
+    },
+    {
+      "@id": "https://theologique.ch/#image",
+      "@type": "ImageObject",
+      "caption": "theologique.ch",
+      "contentUrl": "https://theologique.ch/images/opengraph.jpg",
+      "url": "https://theologique.ch/images/opengraph.jpg"
     }
+  ]
 }
