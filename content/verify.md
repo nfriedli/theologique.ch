@@ -1,7 +1,7 @@
 ---
 title: Vérification d’identité
 description: Cette page permet d’identifier et vérifier des présences en ligne de Nicolas Friedli. Noms de domaine, adresses mail et pages sur des domaines externes.
-date: 2026-04-27
+date: 2026-10-26
 draft: true
 ---
 
@@ -27,6 +27,8 @@ En plus des adresses liées aux noms de domaines ci-dessus, j’utilise:
 
 Présences sur des noms de domaines dont je ne suis pas propriétaire:
 
-- <https://github.com/nfriedli/>
+- <https://github.com/nfriedli>
+- <https://codeberg.org/nfriedli>
 - <https://mastodon.social/@frdlch>
-- <https://www.facebook.com/frdl.ch/>
+- <https://www.facebook.com/frdl.ch>
+- <https://gravatar.com/nfriedli>

@@ -1,5 +1,5 @@
 ---
-title: Se divertir ou s'informer
+title: Se divertir ou s’informer
 description: 
 date: 2026-10-27
 draft: true

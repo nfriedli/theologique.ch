@@ -5,7 +5,7 @@ date: 2026-10-26
 draft: true
 ---
 
-On parle de la chanson, pas de l'album.
+On parle de la chanson, pas de l’album.
 
 Avec un joli clip vidéo:
 
