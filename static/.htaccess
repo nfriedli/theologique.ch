@@ -37,14 +37,9 @@ Header always set Permissions-Policy "accelerometer=(), camera=(), geolocation=(
 
 # headers pour le cache
 Header unset Pragma
-
-#suppression des Etags qui posent des problèmes de 200 / 304
-FileETag None
-Header unset ETag
-# à tester: 
-# Header edit ETag "^(.*)-gzip\"$" "$1\""
-# Idéalement: supprimer les Last-Modified et ne garder que les Etags
-
+Header unset Last-Modified
+FileETag MTime Size
+Header edit ETag "^(.*)-gzip\"$" "$1\""
 Header set Cache-Control "public, max-age=3600, must-revalidate"
 
 # Configuration RSS
