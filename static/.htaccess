@@ -37,20 +37,18 @@ Header always set Permissions-Policy "accelerometer=(), camera=(), geolocation=(
 
 # headers pour le cache
 Header unset Pragma
-FileETag MTime Size
+FileETag None
+Header unset ETag
+Header set Cache-Control "public, max-age=3600, must-revalidate"
 
 # Configuration RSS
 <FilesMatch "index.xml">
-    <IfModule mod_expires.c>
-        ExpiresActive On
-        ExpiresDefault "access plus 1 hour"
-    </IfModule>
     Header always set X-Frame-Options "SAMEORIGIN"
     Header set Access-Control-Allow-Origin "*"
     Header set Access-Control-Allow-Methods "GET, HEAD, OPTIONS"
-    Header set Cache-Control "public, max-age=3600, must-revalidate"
     Header set Vary "Accept-Encoding"
-    Header set Content-Type "application/rss+xml; charset=UTF-8"
+    Header set Content-Type "application/xml; charset=UTF-8"
+    Header set Cache-Control "no-cache, no-store, must-revalidate"
 </FilesMatch>
 
 # Cache pour images
