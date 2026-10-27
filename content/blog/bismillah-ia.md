@@ -70,4 +70,4 @@ Ces jeunes doivent être assez bêtes pour se laisser enfiler n’importe quoi.
 C’est le message qui leur est envoyé en pleine tête: on se fout de vous.
 
 Ces horreurs ne pretent plus à sourire, elles coupent (définitivement?) les ponts qu’elles prétendent construire.
-On n’est pas loin des ténèbres.
+On marche à grands pas vers les ténèbres.
