@@ -7,7 +7,7 @@ date: 2026-10-27
 Cet automne, durant les manifestations lycéennes en France, il était difficile d’échapper à l’expression «Bismillah, c’est les ténèbres».
 C’est la formule utilisée par un policier pour tenter de s’infilter dans des groupes qui organisaient les blocages scolaires.
 
-Tout est bien expliqué sur la page Wikipédia consacrée à [Bismillah, c’est les ténèbres](https://fr.wikipedia.org/wiki/Bismillah,_c%27est_les_t%C3%A9n%C3%A8bres) (donc l’[admissibilité](https://fr.wikipedia.org/wiki/Discussion:Bismillah,_c’est_les_t%C3%A9n%C3%A8bres/Admissibilit%C3%A9) est débattue).
+Tout est bien expliqué sur la page Wikipédia consacrée à [Bismillah, c’est les ténèbres](https://fr.wikipedia.org/wiki/Bismillah,_c%27est_les_t%C3%A9n%C3%A8bres) (dont l’[admissibilité](https://fr.wikipedia.org/wiki/Discussion:Bismillah,_c’est_les_t%C3%A9n%C3%A8bres/Admissibilit%C3%A9) est débattue).
 
 Je passe sur le problème de fond qui mériterait un sérieux débat sur les stéréotypes, les biais ou le racisme de la police.
 Je retiens que ce flic a pris les jeunes pour des idiots.
