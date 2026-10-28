@@ -81,11 +81,11 @@ Et ce que je dois à ses contributrices et contributeurs bénévoles.
 
 À l’heure où les IA (intelligences artificielles) sont partout, Wikipédia a besoin d’argent.
 Quand vous lisez un contenu de qualité dans un LLM (comme ChatGPT ou Gemini), ce n’est pas de la magie non plus.
-Les robots ont copieusement siphonné tout ce qu’ils trouvent, sans respecter les droits d’utilisation.
+Les robots ont [copieusement siphonné tout ce qu’ils trouvent](https://next.ink/178942/les-crawlers-des-ia-deviennent-un-serieux-probleme-pour-le-web-meme-pour-wikimedia/), sans respecter les droits d’utilisation.
 Wikipédia est une source majeure.
 
 Le truc, c’est que le contenu est souvent meilleur à la source.
 Sans intervention hallucinée d’une IA générative.
-Je suis prêt à mettre ma main à la poche pour que la source continue à exister.
+Je suis prêt à [mettre ma main à la poche](https://donate.wikimedia.ch/fr/) pour que la source continue à exister.
 
 Et vous?
