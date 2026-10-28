@@ -54,7 +54,7 @@ Même si je souhaiterais parfois des opinions un peu plus tranchées.
 
 ## Esprit de liberté
 
-James Woody est pasteur de l’ÉPUdF (Église protestante unie de France).
+James Woody est pasteur de l’EPUdF (Église protestante unie de France).
 J’aime la densité théologique de ses prédications ainsi que son puissant sens de la formule.
 Ses prédications sont disponibles sur sa chaîne YouTube.
 Ses réflexions politiques sont d’une belle profondeur, toujours stimulantes.
