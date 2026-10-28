@@ -1,7 +1,9 @@
+<!--
 <link rel="preload" href="/fonts/geist.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="/fonts/geist-mono.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="/fonts/geist-italic.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="/fonts/geist-mono-italic.woff2" as="font" type="font/woff2" crossorigin>
+-->
 
 {{ $fonts := resources.Get "css/fonts.css" }}
 <style>{{ $fonts.Content | safeCSS }}</style>
