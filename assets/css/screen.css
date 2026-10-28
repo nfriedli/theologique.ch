@@ -3,14 +3,14 @@
 
     --bg: #FFF;
     --light: #DDD;
-    --txt: #000;
+    --txt: #222;
 }
 
 @media (prefers-color-scheme: dark) {
     :root {
         --bg: #000;
         --light: #333;
-        --txt: #EEE;
+        --txt: #DDD;
     }
 }
 
