@@ -1,6 +1,6 @@
 ---
 title: theologique.ch lance sa chaîne WhatsApp
-description: WhatsApp n’est pas la solution idéale, mais c’est une piste pour diffuser ses contenus. L’occasion d’effectuer des tests grandeur nature pour theologique.ch. Mais préférez toujours les flux RSS!
+description: WhatsApp n’est pas la solution idéale. C’est une piste pour diffuser ses contenus. L’occasion d’effectuer des tests réels. Mais préférez toujours les flux RSS!
 date: 2026-10-29
 ---
 
@@ -76,7 +76,6 @@ Les personnes qui ne font pas partie de ses contacts sont totalement invisibles.
 Les autres abonné·e·s ne voient rien.
 {{</ details >}}
 
-
 ## Autres moyens d’abonnement
 
 {{< details summary="Comment suivre le site sans WhatsApp?" name="abo" >}}
@@ -92,7 +91,7 @@ Si vous n’avez pas encore sauté le pas: [Introduction aux flux RSS et Atom](h
 Je vous laisse construire la solution de votre choix.
 Un système comme [Blogtrottr](https://blogtrottr.com/) peut vous envoyer gratuitement un mail à chaque nouvelle publication.
 
-Vous pouvez aussi essayer d’utiliser Google, soit avec une alerte, soit comme [source préférée](https://www.google.com/preferences/source?q=theologique.ch).
+Vous pouvez aussi essayer d’utiliser Google, soit avec une [alerte](https://www.google.ch/alerts), soit comme [source préférée](https://www.google.com/preferences/source?q=theologique.ch).
 À l’heure de la publication de ce billet, le site est trop neuf pour apparaître dans les sources.
 {{</ details >}}
 
@@ -107,4 +106,5 @@ Je n’ai pas envie de connaître les adresses des abonné·e·s.
 Je n’ai pas envie de multiplier les canaux.
 
 Si la demande est suffisante, j’étudierai le dossier.
+[Buttondown](https://buttondown.com/) m'intéresse...
 {{</ details >}}
