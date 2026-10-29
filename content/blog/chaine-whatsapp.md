@@ -1,7 +1,7 @@
 ---
 title: theologique.ch lance sa chaîne WhatsApp
 description: WhatsApp n’est pas la solution idéale, mais c’est une piste pour diffuser ses contenus. L’occasion d’effectuer des tests grandeur nature pour theologique.ch. Mais préférez toujours les flux RSS!
-date: 2026-10-28
+date: 2026-10-29
 ---
 
 Comme mon idée est de publier [100 billets en 1 année](/blog/100daystooffload/) sur theologique.ch, un système qui annonce les nouvelles mises en ligne pourrait être une bonne idée.
