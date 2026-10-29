@@ -1,6 +1,6 @@
 :root {
-    --sans-serif: "Roboto", "Inter", ui-sans-serif, "Aptos", "Arial", system-ui, sans-serif;
-    --monospace: "Jetbrains Mono", "Roboto Mono", ui-monospace,  "Aptos Mono", "Cascadia Mono", "Cascadia Code", "Consolas", monospace;
+    --sans-serif: "Geist", "Roboto", "Inter", ui-sans-serif, "Aptos", "Arial", system-ui, sans-serif;
+    --monospace: "Geist Mono", "Jetbrains Mono", "Roboto Mono", ui-monospace, "Aptos Mono", "Cascadia Mono", "Cascadia Code", "Consolas", monospace;
 }
 
 body {
@@ -13,7 +13,6 @@ code, time {
     font-family: var(--monospace);
 }
 
-/*
 @font-face {
   font-family: "Geist";
   font-style: normal;
@@ -45,4 +44,3 @@ code, time {
   font-display: optional;
   src: url(/fonts/geist-mono-italic.woff2) format("woff2");
 }
-*/
