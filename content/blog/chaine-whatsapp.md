@@ -106,5 +106,5 @@ Je n’ai pas envie de connaître les adresses des abonné·e·s.
 Je n’ai pas envie de multiplier les canaux.
 
 Si la demande est suffisante, j’étudierai le dossier.
-[Buttondown](https://buttondown.com/) m'intéresse...
+[Buttondown](https://buttondown.com/) m’intéresse...
 {{</ details >}}

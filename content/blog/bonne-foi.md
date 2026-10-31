@@ -17,7 +17,7 @@ Prouver quelque chose...
 
 ## Fiabilité des pages web
 
-## Faiblesse de la capture d'écran
+## Faiblesse de la capture d’écran
 
 ## Utilisation de web archive
 
