@@ -2,7 +2,7 @@
 title: Colophon (choix techniques)
 description: Des informations à propos ce site, les outils utilisés, les choix stratégiques et les résultats. Dans l’édition, on parle de colophon.
 date: 2026-10-19
-lastMod: 2026-10-25
+lastMod: 2026-11-01
 ---
 
 Ce site est simple et efficace.
@@ -30,6 +30,7 @@ Je teste régulièrement mon site pour m’assurer de toujours obtenir d’excel
 - HTML valide selon le [Markup Validation Service du W3C](https://validator.w3.org/)
 - CSS valide selon le [CSS Validation Service du W3C](https://jigsaw.w3.org/css-validator/)
 - RSS valide selon le [Feed Validation Service du W3C](https://validator.w3.org/feed/)
+- RSS conforme aux exigences du [RSS feed validator d'Inoreader](https://www.inoreader.com/rss-feed-validator)
 - score A dans [Security Headers](https://securityheaders.com/)
 
 J’essaie de respecter toutes les règles du [Référentiel Opquast](https://checklists.opquast.com/fr/qualite-numerique/) applicables.
