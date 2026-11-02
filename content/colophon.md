@@ -16,7 +16,7 @@ theologique.ch utilise les polices [Geist](https://fonts.google.com/specimen/Gei
 Il n’utilise pas les services de Google pour respecter votre vie privée.
 
 Les sources de theologique.ch sont suivies dans un [dépôt GitHub](https://github.com/nfriedli/theologique.ch).
-L'[historique du projet](https://github.com/nfriedli/theologique.ch/commits/main/) est visibles à toutes et tous.
+L’[historique du projet](https://github.com/nfriedli/theologique.ch/commits/main/) est visibles à toutes et tous.
 
 Le site et la messagerie sont hébergés en Suisse, chez [Infomaniak](https://www.infomaniak.com/fr), une entreprise écoresponsable.
 
@@ -30,7 +30,7 @@ Je teste régulièrement mon site pour m’assurer de toujours obtenir d’excel
 - HTML valide selon le [Markup Validation Service du W3C](https://validator.w3.org/)
 - CSS valide selon le [CSS Validation Service du W3C](https://jigsaw.w3.org/css-validator/)
 - RSS valide selon le [Feed Validation Service du W3C](https://validator.w3.org/feed/)
-- RSS conforme aux exigences du [RSS feed validator d'Inoreader](https://www.inoreader.com/rss-feed-validator)
+- RSS conforme aux exigences du [RSS feed validator d’Inoreader](https://www.inoreader.com/rss-feed-validator)
 - score A dans [Security Headers](https://securityheaders.com/)
 
 J’essaie de respecter toutes les règles du [Référentiel Opquast](https://checklists.opquast.com/fr/qualite-numerique/) applicables.
