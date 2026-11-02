@@ -1,5 +1,5 @@
 :root {
-    --sans-serif: "Geist", "Roboto", "Inter", ui-sans-serif, "Aptos", "GeistWeb", "Arial", system-ui, sans-serif;
+    --sans-serif: "Geist", "Roboto", "Inter", ui-sans-serif, "Aptos", "GeistWeb", system-ui, sans-serif;
     --monospace: "Geist Mono", "Jetbrains Mono", "Roboto Mono", ui-monospace, "Aptos Mono", "GeistMonoWeb", "Cascadia Mono", "Cascadia Code", "Consolas", monospace;
 }
 
