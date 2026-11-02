@@ -1,0 +1,24 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: theologique.ch
+message: >-
+  Proposition de citation:
+  Nicolas Friedli, blog https://theologique.ch, consulté le...
+type: dataset
+authors:
+  - given-names: Nicolas
+    family-names: Friedli
+    email: contact+cff@theologique.ch
+identifiers:
+  - type: url
+    value: "https://nicolasfriedli.ch"
+    description: Site personnel
+repository-code: "https://github.com/nfriedli/theologique.ch"
+url: "https://theologique.ch"
+abstract: >-
+  Informations utiles pour la citation du blog protestant
+  réformé theologique.ch proposé par Nicolas Friedli.
+license: CC-BY-SA-4.0
+date-released: "2026-11-02"
