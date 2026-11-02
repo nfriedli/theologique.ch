@@ -13,10 +13,23 @@ La journaliste avait déjà posé 2 fois des questions de statistiques et de no
 
 L’angle choisi est tellement bizarre que j’ai arrêté là.
 Peut-être que la suite est meilleure; je ne le saurai jamais.
-Une visite du site d'[Open Source Church](https://www.open-source.church/) est bien plus satisfaisante.
+Une visite du site d’[Open Source Church](https://www.open-source.church/) est bien plus satisfaisante.
+
+{{< details summary="Remarque sur l’émission complète que j’ai finalement écoutée" >}}
+Entre la rédaction de cet article et sa mise en ligne, j’ai vu qu’[Elio Jaillet](https://eliojaillet.ch/) avait partagé un lien commenté vers cette émission.
+Je l’ai donc écoutée malgré tout, parce que je connais la pertinence de ses analyses.
+
+Ses interventions sont de qualité, sur les enjeux du numérique, la diversité en Église et l’ecclésiologie.
+Pas besoin d’être au même endroit au même moment pour faire communauté; sans surprise, ça me parle.
+
+Je peux donc vous conseiller l’écoute de ce reportage malgré mes réserves initiales.
+
+Mes critiques sur l’obsession-aveuglement statistique des journalistes restent valables.
+{{</ details >}}
 
 Dans le monde ecclésial, à chaque fois que ça parle de web, de jeunes, de geeks, etc. la question statistique surgit.
-Une question que l’on entend jamais quand il s’agit de trucs «classiques», «normaux», «pour paroissien·ne·s», etc.
+Une question que l’on n’entend jamais quand il s’agit de trucs «classiques», «normaux», «pour paroissien·ne·s», etc.
+Jamais!
 
 Cela me rappelle une vieille histoire.
 
@@ -25,22 +38,22 @@ Cela me rappelle une vieille histoire.
 Au sortir de la crise du Covid-19, le pasteur X m’a interpellé.
 Je reconstruis notre dialogue de mémoire.
 
-> -- Nicolas, mettre nos prédications en ligne, ça vaut la peine?
+> --- Nicolas, mettre nos prédications en ligne, ça vaut la peine?
 >
-> -- Pour moi, ça vaut toujours la peine de publier du contenu théologique, de le mettre à disposition des internautes du monde entier.
+> --- Pour moi, ça vaut toujours la peine de publier du contenu théologique, de le mettre à disposition des internautes du monde entier.
 >
-> -- Mais est-ce que c’est lu?
+> --- Mais est-ce que c’est lu?
 >
-> -- Donc, «valoir la peine», c’est une question de nombre?
+> --- Donc, «valoir la peine», c’est une question de nombre?
 >
-> -- On aimerait bien savoir combien de personnes les lisent.
+> --- On aimerait bien savoir combien de personnes les lisent.
 >
-> -- Pourquoi, vous avez déjà décidé à partir de combien de personnes ça vaut la peine?
+> --- Pourquoi, vous avez déjà décidé à partir de combien de personnes ça vaut la peine?
 > 5, 10, 100, 1000?
 >
-> -- On regardera les statistiques et on décidera.
+> --- On regardera les statistiques et on décidera.
 >
-> -- Je te les donnerai, mais je m’étonne de voir qu’aucune autre activité de la paroisse n’est jugée en fonction de son succès numérique.
+> --- Je te les donnerai, mais je m’étonne de voir qu’aucune autre activité de la paroisse n’est jugée en fonction de son succès numérique.
 
 J’ai donné les statistiques.
 Les prédications ne sont plus en ligne.
@@ -82,7 +95,7 @@ Merci Diane!
 Ce que je ne m’explique pas, c’est que le succès de [Je cherche Dieu](https://jecherchedieu.ch/) de Marc Pernot ne fasse pas saliver les journalistes.
 Elles et ils aiment les succès numériques.
 Un site qui fait plus de 1 million de visites par an ne semble pas leur parler.
-C'est probablement insuffisant, pourtant ce site est une [megachurch](https://fr.wikipedia.org/wiki/Megachurch) du protestantisme réformé.
+C’est probablement insuffisant, pourtant ce site est une [megachurch](https://fr.wikipedia.org/wiki/Megachurch) du protestantisme réformé.
 
 Je ne sais pas si la personne de Marc Pernot dérange.
 Si le succès de son site chiffonne.
