@@ -120,6 +120,7 @@ Puis je rendrais ce dépôt public au moment de la diffusion ou de la publicatio
 
 À ma connaissance, les faux sites théologiques ne sont pas (encore) nombreux.
 Mais ce n’est qu’une question de temps.
+L’[industrialisation du plagiat](https://wpformation.com/plagiat-wordpress-ia/) existe, mais ce n’est pas le pire.
 Pour ~~vous faire peur~~ déprimer, je vous conseille cet excellent épisode de *Entre la chaise et le clavier*: [Le tsunami d’infos générées par IA](https://next.ink/podcast/ecc-11-le-tsunami-dinfos-generees-par-ia-avec-jean-marc-manach/).
 
 ## En conclusion
