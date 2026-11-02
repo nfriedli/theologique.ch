@@ -2,7 +2,7 @@
 title: Colophon (choix techniques)
 description: Des informations à propos ce site, les outils utilisés, les choix stratégiques et les résultats. Dans l’édition, on parle de colophon.
 date: 2026-10-19
-lastMod: 2026-11-01
+lastMod: 2026-11-02
 ---
 
 Ce site est simple et efficace.
@@ -15,8 +15,8 @@ Il a été compilé avec la version {{< version >}}.
 theologique.ch utilise les polices [Geist](https://fonts.google.com/specimen/Geist) et [`Geist Mono`](https://fonts.google.com/specimen/Geist+Mono).
 Il n’utilise pas les services de Google pour respecter votre vie privée.
 
-Les sources de theologique.ch sont suivies dans un dépôt GitHub.
-Elles ne sont pas ouvertes pour le moment.
+Les sources de theologique.ch sont suivies dans un [dépôt GitHub](https://github.com/nfriedli/theologique.ch).
+L'[historique du projet](https://github.com/nfriedli/theologique.ch/commits/main/) est visibles à toutes et tous.
 
 Le site et la messagerie sont hébergés en Suisse, chez [Infomaniak](https://www.infomaniak.com/fr), une entreprise écoresponsable.
 
