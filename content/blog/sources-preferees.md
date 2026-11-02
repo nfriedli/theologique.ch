@@ -2,6 +2,8 @@
 title: Sources préférées
 description: 
 date: 2026-10-29
+images:
+- https://cdn.pixabay.com/photo/2018/05/18/22/33/fountain-3412242_1280.jpg
 draft: true
 ---
 

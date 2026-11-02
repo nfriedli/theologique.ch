@@ -2,6 +2,8 @@
 title: Du «succès» sur le web (et ailleurs)
 description: Les journalistes se passionnent pour les succès dans le monde protestant. Avec un regard étonnamment sélectif ou une certaine paresse. À moins qu’il ne s’agisse de démontrer que rien ne fonctionne.
 date: 2026-11-03
+images: 
+- https://cdn.pixabay.com/photo/2018/06/21/16/30/newspapers-3488857_1280.jpg
 draft: true
 ---
 
