@@ -6,7 +6,7 @@ date: 2026-11-02
 
 Démontrer sa bonne foi en produisant un document n’a rien de nouveau.
 Le web a modifié la donne; c’est parfois plus simple de le faire et parfois beaucoup plus compliqué.
-Avec les intelligences artificielles génératives (LLM), ça se complique encore un peu.
+Avec les intelligences artificielles génératives (LLM), ça se complique encore un peu.
 
 Dans l’actualité récente, j’ai vu 3 sujets qui peuvent être mis en lien avec la bonne foi.
 J’ai conscience que les 2 premiers ont une portée bien plus grande.
@@ -108,12 +108,12 @@ Quand ces contenus seront utilisés pour faire d’autres sites complètement IA
 
 C’est aussi un outil remarquable pour préparer un dossier contre une personne qui publie n’importe quoi...
 
-## Utilisation publique de GitHub
+## Utilisation publique de Git
 
 J’ai rendu les sources de ce site publiques en réfigeant cette page.
-Comme le signale le [commit 037c7db](https://github.com/nfriedli/theologique.ch/commit/037c7db30ced44afd3a9940a7e8ff8f1ebe66488).
+Comme le signale le [commit 037c7db](https://github.com/nfriedli/theologique.ch/commit/037c7db30ced44afd3a9940a7e8ff8f1ebe66488) visible sur GitHub.
 Je n’ai rien à prouver, mais je trouve cette transparence bienvenue.
-Et j’ai plaisir à aller voir les dépôts GitHub d’autres blogs.
+Et j’ai plaisir à aller voir les dépôts Git d’autres blogs.
 
 Si je publiais de doctes articles théologiques, si je rédigeais un mémoire, un doctorat, etc., je les travaillerais dans un dépôt privé.
 Puis je rendrais ce dépôt public au moment de la diffusion ou de la publication.
