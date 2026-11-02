@@ -3,6 +3,7 @@ title: theologique.ch lance sa chaîne WhatsApp
 description: WhatsApp n’est pas la solution idéale. C’est une piste pour diffuser ses contenus. L’occasion d’effectuer des tests réels. Mais préférez toujours les flux RSS!
 date: 2026-10-29
 lastMod: 2026-11-02
+aliases: ["/chaine-whatsapp"]
 ---
 
 Comme mon idée est de publier [100 billets en 1 année](/blog/100daystooffload/) sur theologique.ch, un système qui annonce les nouvelles mises en ligne pourrait être une bonne idée.
@@ -93,7 +94,6 @@ Je vous laisse construire la solution de votre choix.
 Un système comme [Blogtrottr](https://blogtrottr.com/) peut vous envoyer gratuitement un mail à chaque nouvelle publication.
 
 Vous pouvez aussi essayer d’utiliser Google, soit avec une [alerte](https://www.google.ch/alerts), soit comme [source préférée](https://www.google.com/preferences/source?q=theologique.ch).
-À l’heure de la publication de ce billet, le site est trop neuf pour apparaître dans les sources.
 {{</ details >}}
 
 {{< details summary="Pourquoi éviter les réseaux sociaux?" name="abo" >}}
