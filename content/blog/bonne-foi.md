@@ -33,7 +33,7 @@ Il propose de suivre les versions différentes d’un texte suivi dans un systè
 
 J’ai lu que [l’éditeur de Thélyson Orélien a rompu le contrat](https://www.rts.ch/info/culture/livres/2026/article/thelyson-orelien-son-editeur-confirme-l-usage-d-ia-et-le-renvoie-29392768.html) après une analyse sur l’«ensemble des versions de travail du roman».
 Est-ce que ces versions de travail sont des fichiers Word envoyés tous les quelques mois?
-Ou un Git de suivi complète des révisions?
+Ou un Git de suivi complet des révisions?
 
 Les versions successives ne prouvent pas l’absence d’utilisation de grands modèles de langage (LLM).
 Mais des modifications précises et commentées dans Git démontrent un vrai travail sur le texte.
@@ -47,7 +47,7 @@ Si je prends l’exemple de ce site:
 - c’est mon nom de domaine
 - le site est servi de manière sécurisée `https`
 - je gère seul les contenus
-- il n’y a aucun injection de contenus externes (commentaires, plugins de réseaux sociaux, flux RSS, etc.)
+- il n’y a aucune injection de contenus externes (commentaires, plugins de réseaux sociaux, flux RSS, etc.)
 
 Ce qui est vraiment fiable, c’est que je suis responsable du contenu en ligne.
 Si je n’assume pas cette responsabilité, ce sera à moi de prouver que mon site a été piraté.
@@ -77,10 +77,10 @@ Le problème des captures d’écran, c’est qu’elles sont facilement falsifi
 - modifier une capture d’écran par retouche d’image
 - génération complète d’une fausse capture d’écran
 
-C’est ce qui est intéressant dans l’enquête de Médiapart sur Jordan Bardella.
+C’est ce qui est intéressant dans l’enquête de Mediapart sur Jordan Bardella.
 La preuve par la capture d’écran n’aurait pas tenu 5 minutes.
 
-Pour prouver sa bonne foi, Médiapart a expliqué sa démarche.
+Pour prouver sa bonne foi, Mediapart a expliqué sa démarche.
 Téléchargement de l’historique des échanges sur un site de Meta devant huissier.
 Puis recoupements pour démontrer la propriété du compte.
 
@@ -110,7 +110,7 @@ C’est aussi un outil remarquable pour préparer un dossier contre une personne
 
 ## Utilisation publique de Git
 
-J’ai rendu les sources de ce site publiques en réfigeant cette page.
+J’ai rendu les sources de ce site publiques en rédigeant cette page.
 Comme le signale le [commit 037c7db](https://github.com/nfriedli/theologique.ch/commit/037c7db30ced44afd3a9940a7e8ff8f1ebe66488) visible sur GitHub.
 Je n’ai rien à prouver, mais je trouve cette transparence bienvenue.
 Et j’ai plaisir à aller voir les dépôts Git d’autres blogs.
@@ -130,7 +130,7 @@ C’est la question fondamentale à laquelle ce billet n’essaie même pas de r
 D’autres esprits savants s’en empareront.
 
 Je pense simplement qu’avec le web en général et les IA génératives en particulier, la donne évolue.
-Il vaut la peine de réfléchir à ce que je veux pouvoir démontrer, à ce que je devrait prouver.
+Il vaut la peine de réfléchir à ce que je veux pouvoir démontrer, à ce que je devrai prouver.
 Ce que j’ai dit; ce qui m’a été volé.
 Ce que l’on m’accuse d’avoir écrit mais que je n’ai jamais écrit.
 
@@ -138,7 +138,6 @@ Mais jusqu’ici, tout va bien...
 
 ----
 
-Ce matin en faisant une pause dans la rédaction de ce billet, je tombre sur [Cyberharcèlement: comment agir et se protéger efficacement](https://www.rts.ch/info/societe/2026/article/cyberharcelement-comment-agir-et-se-proteger-en-suisse-29398903.html).
+Ce matin en faisant une pause dans la rédaction de ce billet, je tombe sur [Cyberharcèlement: comment agir et se protéger efficacement](https://www.rts.ch/info/societe/2026/article/cyberharcelement-comment-agir-et-se-proteger-en-suisse-29398903.html).
 Intéressant, c’est l’explication [Comment StopNCII.org fonctionne](https://stopncii.org/comment-ca-fonctionne/) au sujet du site conseillé par l’article.
-L’utilisation d’un [hash](https://fr.wikipedia.org/wiki/Fonction_de_hachage) est beacoup plus fiable et efficace que des captures d’écran, à oublier...
-
+L’utilisation d’un [hash](https://fr.wikipedia.org/wiki/Fonction_de_hachage) est beaucoup plus fiable et efficace que des captures d’écran, à oublier...
