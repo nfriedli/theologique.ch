@@ -7,7 +7,7 @@ images:
 draft: true
 ---
 
-https://www.google.com/preferences/source?q=theologique.ch
+<https://www.google.com/preferences/source?q=theologique.ch>
 
 {{< qr
     text="https://www.google.com/preferences/source?q=theologique.ch"
@@ -15,4 +15,3 @@ https://www.google.com/preferences/source?q=theologique.ch
     targetDir="/images/"
     alt="Ajouter theologique.ch aux sources préférées sur Google"
 />}}
-

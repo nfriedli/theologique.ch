@@ -1,0 +1,1 @@
+npx markdownlint-cli  content/**/*.md --disable MD013 -f

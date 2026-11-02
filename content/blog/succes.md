@@ -37,9 +37,9 @@ Je reconstruis notre dialogue de mémoire.
 >
 > -- Pourquoi, vous avez déjà décidé à partir de combien de personnes ça vaut la peine?
 > 5, 10, 100, 1000?
-> 
+>
 > -- On regardera les statistiques et on décidera.
-> 
+>
 > -- Je te les donnerai, mais je m’étonne de voir qu’aucune autre activité de la paroisse n’est jugée en fonction de son succès numérique.
 
 J’ai donné les statistiques.
