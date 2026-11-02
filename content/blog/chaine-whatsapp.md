@@ -2,6 +2,7 @@
 title: theologique.ch lance sa chaîne WhatsApp
 description: WhatsApp n’est pas la solution idéale. C’est une piste pour diffuser ses contenus. L’occasion d’effectuer des tests réels. Mais préférez toujours les flux RSS!
 date: 2026-10-29
+lastMod: 2026-11-02
 ---
 
 Comme mon idée est de publier [100 billets en 1 année](/blog/100daystooffload/) sur theologique.ch, un système qui annonce les nouvelles mises en ligne pourrait être une bonne idée.
@@ -15,7 +16,7 @@ Désabonnement en 1 clic.
 
 Elle est aussi accessible par code QR pour celles et ceux qui lisent sur grand écran et ont leur téléphone sous la main:
 
-{{< qr 
+{{< qr
     text="https://whatsapp.com/channel/0029Vb9TN1O90x2tXORiIC03"
     scale=8
     targetDir="/images/"
@@ -96,7 +97,7 @@ Vous pouvez aussi essayer d’utiliser Google, soit avec une [alerte](https://ww
 {{</ details >}}
 
 {{< details summary="Pourquoi éviter les réseaux sociaux?" name="abo" >}}
-Parce qu’ils sont merdifiés.
+Parce qu’ils sont [merdifiés](https://nicolasfriedli.ch/blog/merdification/).
 J’en parle dans [À propos des réseaux prétendument sociaux](https://nicolasfriedli.ch/blog/reseau-sociaux/).
 {{</ details >}}
 
