@@ -4,7 +4,6 @@ description: Les journalistes se passionnent pour les succès dans le monde prot
 date: 2026-11-03
 images: 
 - https://cdn.pixabay.com/photo/2018/06/21/16/30/newspapers-3488857_1280.jpg
-draft: true
 ---
 
 L’émission [Une église conçue par des geeks pour des geeks](https://www.rts.ch/audio-podcast/2026/audio/une-eglise-concue-par-des-geeks-pour-des-geeks-29389516.html) s’annonçait passionnante.
