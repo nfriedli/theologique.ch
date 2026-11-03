@@ -24,7 +24,7 @@ ErrorDocument 404 /404.html
 ErrorDocument 410 /404.html
 
 # Flux RSS
-RewriteRule ^feed/?$ index.xml [R=301,L]
+RewriteRule ^feed/?$ /index.xml [R=301,L]
 
 # https://securityheaders.com/
 Header always set Strict-Transport-Security "max-age=63072000; includeSubDomains" env=HTTPS
