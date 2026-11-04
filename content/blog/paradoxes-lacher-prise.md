@@ -1,6 +1,6 @@
 ---
 title: Paradoxes & lâcher-prise
-description: Plus envie de travailler dans le monde du web, plus envie de m'impliquer dans le monde protestant réformé. Et pourtant, publier un site web appelé theologique.ch me procure bien du plaisir.
+description: Plus envie de travailler dans le monde du web, plus envie de m’impliquer dans le monde protestant réformé. Et pourtant, publier un site web appelé theologique.ch me procure bien du plaisir.
 date: 2026-11-04
 images: 
 - https://cdn.pixabay.com/photo/2016/01/13/22/48/pottery-1139047_1280.jpg
@@ -45,7 +45,7 @@ En soi, ça ne semble pas bien grave.
 Mais ça me chiffonne.
 Et je ne m’accorde pas ce genre d’approximations.
 
-Le paradoxe, c’est que le web a été conçu dès ses débuts pour accepter l’erreur.
+Le paradoxe, c’est que le web a été conçu dès ses débuts pour accepter l’imperfection.
 Ses langages de base, HTML et CSS, tolèrent l’erreur.
 Quand ils tombent sur du code fautif, ils font de leur mieux pour afficher le site malgré tout.
 
@@ -60,16 +60,19 @@ J’y travaille.
 ## À propos du protestantisme
 
 Beaucoup de pasteur·e·s ne publient pas leur prédications en ligne.
-J’ai longtemps considéré que c’était par paresse ou dépit.
+J’ai longtemps considéré que c’était par paresse ou par dépit.
 Je me suis probablement trompé.
-Le refus de publier sa prédication en ligne, c’est la peur d’être lu·e ou ommenté·e par ses collègues.
+Le refus de publier sa prédication en ligne, c’est la peur d’être lu·e ou commenté·e par ses collègues.
+
+Le web protestant réformé romand, c’est quelques personnes qui se mouillent.
+Et une armée de planqué·e·s!
 
 Depuis longtemps, je n’essaie même plus de proposer de la vraie théologie sur theolgique.ch.
 Je ne sais pas ce qu’est la «vraie théologie».
 Mais je sais que c’est quelque chose de meilleur que ce que je suis capable de produire.
 
 Je lis les blogs d’[Elio Jaillet](https://eliojaillet.ch/) ou [Jérôme Grandet](https://jeromeg.ch/).
-Je lis d’autres [blogs incontournable](/blog/blogs-incontournables/)
+Je suis d’autres [blogs incontournable](/blog/blogs-incontournables/)
 Mon problème, c’est que je sais lire.
 C’est pourquoi j’ai encore moins envie de publier.
 Fausse modestie?
@@ -96,13 +99,13 @@ J’en suis usé.
 
 ## Lâcher-prise
 
-*Le* paradoxe de toute cette histoire, c’est que je publie sur le web, avec quelques considérations vaguement théologiques.
+*Le* paradoxe de toute cette histoire, c’est que je publie sur le web, avec quelques considérations théologiques.
 
 En écrivant [100 publications en 365 jours](/blog/100daystooffload/), je me suis donné une énième dernière chance.
 `#100DaysToOffload` est au fond un formidable exercice de lâcher-prise.
 
-Mettre en ligne de brouillons, des bafouilles, des réflexions en cours, des billets imparfaits, de la théologie du *Café du Commerce*. etc. c’est libératoire.
+Mettre en ligne des brouillons, des bafouilles, des réflexions en cours, des billets imparfaits, de la théologie du *Café du Commerce*. etc. c’est libératoire.
 
-Peu probable que ce défi change mon avenir par rapport au web et par rapport au monde ecclésial protestant réformé.
+Peu probable que ce défi change mes visions d’avenir par rapport au web et par rapport au monde ecclésial protestant réformé.
 Mais j’y prends un réel plaisir.
 Dans le monde contemporain, c’est déjà pas mal.
