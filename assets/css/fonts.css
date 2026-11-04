@@ -1,6 +1,8 @@
 :root {
-    --sans-serif: "Geist", "Roboto", "Inter", ui-sans-serif, "Aptos", "GeistWeb", system-ui, sans-serif;
-    --monospace: "Geist Mono", "Jetbrains Mono", "Roboto Mono", ui-monospace, "Aptos Mono", "GeistMonoWeb", "Cascadia Mono", "Cascadia Code", "Consolas", monospace;
+    --sans-serif: "Roboto", "Inter", ui-sans-serif, "Aptos", system-ui, sans-serif;
+    --monospace: "Jetbrains Mono", "Roboto Mono", ui-monospace, "Aptos Mono", "Cascadia Mono", "Cascadia Code", "Consolas", monospace;
+    /* --sans-serif: "Geist", "Roboto", "Inter", ui-sans-serif, "Aptos", "GeistWeb", system-ui, sans-serif; */
+    /* --monospace: "Geist Mono", "Jetbrains Mono", "Roboto Mono", ui-monospace, "Aptos Mono", "GeistMonoWeb", "Cascadia Mono", "Cascadia Code", "Consolas", monospace; */
 }
 
 body {
@@ -13,7 +15,7 @@ code, time {
     font-family: var(--monospace);
 }
 
-@font-face {
+/* @font-face {
   font-family: "GeistWeb";
   font-style: normal;
   font-weight: 100 900;
@@ -43,4 +45,4 @@ code, time {
   font-weight: 100 900;
   font-display: swap;
   src: url(/fonts/geist-mono-italic.woff2) format("woff2");
-}
+} */
