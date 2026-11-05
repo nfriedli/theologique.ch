@@ -11,9 +11,9 @@ Point final.
 
 ## Statistiques
 
-theologique.ch n'utilise pas de statistiques.
+theologique.ch n’utilise pas de statistiques.
 
-{{< details summary="Usage respectueux en p ériodes de tests">}}
+{{< details summary="Usage respectueux en périodes de tests">}}
 theologique.ch peut d’activer des statistiques à des fin de tests.
 Elles sont alors fournies par [Plausible](https://plausible.io/) et respectent votre vie privée:
 
