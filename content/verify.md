@@ -1,11 +1,10 @@
 ---
 title: Vérification d’identité
 description: Cette page permet d’identifier et vérifier des présences en ligne de Nicolas Friedli. Noms de domaine, adresses mail et pages sur des domaines externes.
-date: 2026-10-26
-draft: true
+date: 2026-11-05
 ---
 
-Cette page permet d’identifier et vérifier des présences en ligne de Nicolas Friedli. C’est une [slash page](/slashes) de type `/verify`. Les moyens de me contacter sont disponibles sur la *slash page* [/contact](/contact).
+Cette page permet d’identifier et vérifier des présences en ligne de Nicolas Friedli.
 
 ## Noms de domaine
 
