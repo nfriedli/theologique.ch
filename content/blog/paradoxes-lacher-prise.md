@@ -72,7 +72,7 @@ Je ne sais pas ce qu’est la «vraie théologie».
 Mais je sais que c’est quelque chose de meilleur que ce que je suis capable de produire.
 
 Je lis les blogs d’[Elio Jaillet](https://eliojaillet.ch/) ou [Jérôme Grandet](https://jeromeg.ch/).
-Je suis d’autres [blogs incontournable](/blog/blogs-incontournables/)
+Je suis d’autres [blogs incontournables](/blog/blogs-incontournables/)
 Mon problème, c’est que je sais lire.
 C’est pourquoi j’ai encore moins envie de publier.
 Fausse modestie?
