@@ -118,19 +118,19 @@ Ou de prétendre que rien n’a été trouvé.
 {{< /details >}}
 
 {{< details summary="Quelles sont les limites de la version web?" name="faq" >}}
-Il faut que je sois bien la seule personne à gérer ces contenus.
-Et que ce soit bien mon site.
+Il faut que je sois bien la seule personne à gérer le contenu de mon site.
+Et qu’il puisse être relié à moi sans équivoque.
 Je crois construire un bon réseau de confiance sur ce site lui-même et en lien avec mes autres présences sur internet.
 
-Pour un site collectif, géré par autrui, etc., ce n’est pas valable.
+Pour un site collectif, géré par autrui, etc., ce type de démarche n’est pas valable.
 {{< /details >}}
 
-{{< details summary="Comment sont gérées les version?" name="faq" >}}
+{{< details summary="Comment sont gérées les versions?" name="faq" >}}
 La version en ligne est toujours la version courante.
 Elle est daté de sa première mise en ligne.
 S’il y a une modification importante, elle est aussi affichée.
 
-C’est bien plus fiable qu’un papier signé, dont il est possible, volontairement ou non, de donner une ancienne version.
+C’est beaucoup plus fiable qu’un papier signé, dont il est possible, volontairement ou non, de donner une ancienne version.
 
 De plus, un [historique complet de la page](https://github.com/nfriedli/theologique.ch/commits/main/content/blog/directives-anticipees.md) est disponible sur GitHub.
 {{< /details >}}
@@ -152,3 +152,15 @@ Comme déjà dit, je porte ma carte de donneur d’organes.
 - Susciter la discussion technique entre web et papier.
 
 {{< /details >}}
+
+## Bonus
+
+Le porte-monnaie (ou le porte-cartes ou le portefeuille) sont les endroits de toute évidence «visités» en premier par les équipes médicales.
+Si j’y mettais une mention de mes directives anticipées, je le ferais par un QR code avec ma signature (et le lien visible `https://theologique.ch/death`):
+
+{{< qr
+    text="https://theologique.ch/death"
+    scale=8
+    targetDir="/images/"
+    alt="Directives anticipées de Nicolas Friedli"
+/>}}
