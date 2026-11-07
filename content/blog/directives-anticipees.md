@@ -102,3 +102,53 @@ Elle existe aussi pour vous inciter à en parler avec vos proches.
 Quand son contenu sera appliqué, je ne serai pas là pour vous aider.
 Je vous fais confiance.
 Merci!
+
+## Foire aux questions
+
+{{< details summary="Pourquoi ma version web est meilleure que le papier?" name="faq" >}}
+Cette page est disponible en tout temps, de n’importe où et par quiconque.
+Si j’ai un accident en montagne, pas besoin d’aller chercher un document dans le «tiroir des documents importants» à 200km de l’hôpital où se trouve la famille.
+{{< /details >}}
+
+{{< details summary="Pourquoi elle est plus fiable?" name="faq" >}}
+Il est plus difficile de modifier cette page que de faire disparaître des documents papiers.
+
+Si mes proches n’étaient pas d’accord avec mes positions, il serait facile de jeter la carte de donneur qui se trouve sur moi.
+Ou de prétendre que rien n’a été trouvé.
+{{< /details >}}
+
+{{< details summary="Quelles sont les limites de la version web?" name="faq" >}}
+Il faut que je sois bien la seule personne à gérer ces contenus.
+Et que ce soit bien mon site.
+Je crois construire un bon réseau de confiance sur ce site lui-même et en lien avec mes autres présences sur internet.
+
+Pour un site collectif, géré par autrui, etc., ce n’est pas valable.
+{{< /details >}}
+
+{{< details summary="Comment sont gérées les version?" name="faq" >}}
+La version en ligne est toujours la version courante.
+Elle est daté de sa première mise en ligne.
+S’il y a une modification importante, elle est aussi affichée.
+
+C’est bien plus fiable qu’un papier signé, dont il est possible, volontairement ou non, de donner une ancienne version.
+
+De plus, un [historique complet de la page](https://github.com/nfriedli/theologique.ch/commits/main/content/blog/directives-anticipees.md) est disponible sur GitHub.
+{{< /details >}}
+
+{{< details summary="Où se trouvent mes directives anticipées?" name="faq" >}}
+Sur cette page! 
+Je n’ai pas rempli le questionnaire à rallonge de la FMH.
+Il n’y a rien dans le «tiroir».
+Mais peut-être que je vais imprimer cette page, la signer et l’y placer.
+
+Comme déjà dit, je porte ma carte de donneur d’organes.
+{{< /details >}}
+
+{{< details summary="Quel sont les buts de cette page?" name="faq" >}}
+
+- Réfléchir à ces questions importantes, pour moi.
+- En parler avec ma famille et rendre les choses les plus simples et les moins culpabilisantes possibles.
+- Inciter d’autres personnes à effectuer la même démarche.
+- Susciter la discussion technique entre web et papier.
+
+{{< /details >}}
