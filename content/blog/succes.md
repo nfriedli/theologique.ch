@@ -73,7 +73,7 @@ La vidéo [Éloïse Deuker, pasteure nouvelle génération](https://regardsprote
 >
 > Ça représente combien de personnes? [...]
 >
-> Quand vous partagez l’Évangile à 3000 personnes [...]
+> Quand vous partagez l’Évangile à 3000 personnes [...]
 
 J’aime bien ce que fait [@eloise_pasteure](https://www.instagram.com/eloise_pasteure/).
 Et je suis content que ses publications trouvent un public.

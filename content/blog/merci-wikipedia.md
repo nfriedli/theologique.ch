@@ -66,7 +66,7 @@ On se retrouve donc avec un truc un peu magique, sans se rendre compte de tout c
 C’est un peu le propre de tout site web, j’en sais quelque chose comme webmaster.
 Quand il y a une coquille, c’est la fin du monde; quand tout fonctionne, tout le monde s’en fout.
 
-Je vous invite à écouter le podcast [25 ans de Wikipédia: une utopie en résistance](https://www.radiofrance.fr/franceculture/podcasts/la-fabrique-de-l-information/25-ans-de-wikipedia-une-utopie-en-resistance-6234130).
+Je vous invite à écouter le podcast [25 ans de Wikipédia: une utopie en résistance](https://www.radiofrance.fr/franceculture/podcasts/la-fabrique-de-l-information/25-ans-de-wikipedia-une-utopie-en-resistance-6234130).
 C’est vraiment bon.
 Et c’est nécessaire.
 

@@ -101,7 +101,7 @@ J’en suis usé.
 
 *Le* paradoxe de toute cette histoire, c’est que je publie sur le web, avec quelques considérations théologiques.
 
-En écrivant [100 publications en 365 jours](/blog/100daystooffload/), je me suis donné une énième dernière chance.
+En écrivant [100publications en 365 jours](/blog/100daystooffload/), je me suis donné une énième dernière chance.
 `#100DaysToOffload` est au fond un formidable exercice de lâcher-prise.
 
 Mettre en ligne des brouillons, des bafouilles, des réflexions en cours, des billets imparfaits, de la théologie du *Café du Commerce*. etc. c’est libératoire.
