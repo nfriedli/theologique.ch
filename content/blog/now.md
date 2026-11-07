@@ -2,7 +2,7 @@
 title: /now (en ce moment)
 description: La page /now est sensée présenter ce qui occupe la personne responsable du site en ce moment. Je n’en vois pas l’intérêt sur ce blog.
 date: 2026-10-26
-aliases: ["/now/"]
+aliases: ["/now"]
 draft: true
 ---
 

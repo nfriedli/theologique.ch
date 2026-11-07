@@ -2,7 +2,7 @@
 title: Les 5 blogs protestants réformés incontournables
 description: Mon blogroll qui présente quelques blogs qui ne vous décevront jamais. La sélection commentée est compacte, pour aller à l’essentiel
 date: 2026-10-26
-aliases: ["/blogroll/", "/blogs-incontournables"]
+aliases: ["/blogroll", "/blogs-incontournables"]
 ---
 
 À mes yeux, les 5 blogs présentés sur cette page sont incontournables dans le monde protestant réformé francophone.

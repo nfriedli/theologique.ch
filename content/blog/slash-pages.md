@@ -55,6 +55,7 @@ Selon le contexte, je pense très utiles les pages (pas encore toutes rédigées
 - [/blogroll](/blogroll) pour **recommander** d’autres sites et leur donner du crédit aux yeux des internautes et des moteurs de recherche.
 - [/colophon](/colophon) pour expliquer les **choix techniques** d’un site.
   Dans mon cas, je considère cela comme essentiel.
+- [/death](/death) avec mes directives anticipées (en cas d’incapacité) et de don d’organe (en cas de déces).
 - `/slashes` pour **lister** l’ensemble des pages de manière simple (c’est la page sur laquelle vous vous trouvez présentement).
 - [/privacy](/privacy) pour pratiquer la **transparence** dans l’utilisation des données.
 
