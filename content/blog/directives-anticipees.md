@@ -5,7 +5,6 @@ date: 2026-11-08
 images:
 - https://cdn.pixabay.com/photo/2020/07/07/10/38/anesthesia-device-5380074_1280.jpg
 aliases: ["/death"]
-draft: true
 ---
 
 En Suisse, il existe des directives anticipées (dispositions de fin de vie) et le consentement explicite au don d’organes.
@@ -136,7 +135,7 @@ De plus, un [historique complet de la page](https://github.com/nfriedli/theologi
 {{< /details >}}
 
 {{< details summary="Où se trouvent mes directives anticipées?" name="faq" >}}
-Sur cette page! 
+Sur cette page!
 Je n’ai pas rempli le questionnaire à rallonge de la FMH.
 Il n’y a rien dans le «tiroir».
 Mais peut-être que je vais imprimer cette page, la signer et l’y placer.
