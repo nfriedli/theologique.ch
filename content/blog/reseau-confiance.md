@@ -3,7 +3,7 @@ title: Construire des réseaux de confiance
 description: L’usurpation d’identité et les faux profils sont toujours plus simples à fabriquer. Il est temps d’y réfléchir sérieusement. Et de proposer des solutions concrètes, notamment pour les ecclésiastiques (pasteur·e·s, prêtres et diacres).
 date: 2026-11-09
 images:
-- https://cdn.pixabay.com/photo/2018/08/24/18/28/background-3628553_1280.jpg
+- https://cdn.pixabay.com/photo/2016/08/10/16/18/fishing-net-1583687_1280.jpg
 ---
 
 Diane et moi avons déjà reçu à nos adresses `gmail.com` des messages qui ne nous étaient pas destinés.
