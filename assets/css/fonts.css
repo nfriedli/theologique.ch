@@ -1,6 +1,6 @@
 :root {
-    --sans-serif:"Inter","Roboto",ui-sans-serif,"Aptos",system-ui,sans-serif;
-    --monospace:"Jetbrains Mono","Roboto Mono",ui-monospace,"Aptos Mono","Cascadia Mono","Cascadia Code","Consolas",monospace;
+    --sans-serif:"Geist","Inter","Roboto",ui-sans-serif,"Aptos",system-ui,sans-serif;
+    --monospace:"Geist Mono","Jetbrains Mono","Roboto Mono",ui-monospace,"Aptos Mono","Cascadia Mono","Cascadia Code","Consolas",monospace;
     /* --sans-serif:"Geist","Roboto","Inter",ui-sans-serif,"Aptos","GeistWeb",system-ui,sans-serif; */
     /* --monospace:"Geist Mono","Jetbrains Mono","Roboto Mono",ui-monospace,"Aptos Mono","GeistMonoWeb","Cascadia Mono","Cascadia Code","Consolas",monospace; */
 }
