@@ -5,8 +5,8 @@
     <link rel="preload" href="/fonts/geist-mono-italic.woff2" as="font" type="font/woff2" crossorigin>  
 -->
 
-{{ $fonts := resources.Get "css/fonts.css" }}
-<style>{{ $fonts.Content | safeCSS }}</style>
+{{ $all := resources.Get "css/all.css" }}
+<style>{{ $all.Content | safeCSS }}</style>
 
 {{ $screen := resources.Get "css/screen.css" }}
 <style media="screen">{{ $screen.Content | safeCSS }}</style>
@@ -15,8 +15,8 @@
 <style media="print">{{ $print.Content | safeCSS }}</style>
 
 <!-- 
-    {{ $fonts := resources.Get "css/fonts.css" | minify | fingerprint "md5" }}
-    <link rel="stylesheet" href="{{ $fonts.Permalink }}" integrity="{{ $fonts.Data.Integrity }}" crossorigin="anonymous">
+    {{ $all := resources.Get "css/fonts.css" | minify | fingerprint "md5" }}
+    <link rel="stylesheet" href="{{ $all.Permalink }}" integrity="{{ $all.Data.Integrity }}" crossorigin="anonymous">
 
     {{ $screen := resources.Get "css/screen.css" | minify | fingerprint "md5" }}
     <link rel="stylesheet" href="{{ $screen.Permalink }}" media="screen" integrity="{{ $screen.Data.Integrity }}" crossorigin="anonymous">
