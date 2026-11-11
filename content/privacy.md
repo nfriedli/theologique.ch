@@ -11,15 +11,11 @@ Point final.
 
 ## Statistiques
 
-theologique.ch n’utilise pas de statistiques.
-
-{{< details summary="Usage respectueux en périodes de tests">}}
-theologique.ch peut d’activer des statistiques à des fin de tests.
-Elles sont alors fournies par [Plausible](https://plausible.io/) et respectent votre vie privée:
+theologique.ch utilise des statistiques fournies par [Plausible](https://plausible.io/)
+Elles respectent votre vie privée:
 
 - [Privacy policy](https://plausible.io/privacy)
 - [Data policy](https://plausible.io/data-policy)
-{{</ details>}}
 
 ## Cookies
 
@@ -35,7 +31,7 @@ Toutes les mises en garde sont sur la page de présentation.
 
 ## Services tiers
 
-theologique.ch n’utilise pas de services tiers:
+theologique.ch n’utilise pas de services tiers (à l’exception des statistiques):
 
 - lecteurs vidéo
 - lecteurs de podcasts

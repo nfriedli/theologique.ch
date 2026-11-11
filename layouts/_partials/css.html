@@ -1,8 +1,8 @@
-<!--
-<link rel="preload" href="/fonts/geist.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="preload" href="/fonts/geist-mono.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="preload" href="/fonts/geist-italic.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="preload" href="/fonts/geist-mono-italic.woff2" as="font" type="font/woff2" crossorigin> 
+<!-- 
+    <link rel="preload" href="/fonts/geist.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/fonts/geist-mono.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/fonts/geist-italic.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/fonts/geist-mono-italic.woff2" as="font" type="font/woff2" crossorigin>  
 -->
 
 {{ $fonts := resources.Get "css/fonts.css" }}
@@ -13,3 +13,14 @@
 
 {{ $print := resources.Get "css/print.css" }}
 <style media="print">{{ $print.Content | safeCSS }}</style>
+
+<!-- 
+    {{ $fonts := resources.Get "css/fonts.css" | minify | fingerprint "md5" }}
+    <link rel="stylesheet" href="{{ $fonts.Permalink }}" integrity="{{ $fonts.Data.Integrity }}" crossorigin="anonymous">
+
+    {{ $screen := resources.Get "css/screen.css" | minify | fingerprint "md5" }}
+    <link rel="stylesheet" href="{{ $screen.Permalink }}" media="screen" integrity="{{ $screen.Data.Integrity }}" crossorigin="anonymous">
+
+    {{ $print := resources.Get "css/print.css" | minify | fingerprint "md5" }}
+    <link rel="stylesheet" href="{{ $print.Permalink }}" media="print" integrity="{{ $print.Data.Integrity }}" crossorigin="anonymous"> 
+-->

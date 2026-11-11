@@ -26,17 +26,16 @@
 <meta name="apple-mobile-web-app-title" content="theologique">
 <link rel="manifest" href="{{ relURL "site.webmanifest" }}">
 
-
-<!-- 
-    <script async src="https://plausible.io/js/pa-On9era8NPYAugUhQaJ84Z.js"></script>
-    <script>
+<!-- Privacy-friendly analytics by Plausible -->
+<script async src="https://plausible.io/js/pa-cwaA7W8yQF0UhpiqBW_zr.js"></script>
+<script>
     window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
     plausible.init()
-    </script>
-    {{ if eq .Kind "404" }}
-        <script>document.addEventListener("DOMContentLoaded", function () { plausible("404"); });</script>
-    {{ end }} 
- -->
+</script>
+{{ if eq .Kind "404" }}
+    <script>document.addEventListener("DOMContentLoaded", function () { plausible("404"); });</script>
+{{ end }} 
+
 
 {{ if .IsHome }}
     {{ partial "home" . }}
