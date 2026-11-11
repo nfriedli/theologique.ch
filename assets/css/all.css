@@ -1,6 +1,7 @@
 body {
   font-family: "Roboto", ui-sans-serif, "Geist", "Inter", "Aptos", system-ui, sans-serif;
   font-synthesis: none;
+  font-variant-ligatures: none;
   text-rendering: optimizeLegibility;
 }
 
