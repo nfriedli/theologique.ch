@@ -4,7 +4,7 @@ description: Mes principes d’utilisation de l’IA sur theologique.ch. Ce que 
 date: 2026-11-12
 images:
 - https://cdn.pixabay.com/photo/2016/03/04/19/36/gears-1236578_1280.jpg
-aliases: ["/ia"]
+aliases: ["/ia", "/ai"]
 ---
 
 **Ce site n’est pas généré par IA (intelligence artificielle).**

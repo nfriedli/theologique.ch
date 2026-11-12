@@ -51,7 +51,7 @@ Si vous vous attendez à recevoir des questions pastorales ou si vous envoyez vo
 Selon le contexte, je pense très utiles les pages (pas encore toutes rédigées sur ce site):
 
 - `/licence` pour donner des **conditions de réutilisation** des contenus (et les expliquer).
-- `/ai` pour expliquer quelle est la **politique d’utilisation des IA** pour la production du site.
+- [/ai](/ai) pour expliquer quelle est la **politique d’utilisation des IA** pour la production du site.
 - [/blogroll](/blogroll) pour **recommander** d’autres sites et leur donner du crédit aux yeux des internautes et des moteurs de recherche.
 - [/colophon](/colophon) pour expliquer les **choix techniques** d’un site.
   Dans mon cas, je considère cela comme essentiel.
