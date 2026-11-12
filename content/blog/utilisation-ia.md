@@ -25,7 +25,7 @@ En version un peu plus développée, **je n’utilise pas d’IA** pour:
 
 Mais **il m’arrive d’utiliser des IA** pour:
 
-- faire résumer un billet pour voir ce qu’il en sort
+- faire résumer un billet pour voir ce qu’il en sort (quand l'IA résume mal, c'est souvent que l'idée n'est pas claire...)
 - demander de lister des incohérences formelles ou des coquilles
 
 J’ai aussi envie et besoin de voir ce que les IA sont capables de faire, de les tester, de voir leurs limites.
@@ -42,7 +42,7 @@ La rédaction d’un prompt de qualité demande des compétences et de l’expé
 
 Une personne qui connaît un domaine pourra en tirer le meilleur.
 Une personne qui n’y connaît rien sera piégée par la première hallucination venue.
-En résumé, les IA amplifient les compétences, sans les remplacer.
+**En résumé, les IA amplifient les compétences, sans les remplacer.**
 
 ## Tests concrets & enjeux
 
