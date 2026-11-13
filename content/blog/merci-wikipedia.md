@@ -56,7 +56,7 @@ Et un bien commun.
 ## Comprendre Wikipédia
 
 Le gros souci avec ce site qui est l’un des plus utilisés au monde, c’est qu’il est mal compris.
-Les débats sont mal compris, ma manière de créer les contenus est peu lisible.
+Les débats sont mal compris, la manière de créer les contenus est peu lisible.
 
 Wikipédia existe, tout le monde ou presque l’utilise, les enseignant·e·s y renvoient.
 Mais peu l’expliquent ou peu cherchent à comprendre.

@@ -9,7 +9,7 @@ draft: true
 La page `/now` est une [slash page](/slashes) qui présente ce sur quoi la personne responsable du site est focalisée actuellement.
 L’idée paraît intéressante; elle est développée sur le site [nownownow.com](https://nownownow.com/about). Avec ce joli résumé:
 
-> Une page `/now` partage que que vous diriez à un·e ami·e que vous n’avez pas vu depuis un an.
+> Une page `/now` partage ce que vous diriez à un·e ami·e que vous n’avez pas vu depuis un an.
 
 Mais je ne ferai pas de page `/now` sur ce blog.
 J’estime que l’actualité, sur un site personnel, doit être visible dans le flux des publications.

@@ -40,7 +40,7 @@ Il existe d’autres solutions pour suivre un site et pour communiquer.
 {{</ details >}}
 
 {{< details summary="Quel respect pour ma vie privée?" name="whatsapp" >}}
-Les respect de votre vie privée est celui de WhatsApp et de sa maison-mère Meta.
+Le respect de votre vie privée est celui de WhatsApp et de sa maison-mère Meta.
 Si vous avez accepté les conditions générales, vous savez que ce n’est pas beau à voir.
 Mais ce n’est pas le problème de theologique.ch.
 {{</ details >}}

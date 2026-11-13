@@ -30,7 +30,7 @@ Pour les internautes susceptibles de vous contacter comme pour les moteurs de re
   Et surtout pour préciser de manière univoque qui est responsable du site, avec une adresse physique, un mail, etc.
   C’est un critère majeur pour [Google E-E-A-T](https://developers.google.com/search/docs/fundamentals/creating-helpful-content?hl=fr), pour votre visibilité dans les moteurs de recherche.
 - [/about](/about) pour donner des **informations sur la personne ou le projet**.
-  Ce qui ce site est et ce qu’il n’est pas.
+  Ce que ce site est et ce qu’il n’est pas.
   Ce qu’a fait la personne.
   C’est aussi important du point de vue E-E-A-T.
 
@@ -55,7 +55,7 @@ Selon le contexte, je pense très utiles les pages (pas encore toutes rédigées
 - [/blogroll](/blogroll) pour **recommander** d’autres sites et leur donner du crédit aux yeux des internautes et des moteurs de recherche.
 - [/colophon](/colophon) pour expliquer les **choix techniques** d’un site.
   Dans mon cas, je considère cela comme essentiel.
-- [/death](/death) avec mes directives anticipées (en cas d’incapacité) et de don d’organe (en cas de déces).
+- [/death](/death) avec mes directives anticipées (en cas d’incapacité) et de don d’organe (en cas de décès).
 - `/slashes` pour **lister** l’ensemble des pages de manière simple (c’est la page sur laquelle vous vous trouvez présentement).
 - [/privacy](/privacy) pour pratiquer la **transparence** dans l’utilisation des données.
 

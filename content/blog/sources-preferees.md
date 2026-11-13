@@ -38,7 +38,7 @@ Assez logique vu que theologique.ch n’est pas un média.
 
 Je trouve Discover obscur et problématique, même si c’est une [source majeure de visites](https://next.ink/search-results/?search=discover).
 Mon reproche, c’est qu’il favorise trop souvent les [putaclics](https://fr.wikipedia.org/wiki/Pi%C3%A8ge_%C3%A0_clics).
-Et surtout qu’il est *instable*; le bouton *Suivre* apparaît et disparaît sans explications, des pages Discover sont activés et désactivées aléatoirement, etc.
+Et surtout qu’il est *instable*; le bouton *Suivre* apparaît et disparaît sans explications, des pages Discover sont activées et désactivées aléatoirement, etc.
 
 ## Si vous travaillez avec WordPress
 
@@ -46,14 +46,14 @@ Et surtout qu’il est *instable*; le bouton *Suivre* apparaît et disparaît sa
 Elle s’appelle [Preferable](https://fr.wordpress.org/plugins/preferable/).
 C’est la solution que je recommande si un simple lien ne vous convient pas.
 
-Le lien en question lien a la forme suivante:
+Le lien en question a la forme suivante:
 
 ```
 https://www.google.com/preferences/source?q=theologique.ch
 ```
 
-Fabrice Ducarme, l’auteur de l’extentions, explique ses choix techniques de manière claire.
-Notamment pourquoi ne pas utiliser le script par défaut de Google qui, sans suprise, traque les internautes et utilise trop de bande passante.
+Fabrice Ducarme, l’auteur de l’extension, explique ses choix techniques de manière claire.
+Notamment pourquoi ne pas utiliser le script par défaut de Google qui, sans surprise, traque les internautes et utilise trop de bande passante.
 
 Le plugin *Preferable* est utilisé en production chez Diane Friedli, par exemple en bas de la page [Des repères pour une vie libre et responsable](https://dianefriedli.ch/reperes-vie-libre-responsable/).
 

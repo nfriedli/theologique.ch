@@ -15,7 +15,7 @@ Dans plusieurs mandats, j’essaie de travailler sur la confiance avec mes parte
 J’ai donné des pistes concrètes dans [Conseils d’utilisation des QR codes](https://nicolasfriedli.ch/blog/qr-code/), par exemple.
 
 Dans le domaine religieux, cette confiance me semble très importante.
-Que se passe-t-il quand des personnes envoient des «confessions» des pasteur·e·s qui n’en sont pas?
+Que se passe-t-il quand des personnes envoient des «confessions» à des pasteur·e·s qui n’en sont pas?
 Et comment faire pour créer un dispositif fiable sans moyens techniques complexes?
 
 Pour la suite, je prends l’exemple du pasteur X Y qui travaille pour Z.
@@ -155,4 +155,4 @@ Et cette balise permet de vérifier mon lien vers ce site sur Mastodon:
 <meta name="fediverse:creator" content="@frdlch@mastodon.social">
 ```
 
-Dans WordPress, il est possible de faire pas mal de liens cachés directement dans l’interface, en renseignant les champs de son profil personne et de son site.
+Dans WordPress, il est possible de faire pas mal de liens cachés directement dans l’interface, en renseignant les champs de son profil personnel et de son site.

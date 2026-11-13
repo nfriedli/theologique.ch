@@ -1,6 +1,6 @@
 ---
 title: Colophon (choix techniques)
-description: Des informations à propos ce site, les outils utilisés, les choix stratégiques et les résultats. Dans l’édition, on parle de colophon.
+description: Des informations à propos de ce site, les outils utilisés, les choix stratégiques et les résultats. Dans l’édition, on parle de colophon.
 date: 2026-10-19
 lastMod: 2026-11-05
 ---
@@ -13,7 +13,7 @@ theologique.ch est créé avec l’excellent [Hugo](https://gohugo.io/), un gén
 Il a été compilé avec la version {{< version >}}.
 
 Les sources de theologique.ch sont suivies dans un [dépôt GitHub](https://github.com/nfriedli/theologique.ch).
-L’[historique du projet](https://github.com/nfriedli/theologique.ch/commits/main/) est visibles à toutes et tous.
+L’[historique du projet](https://github.com/nfriedli/theologique.ch/commits/main/) est visible à toutes et tous.
 
 Le site et la messagerie sont hébergés en Suisse, chez [Infomaniak](https://www.infomaniak.com/fr), une entreprise écoresponsable.
 

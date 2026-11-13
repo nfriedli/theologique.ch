@@ -1,6 +1,6 @@
 ---
 title: Directives anticipées (& suites) 
-description: La manière de donner ses consignes médicales de fin de vie et concernant le don d’organes reste archaïque. Cette page web n’a pas de validité juridique, mais sont contenu est valide pour mes proches.
+description: La manière de donner ses consignes médicales de fin de vie et concernant le don d’organes reste archaïque. Cette page web n’a pas de validité juridique, mais son contenu est valide pour mes proches.
 date: 2026-11-08
 images:
 - https://cdn.pixabay.com/photo/2020/07/07/10/38/anesthesia-device-5380074_1280.jpg
@@ -126,7 +126,7 @@ Pour un site collectif, géré par autrui, etc., ce type de démarche n’est pa
 
 {{< details summary="Comment sont gérées les versions?" name="faq" >}}
 La version en ligne est toujours la version courante.
-Elle est daté de sa première mise en ligne.
+Elle est datée de sa première mise en ligne.
 S’il y a une modification importante, elle est aussi affichée.
 
 C’est beaucoup plus fiable qu’un papier signé, dont il est possible, volontairement ou non, de donner une ancienne version.
@@ -143,7 +143,7 @@ Mais peut-être que je vais imprimer cette page, la signer et l’y placer.
 Comme déjà dit, je porte ma carte de donneur d’organes.
 {{< /details >}}
 
-{{< details summary="Quel sont les buts de cette page?" name="faq" >}}
+{{< details summary="Quels sont les buts de cette page?" name="faq" >}}
 
 - Réfléchir à ces questions importantes, pour moi.
 - En parler avec ma famille et rendre les choses les plus simples et les moins culpabilisantes possibles.

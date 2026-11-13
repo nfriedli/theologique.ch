@@ -9,7 +9,7 @@ images:
 Au moment d’écrire ce billet, je ne sais ni si j’ai envie de continuer dans le domaine du web, ni si je souhaite m’impliquer encore dans le monde des Églises protestantes.
 
 Peut-être que je pourrais devenir potier, secrétaire, chômeur ou homme au foyer.
-Ou plein d’autres choses que je ne soupçonne pas ou que je ne me donne pas la possiblité d’imaginer.
+Ou plein d’autres choses que je ne soupçonne pas ou que je ne me donne pas la possibilité d’imaginer.
 
 Voici où j’en suis.
 
@@ -59,7 +59,7 @@ J’y travaille.
 
 ## À propos du protestantisme
 
-Beaucoup de pasteur·e·s ne publient pas leur prédications en ligne.
+Beaucoup de pasteur·e·s ne publient pas leurs prédications en ligne.
 J’ai longtemps considéré que c’était par paresse ou par dépit.
 Je me suis probablement trompé.
 Le refus de publier sa prédication en ligne, c’est la peur d’être lu·e ou commenté·e par ses collègues.
@@ -67,7 +67,7 @@ Le refus de publier sa prédication en ligne, c’est la peur d’être lu·e ou
 Le web protestant réformé romand, c’est quelques personnes qui se mouillent.
 Et une armée de planqué·e·s!
 
-Depuis longtemps, je n’essaie même plus de proposer de la vraie théologie sur theolgique.ch.
+Depuis longtemps, je n’essaie même plus de proposer de la vraie théologie sur theologique.ch.
 Je ne sais pas ce qu’est la «vraie théologie».
 Mais je sais que c’est quelque chose de meilleur que ce que je suis capable de produire.
 

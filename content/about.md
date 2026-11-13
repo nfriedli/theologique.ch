@@ -47,7 +47,7 @@ Pour l’EREN (Église réformée évangélique du canton de Neuchâtel), j’ai
 Dans le cadre de mon emploi à 40% de coresponsable de la communication de cette institution, je gère les aspects techniques et la rédaction des pages cantonales.
 Je forme les rédacteurs et rédactrices en paroisse et assure un accompagnement continu.
 
-J’ai donné un grand nombre de formations aux réseaux sociaux à une époque où la documentation en ligne était encore très lacunaire et où les formations étaients ~~rares~~ inexistantes.
+J’ai donné un grand nombre de formations aux réseaux sociaux à une époque où la documentation en ligne était encore très lacunaire et où les formations étaient ~~rares~~ inexistantes.
 J’ai proposé ces formations et ateliers à:
 
 - l’EERV (Église réformée évangélique du canton de Vaud)
@@ -69,7 +69,7 @@ Il a été réalisé avec Hugo et présente quelques raffinements techniques int
 Depuis plusieurs années, son succès ne se dément pas.
 
 Je suis webmaster du calendrier œcuménique l’[Avent Autrement](https://www.avent-autrement.ch/) depuis ses débuts en ligne.
-Durant le mois de décembre, j’envoie chaque jour une newsletter à 2000+ abonnné·e.s.
+Durant le mois de décembre, j’envoie chaque jour une newsletter à 2000+ abonné·e.s.
 
 J’essaie d’actualiser au mieux les lieux protestants sur Google Maps.
 J’y publie régulièrement des photos, corrige des horaires et autres informations, etc.
