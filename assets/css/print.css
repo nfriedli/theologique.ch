@@ -1,8 +1,10 @@
 @page {
-    margin: 2cm
+    margin: 2cm;
 }
 
 body {
+    background: #FFF;
+    color: #000;
     line-height: 1.5;
 }
 
@@ -17,5 +19,15 @@ h3,
 h4 {
     line-height: 1.2;
     page-break-after: avoid;
+    break-after: avoid;
     text-wrap: balance;
+}
+
+pre,
+blockquote,
+table,
+figure,
+img {
+    page-break-inside: avoid;
+    break-inside: avoid;
 }

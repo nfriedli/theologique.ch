@@ -205,7 +205,8 @@ input {
 }
 
 input::placeholder {
-    color: var(--txt)
+    color: var(--txt);
+    opacity: 0.7;
 }
 
 details {
