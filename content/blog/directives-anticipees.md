@@ -17,7 +17,7 @@ Elle est une *slash page* accessible par `/death`.
 ## Validité de cette page
 
 **Cette page ne vaut rien au sens juridique du terme.**
-Il faut des documents imprimés et signés; tout le reste est sans valeur...
+Il faut des documents imprimés et signés; tout le reste est sans valeur…
 Bienvenue en 2026!
 
 Donc, faites les choses dans les règles si ce sujet vous intéresse:
@@ -59,7 +59,7 @@ Tout est dit.
 ## Don d’organes
 
 J’ai depuis longtemps une carte de donneur d’organes dans mon porte-monnaie.
-C’est archaïque; ce serait tellement dommage de gagner du temps pour sauver une vie...
+C’est archaïque; ce serait tellement dommage de gagner du temps pour sauver une vie…
 
 En attendant le [consentement présumé](https://www.bag.admin.ch/fr/don-dorganes-principe-du-consentement-explicite-ou-presume), ma position est simple, c’est un **consentement explicite**:
 

@@ -61,7 +61,7 @@ C’est en ligne ainsi depuis longtemps.
 Et vous pouvez le vérifier.
 
 Le problème des pages web, c’est que c’est fiable à l’instant.
-Mais qui sait ce qui s’y trouvait hier... et ce qui s’y trouvera demain.
+Mais qui sait ce qui s’y trouvait hier… et ce qui s’y trouvera demain.
 
 Ce qui est clair, c’est qu’un moyen de capturer l’instant est intéressant.
 Vous pouvez l’utiliser pour m’accabler, je peux l’utiliser pour me défendre.
@@ -106,7 +106,7 @@ Mais aussi en capturant vos propres contenus régulièrement.
 Je conseille à celles et ceux qui publient des prédications et autres contenus théologiques en ligne d’en faire une capture immédiate.
 Quand ces contenus seront utilisés pour faire d’autres sites complètement IA, ce sera un bon élément d’antécédence.
 
-C’est aussi un outil remarquable pour préparer un dossier contre une personne qui publie n’importe quoi...
+C’est aussi un outil remarquable pour préparer un dossier contre une personne qui publie n’importe quoi…
 
 ## Utilisation publique de Git
 
@@ -134,10 +134,10 @@ Il vaut la peine de réfléchir à ce que je veux pouvoir démontrer, à ce que 
 Ce que j’ai dit; ce qui m’a été volé.
 Ce que l’on m’accuse d’avoir écrit mais que je n’ai jamais écrit.
 
-Mais jusqu’ici, tout va bien...
+Mais jusqu’ici, tout va bien…
 
 ----
 
 Ce matin en faisant une pause dans la rédaction de ce billet, je tombe sur [Cyberharcèlement: comment agir et se protéger efficacement](https://www.rts.ch/info/societe/2026/article/cyberharcelement-comment-agir-et-se-proteger-en-suisse-29398903.html).
 Intéressant, c’est l’explication [Comment StopNCII.org fonctionne](https://stopncii.org/comment-ca-fonctionne/) au sujet du site conseillé par l’article.
-L’utilisation d’un [hash](https://fr.wikipedia.org/wiki/Fonction_de_hachage) est beaucoup plus fiable et efficace que des captures d’écran, à oublier...
+L’utilisation d’un [hash](https://fr.wikipedia.org/wiki/Fonction_de_hachage) est beaucoup plus fiable et efficace que des captures d’écran, à oublier…

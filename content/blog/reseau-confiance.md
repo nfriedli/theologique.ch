@@ -93,7 +93,7 @@ Puis je publie.
 Au fond, si mes productions sont intéressantes, pourquoi pas.
 Mais si on s’adresse à moi en tant que pasteure, c’est un vrai problème.
 Pour des raisons légales, parce que je ne suis pas soumise au secret.
-Et parce que les infos confidentielles que je donne... finiront quelque part.
+Et parce que les infos confidentielles que je donne… finiront quelque part.
 
 **C’est une imposture très simple, possible avec tous les réseaux.
 Hélas!**

@@ -63,7 +63,7 @@ Ses réflexions politiques sont d’une belle profondeur, toujours stimulantes.
 
 ## Et les autres?
 
-Euh... quels autres?
+Euh… quels autres?
 Avec les blogs proposés, je ne suis jamais déçu.
 Je lis (ou survole) toutes leurs publications.
 

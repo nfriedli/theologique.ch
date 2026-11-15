@@ -9,7 +9,7 @@
             {{ end }}
         </time>
     </header>
-    {{ partial "toc" . }}
+    {{ if .Params.toc }}{{ partial "toc" . }}{{ end }}
     <div class="e-content">
         {{ .Content }}
     </div>

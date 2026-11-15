@@ -55,7 +55,7 @@ Chez mes enfants, c’est épidermique.
 Listes de prix, affiches ecclésiales ou publicités de la poste sur YouTube, ils s’en détournent instantanément.
 
 Le problème, c’est que bien des organisations se mettent le doigt bien profond dans l’œil.
-Elles proposent une image, parce que ça parle aux jeunes...
+Elles proposent une image, parce que ça parle aux jeunes…
 Mais quelle image?
 Son contenu n’a donc aucune importance?
 

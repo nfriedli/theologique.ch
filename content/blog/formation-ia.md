@@ -1,5 +1,5 @@
 ---
-title: Formation à l’IA... ou pas
+title: Formation à l’IA… ou pas
 description: Les demandes de formation aux intelligences artificielles sont récurrentes dans les Églises. Pourtant, tout le matériel nécessaire pour se former existe en ligne. Il est temps de changer de posture.
 date: 2026-11-11
 images: 

@@ -87,7 +87,7 @@ Mais là aussi, ça m’interroge.
 Je ne sais pas comment faire évoluer les lignes dans un monde qui a fait de la préservation son idéal.
 Des institutions et des personnes qui vouent un culte au [*statu quo*](https://thom4.net/2021/01/05/statu-quo/) (décrit par Thomas Parisot, je souligne):
 
-> [...] j’ai réalisé que le statu quo n’était pas une forme passive. Ce n’est pas «quelque chose qui ne bouge pas», «quelque chose qui ne change pas»... mais un «ensemble d’**efforts** pour que quelque chose soit maintenu tel quel».
+> […] j’ai réalisé que le statu quo n’était pas une forme passive. Ce n’est pas «quelque chose qui ne bouge pas», «quelque chose qui ne change pas»… mais un «ensemble d’**efforts** pour que quelque chose soit maintenu tel quel».
 >
 > Le statu quo est alors un **choix constamment renouvelé** --- un mouvement permanent --- pour maintenir une chose dans son état actuel.
 

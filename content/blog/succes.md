@@ -69,18 +69,18 @@ De là à en conclure que les paroisses aiment les statistiques (pour justifier 
 
 La vidéo [Éloïse Deuker, pasteure nouvelle génération](https://regardsprotestants.com/video/religion-spiritualite/eloise-deuker-pasteure-nouvelle-generation/) par David Gonzalez est intéressante:
 
-> On est venus parce qu’on vous a vue sur Instagram. [...]
+> On est venus parce qu’on vous a vue sur Instagram. […]
 >
-> Ça représente combien de personnes? [...]
+> Ça représente combien de personnes? […]
 >
-> Quand vous partagez l’Évangile à 3000 personnes [...]
+> Quand vous partagez l’Évangile à 3000 personnes […]
 
 J’aime bien ce que fait [@eloise_pasteure](https://www.instagram.com/eloise_pasteure/).
 Et je suis content que ses publications trouvent un public.
 Je vous les recommande.  
 Merci Éloïse!
 
-Ce qui m’intrigue ici, c’est le réflexe pavlovien des journalistes... dans certains contextes seulement.
+Ce qui m’intrigue ici, c’est le réflexe pavlovien des journalistes… dans certains contextes seulement.
 
 Cette année, les [contes de Noël](https://dianefriedli.ch/category/contes/) de Diane Friedli seront vus par plus de 10’000 internautes.
 Comme chaque année.
