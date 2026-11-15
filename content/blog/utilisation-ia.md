@@ -7,7 +7,7 @@ images:
 aliases: ["/ia", "/ai"]
 ---
 
-**Ce site n’est pas généré par IA (intelligence artificielle).**
+**Ce site n’est pas généré par IA (intelligence artificielle).**  
 C’est mon seul engagement.
 
 ## Mes règles d’utilisation de l’IA
@@ -70,7 +70,7 @@ Voilà de vraies questions, simples et concrètes.
 
 Quand un·e pasteur·e publie un patrimoine de 200 prédications, les IA peuvent être utiles pour:
 
-- produire des versions en langage simple (FALC)
+- produire des [textes en facile à lire et à comprendre](https://insieme.ch/fr/falc/) (FALC)
 - proposer des résumés à publier en haut de page
 - classer les contenus par thématiques, versets bibliques, personnages, etc.
 
