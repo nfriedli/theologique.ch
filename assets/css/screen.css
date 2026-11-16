@@ -90,7 +90,7 @@ h4 {
 
 h1 {
     font-size: 1.9rem;
-    font-weight: 500;
+    font-weight: 900;
     margin-block-start: 0;
 }
 
@@ -100,7 +100,7 @@ h1:has(+ p) {
 
 h2 {
     font-size: 1.5rem;
-    font-weight: 600;
+    font-weight: 800;
 }
 
 h3 {
@@ -109,7 +109,7 @@ h3 {
 
 h4 {
     font-size: 1rem;
-    font-weight: 800;
+    font-weight: 600;
 }
 
 ul {
