@@ -1,5 +1,5 @@
 ---
-title: Candidature au Conseil synodal (ou pas)
+title: À propos de ma candidature au Conseil synodal
 description: Je ne suis pas candidat au Conseil synodal de l’EREN. J’en suis un simple employé. Je ne souhaite pas un tel poste auquel je suis inéligible.
 date: 2026-11-17
 images: 
