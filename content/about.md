@@ -68,7 +68,7 @@ J’ai créé et tiens à jour le site de référence pour [trouver une paroisse
 Il a été réalisé avec Hugo et présente quelques raffinements techniques intéressants pour assurer ses performances et sa pérennité.
 Depuis plusieurs années, son succès ne se dément pas.
 
-Je suis webmaster du calendrier œcuménique l’[Avent Autrement](https://www.avent-autrement.ch/) depuis ses débuts en ligne.
+Je suis webmaster du calendrier œcuménique l’[Avent Autrement](https://avent-autrement.ch/) depuis ses débuts en ligne.
 Durant le mois de décembre, j’envoie chaque jour une newsletter à 2000+ abonné·e.s.
 
 J’essaie d’actualiser au mieux les lieux protestants sur Google Maps.
