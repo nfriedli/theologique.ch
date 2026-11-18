@@ -1,0 +1,99 @@
+{{- /* 1. Récupération des billets de la section /blog/ triés du plus ancien au plus récent */ -}}
+{{- $allPosts := where .Site.RegularPages "Section" "blog" -}}
+{{- $sortedPosts := $allPosts.ByDate -}}
+
+{{- /* Optionnel : filtrer à partir d'une date de début si passée en paramètre (ex: start="2026-01-01") */ -}}
+{{- $startParam := .Get "start" -}}
+{{- if $startParam -}}
+  {{- $startTime := time.AsTime $startParam -}}
+  {{- $sortedPosts = where $sortedPosts "Date" "ge" $startTime -}}
+{{- end -}}
+
+{{- $goal := int (.Get "goal" | default 100) -}}
+{{- $count := len $sortedPosts -}}
+
+{{- if gt $count 0 -}}
+  {{- /* 2. Dates du plus ancien et du plus récent */ -}}
+  {{- $firstPost := index $sortedPosts 0 -}}
+  {{- $lastPost := index $sortedPosts (sub $count 1) -}}
+  {{- $firstDate := $firstPost.Date -}}
+  {{- $lastDate := $lastPost.Date -}}
+
+  {{- /* 3. Calculs de durée (en secondes, puis converti en jours) */ -}}
+  {{- /* On compare avec la date du dernier billet (ou "now" selon ta préférence) */ -}}
+  {{- $elapsedSeconds := sub $lastDate.Unix $firstDate.Unix -}}
+  {{- $elapsedDays := math.Max 1 (math.Round (div (float $elapsedSeconds) 86400)) -}}
+
+  {{- /* Date limite du défi : +365 jours (31 536 000 secondes) après le 1er billet */ -}}
+  {{- $deadlineUnix := add $firstDate.Unix 31536000 -}}
+  {{- $deadlineDate := time.AsTime $deadlineUnix -}}
+
+  {{- /* Jours restants avant la date limite */ -}}
+  {{- $remainingSeconds := sub $deadlineUnix now.Unix -}}
+  {{- $remainingDays := math.Max 1 (math.Round (div (float $remainingSeconds) 86400)) -}}
+
+  {{- /* 4. Variables calculées demandées */ -}}
+  {{- /* B billets en J jours */ -}}
+  {{- $billetsPublies := $count -}}
+  {{- $joursEcoules := int $elapsedDays -}}
+
+  {{- /* Rythme actuel : 1 billet tous les X jours / Y billets par jour */ -}}
+  {{- $joursParBillet := div (float $elapsedDays) (float $count) -}}
+  {{- $billetsParJour := div (float $count) (float $elapsedDays) -}}
+
+  {{- /* Billets manquants */ -}}
+  {{- $manquants := math.Max 0 (sub $goal $count) -}}
+
+  {{- /* Rythme requis pour finir dans les temps */ -}}
+  {{- $requisJoursParBillet := 0.0 -}}
+  {{- $requisBilletsParJour := 0.0 -}}
+  {{- if gt $manquants 0 -}}
+    {{- $requisJoursParBillet = div (float $remainingDays) (float $manquants) -}}
+    {{- $requisBilletsParJour = div (float $manquants) (float $remainingDays) -}}
+  {{- end -}}
+
+  {{- /* Date de fin estimée au rythme actuel */ -}}
+  {{- $joursRestantsEstimes := mul (float $manquants) $joursParBillet -}}
+  {{- $secondesRestantesEstimees := int (mul $joursRestantsEstimes 86400) -}}
+  {{- $projectedEndUnix := add now.Unix $secondesRestantesEstimees -}}
+  {{- $projectedEndDate := time.AsTime $projectedEndUnix -}}
+
+  {{- /* 5. Affichage HTML */ -}}
+  <div class="challenge-tracker" style="border: 1px solid #ddd; padding: 1.5rem; border-radius: 8px; margin: 1.5rem 0;">
+    <h2>Suivi du défi #100DaysToOffload</h2>
+    
+    <!-- Barre de progression simple -->
+    <progress value="{{ $billetsPublies }}" max="{{ $goal }}" style="width: 100%; height: 20px;"></progress>
+    <p><strong>{{ $billetsPublies }} / {{ $goal }}</strong> billets publiés ({{ math.Round (mul (div (float $billetsPublies) (float $goal)) 100) }} %)</p>
+
+    <ul>
+      <li>
+        <strong>Progression :</strong> {{ $billetsPublies }} billets publiés en {{ $joursEcoules }} jours 
+        (du {{ $firstDate | time.Format "02.01.2006" }} au {{ $lastDate | time.Format "02.01.2006" }}).
+      </li>
+      <li>
+        <strong>Rythme actuel :</strong> 1 billet tous les {{ lang.FormatNumber 1 $joursParBillet }} jours 
+        (soit {{ lang.FormatNumber 2 $billetsParJour }} billet/jour).
+      </li>
+      {{- if gt $manquants 0 -}}
+        <li>
+          <strong>Reste à faire :</strong> Il manque <strong>{{ $manquants }} billets</strong> pour finir le défi d'ici le <strong>{{ $deadlineDate | time.Format "02.01.2006" }}</strong> (dans {{ int $remainingDays }} jours).
+        </li>
+        <li>
+          <strong>Rythme nécessaire :</strong> Il faudra écrire 1 billet tous les <strong>{{ lang.FormatNumber 1 $requisJoursParBillet }} jours</strong> 
+          (soit {{ lang.FormatNumber 2 $requisBilletsParJour }} billet/jour).
+        </li>
+        <li>
+          <strong>Projection :</strong> Au rythme actuel, le défi sera terminé autour du <strong>{{ $projectedEndDate | time.Format "02.01.2006" }}</strong>.
+        </li>
+      {{- else -}}
+        <li>
+          <strong>Défi relevé !</strong> Les {{ $goal }} billets ont été publiés.
+        </li>
+      {{- end -}}
+    </ul>
+  </div>
+
+{{- else -}}
+  <p>Aucun billet trouvé dans la section blog.</p>
+{{- end -}}
