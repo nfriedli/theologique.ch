@@ -4,6 +4,10 @@
     --bg: #F7F9FC;
     --light: #E5EAF0;
     --txt: #262F3C;
+
+    --link: #00E;
+    --visited: #551A8B;
+    --active: #EE0000;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -11,6 +15,10 @@
         --bg: #0A0F1A;
         --light: #161E30;
         --txt: #D8DEE8;
+
+        --link: #8ab4f8;
+        --visited: #c58af9;
+        --active: #ff8b8b;
     }
 }
 
@@ -64,14 +72,33 @@ footer {
 }
 
 a {
-    color: inherit;
+    color: var(--link);
     text-decoration-thickness: .1em;
     text-underline-offset: .1em;
+}
+
+a:focus {
+    outline: .5em solid currentColor;
+    outline-offset: .2em;
+    text-decoration: none;
+}
+
+a:visited {
+    color: var(--visited);
+}
+
+a:hover {
+    text-decoration-style: wavy;
+}
+
+a:active {
+    color: var(--active);
 }
 
 a[aria-current="page"] {
     text-decoration: none;
 }
+
 
 p {
     margin: 0;
