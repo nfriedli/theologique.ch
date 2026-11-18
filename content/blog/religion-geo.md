@@ -7,7 +7,15 @@ images:
 draft: true
 ---
 
+GEO
+
 [Faith, Community & AI. How people use ChatGPT for everyday religious observance](https://cdn.openai.com/pdf/8a09a6e7-4495-4bbc-b0c8-b218b0a033c7/faith-community-and-ai-october-2026.pdf)
+
+Je ne reviens pas sur le contenu.
+
+Intéressant dans les usages
+
+Comment ils ont trouvé ces personnes?
 
 Nombre...
 
