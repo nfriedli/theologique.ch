@@ -1,6 +1,6 @@
 ---
 title: À propos de ma candidature au Conseil synodal
-description: Je ne suis pas candidat au Conseil synodal de l’EREN. J’en suis un simple employé. Je ne souhaite pas un tel poste auquel je suis inéligible.
+description:  Je suis un simple employé de l’EREN. Je ne suis pas candidat au Conseil synodal. Je ne souhaite pas un tel poste auquel je suis inéligible.
 date: 2026-11-17
 images: 
 - https://cdn.pixabay.com/photo/2017/10/01/13/27/whitby-abbey-2805489_1280.jpg
@@ -17,7 +17,7 @@ Voici ma déclaration officielle:
 > Après avoir renoncé à succéder à Emmanuel Macron, uniquement parce que je ne suis pas Français. 
 > **Je ne suis pas candidat au Conseil synodal de l’EREN.**
 
-Si vous souhaitez me solliciter sérieusement, merci de lire d’abord ce qui suit tout aussi sérieusement:
+Si vous souhaitez me solliciter sérieusement pour 2027, merci de lire d’abord ce qui suit tout aussi sérieusement:
 
 - Je n’entrerai pas en matière sur un poste officiellement à 20%.
   Dont il est de notoriété publique qu’il équivaut à 30 ou 40% de temps effectif.
