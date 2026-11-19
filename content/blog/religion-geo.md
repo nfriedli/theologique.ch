@@ -3,7 +3,7 @@ title: Recherches religieuses dans les intelligences artificielles
 description: 70 millions de recherches sur la religion et la foi dans ChatGPT. Le chiffre intrigue, les «médias» commentent. Et concrètement, on fait quoi?
 date: 2026-11-19
 images: 
-- https://cdn.pixabay.com/photdraft: trueo/2021/01/02/12/46/rose-5881469_1280.jpg
+- https://cdn.pixabay.com/photo/2021/01/02/12/46/rose-5881469_1280.jpg
 ---
 
 Un rapport sur l’utilisation des IA (intelligences artificielles) fait parler de lui actuellement.
