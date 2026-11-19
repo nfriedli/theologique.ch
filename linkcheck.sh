@@ -1,0 +1,1 @@
+./lychee --root-dir ./public ./public 
