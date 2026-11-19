@@ -1,10 +1,18 @@
 ---
 title: Du bon usage des statistiques
-description: Pour obtenir des statistiques plus précises sur les liens sortants suivis, je choisis de tronquer mes flux RSS. Parce que les statistiques sont activées pour vraiment être prises en compte.
+description: Je n’utilise plus de statistiques sur theologique.ch, sinon les logs du serveur Apache fournis par mon hébergeur Informaniak.
 date: 2026-11-14
+lastMod: 2026-11-19
 images: 
 - https://cdn.pixabay.com/photo/2016/06/03/13/57/digital-marketing-1433427_1280.jpg
 ---
+
+**Après quelques jours de tests, je renonce complètement aux statistiques.**
+La période d’essai a été courte et le bilan sans appel.
+Les *logs* chez mon hébergeur Infomaniak et les données de la Google Search Console me suffisent.
+En bonus, je publie de nouveau un flux RSS complet.
+
+----
 
 Sur theologique.ch, j’utilise des statistiques fournies par Plausible.
 C’est un système léger et respectueux.

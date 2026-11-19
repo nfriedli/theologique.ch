@@ -2,7 +2,7 @@
 title: Vie privée & confidentialité des données
 description: Le respect de votre vie privée est total. Ce n’est pas du baratin, mais la réalité. Point final.
 date: 2026-10-31
-lastMod: 2026-11-05
+lastMod: 2026-11-19
 ---
 
 Le respect de votre vie privée est total.  
@@ -11,11 +11,7 @@ Point final.
 
 ## Statistiques
 
-theologique.ch utilise des statistiques fournies par [Plausible](https://plausible.io/)
-Elles respectent votre vie privée:
-
-- [Privacy policy](https://plausible.io/privacy)
-- [Data policy](https://plausible.io/data-policy)
+theologique.ch n’utilise pas de statistiques (sinon les *logs* du serveur mentionnés sous Hébergement).
 
 ## Cookies
 
@@ -31,7 +27,7 @@ Toutes les mises en garde sont sur la page de présentation.
 
 ## Services tiers
 
-theologique.ch n’utilise pas de services tiers (à l’exception des statistiques):
+theologique.ch n’utilise pas de services tiers:
 
 - lecteurs vidéo
 - lecteurs de podcasts
