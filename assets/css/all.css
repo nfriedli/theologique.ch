@@ -8,35 +8,3 @@ code,
 time {
     font-family: "JetBrains Mono", "Roboto Mono", ui-monospace, "Geist Mono", "Aptos Mono", "Cascadia Mono", "Cascadia Code", "Consolas", monospace;
 }
-
-@font-face {
-    font-display: optional;
-    font-family: "Inter";
-    font-style: italic;
-    font-weight: 100 900;
-    src: url(/fonts/UcCm3FwrK3iLTcvnUwQT9g.woff2) format("woff2");
-}
-
-@font-face {
-    font-display: optional;
-    font-family: "Inter";
-    font-style: normal;
-    font-weight: 100 900;
-    src: url(/fonts/UcCo3FwrK3iLTcviYwY.woff2) format("woff2");
-}
-
-@font-face {
-    font-display: optional;
-    font-family: "JetBrains Mono";
-    font-style: italic;
-    font-weight: 100 800;
-    src: url(/fonts/tDbX2o-flEEny0FZhsfKu5WU4xD-CwOnSA.woff2) format("woff2");
-}
-
-@font-face {
-    font-display: optional;
-    font-family: "JetBrains Mono";
-    font-style: normal;
-    font-weight: 100 800;
-    src: url(/fonts/tDbV2o-flEEny0FZhsfKu5WU4xD7OwE.woff2) format("woff2");
-}
