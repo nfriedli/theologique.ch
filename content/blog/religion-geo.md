@@ -103,7 +103,7 @@ Ces bases de données sont très coûteuses à construire (en temps, en énergie
 Elles ne sont donc reconstruites que de temps en temps.
 
 Mais quand une recherche est locale ou temporellement proche, elles effectuent des recherches en direct.
-On parle alors de RAG (Retrieval-Augmented Generation).
+On parle alors de RAG (retrieval-augmented generation ou [génération à enrichissement contextuel](https://fr.wikipedia.org/wiki/G%C3%A9n%C3%A9ration_%C3%A0_enrichissement_contextuel)).
 Le LLM ajoute des résultats d’une recherche contextuelle à la volée, pour améliorer ses données stockées.
 
 Techniquement, c’est très impressionnant.
