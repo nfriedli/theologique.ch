@@ -16,7 +16,7 @@ En page 14, j’ai lu ce passage:
 
 > Sa peur avait un son --- celui de sa propre respiration terrorisée et de son cœur qui battait ---, elle avait une odeur --- celle de sa transpiration et de cette chose puante sur sa tête ---, elle avait une couleur: noir, noir de la forêt, noir de l’âme de ces hommes, noir de sa propre peau.
 
-Je continue ma lecture et en page 17, c’est l’accident.
+Je continue ma lecture et en page 17, c’est l’accident:
 
 > […] et le corps du grand animal fut dans un premier temps précipité sur le capot avant de retomber devant le pare-chocs, sur la route. […]
 >

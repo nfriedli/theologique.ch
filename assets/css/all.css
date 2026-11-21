@@ -1,5 +1,5 @@
 body {
-    font-family: "Inter", "Roboto", ui-sans-serif, "Geist", "Aptos", system-ui, sans-serif;
+    font-family: "Fira Sans", "Inter", "Roboto", ui-sans-serif, "Geist", "Aptos", system-ui, sans-serif;
     font-synthesis: none;
     text-rendering: optimizeLegibility;
 }
@@ -7,4 +7,36 @@ body {
 code,
 time {
     font-family: "JetBrains Mono", "Roboto Mono", ui-monospace, "Geist Mono", "Aptos Mono", "Cascadia Mono", "Cascadia Code", "Consolas", monospace;
+}
+
+@font-face {
+    font-display: optional;
+    font-family: "Fira Sans";
+    font-style: normal;
+    font-weight: 400;
+    src: url("/fonts/fira-sans-v18-latin-regular.woff2") format("woff2");
+}
+
+@font-face {
+    font-display: optional;
+    font-family: "Fira Sans";
+    font-style: italic;
+    font-weight: 400;
+    src: url("/fonts/fira-sans-v18-latin-italic.woff2") format("woff2");
+}
+
+@font-face {
+    font-display: optional;
+    font-family: "Fira Sans";
+    font-style: normal;
+    font-weight: 700;
+    src: url("/fonts/fira-sans-v18-latin-700.woff2") format("woff2");
+}
+
+@font-face {
+    font-display: optional;
+    font-family: "Fira Sans";
+    font-style: italic;
+    font-weight: 700;
+    src: url("/fonts/fira-sans-v18-latin-700italic.woff2") format("woff2");
 }
