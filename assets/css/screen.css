@@ -165,14 +165,9 @@ hr {
 
 blockquote {
     border-inline-start: .1rem solid var(--txt);
-    font-style: italic;
     margin-block: 2rem;
     margin-inline: 0;
     padding-inline: 1rem;
-}
-
-blockquote em {
-    font-style: normal;
 }
 
 header nav ul {
